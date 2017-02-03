@@ -23,12 +23,12 @@ S d1,d2,d3;
 #define ul "((sp(p1+p4)+sp(p2+p3))/2)"
 #define um "((sp(p1+p4)-sp(p2+p3))/2)"
 
-#define ap "((sp(p1+p3)+sp(p2+p3))/2)"
-#define bp "((sp(p1+p4)+sp(p2+p4))/2)"
-#define cp "((sp(p1+p5)+sp(p2+p5))/2)"
-#define am "((sp(p1+p3)-sp(p2+p3))/2)"
-#define bm "((sp(p1+p4)-sp(p2+p4))/2)"
-#define cm "((sp(p1+p5)-sp(p2+p5))/2)"
+#define ap "((sp(p1+p3)+sp(p2+p3))/4)"
+#define bp "((sp(p1+p4)+sp(p2+p4))/4)"
+#define cp "((sp(p1+p5)+sp(p2+p5))/4)"
+#define am "((sp(p1+p3)-sp(p2+p3))/4)"
+#define bm "((sp(p1+p4)-sp(p2+p4))/4)"
+#define cm "((sp(p1+p5)-sp(p2+p5))/4)"
 
 #define s12 "(sp(p1+p2)/2)"
 #define s13 "(sp(p1+p3)/2)"
@@ -125,7 +125,7 @@ id Fc(p1?,p2?,p3?,p4?,p5?) = V*N^-2*(
        + d2*(`ap'*`bm'+`am'*`bp')*`cp'^3*`cm' - d2*`ap'*`bp'*(`ap'^2-`am'^2+`bp'^2-`bm'^2)*`cp'^2
        + 4*d2*(`ap'^2-`am'^2)*(`bp'^2-`bm'^2)*`cp'^2 + 2*d2*(`ap'*`bp'+`am'*`bm')*(`ap'*`bp'-`am'*`bm')*`cp'^2
        + d2*`cp'*(`ap'+`bp')*(`ap'*`bp'-`am'*`bm')^2
-       - 2*d2*(`ap'*`bp'-`am'*`bm')*(`ap'*`bm'-`am'*`bp')*`cp'*`cm' - d2*(`ap'*`bp'+`am'*`bm')*(`ap'+`bp')*`cp'*`am'*`bm'
+       - 2*d2*(`ap'*`bp'-`am'*`bm')*(`ap'*`bm'+`am'*`bp')*`cp'*`cm' - d2*(`ap'*`bp'+`am'*`bm')*(`ap'+`bp')*`cp'*`am'*`bm'
        - d2*(`ap'*`bm'+`am'*`bp')*`ap'*`bp'*`cp'*`cm' + d2*`ap'*`bp'*(`ap'+`bp')*`cp'*`cm'^2
        - 2*d2*(`ap'^2-`am'^2+`bp'^2-`bm'^2)*`ap'*`bp'*`am'*`bm' + 2*d2*(`ap'*`bp'-`am'*`bm')*(`ap'^2+`bp'^2)*(`am'^2+`bm'^2)
        - 2*d2*(`ap'*`bp'-`am'*`bm')*(`ap'^2+`bp'^2)^2 + d2*`ap'^4*(`bp'^2-`bm'^2)
@@ -157,11 +157,11 @@ id Fd(p1?,p2?,p3?,p4?,p5?) = V*N^3/`s12'/`s23'/`s34'/`s45'/`s15'*(
 *--#] D:
 
 *--#[ Expand:
-*id V = N^2 - 1;
-id V1 = V^2/N;
-id V2 = V/N;
-id V3 = V*(N^2+1)/(2*N^2);
-id V4 = V^2/(2*N^2);
+id V  = N^2 - 1;
+id V1 = (N^2-1)^2/N;
+id V2 = (N^2-1)/N;
+id V3 = (N^4-1)/2/N^2;
+id V4 = (N^2-1)^2/2/N^2;
 
 id d1 = ep*[1-ep]^2;
 id d2 = ep*[1-ep];

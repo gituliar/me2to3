@@ -1,2423 +1,2423 @@
-( + den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]^2*s^(-1) * ( 32*V*ep - 32*V*ep^2 )
+( + den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]^2*s^(-1) * (  - 1/2*ep + 1/2*ep^2 + 1/2*N^2*ep - 1/2*N^2*ep^2 )
 
-       + den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]*sp[p1 - p3 - p4]*s^(-1) * (  - 24*V*ep + 24*V*ep^2 )
+       + den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]*sp[p1 - p3 - p4]*s^(-1) * ( 3/8*ep - 3/8*ep^2 - 3/8*N^2*ep + 3/8*N^2*ep^2 )
 
-       + den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]*sp[p1 - p4]*s^(-1) * (  - 128*V*ep + 80*V*ep^2 - 16*V*ep^3 )
+       + den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]*sp[p1 - p4]*s^(-1) * ( 2*ep - 5/4*ep^2 + 1/4*ep^3 - 2*N^2*ep + 5/4*N^2*ep^2 - 1/4*N^2*ep^3 )
 
-       + den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]*sp[p2 - p3]*s^(-1) * ( 48*V*ep - 48*V*ep^2 )
+       + den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]*sp[p2 - p3]*s^(-1) * (  - 3/4*ep + 3/4*ep^2 + 3/4*N^2*ep - 3/4*N^2*ep^2 )
 
-       + den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]*sp[p2 - p3 - p4]*s^(-1) * (  - 24*V*ep + 24*V*ep^2 )
+       + den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]*sp[p2 - p3 - p4]*s^(-1) * ( 3/8*ep - 3/8*ep^2 - 3/8*N^2*ep + 3/8*N^2*ep^2 )
 
-       + den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]*sp[p2 - p4]*s^(-1) * (  - 280*V*ep + 124*V*ep^2 - 20*V*ep^3 )
+       + den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]*sp[p2 - p4]*s^(-1) * ( 35/8*ep - 31/16*ep^2 + 5/16*ep^3 - 35/8*N^2*ep + 31/16*N^2*ep^2 - 5/16*N^2*ep^3 )
 
-       + den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3 - p4]^2*s^(-1) * ( 128*V*ep - 128*V*ep^2 )
+       + den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3 - p4]^2*s^(-1) * (  - 2*ep + 2*ep^2 + 2*N^2*ep - 2*N^2*ep^2 )
 
-       + den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3 - p4]*sp[p2 - p3 - p4]*s^(-1) * ( 256*V*ep - 256*V*ep^2 )
+       + den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3 - p4]*sp[p2 - p3 - p4]*s^(-1) * (  - 4*ep + 4*ep^2 + 4*N^2*ep - 4*N^2*ep^2 )
 
-       + den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p4]*sp[p1 - p3 - p4]*s^(-1) * (  - 24*V*ep + 24*V*ep^2 )
+       + den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p4]*sp[p1 - p3 - p4]*s^(-1) * ( 3/8*ep - 3/8*ep^2 - 3/8*N^2*ep + 3/8*N^2*ep^2 )
 
-       + den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p4]^2*s^(-1) * ( 32*V*ep - 32*V*ep^2 )
+       + den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p4]^2*s^(-1) * (  - 1/2*ep + 1/2*ep^2 + 1/2*N^2*ep - 1/2*N^2*ep^2 )
 
-       + den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p4]*sp[p2 - p3]*s^(-1) * (  - 280*V*ep + 124*V*ep^2 - 20*V*ep^3 )
+       + den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p4]*sp[p2 - p3]*s^(-1) * ( 35/8*ep - 31/16*ep^2 + 5/16*ep^3 - 35/8*N^2*ep + 31/16*N^2*ep^2 - 5/16*N^2*ep^3 )
 
-       + den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p4]*sp[p2 - p3 - p4]*s^(-1) * (  - 24*V*ep + 24*V*ep^2 )
+       + den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p4]*sp[p2 - p3 - p4]*s^(-1) * ( 3/8*ep - 3/8*ep^2 - 3/8*N^2*ep + 3/8*N^2*ep^2 )
 
-       + den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p4]*sp[p2 - p4]*s^(-1) * ( 48*V*ep - 48*V*ep^2 )
+       + den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p4]*sp[p2 - p4]*s^(-1) * (  - 3/4*ep + 3/4*ep^2 + 3/4*N^2*ep - 3/4*N^2*ep^2 )
 
-       + den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p3]*sp[p1 - p3 - p4]*s^(-1) * (  - 24*V*ep + 24*V*ep^2 )
+       + den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p3]*sp[p1 - p3 - p4]*s^(-1) * ( 3/8*ep - 3/8*ep^2 - 3/8*N^2*ep + 3/8*N^2*ep^2 )
 
-       + den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p3]^2*s^(-1) * ( 32*V*ep - 32*V*ep^2 )
+       + den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p3]^2*s^(-1) * (  - 1/2*ep + 1/2*ep^2 + 1/2*N^2*ep - 1/2*N^2*ep^2 )
 
-       + den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p3]*sp[p2 - p3 - p4]*s^(-1) * (  - 24*V*ep + 24*V*ep^2 )
+       + den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p3]*sp[p2 - p3 - p4]*s^(-1) * ( 3/8*ep - 3/8*ep^2 - 3/8*N^2*ep + 3/8*N^2*ep^2 )
 
-       + den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p3]*sp[p2 - p4]*s^(-1) * (  - 128*V*ep + 80*V*ep^2 - 16*V*ep^3 )
+       + den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p3]*sp[p2 - p4]*s^(-1) * ( 2*ep - 5/4*ep^2 + 1/4*ep^3 - 2*N^2*ep + 5/4*N^2*ep^2 - 1/4*N^2*ep^3 )
 
-       + den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p3 - p4]^2*s^(-1) * ( 128*V*ep - 128*V*ep^2 )
+       + den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p3 - p4]^2*s^(-1) * (  - 2*ep + 2*ep^2 + 2*N^2*ep - 2*N^2*ep^2 )
 
-       + den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p4]*sp[p1 - p3 - p4]*s^(-1) * (  - 24*V*ep + 24*V*ep^2 )
+       + den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p4]*sp[p1 - p3 - p4]*s^(-1) * ( 3/8*ep - 3/8*ep^2 - 3/8*N^2*ep + 3/8*N^2*ep^2 )
 
-       + den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p4]*sp[p2 - p3 - p4]*s^(-1) * (  - 24*V*ep + 24*V*ep^2 )
+       + den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p4]*sp[p2 - p3 - p4]*s^(-1) * ( 3/8*ep - 3/8*ep^2 - 3/8*N^2*ep + 3/8*N^2*ep^2 )
 
-       + den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p4]^2*s^(-1) * ( 32*V*ep - 32*V*ep^2 )
+       + den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p4]^2*s^(-1) * (  - 1/2*ep + 1/2*ep^2 + 1/2*N^2*ep - 1/2*N^2*ep^2 )
 
-       + den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]^2 * (  - 4*N^(-2)*V*ep - 2*N^(-2)*V*ep^2 - 2*N^(-2)*V*ep^3 )
+       + den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]^2 * ( 1/4*N^(-2)*ep + 1/8*N^(-2)*ep^2 + 1/8*N^(-2)*ep^3 - 1/4*ep - 1/8*ep^2 - 1/8*ep^3 )
 
-       + den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]*sp[p1 - p4] * (  - 6*N^(-2)*V*ep - 3*N^(-2)*V*ep^2 - 3*N^(-2)*V*ep^3 )
+       + den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]*sp[p1 - p4] * ( 3/8*N^(-2)*ep + 3/16*N^(-2)*ep^2 + 3/16*N^(-2)*ep^3 - 3/8*ep - 3/16*ep^2 - 3/16*ep^3 )
 
-       + den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]*sp[p2 - p3] * (  - 8*N^(-2)*V*ep - 4*N^(-2)*V*ep^2 - 4*N^(-2)*V*ep^3 )
+       + den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]*sp[p2 - p3] * ( 1/2*N^(-2)*ep + 1/4*N^(-2)*ep^2 + 1/4*N^(-2)*ep^3 - 1/2*ep - 1/4*ep^2 - 1/4*ep^3 )
 
-       + den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]*sp[p2 - p4] * (  - 6*N^(-2)*V*ep - 3*N^(-2)*V*ep^2 - 3*N^(-2)*V*ep^3 )
+       + den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]*sp[p2 - p4] * ( 3/8*N^(-2)*ep + 3/16*N^(-2)*ep^2 + 3/16*N^(-2)*ep^3 - 3/8*ep - 3/16*ep^2 - 3/16*ep^3 )
 
-       + den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p4]^2 * ( 8*N^(-2)*V*ep + 4*N^(-2)*V*ep^2 + 4*N^(-2)*V*ep^3 )
+       + den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p4]^2 * (  - 1/2*N^(-2)*ep - 1/4*N^(-2)*ep^2 - 1/4*N^(-2)*ep^3 + 1/2*ep + 1/4*ep^2 + 1/4*ep^3 )
 
-       + den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p4]*sp[p2 - p3] * (  - 6*N^(-2)*V*ep - 3*N^(-2)*V*ep^2 - 3*N^(-2)*V*ep^3 )
+       + den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p4]*sp[p2 - p3] * ( 3/8*N^(-2)*ep + 3/16*N^(-2)*ep^2 + 3/16*N^(-2)*ep^3 - 3/8*ep - 3/16*ep^2 - 3/16*ep^3 )
 
-       + den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p4]*sp[p2 - p4] * ( 12*N^(-2)*V*ep + 6*N^(-2)*V*ep^2 + 6*N^(-2)*V*ep^3 )
+       + den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p4]*sp[p2 - p4] * (  - 3/4*N^(-2)*ep - 3/8*N^(-2)*ep^2 - 3/8*N^(-2)*ep^3 + 3/4*ep + 3/8*ep^2 + 3/8*ep^3 )
 
-       + den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*den[sp[p2 - p3 - p4]]*sp[p2 - p3]^2 * (  - 4*N^(-2)*V*ep - 2*N^(-2)*V*ep^2 - 2*N^(-2)*V*ep^3 )
+       + den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*den[sp[p2 - p3 - p4]]*sp[p2 - p3]^2 * ( 1/4*N^(-2)*ep + 1/8*N^(-2)*ep^2 + 1/8*N^(-2)*ep^3 - 1/4*ep - 1/8*ep^2 - 1/8*ep^3 )
 
-       + den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*den[sp[p2 - p3 - p4]]*sp[p2 - p3]*sp[p2 - p4] * (  - 6*N^(-2)*V*ep - 3*N^(-2)*V*ep^2 - 3*N^(-2)*V*ep^3 )
+       + den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*den[sp[p2 - p3 - p4]]*sp[p2 - p3]*sp[p2 - p4] * ( 3/8*N^(-2)*ep + 3/16*N^(-2)*ep^2 + 3/16*N^(-2)*ep^3 - 3/8*ep - 3/16*ep^2 - 3/16*ep^3 )
 
-       + den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*den[sp[p2 - p3 - p4]]*sp[p2 - p4]^2 * ( 8*N^(-2)*V*ep + 4*N^(-2)*V*ep^2 + 4*N^(-2)*V*ep^3 )
+       + den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*den[sp[p2 - p3 - p4]]*sp[p2 - p4]^2 * (  - 1/2*N^(-2)*ep - 1/4*N^(-2)*ep^2 - 1/4*N^(-2)*ep^3 + 1/2*ep + 1/4*ep^2 + 1/4*ep^3 )
 
-       + den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p1 - p3] * (  - 8*N^(-2)*V*ep + 6*N^(-2)*V*ep^2 - 6*N^(-2)*V*ep^3 )
+       + den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p1 - p3] * ( 1/2*N^(-2)*ep - 3/8*N^(-2)*ep^2 + 3/8*N^(-2)*ep^3 - 1/2*ep + 3/8*ep^2 - 3/8*ep^3 )
 
-       + den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p1 - p4] * ( 10*N^(-2)*V*ep + 16*N^(-2)*V*ep^2 + 6*N^(-2)*V*ep^3 )
+       + den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p1 - p4] * (  - 7/8*N^(-2)*ep - 7/4*N^(-2)*ep^2 - 3/8*N^(-2)*ep^3 + 7/8*ep + 7/4*ep^2 + 3/8*ep^3 )
 
-       + den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p2 - p3] * (  - 8*N^(-2)*V*ep + 6*N^(-2)*V*ep^2 - 6*N^(-2)*V*ep^3 )
+       + den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p2 - p3] * ( 1/2*N^(-2)*ep - 3/8*N^(-2)*ep^2 + 3/8*N^(-2)*ep^3 - 1/2*ep + 3/8*ep^2 - 3/8*ep^3 )
 
-       + den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p2 - p3 - p4] * ( 16*N^(-2)*V*ep + 8*N^(-2)*V*ep^2 + 8*N^(-2)*V*ep^3 )
+       + den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p2 - p3 - p4] * (  - N^(-2)*ep - 1/2*N^(-2)*ep^2 - 1/2*N^(-2)*ep^3 + ep + 1/2*ep^2 + 1/2*ep^3 )
 
-       + den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p2 - p4] * ( 54*N^(-2)*V*ep - 10*N^(-2)*V*ep^2 + 12*N^(-2)*V*ep^3 )
+       + den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p2 - p4] * (  - 27/8*N^(-2)*ep + 5/8*N^(-2)*ep^2 - 3/4*N^(-2)*ep^3 + 27/8*ep - 5/8*ep^2 + 3/4*ep^3 )
 
-       + den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3] * (  - 8*N^(-2)*V*ep + 6*N^(-2)*V*ep^2 - 6*N^(-2)*V*ep^3 )
+       + den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3] * ( 1/2*N^(-2)*ep - 3/8*N^(-2)*ep^2 + 3/8*N^(-2)*ep^3 - 1/2*ep + 3/8*ep^2 - 3/8*ep^3 )
 
-       + den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3 - p4] * ( 16*N^(-2)*V*ep + 8*N^(-2)*V*ep^2 + 8*N^(-2)*V*ep^3 )
+       + den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3 - p4] * (  - N^(-2)*ep - 1/2*N^(-2)*ep^2 - 1/2*N^(-2)*ep^3 + ep + 1/2*ep^2 + 1/2*ep^3 )
 
-       + den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p1 - p4] * ( 54*N^(-2)*V*ep - 10*N^(-2)*V*ep^2 + 12*N^(-2)*V*ep^3 )
+       + den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p1 - p4] * (  - 27/8*N^(-2)*ep + 5/8*N^(-2)*ep^2 - 3/4*N^(-2)*ep^3 + 27/8*ep - 5/8*ep^2 + 3/4*ep^3 )
 
-       + den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p2 - p3] * (  - 8*N^(-2)*V*ep + 6*N^(-2)*V*ep^2 - 6*N^(-2)*V*ep^3 )
+       + den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p2 - p3] * ( 1/2*N^(-2)*ep - 3/8*N^(-2)*ep^2 + 3/8*N^(-2)*ep^3 - 1/2*ep + 3/8*ep^2 - 3/8*ep^3 )
 
-       + den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p2 - p4] * ( 10*N^(-2)*V*ep + 16*N^(-2)*V*ep^2 + 6*N^(-2)*V*ep^3 )
+       + den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p2 - p4] * (  - 7/8*N^(-2)*ep - 7/4*N^(-2)*ep^2 - 3/8*N^(-2)*ep^3 + 7/8*ep + 7/4*ep^2 + 3/8*ep^3 )
 
-       + den[sp[p1 + p2 - p3]] * ( 32*N^(-2)*V*ep + 16*N^(-2)*V*ep^2 + 16*N^(-2)*V*ep^3 )
+       + den[sp[p1 + p2 - p3]] * (  - 2*N^(-2)*ep - N^(-2)*ep^2 - N^(-2)*ep^3 + 2*ep + ep^2 + ep^3 )
 
-       + den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]^2 * ( 8*N^(-2)*V*ep + 4*N^(-2)*V*ep^2 + 4*N^(-2)*V*ep^3 )
+       + den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]^2 * (  - 1/2*N^(-2)*ep - 1/4*N^(-2)*ep^2 - 1/4*N^(-2)*ep^3 + 1/2*ep + 1/4*ep^2 + 1/4*ep^3 )
 
-       + den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]*sp[p1 - p4] * (  - 6*N^(-2)*V*ep - 3*N^(-2)*V*ep^2 - 3*N^(-2)*V*ep^3 )
+       + den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]*sp[p1 - p4] * ( 3/8*N^(-2)*ep + 3/16*N^(-2)*ep^2 + 3/16*N^(-2)*ep^3 - 3/8*ep - 3/16*ep^2 - 3/16*ep^3 )
 
-       + den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]*sp[p2 - p3] * ( 12*N^(-2)*V*ep + 6*N^(-2)*V*ep^2 + 6*N^(-2)*V*ep^3 )
+       + den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]*sp[p2 - p3] * (  - 3/4*N^(-2)*ep - 3/8*N^(-2)*ep^2 - 3/8*N^(-2)*ep^3 + 3/4*ep + 3/8*ep^2 + 3/8*ep^3 )
 
-       + den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]*sp[p2 - p4] * (  - 6*N^(-2)*V*ep - 3*N^(-2)*V*ep^2 - 3*N^(-2)*V*ep^3 )
+       + den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]*sp[p2 - p4] * ( 3/8*N^(-2)*ep + 3/16*N^(-2)*ep^2 + 3/16*N^(-2)*ep^3 - 3/8*ep - 3/16*ep^2 - 3/16*ep^3 )
 
-       + den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p4]^2 * (  - 4*N^(-2)*V*ep - 2*N^(-2)*V*ep^2 - 2*N^(-2)*V*ep^3 )
+       + den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p4]^2 * ( 1/4*N^(-2)*ep + 1/8*N^(-2)*ep^2 + 1/8*N^(-2)*ep^3 - 1/4*ep - 1/8*ep^2 - 1/8*ep^3 )
 
-       + den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p4]*sp[p2 - p3] * (  - 6*N^(-2)*V*ep - 3*N^(-2)*V*ep^2 - 3*N^(-2)*V*ep^3 )
+       + den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p4]*sp[p2 - p3] * ( 3/8*N^(-2)*ep + 3/16*N^(-2)*ep^2 + 3/16*N^(-2)*ep^3 - 3/8*ep - 3/16*ep^2 - 3/16*ep^3 )
 
-       + den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p4]*sp[p2 - p4] * (  - 8*N^(-2)*V*ep - 4*N^(-2)*V*ep^2 - 4*N^(-2)*V*ep^3 )
+       + den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p4]*sp[p2 - p4] * ( 1/2*N^(-2)*ep + 1/4*N^(-2)*ep^2 + 1/4*N^(-2)*ep^3 - 1/2*ep - 1/4*ep^2 - 1/4*ep^3 )
 
-       + den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*den[sp[p2 - p3 - p4]]*sp[p2 - p3]^2 * ( 8*N^(-2)*V*ep + 4*N^(-2)*V*ep^2 + 4*N^(-2)*V*ep^3 )
+       + den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*den[sp[p2 - p3 - p4]]*sp[p2 - p3]^2 * (  - 1/2*N^(-2)*ep - 1/4*N^(-2)*ep^2 - 1/4*N^(-2)*ep^3 + 1/2*ep + 1/4*ep^2 + 1/4*ep^3 )
 
-       + den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*den[sp[p2 - p3 - p4]]*sp[p2 - p3]*sp[p2 - p4] * (  - 6*N^(-2)*V*ep - 3*N^(-2)*V*ep^2 - 3*N^(-2)*V*ep^3 )
+       + den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*den[sp[p2 - p3 - p4]]*sp[p2 - p3]*sp[p2 - p4] * ( 3/8*N^(-2)*ep + 3/16*N^(-2)*ep^2 + 3/16*N^(-2)*ep^3 - 3/8*ep - 3/16*ep^2 - 3/16*ep^3 )
 
-       + den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*den[sp[p2 - p3 - p4]]*sp[p2 - p4]^2 * (  - 4*N^(-2)*V*ep - 2*N^(-2)*V*ep^2 - 2*N^(-2)*V*ep^3 )
+       + den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*den[sp[p2 - p3 - p4]]*sp[p2 - p4]^2 * ( 1/4*N^(-2)*ep + 1/8*N^(-2)*ep^2 + 1/8*N^(-2)*ep^3 - 1/4*ep - 1/8*ep^2 - 1/8*ep^3 )
 
-       + den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p1 - p3] * ( 10*N^(-2)*V*ep + 16*N^(-2)*V*ep^2 + 6*N^(-2)*V*ep^3 )
+       + den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p1 - p3] * (  - 7/8*N^(-2)*ep - 7/4*N^(-2)*ep^2 - 3/8*N^(-2)*ep^3 + 7/8*ep + 7/4*ep^2 + 3/8*ep^3 )
 
-       + den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p1 - p4] * (  - 8*N^(-2)*V*ep + 6*N^(-2)*V*ep^2 - 6*N^(-2)*V*ep^3 )
+       + den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p1 - p4] * ( 1/2*N^(-2)*ep - 3/8*N^(-2)*ep^2 + 3/8*N^(-2)*ep^3 - 1/2*ep + 3/8*ep^2 - 3/8*ep^3 )
 
-       + den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p2 - p3] * ( 54*N^(-2)*V*ep - 10*N^(-2)*V*ep^2 + 12*N^(-2)*V*ep^3 )
+       + den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p2 - p3] * (  - 27/8*N^(-2)*ep + 5/8*N^(-2)*ep^2 - 3/4*N^(-2)*ep^3 + 27/8*ep - 5/8*ep^2 + 3/4*ep^3 )
 
-       + den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p2 - p3 - p4] * ( 16*N^(-2)*V*ep + 8*N^(-2)*V*ep^2 + 8*N^(-2)*V*ep^3 )
+       + den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p2 - p3 - p4] * (  - N^(-2)*ep - 1/2*N^(-2)*ep^2 - 1/2*N^(-2)*ep^3 + ep + 1/2*ep^2 + 1/2*ep^3 )
 
-       + den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p2 - p4] * (  - 8*N^(-2)*V*ep + 6*N^(-2)*V*ep^2 - 6*N^(-2)*V*ep^3 )
+       + den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p2 - p4] * ( 1/2*N^(-2)*ep - 3/8*N^(-2)*ep^2 + 3/8*N^(-2)*ep^3 - 1/2*ep + 3/8*ep^2 - 3/8*ep^3 )
 
-       + den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3] * ( 54*N^(-2)*V*ep - 10*N^(-2)*V*ep^2 + 12*N^(-2)*V*ep^3 )
+       + den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3] * (  - 27/8*N^(-2)*ep + 5/8*N^(-2)*ep^2 - 3/4*N^(-2)*ep^3 + 27/8*ep - 5/8*ep^2 + 3/4*ep^3 )
 
-       + den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3 - p4] * ( 16*N^(-2)*V*ep + 8*N^(-2)*V*ep^2 + 8*N^(-2)*V*ep^3 )
+       + den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3 - p4] * (  - N^(-2)*ep - 1/2*N^(-2)*ep^2 - 1/2*N^(-2)*ep^3 + ep + 1/2*ep^2 + 1/2*ep^3 )
 
-       + den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p4] * (  - 8*N^(-2)*V*ep + 6*N^(-2)*V*ep^2 - 6*N^(-2)*V*ep^3 )
+       + den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p4] * ( 1/2*N^(-2)*ep - 3/8*N^(-2)*ep^2 + 3/8*N^(-2)*ep^3 - 1/2*ep + 3/8*ep^2 - 3/8*ep^3 )
 
-       + den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p2 - p3] * ( 10*N^(-2)*V*ep + 16*N^(-2)*V*ep^2 + 6*N^(-2)*V*ep^3 )
+       + den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p2 - p3] * (  - 7/8*N^(-2)*ep - 7/4*N^(-2)*ep^2 - 3/8*N^(-2)*ep^3 + 7/8*ep + 7/4*ep^2 + 3/8*ep^3 )
 
-       + den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p2 - p4] * (  - 8*N^(-2)*V*ep + 6*N^(-2)*V*ep^2 - 6*N^(-2)*V*ep^3 )
+       + den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p2 - p4] * ( 1/2*N^(-2)*ep - 3/8*N^(-2)*ep^2 + 3/8*N^(-2)*ep^3 - 1/2*ep + 3/8*ep^2 - 3/8*ep^3 )
 
-       + den[sp[p1 + p2 - p4]] * ( 32*N^(-2)*V*ep + 16*N^(-2)*V*ep^2 + 16*N^(-2)*V*ep^3 )
+       + den[sp[p1 + p2 - p4]] * (  - 2*N^(-2)*ep - N^(-2)*ep^2 - N^(-2)*ep^3 + 2*ep + ep^2 + ep^3 )
 
-       + den[sp[p1 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3 - p4]^3*s^(-1) * ( 8*V*ep - 8*V*ep^2 )
+       + den[sp[p1 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3 - p4]^3*s^(-1) * (  - 1/8*ep + 1/8*ep^2 + 1/8*N^2*ep - 1/8*N^2*ep^2 )
 
-       + den[sp[p1 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3 - p4]^2*sp[p2 - p3 - p4]*s^(-1) * ( 8*V*ep - 8*V*ep^2 )
+       + den[sp[p1 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3 - p4]^2*sp[p2 - p3 - p4]*s^(-1) * (  - 1/8*ep + 1/8*ep^2 + 1/8*N^2*ep - 1/8*N^2*ep^2 )
 
-       + den[sp[p1 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3 - p4]*sp[p2 - p3 - p4]^2*s^(-1) * ( 8*V*ep - 8*V*ep^2 )
+       + den[sp[p1 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3 - p4]*sp[p2 - p3 - p4]^2*s^(-1) * (  - 1/8*ep + 1/8*ep^2 + 1/8*N^2*ep - 1/8*N^2*ep^2 )
 
-       + den[sp[p1 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p4]*sp[p1 - p3 - p4]^2*s^(-1) * (  - 40*V*ep + 16*V*ep^2 - 8*V*ep^3 )
+       + den[sp[p1 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p4]*sp[p1 - p3 - p4]^2*s^(-1) * ( 5/8*ep - 1/4*ep^2 + 1/8*ep^3 - 5/8*N^2*ep + 1/4*N^2*ep^2 - 1/8*N^2*ep^3 )
 
-       + den[sp[p1 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p4]*sp[p1 - p3 - p4]*sp[p2 - p3 - p4]*s^(-1) * (  - 176*V*ep - 16*V*ep^3 )
+       + den[sp[p1 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p4]*sp[p1 - p3 - p4]*sp[p2 - p3 - p4]*s^(-1) * ( 11/4*ep + 1/4*ep^3 - 11/4*N^2*ep - 1/4*N^2*ep^3 )
 
-       + den[sp[p1 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p4]^2*sp[p1 - p3 - p4]*s^(-1) * (  - 8*V*ep + 8*V*ep^2 )
+       + den[sp[p1 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p4]^2*sp[p1 - p3 - p4]*s^(-1) * ( 1/8*ep - 1/8*ep^2 - 1/8*N^2*ep + 1/8*N^2*ep^2 )
 
-       + den[sp[p1 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p4]^3*s^(-1) * ( 8*V + 16*V*ep^2 + 8*V*ep^3 )
+       + den[sp[p1 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p4]^3*s^(-1) * (  - 1/2 + 3/8*ep - 1/4*ep^2 - 1/8*ep^3 + 1/2*N^2 - 3/8*N^2*ep + 1/4*N^2*ep^2 + 1/8*N^2*ep^3 )
 
-       + den[sp[p1 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p4]^2*sp[p2 - p3]*s^(-1) * ( 16*V*ep - 16*V*ep^2 )
+       + den[sp[p1 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p4]^2*sp[p2 - p3]*s^(-1) * (  - 1/4*ep + 1/4*ep^2 + 1/4*N^2*ep - 1/4*N^2*ep^2 )
 
-       + den[sp[p1 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p4]^2*sp[p2 - p3 - p4]*s^(-1) * (  - 8*V*ep + 8*V*ep^2 )
+       + den[sp[p1 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p4]^2*sp[p2 - p3 - p4]*s^(-1) * ( 1/8*ep - 1/8*ep^2 - 1/8*N^2*ep + 1/8*N^2*ep^2 )
 
-       + den[sp[p1 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p4]^2*sp[p2 - p4]*s^(-1) * ( 32*V*ep + 36*V*ep^2 + 12*V*ep^3 )
+       + den[sp[p1 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p4]^2*sp[p2 - p4]*s^(-1) * (  - 1/2*ep - 9/16*ep^2 - 3/16*ep^3 + 1/2*N^2*ep + 9/16*N^2*ep^2 + 3/16*N^2*ep^3 )
 
-       + den[sp[p1 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p4]*sp[p2 - p3]*sp[p1 - p3 - p4]*s^(-1) * (  - 6*V*ep + 6*V*ep^2 )
+       + den[sp[p1 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p4]*sp[p2 - p3]*sp[p1 - p3 - p4]*s^(-1) * ( 3/32*ep - 3/32*ep^2 - 3/32*N^2*ep + 3/32*N^2*ep^2 )
 
-       + den[sp[p1 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p4]*sp[p2 - p3]^2*s^(-1) * (  - 64*V*ep + 40*V*ep^2 - 8*V*ep^3 )
+       + den[sp[p1 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p4]*sp[p2 - p3]^2*s^(-1) * ( ep - 5/8*ep^2 + 1/8*ep^3 - N^2*ep + 5/8*N^2*ep^2 - 1/8*N^2*ep^3 )
 
-       + den[sp[p1 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p4]*sp[p2 - p3]*sp[p2 - p3 - p4]*s^(-1) * (  - 6*V*ep + 6*V*ep^2 )
+       + den[sp[p1 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p4]*sp[p2 - p3]*sp[p2 - p3 - p4]*s^(-1) * ( 3/32*ep - 3/32*ep^2 - 3/32*N^2*ep + 3/32*N^2*ep^2 )
 
-       + den[sp[p1 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p4]*sp[p2 - p3 - p4]^2*s^(-1) * (  - 40*V*ep + 16*V*ep^2 - 8*V*ep^3 )
+       + den[sp[p1 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p4]*sp[p2 - p3 - p4]^2*s^(-1) * ( 5/8*ep - 1/4*ep^2 + 1/8*ep^3 - 5/8*N^2*ep + 1/4*N^2*ep^2 - 1/8*N^2*ep^3 )
 
-       + den[sp[p1 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p4]*sp[p2 - p4]*sp[p1 - p3 - p4]*s^(-1) * (  - 12*V*ep + 12*V*ep^2 )
+       + den[sp[p1 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p4]*sp[p2 - p4]*sp[p1 - p3 - p4]*s^(-1) * ( 3/16*ep - 3/16*ep^2 - 3/16*N^2*ep + 3/16*N^2*ep^2 )
 
-       + den[sp[p1 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p4]*sp[p2 - p4]*sp[p2 - p3 - p4]*s^(-1) * (  - 12*V*ep + 12*V*ep^2 )
+       + den[sp[p1 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p4]*sp[p2 - p4]*sp[p2 - p3 - p4]*s^(-1) * ( 3/16*ep - 3/16*ep^2 - 3/16*N^2*ep + 3/16*N^2*ep^2 )
 
-       + den[sp[p1 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p4]*sp[p2 - p4]^2*s^(-1) * ( 8*V + 16*V*ep + 8*V*ep^3 )
+       + den[sp[p1 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p4]*sp[p2 - p4]^2*s^(-1) * (  - 1/2 + 1/8*ep - 1/8*ep^3 + 1/2*N^2 - 1/8*N^2*ep + 1/8*N^2*ep^3 )
 
-       + den[sp[p1 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p3]*sp[p1 - p3 - p4]^2*s^(-1) * ( 12*V*ep - 12*V*ep^2 )
+       + den[sp[p1 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p3]*sp[p1 - p3 - p4]^2*s^(-1) * ( 1/16*ep - 1/16*ep^2 - 1/16*N^2*ep + 1/16*N^2*ep^2 )
 
-       + den[sp[p1 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p3]*sp[p1 - p3 - p4]*sp[p2 - p3 - p4]*s^(-1) * ( 32*V*ep - 32*V*ep^2 )
+       + den[sp[p1 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p3]*sp[p1 - p3 - p4]*sp[p2 - p3 - p4]*s^(-1) * (  - 1/2*ep + 1/2*ep^2 + 1/2*N^2*ep - 1/2*N^2*ep^2 )
 
-       + den[sp[p1 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p3]^2*sp[p1 - p3 - p4]*s^(-1) * (  - 8*V*ep + 8*V*ep^2 )
+       + den[sp[p1 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p3]^2*sp[p1 - p3 - p4]*s^(-1) * ( 1/8*ep - 1/8*ep^2 - 1/8*N^2*ep + 1/8*N^2*ep^2 )
 
-       + den[sp[p1 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p3]^3*s^(-1) * ( 8*V*ep - 8*V*ep^2 )
+       + den[sp[p1 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p3]^3*s^(-1) * (  - 1/8*ep + 1/8*ep^2 + 1/8*N^2*ep - 1/8*N^2*ep^2 )
 
-       + den[sp[p1 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p3]^2*sp[p2 - p3 - p4]*s^(-1) * (  - 8*V*ep + 8*V*ep^2 )
+       + den[sp[p1 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p3]^2*sp[p2 - p3 - p4]*s^(-1) * ( 1/8*ep - 1/8*ep^2 - 1/8*N^2*ep + 1/8*N^2*ep^2 )
 
-       + den[sp[p1 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p3]^2*sp[p2 - p4]*s^(-1) * ( 8*V*ep + 12*V*ep^2 - 4*V*ep^3 )
+       + den[sp[p1 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p3]^2*sp[p2 - p4]*s^(-1) * (  - 1/8*ep - 3/16*ep^2 + 1/16*ep^3 + 1/8*N^2*ep + 3/16*N^2*ep^2 - 1/16*N^2*ep^3 )
 
-       + den[sp[p1 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p3]*sp[p2 - p3 - p4]^2*s^(-1) * ( 20*V*ep - 20*V*ep^2 )
+       + den[sp[p1 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p3]*sp[p2 - p3 - p4]^2*s^(-1) * (  - 9/16*ep + 9/16*ep^2 + 9/16*N^2*ep - 9/16*N^2*ep^2 )
 
-       + den[sp[p1 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p3]*sp[p2 - p4]*sp[p1 - p3 - p4]*s^(-1) * (  - 18*V*ep + 18*V*ep^2 )
+       + den[sp[p1 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p3]*sp[p2 - p4]*sp[p1 - p3 - p4]*s^(-1) * ( 9/32*ep - 9/32*ep^2 - 9/32*N^2*ep + 9/32*N^2*ep^2 )
 
-       + den[sp[p1 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p3]*sp[p2 - p4]*sp[p2 - p3 - p4]*s^(-1) * (  - 18*V*ep + 18*V*ep^2 )
+       + den[sp[p1 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p3]*sp[p2 - p4]*sp[p2 - p3 - p4]*s^(-1) * ( 9/32*ep - 9/32*ep^2 - 9/32*N^2*ep + 9/32*N^2*ep^2 )
 
-       + den[sp[p1 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p3]*sp[p2 - p4]^2*s^(-1) * (  - 16*V*ep + 16*V*ep^2 )
+       + den[sp[p1 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p3]*sp[p2 - p4]^2*s^(-1) * ( 1/4*ep - 1/4*ep^2 - 1/4*N^2*ep + 1/4*N^2*ep^2 )
 
-       + den[sp[p1 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p3 - p4]^3*s^(-1) * ( 8*V*ep - 8*V*ep^2 )
+       + den[sp[p1 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p3 - p4]^3*s^(-1) * (  - 1/8*ep + 1/8*ep^2 + 1/8*N^2*ep - 1/8*N^2*ep^2 )
 
-       + den[sp[p1 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p4]*sp[p1 - p3 - p4]^2*s^(-1) * ( 20*V*ep^2 - 4*V*ep^3 )
+       + den[sp[p1 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p4]*sp[p1 - p3 - p4]^2*s^(-1) * (  - 5/16*ep^2 + 1/16*ep^3 + 5/16*N^2*ep^2 - 1/16*N^2*ep^3 )
 
-       + den[sp[p1 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p4]*sp[p1 - p3 - p4]*sp[p2 - p3 - p4]*s^(-1) * (  - 48*V*ep + 24*V*ep^2 - 8*V*ep^3 )
+       + den[sp[p1 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p4]*sp[p1 - p3 - p4]*sp[p2 - p3 - p4]*s^(-1) * ( 3/4*ep - 3/8*ep^2 + 1/8*ep^3 - 3/4*N^2*ep + 3/8*N^2*ep^2 - 1/8*N^2*ep^3 )
 
-       + den[sp[p1 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p4]*sp[p2 - p3 - p4]^2*s^(-1) * ( 20*V*ep^2 - 4*V*ep^3 )
+       + den[sp[p1 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p4]*sp[p2 - p3 - p4]^2*s^(-1) * (  - 5/16*ep^2 + 1/16*ep^3 + 5/16*N^2*ep^2 - 1/16*N^2*ep^3 )
 
-       + den[sp[p1 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p4]^2*sp[p1 - p3 - p4]*s^(-1) * (  - 8*V*ep + 8*V*ep^2 )
+       + den[sp[p1 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p4]^2*sp[p1 - p3 - p4]*s^(-1) * ( 1/8*ep - 1/8*ep^2 - 1/8*N^2*ep + 1/8*N^2*ep^2 )
 
-       + den[sp[p1 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p4]^2*sp[p2 - p3 - p4]*s^(-1) * (  - 8*V*ep + 8*V*ep^2 )
+       + den[sp[p1 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p4]^2*sp[p2 - p3 - p4]*s^(-1) * ( 1/8*ep - 1/8*ep^2 - 1/8*N^2*ep + 1/8*N^2*ep^2 )
 
-       + den[sp[p1 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p4]^3*s^(-1) * ( 4*V*ep - 14*V*ep^2 + 2*V*ep^3 )
+       + den[sp[p1 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p4]^3*s^(-1) * (  - 1/16*ep + 7/32*ep^2 - 1/32*ep^3 + 1/16*N^2*ep - 7/32*N^2*ep^2 + 1/32*N^2*ep^3 )
 
-       + den[sp[p1 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p2 - p3]*sp[p2 - p4] * (  - 4*N^(-2)*V*ep - 12*N^(-2)*V*ep^2 )
+       + den[sp[p1 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p2 - p3]*sp[p2 - p4] * ( 1/2*N^(-2)*ep + 3/2*N^(-2)*ep^2 - 1/2*ep - 3/2*ep^2 )
 
-       + den[sp[p1 - p3]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p4]^3 * ( 2*N^(-2)*V*ep + N^(-2)*V*ep^2 + N^(-2)*V*ep^3 )
+       + den[sp[p1 - p3]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p4]^3 * (  - 1/8*N^(-2)*ep - 1/16*N^(-2)*ep^2 - 1/16*N^(-2)*ep^3 + 1/8*ep + 1/16*ep^2 + 1/16*ep^3 )
 
-       + den[sp[p1 - p3]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p4]^2*sp[p2 - p3] * (  - 2*N^(-2)*V*ep - N^(-2)*V*ep^2 - N^(-2)*V*ep^3 )
+       + den[sp[p1 - p3]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p4]^2*sp[p2 - p3] * ( 1/8*N^(-2)*ep + 1/16*N^(-2)*ep^2 + 1/16*N^(-2)*ep^3 - 1/8*ep - 1/16*ep^2 - 1/16*ep^3 )
 
-       + den[sp[p1 - p3]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p4]^2*sp[p2 - p4] * ( 6*N^(-2)*V*ep + 3*N^(-2)*V*ep^2 + 3*N^(-2)*V*ep^3 )
+       + den[sp[p1 - p3]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p4]^2*sp[p2 - p4] * (  - 3/8*N^(-2)*ep - 3/16*N^(-2)*ep^2 - 3/16*N^(-2)*ep^3 + 3/8*ep + 3/16*ep^2 + 3/16*ep^3 )
 
-       + den[sp[p1 - p3]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p4]*sp[p2 - p3]^2 * (  - 2*N^(-2)*V*ep - N^(-2)*V*ep^2 - N^(-2)*V*ep^3 )
+       + den[sp[p1 - p3]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p4]*sp[p2 - p3]^2 * ( 1/8*N^(-2)*ep + 1/16*N^(-2)*ep^2 + 1/16*N^(-2)*ep^3 - 1/8*ep - 1/16*ep^2 - 1/16*ep^3 )
 
-       + den[sp[p1 - p3]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p4]*sp[p2 - p3]*sp[p2 - p4] * (  - 4*N^(-2)*V*ep - 2*N^(-2)*V*ep^2 - 2*N^(-2)*V*ep^3 )
+       + den[sp[p1 - p3]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p4]*sp[p2 - p3]*sp[p2 - p4] * ( 1/4*N^(-2)*ep + 1/8*N^(-2)*ep^2 + 1/8*N^(-2)*ep^3 - 1/4*ep - 1/8*ep^2 - 1/8*ep^3 )
 
-       + den[sp[p1 - p3]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p4]*sp[p2 - p4]^2 * ( 6*N^(-2)*V*ep + 3*N^(-2)*V*ep^2 + 3*N^(-2)*V*ep^3 )
+       + den[sp[p1 - p3]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p4]*sp[p2 - p4]^2 * (  - 3/8*N^(-2)*ep - 3/16*N^(-2)*ep^2 - 3/16*N^(-2)*ep^3 + 3/8*ep + 3/16*ep^2 + 3/16*ep^3 )
 
-       + den[sp[p1 - p3]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*den[sp[p2 - p3 - p4]]*sp[p2 - p3]^3 * ( 2*N^(-2)*V*ep + N^(-2)*V*ep^2 + N^(-2)*V*ep^3 )
+       + den[sp[p1 - p3]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*den[sp[p2 - p3 - p4]]*sp[p2 - p3]^3 * (  - 1/8*N^(-2)*ep - 1/16*N^(-2)*ep^2 - 1/16*N^(-2)*ep^3 + 1/8*ep + 1/16*ep^2 + 1/16*ep^3 )
 
-       + den[sp[p1 - p3]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*den[sp[p2 - p3 - p4]]*sp[p2 - p3]^2*sp[p2 - p4] * (  - 2*N^(-2)*V*ep - N^(-2)*V*ep^2 - N^(-2)*V*ep^3 )
+       + den[sp[p1 - p3]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*den[sp[p2 - p3 - p4]]*sp[p2 - p3]^2*sp[p2 - p4] * ( 1/8*N^(-2)*ep + 1/16*N^(-2)*ep^2 + 1/16*N^(-2)*ep^3 - 1/8*ep - 1/16*ep^2 - 1/16*ep^3 )
 
-       + den[sp[p1 - p3]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*den[sp[p2 - p3 - p4]]*sp[p2 - p3]*sp[p2 - p4]^2 * (  - 2*N^(-2)*V*ep - N^(-2)*V*ep^2 - N^(-2)*V*ep^3 )
+       + den[sp[p1 - p3]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*den[sp[p2 - p3 - p4]]*sp[p2 - p3]*sp[p2 - p4]^2 * ( 1/8*N^(-2)*ep + 1/16*N^(-2)*ep^2 + 1/16*N^(-2)*ep^3 - 1/8*ep - 1/16*ep^2 - 1/16*ep^3 )
 
-       + den[sp[p1 - p3]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*den[sp[p2 - p3 - p4]]*sp[p2 - p4]^3 * ( 2*N^(-2)*V*ep + N^(-2)*V*ep^2 + N^(-2)*V*ep^3 )
+       + den[sp[p1 - p3]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*den[sp[p2 - p3 - p4]]*sp[p2 - p4]^3 * (  - 1/8*N^(-2)*ep - 1/16*N^(-2)*ep^2 - 1/16*N^(-2)*ep^3 + 1/8*ep + 1/16*ep^2 + 1/16*ep^3 )
 
-       + den[sp[p1 - p3]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p1 - p4]^2 * (  - 8*N^(-2)*V + 6*N^(-2)*V*ep - 2*N^(-2)*V*ep^2 - 4*N^(-2)*V*ep^3 )
+       + den[sp[p1 - p3]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p1 - p4]^2 * (  - 1/2 + 1/2*N^(-2) - 3/8*N^(-2)*ep + 1/8*N^(-2)*ep^2 + 1/4*N^(-2)*ep^3 + 3/8*ep - 1/8*ep^2 - 1/4*ep^3 )
 
-       + den[sp[p1 - p3]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p1 - p4]*sp[p2 - p3] * (  - 2*N^(-2)*V*ep + 9*N^(-2)*V*ep^2 - 3*N^(-2)*V*ep^3 )
+       + den[sp[p1 - p3]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p1 - p4]*sp[p2 - p3] * ( 1/8*N^(-2)*ep - 9/16*N^(-2)*ep^2 + 3/16*N^(-2)*ep^3 - 1/8*ep + 9/16*ep^2 - 3/16*ep^3 )
 
-       + den[sp[p1 - p3]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p1 - p4]*sp[p2 - p3 - p4] * (  - 2*N^(-2)*V*ep + 9*N^(-2)*V*ep^2 - 3*N^(-2)*V*ep^3 )
+       + den[sp[p1 - p3]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p1 - p4]*sp[p2 - p3 - p4] * ( 1/8*N^(-2)*ep - 9/16*N^(-2)*ep^2 + 3/16*N^(-2)*ep^3 - 1/8*ep + 9/16*ep^2 - 3/16*ep^3 )
 
-       + den[sp[p1 - p3]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p1 - p4]*sp[p2 - p4] * (  - 12*N^(-2)*V*ep - 28*N^(-2)*V*ep^2 - 8*N^(-2)*V*ep^3 )
+       + den[sp[p1 - p3]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p1 - p4]*sp[p2 - p4] * ( 3/4*N^(-2)*ep + 7/4*N^(-2)*ep^2 + 1/2*N^(-2)*ep^3 - 3/4*ep - 7/4*ep^2 - 1/2*ep^3 )
 
-       + den[sp[p1 - p3]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p2 - p3]^2 * ( 10*N^(-2)*V*ep - 16*N^(-2)*V*ep^2 + 6*N^(-2)*V*ep^3 )
+       + den[sp[p1 - p3]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p2 - p3]^2 * (  - 5/8*N^(-2)*ep + N^(-2)*ep^2 - 3/8*N^(-2)*ep^3 + 5/8*ep - ep^2 + 3/8*ep^3 )
 
-       + den[sp[p1 - p3]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p2 - p3]*sp[p2 - p3 - p4] * (  - 18*N^(-2)*V*ep^2 + 10*N^(-2)*V*ep^3 )
+       + den[sp[p1 - p3]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p2 - p3]*sp[p2 - p3 - p4] * ( 9/8*N^(-2)*ep^2 - 5/8*N^(-2)*ep^3 - 9/8*ep^2 + 5/8*ep^3 )
 
-       + den[sp[p1 - p3]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p2 - p3]*sp[p2 - p4] * (  - 2*N^(-2)*V*ep + 9*N^(-2)*V*ep^2 - 3*N^(-2)*V*ep^3 )
+       + den[sp[p1 - p3]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p2 - p3]*sp[p2 - p4] * ( 1/8*N^(-2)*ep - 9/16*N^(-2)*ep^2 + 3/16*N^(-2)*ep^3 - 1/8*ep + 9/16*ep^2 - 3/16*ep^3 )
 
-       + den[sp[p1 - p3]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p2 - p3 - p4]^2 * ( 10*N^(-2)*V*ep - 16*N^(-2)*V*ep^2 + 6*N^(-2)*V*ep^3 )
+       + den[sp[p1 - p3]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p2 - p3 - p4]^2 * (  - 5/8*N^(-2)*ep + N^(-2)*ep^2 - 3/8*N^(-2)*ep^3 + 5/8*ep - ep^2 + 3/8*ep^3 )
 
-       + den[sp[p1 - p3]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p2 - p4]*sp[p2 - p3 - p4] * (  - 2*N^(-2)*V*ep + 9*N^(-2)*V*ep^2 - 3*N^(-2)*V*ep^3 )
+       + den[sp[p1 - p3]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p2 - p4]*sp[p2 - p3 - p4] * ( 1/8*N^(-2)*ep - 9/16*N^(-2)*ep^2 + 3/16*N^(-2)*ep^3 - 1/8*ep + 9/16*ep^2 - 3/16*ep^3 )
 
-       + den[sp[p1 - p3]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p2 - p4]^2 * (  - 8*N^(-2)*V + 6*N^(-2)*V*ep - 2*N^(-2)*V*ep^2 - 4*N^(-2)*V*ep^3 )
+       + den[sp[p1 - p3]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p2 - p4]^2 * (  - 1/2 + 1/2*N^(-2) - 3/8*N^(-2)*ep + 1/8*N^(-2)*ep^2 + 1/4*N^(-2)*ep^3 + 3/8*ep - 1/8*ep^2 - 1/4*ep^3 )
 
-       + den[sp[p1 - p3]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3 - p4]^2 * ( 10*N^(-2)*V*ep + 14*N^(-2)*V*ep^2 )
+       + den[sp[p1 - p3]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3 - p4]^2 * (  - 5/8*N^(-2)*ep - 7/8*N^(-2)*ep^2 + 5/8*ep + 7/8*ep^2 )
 
-       + den[sp[p1 - p3]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p4]*sp[p1 - p3 - p4] * (  - 14*N^(-2)*V*ep - 27*N^(-2)*V*ep^2 - 3*N^(-2)*V*ep^3 )
+       + den[sp[p1 - p3]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p4]*sp[p1 - p3 - p4] * ( 7/8*N^(-2)*ep + 27/16*N^(-2)*ep^2 + 3/16*N^(-2)*ep^3 - 7/8*ep - 27/16*ep^2 - 3/16*ep^3 )
 
-       + den[sp[p1 - p3]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p4]^2 * ( 2*N^(-2)*V*ep + 12*N^(-2)*V*ep^2 + 2*N^(-2)*V*ep^3 )
+       + den[sp[p1 - p3]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p4]^2 * (  - 1/8*N^(-2)*ep - 3/4*N^(-2)*ep^2 - 1/8*N^(-2)*ep^3 + 1/8*ep + 3/4*ep^2 + 1/8*ep^3 )
 
-       + den[sp[p1 - p3]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p4]*sp[p2 - p3] * (  - 14*N^(-2)*V*ep - 27*N^(-2)*V*ep^2 - 3*N^(-2)*V*ep^3 )
+       + den[sp[p1 - p3]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p4]*sp[p2 - p3] * ( 7/8*N^(-2)*ep + 27/16*N^(-2)*ep^2 + 3/16*N^(-2)*ep^3 - 7/8*ep - 27/16*ep^2 - 3/16*ep^3 )
 
-       + den[sp[p1 - p3]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p4]*sp[p2 - p4] * ( 12*N^(-2)*V*ep - 16*N^(-2)*V*ep^2 + 4*N^(-2)*V*ep^3 )
+       + den[sp[p1 - p3]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p4]*sp[p2 - p4] * (  - 3/4*N^(-2)*ep + N^(-2)*ep^2 - 1/4*N^(-2)*ep^3 + 3/4*ep - ep^2 + 1/4*ep^3 )
 
-       + den[sp[p1 - p3]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p2 - p3]*sp[p1 - p3 - p4] * ( 16*N^(-2)*V*ep + 26*N^(-2)*V*ep^2 - 2*N^(-2)*V*ep^3 )
+       + den[sp[p1 - p3]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p2 - p3]*sp[p1 - p3 - p4] * (  - N^(-2)*ep - 13/8*N^(-2)*ep^2 + 1/8*N^(-2)*ep^3 + ep + 13/8*ep^2 - 1/8*ep^3 )
 
-       + den[sp[p1 - p3]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p2 - p3]^2 * ( 10*N^(-2)*V*ep + 14*N^(-2)*V*ep^2 )
+       + den[sp[p1 - p3]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p2 - p3]^2 * (  - 5/8*N^(-2)*ep - 7/8*N^(-2)*ep^2 + 5/8*ep + 7/8*ep^2 )
 
-       + den[sp[p1 - p3]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p2 - p3]*sp[p2 - p4] * (  - 14*N^(-2)*V*ep - 27*N^(-2)*V*ep^2 - 3*N^(-2)*V*ep^3 )
+       + den[sp[p1 - p3]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p2 - p3]*sp[p2 - p4] * ( 7/8*N^(-2)*ep + 27/16*N^(-2)*ep^2 + 3/16*N^(-2)*ep^3 - 7/8*ep - 27/16*ep^2 - 3/16*ep^3 )
 
-       + den[sp[p1 - p3]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p2 - p4]*sp[p1 - p3 - p4] * (  - 14*N^(-2)*V*ep - 27*N^(-2)*V*ep^2 - 3*N^(-2)*V*ep^3 )
+       + den[sp[p1 - p3]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p2 - p4]*sp[p1 - p3 - p4] * ( 7/8*N^(-2)*ep + 27/16*N^(-2)*ep^2 + 3/16*N^(-2)*ep^3 - 7/8*ep - 27/16*ep^2 - 3/16*ep^3 )
 
-       + den[sp[p1 - p3]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p2 - p4]^2 * ( 2*N^(-2)*V*ep + 12*N^(-2)*V*ep^2 + 2*N^(-2)*V*ep^3 )
+       + den[sp[p1 - p3]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p2 - p4]^2 * (  - 1/8*N^(-2)*ep - 3/4*N^(-2)*ep^2 - 1/8*N^(-2)*ep^3 + 1/8*ep + 3/4*ep^2 + 1/8*ep^3 )
 
-       + den[sp[p1 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3 - p4] * ( 10*N^(-2)*V*ep + 16*N^(-2)*V*ep^2 + 6*N^(-2)*V*ep^3 )
+       + den[sp[p1 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3 - p4] * (  - 7/8*N^(-2)*ep - 7/4*N^(-2)*ep^2 - 3/8*N^(-2)*ep^3 + 7/8*ep + 7/4*ep^2 + 3/8*ep^3 )
 
-       + den[sp[p1 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p4] * (  - 8*N^(-2)*V*ep + 6*N^(-2)*V*ep^2 - 6*N^(-2)*V*ep^3 )
+       + den[sp[p1 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p4] * ( 1/2*N^(-2)*ep - 3/8*N^(-2)*ep^2 + 3/8*N^(-2)*ep^3 - 1/2*ep + 3/8*ep^2 - 3/8*ep^3 )
 
-       + den[sp[p1 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p3] * ( 16*N^(-2)*V*ep + 8*N^(-2)*V*ep^2 + 8*N^(-2)*V*ep^3 )
+       + den[sp[p1 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p3] * (  - N^(-2)*ep - 1/2*N^(-2)*ep^2 - 1/2*N^(-2)*ep^3 + ep + 1/2*ep^2 + 1/2*ep^3 )
 
-       + den[sp[p1 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p3 - p4] * ( 54*N^(-2)*V*ep - 10*N^(-2)*V*ep^2 + 12*N^(-2)*V*ep^3 )
+       + den[sp[p1 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p3 - p4] * (  - 27/8*N^(-2)*ep + 5/8*N^(-2)*ep^2 - 3/4*N^(-2)*ep^3 + 27/8*ep - 5/8*ep^2 + 3/4*ep^3 )
 
-       + den[sp[p1 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p4] * (  - 8*N^(-2)*V*ep + 6*N^(-2)*V*ep^2 - 6*N^(-2)*V*ep^3 )
+       + den[sp[p1 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p4] * ( 1/2*N^(-2)*ep - 3/8*N^(-2)*ep^2 + 3/8*N^(-2)*ep^3 - 1/2*ep + 3/8*ep^2 - 3/8*ep^3 )
 
-       + den[sp[p1 - p3]]*den[sp[p1 - p3 - p4]]*den[sp[p2 - p3 - p4]]*sp[p2 - p3]*s * (  - N^(-4)*V*ep + 2*N^(-4)*V*ep^2 - N^(-4)*V*ep^3 - N^(-2)*V*ep + 2*N^(-2)*V*ep^2 - N^(-2)*V*ep^3 )
+       + den[sp[p1 - p3]]*den[sp[p1 - p3 - p4]]*den[sp[p2 - p3 - p4]]*sp[p2 - p3]*s * ( 1/4*N^(-4)*ep - 1/2*N^(-4)*ep^2 + 1/4*N^(-4)*ep^3 - 1/4*ep + 1/2*ep^2 - 1/4*ep^3 )
 
-       + den[sp[p1 - p3]]*den[sp[p1 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3 - p4]^4*s^(-1) * ( 4*V*ep - 4*V*ep^2 )
+       + den[sp[p1 - p3]]*den[sp[p1 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3 - p4]^4*s^(-1) * (  - 1/16*ep + 1/16*ep^2 + 1/16*N^2*ep - 1/16*N^2*ep^2 )
 
-       + den[sp[p1 - p3]]*den[sp[p1 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3 - p4]^3*sp[p2 - p3 - p4]*s^(-1) * ( 8*V*ep - 8*V*ep^2 )
+       + den[sp[p1 - p3]]*den[sp[p1 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3 - p4]^3*sp[p2 - p3 - p4]*s^(-1) * (  - 1/8*ep + 1/8*ep^2 + 1/8*N^2*ep - 1/8*N^2*ep^2 )
 
-       + den[sp[p1 - p3]]*den[sp[p1 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3 - p4]*sp[p2 - p3 - p4]^3*s^(-1) * (  - 8*V*ep + 8*V*ep^2 )
+       + den[sp[p1 - p3]]*den[sp[p1 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3 - p4]*sp[p2 - p3 - p4]^3*s^(-1) * ( 1/8*ep - 1/8*ep^2 - 1/8*N^2*ep + 1/8*N^2*ep^2 )
 
-       + den[sp[p1 - p3]]*den[sp[p1 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p3]*sp[p1 - p3 - p4]^3*s^(-1) * ( 6*V*ep - 6*V*ep^2 )
+       + den[sp[p1 - p3]]*den[sp[p1 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p3]*sp[p1 - p3 - p4]^3*s^(-1) * (  - 3/32*ep + 3/32*ep^2 + 3/32*N^2*ep - 3/32*N^2*ep^2 )
 
-       + den[sp[p1 - p3]]*den[sp[p1 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p3]*sp[p1 - p3 - p4]^2*sp[p2 - p3 - p4]*s^(-1) * ( 10*V*ep - 10*V*ep^2 )
+       + den[sp[p1 - p3]]*den[sp[p1 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p3]*sp[p1 - p3 - p4]^2*sp[p2 - p3 - p4]*s^(-1) * (  - 5/32*ep + 5/32*ep^2 + 5/32*N^2*ep - 5/32*N^2*ep^2 )
 
-       + den[sp[p1 - p3]]*den[sp[p1 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p3]*sp[p1 - p3 - p4]*sp[p2 - p3 - p4]^2*s^(-1) * ( 10*V*ep - 10*V*ep^2 )
+       + den[sp[p1 - p3]]*den[sp[p1 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p3]*sp[p1 - p3 - p4]*sp[p2 - p3 - p4]^2*s^(-1) * (  - 5/32*ep + 5/32*ep^2 + 5/32*N^2*ep - 5/32*N^2*ep^2 )
 
-       + den[sp[p1 - p3]]*den[sp[p1 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p3]^3*sp[p1 - p3 - p4]*s^(-1) * (  - 2*V*ep + 2*V*ep^2 )
+       + den[sp[p1 - p3]]*den[sp[p1 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p3]^3*sp[p1 - p3 - p4]*s^(-1) * ( 1/32*ep - 1/32*ep^2 - 1/32*N^2*ep + 1/32*N^2*ep^2 )
 
-       + den[sp[p1 - p3]]*den[sp[p1 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p3]^3*sp[p2 - p3 - p4]*s^(-1) * (  - 2*V*ep + 2*V*ep^2 )
+       + den[sp[p1 - p3]]*den[sp[p1 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p3]^3*sp[p2 - p3 - p4]*s^(-1) * ( 1/32*ep - 1/32*ep^2 - 1/32*N^2*ep + 1/32*N^2*ep^2 )
 
-       + den[sp[p1 - p3]]*den[sp[p1 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p3]^2*sp[p2 - p4]*sp[p1 - p3 - p4]*s^(-1) * (  - 10*V*ep + 10*V*ep^2 )
+       + den[sp[p1 - p3]]*den[sp[p1 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p3]^2*sp[p2 - p4]*sp[p1 - p3 - p4]*s^(-1) * ( 5/32*ep - 5/32*ep^2 - 5/32*N^2*ep + 5/32*N^2*ep^2 )
 
-       + den[sp[p1 - p3]]*den[sp[p1 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p3]^2*sp[p2 - p4]*sp[p2 - p3 - p4]*s^(-1) * (  - 10*V*ep + 10*V*ep^2 )
+       + den[sp[p1 - p3]]*den[sp[p1 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p3]^2*sp[p2 - p4]*sp[p2 - p3 - p4]*s^(-1) * ( 5/32*ep - 5/32*ep^2 - 5/32*N^2*ep + 5/32*N^2*ep^2 )
 
-       + den[sp[p1 - p3]]*den[sp[p1 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p3]*sp[p2 - p3 - p4]^3*s^(-1) * ( 6*V*ep - 6*V*ep^2 )
+       + den[sp[p1 - p3]]*den[sp[p1 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p3]*sp[p2 - p3 - p4]^3*s^(-1) * (  - 3/32*ep + 3/32*ep^2 + 3/32*N^2*ep - 3/32*N^2*ep^2 )
 
-       + den[sp[p1 - p3]]*den[sp[p1 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p3]*sp[p2 - p4]*sp[p1 - p3 - p4]^2*s^(-1) * (  - 4*V*ep + 4*V*ep^2 )
+       + den[sp[p1 - p3]]*den[sp[p1 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p3]*sp[p2 - p4]*sp[p1 - p3 - p4]^2*s^(-1) * ( 1/16*ep - 1/16*ep^2 - 1/16*N^2*ep + 1/16*N^2*ep^2 )
 
-       + den[sp[p1 - p3]]*den[sp[p1 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p3]*sp[p2 - p4]*sp[p2 - p3 - p4]^2*s^(-1) * ( 4*V*ep - 4*V*ep^2 )
+       + den[sp[p1 - p3]]*den[sp[p1 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p3]*sp[p2 - p4]*sp[p2 - p3 - p4]^2*s^(-1) * (  - 1/16*ep + 1/16*ep^2 + 1/16*N^2*ep - 1/16*N^2*ep^2 )
 
-       + den[sp[p1 - p3]]*den[sp[p1 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p3]*sp[p2 - p4]^2*sp[p1 - p3 - p4]*s^(-1) * (  - 10*V*ep + 10*V*ep^2 )
+       + den[sp[p1 - p3]]*den[sp[p1 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p3]*sp[p2 - p4]^2*sp[p1 - p3 - p4]*s^(-1) * ( 5/32*ep - 5/32*ep^2 - 5/32*N^2*ep + 5/32*N^2*ep^2 )
 
-       + den[sp[p1 - p3]]*den[sp[p1 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p3]*sp[p2 - p4]^2*sp[p2 - p3 - p4]*s^(-1) * (  - 10*V*ep + 10*V*ep^2 )
+       + den[sp[p1 - p3]]*den[sp[p1 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p3]*sp[p2 - p4]^2*sp[p2 - p3 - p4]*s^(-1) * ( 5/32*ep - 5/32*ep^2 - 5/32*N^2*ep + 5/32*N^2*ep^2 )
 
-       + den[sp[p1 - p3]]*den[sp[p1 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p3 - p4]^4*s^(-1) * (  - 4*V*ep + 4*V*ep^2 )
+       + den[sp[p1 - p3]]*den[sp[p1 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p3 - p4]^4*s^(-1) * ( 1/16*ep - 1/16*ep^2 - 1/16*N^2*ep + 1/16*N^2*ep^2 )
 
-       + den[sp[p1 - p3]]*den[sp[p1 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p4]*sp[p1 - p3 - p4]^3*s^(-1) * ( 6*V*ep - 6*V*ep^2 )
+       + den[sp[p1 - p3]]*den[sp[p1 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p4]*sp[p1 - p3 - p4]^3*s^(-1) * (  - 3/32*ep + 3/32*ep^2 + 3/32*N^2*ep - 3/32*N^2*ep^2 )
 
-       + den[sp[p1 - p3]]*den[sp[p1 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p4]*sp[p1 - p3 - p4]^2*sp[p2 - p3 - p4]*s^(-1) * ( 10*V*ep - 10*V*ep^2 )
+       + den[sp[p1 - p3]]*den[sp[p1 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p4]*sp[p1 - p3 - p4]^2*sp[p2 - p3 - p4]*s^(-1) * (  - 5/32*ep + 5/32*ep^2 + 5/32*N^2*ep - 5/32*N^2*ep^2 )
 
-       + den[sp[p1 - p3]]*den[sp[p1 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p4]*sp[p1 - p3 - p4]*sp[p2 - p3 - p4]^2*s^(-1) * ( 10*V*ep - 10*V*ep^2 )
+       + den[sp[p1 - p3]]*den[sp[p1 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p4]*sp[p1 - p3 - p4]*sp[p2 - p3 - p4]^2*s^(-1) * (  - 5/32*ep + 5/32*ep^2 + 5/32*N^2*ep - 5/32*N^2*ep^2 )
 
-       + den[sp[p1 - p3]]*den[sp[p1 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p4]*sp[p2 - p3 - p4]^3*s^(-1) * ( 6*V*ep - 6*V*ep^2 )
+       + den[sp[p1 - p3]]*den[sp[p1 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p4]*sp[p2 - p3 - p4]^3*s^(-1) * (  - 3/32*ep + 3/32*ep^2 + 3/32*N^2*ep - 3/32*N^2*ep^2 )
 
-       + den[sp[p1 - p3]]*den[sp[p1 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p4]^3*sp[p1 - p3 - p4]*s^(-1) * (  - 2*V*ep + 2*V*ep^2 )
+       + den[sp[p1 - p3]]*den[sp[p1 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p4]^3*sp[p1 - p3 - p4]*s^(-1) * ( 1/32*ep - 1/32*ep^2 - 1/32*N^2*ep + 1/32*N^2*ep^2 )
 
-       + den[sp[p1 - p3]]*den[sp[p1 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p4]^3*sp[p2 - p3 - p4]*s^(-1) * (  - 2*V*ep + 2*V*ep^2 )
+       + den[sp[p1 - p3]]*den[sp[p1 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p4]^3*sp[p2 - p3 - p4]*s^(-1) * ( 1/32*ep - 1/32*ep^2 - 1/32*N^2*ep + 1/32*N^2*ep^2 )
 
-       + den[sp[p1 - p3]]*den[sp[p1 - p4]]*den[sp[p1 + p2 - p3]]*sp[p2 - p3]*sp[p1 - p3 - p4] * (  - 4*N^(-2)*V*ep - 12*N^(-2)*V*ep^2 )
+       + den[sp[p1 - p3]]*den[sp[p1 - p4]]*den[sp[p1 + p2 - p3]]*sp[p2 - p3]*sp[p1 - p3 - p4] * ( 1/2*N^(-2)*ep + 3/2*N^(-2)*ep^2 - 1/2*ep - 3/2*ep^2 )
 
-       + den[sp[p1 - p3]]*den[sp[p1 - p4]]*den[sp[p1 + p2 - p4]]*sp[p2 - p4]*sp[p1 - p3 - p4] * (  - 4*N^(-2)*V*ep - 12*N^(-2)*V*ep^2 )
+       + den[sp[p1 - p3]]*den[sp[p1 - p4]]*den[sp[p1 + p2 - p4]]*sp[p2 - p4]*sp[p1 - p3 - p4] * ( 1/2*N^(-2)*ep + 3/2*N^(-2)*ep^2 - 1/2*ep - 3/2*ep^2 )
 
-       + den[sp[p1 - p3]]*den[sp[p1 - p4]]*den[sp[p2 - p3]]*den[sp[p1 + p2 - p3]]*sp[p1 - p3 - p4]^2*sp[p2 - p3 - p4] * (  - 8*N^(-2)*V + 16*N^(-2)*V*ep - 8*N^(-2)*V*ep^2 )
+       + den[sp[p1 - p3]]*den[sp[p1 - p4]]*den[sp[p2 - p3]]*den[sp[p1 + p2 - p3]]*sp[p1 - p3 - p4]^2*sp[p2 - p3 - p4] * (  - 1/2 + 1/2*N^(-2) - N^(-2)*ep + 1/2*N^(-2)*ep^2 + ep - 1/2*ep^2 )
 
-       + den[sp[p1 - p3]]*den[sp[p1 - p4]]*den[sp[p2 - p3]]*den[sp[p1 + p2 - p3]]*sp[p2 - p3 - p4]^3 * (  - 8*N^(-2)*V + 16*N^(-2)*V*ep - 8*N^(-2)*V*ep^2 )
+       + den[sp[p1 - p3]]*den[sp[p1 - p4]]*den[sp[p2 - p3]]*den[sp[p1 + p2 - p3]]*sp[p2 - p3 - p4]^3 * (  - 1/2 + 1/2*N^(-2) - N^(-2)*ep + 1/2*N^(-2)*ep^2 + ep - 1/2*ep^2 )
 
-       + den[sp[p1 - p3]]*den[sp[p1 - p4]]*den[sp[p2 - p3]]*den[sp[p2 - p4]]*sp[p1 - p3 - p4]^2*s * ( 2*N^(-4)*V - 3*N^(-4)*V*ep + N^(-4)*V*ep^3 + 2*N^(-2)*V - 3*N^(-2)*V*ep + N^(-2)*V*ep^3 )
+       + den[sp[p1 - p3]]*den[sp[p1 - p4]]*den[sp[p2 - p3]]*den[sp[p2 - p4]]*sp[p1 - p3 - p4]^2*s * ( 1/2 - 1/2*N^(-4) + 3/4*N^(-4)*ep - 1/4*N^(-4)*ep^3 - 3/4*ep + 1/4*ep^3 )
 
-       + den[sp[p1 - p3]]*den[sp[p1 - p4]]*den[sp[p2 - p3]]*den[sp[p2 - p4]]*sp[p1 - p3 - p4]*sp[p2 - p3 - p4]*s * ( 2*N^(-4)*V*ep + 6*N^(-4)*V*ep^2 + 2*N^(-2)*V*ep + 6*N^(-2)*V*ep^2 )
+       + den[sp[p1 - p3]]*den[sp[p1 - p4]]*den[sp[p2 - p3]]*den[sp[p2 - p4]]*sp[p1 - p3 - p4]*sp[p2 - p3 - p4]*s * (  - 1/2*N^(-4)*ep - 3/2*N^(-4)*ep^2 + 1/2*ep + 3/2*ep^2 )
 
-       + den[sp[p1 - p3]]*den[sp[p1 - p4]]*den[sp[p2 - p3]]*den[sp[p2 - p4]]*sp[p2 - p3 - p4]^2*s * ( 2*N^(-4)*V - 3*N^(-4)*V*ep + N^(-4)*V*ep^3 + 2*N^(-2)*V - 3*N^(-2)*V*ep + N^(-2)*V*ep^3 )
+       + den[sp[p1 - p3]]*den[sp[p1 - p4]]*den[sp[p2 - p3]]*den[sp[p2 - p4]]*sp[p2 - p3 - p4]^2*s * ( 1/2 - 1/2*N^(-4) + 3/4*N^(-4)*ep - 1/4*N^(-4)*ep^3 - 3/4*ep + 1/4*ep^3 )
 
-       + den[sp[p1 - p3]]*den[sp[p1 - p4]]*den[sp[p2 - p3]]*den[sp[p3 + p4]]*sp[p1 - p3 - p4]^3 * ( 2*N^(-2)*V*ep + N^(-2)*V*ep^2 + N^(-2)*V*ep^3 )
+       + den[sp[p1 - p3]]*den[sp[p1 - p4]]*den[sp[p2 - p3]]*den[sp[p3 + p4]]*sp[p1 - p3 - p4]^3 * (  - 1/8*N^(-2)*ep - 1/16*N^(-2)*ep^2 - 1/16*N^(-2)*ep^3 + 1/8*ep + 1/16*ep^2 + 1/16*ep^3 )
 
-       + den[sp[p1 - p3]]*den[sp[p1 - p4]]*den[sp[p2 - p3]]*den[sp[p3 + p4]]*sp[p1 - p3 - p4]^2*sp[p2 - p3 - p4] * ( 6*N^(-2)*V*ep + 3*N^(-2)*V*ep^2 + 3*N^(-2)*V*ep^3 )
+       + den[sp[p1 - p3]]*den[sp[p1 - p4]]*den[sp[p2 - p3]]*den[sp[p3 + p4]]*sp[p1 - p3 - p4]^2*sp[p2 - p3 - p4] * (  - 3/8*N^(-2)*ep - 3/16*N^(-2)*ep^2 - 3/16*N^(-2)*ep^3 + 3/8*ep + 3/16*ep^2 + 3/16*ep^3 )
 
-       + den[sp[p1 - p3]]*den[sp[p1 - p4]]*den[sp[p2 - p3]]*den[sp[p3 + p4]]*sp[p1 - p3 - p4]*sp[p2 - p3 - p4]^2 * ( 6*N^(-2)*V*ep + 3*N^(-2)*V*ep^2 + 3*N^(-2)*V*ep^3 )
+       + den[sp[p1 - p3]]*den[sp[p1 - p4]]*den[sp[p2 - p3]]*den[sp[p3 + p4]]*sp[p1 - p3 - p4]*sp[p2 - p3 - p4]^2 * (  - 3/8*N^(-2)*ep - 3/16*N^(-2)*ep^2 - 3/16*N^(-2)*ep^3 + 3/8*ep + 3/16*ep^2 + 3/16*ep^3 )
 
-       + den[sp[p1 - p3]]*den[sp[p1 - p4]]*den[sp[p2 - p3]]*den[sp[p3 + p4]]*sp[p2 - p3 - p4]^3 * ( 2*N^(-2)*V*ep + N^(-2)*V*ep^2 + N^(-2)*V*ep^3 )
+       + den[sp[p1 - p3]]*den[sp[p1 - p4]]*den[sp[p2 - p3]]*den[sp[p3 + p4]]*sp[p2 - p3 - p4]^3 * (  - 1/8*N^(-2)*ep - 1/16*N^(-2)*ep^2 - 1/16*N^(-2)*ep^3 + 1/8*ep + 1/16*ep^2 + 1/16*ep^3 )
 
-       + den[sp[p1 - p3]]*den[sp[p1 - p4]]*den[sp[p2 - p3]]*den[sp[p3 + p4]]*sp[p2 - p4]*sp[p1 - p3 - p4]^2 * (  - 2*N^(-2)*V*ep - N^(-2)*V*ep^2 - N^(-2)*V*ep^3 )
+       + den[sp[p1 - p3]]*den[sp[p1 - p4]]*den[sp[p2 - p3]]*den[sp[p3 + p4]]*sp[p2 - p4]*sp[p1 - p3 - p4]^2 * ( 1/8*N^(-2)*ep + 1/16*N^(-2)*ep^2 + 1/16*N^(-2)*ep^3 - 1/8*ep - 1/16*ep^2 - 1/16*ep^3 )
 
-       + den[sp[p1 - p3]]*den[sp[p1 - p4]]*den[sp[p2 - p3]]*den[sp[p3 + p4]]*sp[p2 - p4]*sp[p1 - p3 - p4]*sp[p2 - p3 - p4] * (  - 4*N^(-2)*V*ep - 2*N^(-2)*V*ep^2 - 2*N^(-2)*V*ep^3 )
+       + den[sp[p1 - p3]]*den[sp[p1 - p4]]*den[sp[p2 - p3]]*den[sp[p3 + p4]]*sp[p2 - p4]*sp[p1 - p3 - p4]*sp[p2 - p3 - p4] * ( 1/4*N^(-2)*ep + 1/8*N^(-2)*ep^2 + 1/8*N^(-2)*ep^3 - 1/4*ep - 1/8*ep^2 - 1/8*ep^3 )
 
-       + den[sp[p1 - p3]]*den[sp[p1 - p4]]*den[sp[p2 - p3]]*den[sp[p3 + p4]]*sp[p2 - p4]*sp[p2 - p3 - p4]^2 * (  - 2*N^(-2)*V*ep - N^(-2)*V*ep^2 - N^(-2)*V*ep^3 )
+       + den[sp[p1 - p3]]*den[sp[p1 - p4]]*den[sp[p2 - p3]]*den[sp[p3 + p4]]*sp[p2 - p4]*sp[p2 - p3 - p4]^2 * ( 1/8*N^(-2)*ep + 1/16*N^(-2)*ep^2 + 1/16*N^(-2)*ep^3 - 1/8*ep - 1/16*ep^2 - 1/16*ep^3 )
 
-       + den[sp[p1 - p3]]*den[sp[p1 - p4]]*den[sp[p2 - p3]]*den[sp[p3 + p4]]*sp[p2 - p4]^2*sp[p1 - p3 - p4] * (  - 2*N^(-2)*V*ep - N^(-2)*V*ep^2 - N^(-2)*V*ep^3 )
+       + den[sp[p1 - p3]]*den[sp[p1 - p4]]*den[sp[p2 - p3]]*den[sp[p3 + p4]]*sp[p2 - p4]^2*sp[p1 - p3 - p4] * ( 1/8*N^(-2)*ep + 1/16*N^(-2)*ep^2 + 1/16*N^(-2)*ep^3 - 1/8*ep - 1/16*ep^2 - 1/16*ep^3 )
 
-       + den[sp[p1 - p3]]*den[sp[p1 - p4]]*den[sp[p2 - p3]]*den[sp[p3 + p4]]*sp[p2 - p4]^2*sp[p2 - p3 - p4] * (  - 2*N^(-2)*V*ep - N^(-2)*V*ep^2 - N^(-2)*V*ep^3 )
+       + den[sp[p1 - p3]]*den[sp[p1 - p4]]*den[sp[p2 - p3]]*den[sp[p3 + p4]]*sp[p2 - p4]^2*sp[p2 - p3 - p4] * ( 1/8*N^(-2)*ep + 1/16*N^(-2)*ep^2 + 1/16*N^(-2)*ep^3 - 1/8*ep - 1/16*ep^2 - 1/16*ep^3 )
 
-       + den[sp[p1 - p3]]*den[sp[p1 - p4]]*den[sp[p2 - p3]]*den[sp[p3 + p4]]*sp[p2 - p4]^3 * ( 2*N^(-2)*V*ep + N^(-2)*V*ep^2 + N^(-2)*V*ep^3 )
+       + den[sp[p1 - p3]]*den[sp[p1 - p4]]*den[sp[p2 - p3]]*den[sp[p3 + p4]]*sp[p2 - p4]^3 * (  - 1/8*N^(-2)*ep - 1/16*N^(-2)*ep^2 - 1/16*N^(-2)*ep^3 + 1/8*ep + 1/16*ep^2 + 1/16*ep^3 )
 
-       + den[sp[p1 - p3]]*den[sp[p1 - p4]]*den[sp[p2 - p3]]*sp[p2 - p4]*s * (  - N^(-4)*V*ep + 2*N^(-4)*V*ep^2 - N^(-4)*V*ep^3 - N^(-2)*V*ep + 2*N^(-2)*V*ep^2 - N^(-2)*V*ep^3 )
+       + den[sp[p1 - p3]]*den[sp[p1 - p4]]*den[sp[p2 - p3]]*sp[p2 - p4]*s * ( 1/4*N^(-4)*ep - 1/2*N^(-4)*ep^2 + 1/4*N^(-4)*ep^3 - 1/4*ep + 1/2*ep^2 - 1/4*ep^3 )
 
-       + den[sp[p1 - p3]]*den[sp[p1 - p4]]*den[sp[p2 - p4]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3 - p4]^2*sp[p2 - p3 - p4] * (  - 8*N^(-2)*V + 16*N^(-2)*V*ep - 8*N^(-2)*V*ep^2 )
+       + den[sp[p1 - p3]]*den[sp[p1 - p4]]*den[sp[p2 - p4]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3 - p4]^2*sp[p2 - p3 - p4] * (  - 1/2 + 1/2*N^(-2) - N^(-2)*ep + 1/2*N^(-2)*ep^2 + ep - 1/2*ep^2 )
 
-       + den[sp[p1 - p3]]*den[sp[p1 - p4]]*den[sp[p2 - p4]]*den[sp[p1 + p2 - p4]]*sp[p2 - p3 - p4]^3 * (  - 8*N^(-2)*V + 16*N^(-2)*V*ep - 8*N^(-2)*V*ep^2 )
+       + den[sp[p1 - p3]]*den[sp[p1 - p4]]*den[sp[p2 - p4]]*den[sp[p1 + p2 - p4]]*sp[p2 - p3 - p4]^3 * (  - 1/2 + 1/2*N^(-2) - N^(-2)*ep + 1/2*N^(-2)*ep^2 + ep - 1/2*ep^2 )
 
-       + den[sp[p1 - p3]]*den[sp[p1 - p4]]*den[sp[p2 - p4]]*den[sp[p3 + p4]]*sp[p1 - p3 - p4]^3 * ( 2*N^(-2)*V*ep + N^(-2)*V*ep^2 + N^(-2)*V*ep^3 )
+       + den[sp[p1 - p3]]*den[sp[p1 - p4]]*den[sp[p2 - p4]]*den[sp[p3 + p4]]*sp[p1 - p3 - p4]^3 * (  - 1/8*N^(-2)*ep - 1/16*N^(-2)*ep^2 - 1/16*N^(-2)*ep^3 + 1/8*ep + 1/16*ep^2 + 1/16*ep^3 )
 
-       + den[sp[p1 - p3]]*den[sp[p1 - p4]]*den[sp[p2 - p4]]*den[sp[p3 + p4]]*sp[p1 - p3 - p4]^2*sp[p2 - p3 - p4] * ( 6*N^(-2)*V*ep + 3*N^(-2)*V*ep^2 + 3*N^(-2)*V*ep^3 )
+       + den[sp[p1 - p3]]*den[sp[p1 - p4]]*den[sp[p2 - p4]]*den[sp[p3 + p4]]*sp[p1 - p3 - p4]^2*sp[p2 - p3 - p4] * (  - 3/8*N^(-2)*ep - 3/16*N^(-2)*ep^2 - 3/16*N^(-2)*ep^3 + 3/8*ep + 3/16*ep^2 + 3/16*ep^3 )
 
-       + den[sp[p1 - p3]]*den[sp[p1 - p4]]*den[sp[p2 - p4]]*den[sp[p3 + p4]]*sp[p1 - p3 - p4]*sp[p2 - p3 - p4]^2 * ( 6*N^(-2)*V*ep + 3*N^(-2)*V*ep^2 + 3*N^(-2)*V*ep^3 )
+       + den[sp[p1 - p3]]*den[sp[p1 - p4]]*den[sp[p2 - p4]]*den[sp[p3 + p4]]*sp[p1 - p3 - p4]*sp[p2 - p3 - p4]^2 * (  - 3/8*N^(-2)*ep - 3/16*N^(-2)*ep^2 - 3/16*N^(-2)*ep^3 + 3/8*ep + 3/16*ep^2 + 3/16*ep^3 )
 
-       + den[sp[p1 - p3]]*den[sp[p1 - p4]]*den[sp[p2 - p4]]*den[sp[p3 + p4]]*sp[p2 - p3]*sp[p1 - p3 - p4]^2 * (  - 2*N^(-2)*V*ep - N^(-2)*V*ep^2 - N^(-2)*V*ep^3 )
+       + den[sp[p1 - p3]]*den[sp[p1 - p4]]*den[sp[p2 - p4]]*den[sp[p3 + p4]]*sp[p2 - p3]*sp[p1 - p3 - p4]^2 * ( 1/8*N^(-2)*ep + 1/16*N^(-2)*ep^2 + 1/16*N^(-2)*ep^3 - 1/8*ep - 1/16*ep^2 - 1/16*ep^3 )
 
-       + den[sp[p1 - p3]]*den[sp[p1 - p4]]*den[sp[p2 - p4]]*den[sp[p3 + p4]]*sp[p2 - p3]*sp[p1 - p3 - p4]*sp[p2 - p3 - p4] * (  - 4*N^(-2)*V*ep - 2*N^(-2)*V*ep^2 - 2*N^(-2)*V*ep^3 )
+       + den[sp[p1 - p3]]*den[sp[p1 - p4]]*den[sp[p2 - p4]]*den[sp[p3 + p4]]*sp[p2 - p3]*sp[p1 - p3 - p4]*sp[p2 - p3 - p4] * ( 1/4*N^(-2)*ep + 1/8*N^(-2)*ep^2 + 1/8*N^(-2)*ep^3 - 1/4*ep - 1/8*ep^2 - 1/8*ep^3 )
 
-       + den[sp[p1 - p3]]*den[sp[p1 - p4]]*den[sp[p2 - p4]]*den[sp[p3 + p4]]*sp[p2 - p3]^2*sp[p1 - p3 - p4] * (  - 2*N^(-2)*V*ep - N^(-2)*V*ep^2 - N^(-2)*V*ep^3 )
+       + den[sp[p1 - p3]]*den[sp[p1 - p4]]*den[sp[p2 - p4]]*den[sp[p3 + p4]]*sp[p2 - p3]^2*sp[p1 - p3 - p4] * ( 1/8*N^(-2)*ep + 1/16*N^(-2)*ep^2 + 1/16*N^(-2)*ep^3 - 1/8*ep - 1/16*ep^2 - 1/16*ep^3 )
 
-       + den[sp[p1 - p3]]*den[sp[p1 - p4]]*den[sp[p2 - p4]]*den[sp[p3 + p4]]*sp[p2 - p3]^3 * ( 2*N^(-2)*V*ep + N^(-2)*V*ep^2 + N^(-2)*V*ep^3 )
+       + den[sp[p1 - p3]]*den[sp[p1 - p4]]*den[sp[p2 - p4]]*den[sp[p3 + p4]]*sp[p2 - p3]^3 * (  - 1/8*N^(-2)*ep - 1/16*N^(-2)*ep^2 - 1/16*N^(-2)*ep^3 + 1/8*ep + 1/16*ep^2 + 1/16*ep^3 )
 
-       + den[sp[p1 - p3]]*den[sp[p1 - p4]]*den[sp[p2 - p4]]*den[sp[p3 + p4]]*sp[p2 - p3]^2*sp[p2 - p3 - p4] * (  - 2*N^(-2)*V*ep - N^(-2)*V*ep^2 - N^(-2)*V*ep^3 )
+       + den[sp[p1 - p3]]*den[sp[p1 - p4]]*den[sp[p2 - p4]]*den[sp[p3 + p4]]*sp[p2 - p3]^2*sp[p2 - p3 - p4] * ( 1/8*N^(-2)*ep + 1/16*N^(-2)*ep^2 + 1/16*N^(-2)*ep^3 - 1/8*ep - 1/16*ep^2 - 1/16*ep^3 )
 
-       + den[sp[p1 - p3]]*den[sp[p1 - p4]]*den[sp[p2 - p4]]*den[sp[p3 + p4]]*sp[p2 - p3]*sp[p2 - p3 - p4]^2 * (  - 2*N^(-2)*V*ep - N^(-2)*V*ep^2 - N^(-2)*V*ep^3 )
+       + den[sp[p1 - p3]]*den[sp[p1 - p4]]*den[sp[p2 - p4]]*den[sp[p3 + p4]]*sp[p2 - p3]*sp[p2 - p3 - p4]^2 * ( 1/8*N^(-2)*ep + 1/16*N^(-2)*ep^2 + 1/16*N^(-2)*ep^3 - 1/8*ep - 1/16*ep^2 - 1/16*ep^3 )
 
-       + den[sp[p1 - p3]]*den[sp[p1 - p4]]*den[sp[p2 - p4]]*den[sp[p3 + p4]]*sp[p2 - p3 - p4]^3 * ( 2*N^(-2)*V*ep + N^(-2)*V*ep^2 + N^(-2)*V*ep^3 )
+       + den[sp[p1 - p3]]*den[sp[p1 - p4]]*den[sp[p2 - p4]]*den[sp[p3 + p4]]*sp[p2 - p3 - p4]^3 * (  - 1/8*N^(-2)*ep - 1/16*N^(-2)*ep^2 - 1/16*N^(-2)*ep^3 + 1/8*ep + 1/16*ep^2 + 1/16*ep^3 )
 
-       + den[sp[p1 - p3]]*den[sp[p1 - p4]]*den[sp[p2 - p4]]*sp[p2 - p3]*s * (  - N^(-4)*V*ep + 2*N^(-4)*V*ep^2 - N^(-4)*V*ep^3 - N^(-2)*V*ep + 2*N^(-2)*V*ep^2 - N^(-2)*V*ep^3 )
+       + den[sp[p1 - p3]]*den[sp[p1 - p4]]*den[sp[p2 - p4]]*sp[p2 - p3]*s * ( 1/4*N^(-4)*ep - 1/2*N^(-4)*ep^2 + 1/4*N^(-4)*ep^3 - 1/4*ep + 1/2*ep^2 - 1/4*ep^3 )
 
-       + den[sp[p1 - p3]]*den[sp[p1 - p4]]*den[sp[p3 + p4]]*sp[p1 - p3 - p4]^2 * ( 2*N^(-2)*V*ep + 12*N^(-2)*V*ep^2 + 2*N^(-2)*V*ep^3 )
+       + den[sp[p1 - p3]]*den[sp[p1 - p4]]*den[sp[p3 + p4]]*sp[p1 - p3 - p4]^2 * (  - 1/8*N^(-2)*ep - 3/4*N^(-2)*ep^2 - 1/8*N^(-2)*ep^3 + 1/8*ep + 3/4*ep^2 + 1/8*ep^3 )
 
-       + den[sp[p1 - p3]]*den[sp[p1 - p4]]*den[sp[p3 + p4]]*sp[p1 - p3 - p4]*sp[p2 - p3 - p4] * ( 12*N^(-2)*V*ep - 16*N^(-2)*V*ep^2 + 4*N^(-2)*V*ep^3 )
+       + den[sp[p1 - p3]]*den[sp[p1 - p4]]*den[sp[p3 + p4]]*sp[p1 - p3 - p4]*sp[p2 - p3 - p4] * (  - 3/4*N^(-2)*ep + N^(-2)*ep^2 - 1/4*N^(-2)*ep^3 + 3/4*ep - ep^2 + 1/4*ep^3 )
 
-       + den[sp[p1 - p3]]*den[sp[p1 - p4]]*den[sp[p3 + p4]]*sp[p2 - p3]*sp[p1 - p3 - p4] * (  - 14*N^(-2)*V*ep - 27*N^(-2)*V*ep^2 - 3*N^(-2)*V*ep^3 )
+       + den[sp[p1 - p3]]*den[sp[p1 - p4]]*den[sp[p3 + p4]]*sp[p2 - p3]*sp[p1 - p3 - p4] * ( 7/8*N^(-2)*ep + 27/16*N^(-2)*ep^2 + 3/16*N^(-2)*ep^3 - 7/8*ep - 27/16*ep^2 - 3/16*ep^3 )
 
-       + den[sp[p1 - p3]]*den[sp[p1 - p4]]*den[sp[p3 + p4]]*sp[p2 - p3]^2 * ( 10*N^(-2)*V*ep + 14*N^(-2)*V*ep^2 )
+       + den[sp[p1 - p3]]*den[sp[p1 - p4]]*den[sp[p3 + p4]]*sp[p2 - p3]^2 * (  - 5/8*N^(-2)*ep - 7/8*N^(-2)*ep^2 + 5/8*ep + 7/8*ep^2 )
 
-       + den[sp[p1 - p3]]*den[sp[p1 - p4]]*den[sp[p3 + p4]]*sp[p2 - p3]*sp[p2 - p3 - p4] * (  - 14*N^(-2)*V*ep - 27*N^(-2)*V*ep^2 - 3*N^(-2)*V*ep^3 )
+       + den[sp[p1 - p3]]*den[sp[p1 - p4]]*den[sp[p3 + p4]]*sp[p2 - p3]*sp[p2 - p3 - p4] * ( 7/8*N^(-2)*ep + 27/16*N^(-2)*ep^2 + 3/16*N^(-2)*ep^3 - 7/8*ep - 27/16*ep^2 - 3/16*ep^3 )
 
-       + den[sp[p1 - p3]]*den[sp[p1 - p4]]*den[sp[p3 + p4]]*sp[p2 - p3]*sp[p2 - p4] * ( 16*N^(-2)*V*ep + 26*N^(-2)*V*ep^2 - 2*N^(-2)*V*ep^3 )
+       + den[sp[p1 - p3]]*den[sp[p1 - p4]]*den[sp[p3 + p4]]*sp[p2 - p3]*sp[p2 - p4] * (  - N^(-2)*ep - 13/8*N^(-2)*ep^2 + 1/8*N^(-2)*ep^3 + ep + 13/8*ep^2 - 1/8*ep^3 )
 
-       + den[sp[p1 - p3]]*den[sp[p1 - p4]]*den[sp[p3 + p4]]*sp[p2 - p3 - p4]^2 * ( 2*N^(-2)*V*ep + 12*N^(-2)*V*ep^2 + 2*N^(-2)*V*ep^3 )
+       + den[sp[p1 - p3]]*den[sp[p1 - p4]]*den[sp[p3 + p4]]*sp[p2 - p3 - p4]^2 * (  - 1/8*N^(-2)*ep - 3/4*N^(-2)*ep^2 - 1/8*N^(-2)*ep^3 + 1/8*ep + 3/4*ep^2 + 1/8*ep^3 )
 
-       + den[sp[p1 - p3]]*den[sp[p1 - p4]]*den[sp[p3 + p4]]*sp[p2 - p4]*sp[p1 - p3 - p4] * (  - 14*N^(-2)*V*ep - 27*N^(-2)*V*ep^2 - 3*N^(-2)*V*ep^3 )
+       + den[sp[p1 - p3]]*den[sp[p1 - p4]]*den[sp[p3 + p4]]*sp[p2 - p4]*sp[p1 - p3 - p4] * ( 7/8*N^(-2)*ep + 27/16*N^(-2)*ep^2 + 3/16*N^(-2)*ep^3 - 7/8*ep - 27/16*ep^2 - 3/16*ep^3 )
 
-       + den[sp[p1 - p3]]*den[sp[p1 - p4]]*den[sp[p3 + p4]]*sp[p2 - p4]*sp[p2 - p3 - p4] * (  - 14*N^(-2)*V*ep - 27*N^(-2)*V*ep^2 - 3*N^(-2)*V*ep^3 )
+       + den[sp[p1 - p3]]*den[sp[p1 - p4]]*den[sp[p3 + p4]]*sp[p2 - p4]*sp[p2 - p3 - p4] * ( 7/8*N^(-2)*ep + 27/16*N^(-2)*ep^2 + 3/16*N^(-2)*ep^3 - 7/8*ep - 27/16*ep^2 - 3/16*ep^3 )
 
-       + den[sp[p1 - p3]]*den[sp[p1 - p4]]*den[sp[p3 + p4]]*sp[p2 - p4]^2 * ( 10*N^(-2)*V*ep + 14*N^(-2)*V*ep^2 )
+       + den[sp[p1 - p3]]*den[sp[p1 - p4]]*den[sp[p3 + p4]]*sp[p2 - p4]^2 * (  - 5/8*N^(-2)*ep - 7/8*N^(-2)*ep^2 + 5/8*ep + 7/8*ep^2 )
 
-       + den[sp[p1 - p3]]*den[sp[p2 - p3]]*s * (  - 12*N^(-4)*V*ep - 4*N^(-4)*V*ep^2 - 12*N^(-2)*V*ep - 4*N^(-2)*V*ep^2 )
+       + den[sp[p1 - p3]]*den[sp[p2 - p3]]*s * ( 3*N^(-4)*ep + N^(-4)*ep^2 - 3*ep - ep^2 )
 
-       + den[sp[p1 - p3]]*den[sp[p2 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p1 - p4]^2*sp[p2 - p4] * (  - 8*N^(-2)*V + 16*N^(-2)*V*ep - 8*N^(-2)*V*ep^2 )
+       + den[sp[p1 - p3]]*den[sp[p2 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p1 - p4]^2*sp[p2 - p4] * (  - 1/2 + 1/2*N^(-2) - N^(-2)*ep + 1/2*N^(-2)*ep^2 + ep - 1/2*ep^2 )
 
-       + den[sp[p1 - p3]]*den[sp[p2 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p2 - p4]^3 * (  - 8*N^(-2)*V + 16*N^(-2)*V*ep - 8*N^(-2)*V*ep^2 )
+       + den[sp[p1 - p3]]*den[sp[p2 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p2 - p4]^3 * (  - 1/2 + 1/2*N^(-2) - N^(-2)*ep + 1/2*N^(-2)*ep^2 + ep - 1/2*ep^2 )
 
-       + den[sp[p1 - p3]]*den[sp[p2 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p1 - p4]^3 * (  - 8*N^(-2)*V + 16*N^(-2)*V*ep - 8*N^(-2)*V*ep^2 )
+       + den[sp[p1 - p3]]*den[sp[p2 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p1 - p4]^3 * (  - 1/2 + 1/2*N^(-2) - N^(-2)*ep + 1/2*N^(-2)*ep^2 + ep - 1/2*ep^2 )
 
-       + den[sp[p1 - p3]]*den[sp[p2 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p1 - p4]*sp[p2 - p4]^2 * (  - 8*N^(-2)*V + 16*N^(-2)*V*ep - 8*N^(-2)*V*ep^2 )
+       + den[sp[p1 - p3]]*den[sp[p2 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p1 - p4]*sp[p2 - p4]^2 * (  - 1/2 + 1/2*N^(-2) - N^(-2)*ep + 1/2*N^(-2)*ep^2 + ep - 1/2*ep^2 )
 
-       + den[sp[p1 - p3]]*den[sp[p2 - p3]]*den[sp[p1 + p2 - p3]]*sp[p1 - p4]*sp[p1 - p3 - p4] * ( 8*N^(-2)*V*ep - 8*N^(-2)*V*ep^2 )
+       + den[sp[p1 - p3]]*den[sp[p2 - p3]]*den[sp[p1 + p2 - p3]]*sp[p1 - p4]*sp[p1 - p3 - p4] * (  - 2*N^(-2)*ep + 2*N^(-2)*ep^2 + 2*ep - 2*ep^2 )
 
-       + den[sp[p1 - p3]]*den[sp[p2 - p3]]*den[sp[p1 + p2 - p3]]*sp[p2 - p4]*sp[p2 - p3 - p4] * ( 8*N^(-2)*V*ep - 8*N^(-2)*V*ep^2 )
+       + den[sp[p1 - p3]]*den[sp[p2 - p3]]*den[sp[p1 + p2 - p3]]*sp[p2 - p4]*sp[p2 - p3 - p4] * (  - 2*N^(-2)*ep + 2*N^(-2)*ep^2 + 2*ep - 2*ep^2 )
 
-       + den[sp[p1 - p3]]*den[sp[p2 - p3]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p1 - p4]^3 * ( 2*N^(-2)*V*ep + N^(-2)*V*ep^2 + N^(-2)*V*ep^3 )
+       + den[sp[p1 - p3]]*den[sp[p2 - p3]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p1 - p4]^3 * (  - 1/8*N^(-2)*ep - 1/16*N^(-2)*ep^2 - 1/16*N^(-2)*ep^3 + 1/8*ep + 1/16*ep^2 + 1/16*ep^3 )
 
-       + den[sp[p1 - p3]]*den[sp[p2 - p3]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p1 - p4]^2*sp[p2 - p3 - p4] * (  - 2*N^(-2)*V*ep - N^(-2)*V*ep^2 - N^(-2)*V*ep^3 )
+       + den[sp[p1 - p3]]*den[sp[p2 - p3]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p1 - p4]^2*sp[p2 - p3 - p4] * ( 1/8*N^(-2)*ep + 1/16*N^(-2)*ep^2 + 1/16*N^(-2)*ep^3 - 1/8*ep - 1/16*ep^2 - 1/16*ep^3 )
 
-       + den[sp[p1 - p3]]*den[sp[p2 - p3]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p1 - p4]^2*sp[p2 - p4] * ( 6*N^(-2)*V*ep + 3*N^(-2)*V*ep^2 + 3*N^(-2)*V*ep^3 )
+       + den[sp[p1 - p3]]*den[sp[p2 - p3]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p1 - p4]^2*sp[p2 - p4] * (  - 3/8*N^(-2)*ep - 3/16*N^(-2)*ep^2 - 3/16*N^(-2)*ep^3 + 3/8*ep + 3/16*ep^2 + 3/16*ep^3 )
 
-       + den[sp[p1 - p3]]*den[sp[p2 - p3]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p1 - p4]*sp[p2 - p3 - p4]^2 * (  - 2*N^(-2)*V*ep - N^(-2)*V*ep^2 - N^(-2)*V*ep^3 )
+       + den[sp[p1 - p3]]*den[sp[p2 - p3]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p1 - p4]*sp[p2 - p3 - p4]^2 * ( 1/8*N^(-2)*ep + 1/16*N^(-2)*ep^2 + 1/16*N^(-2)*ep^3 - 1/8*ep - 1/16*ep^2 - 1/16*ep^3 )
 
-       + den[sp[p1 - p3]]*den[sp[p2 - p3]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p1 - p4]*sp[p2 - p4]*sp[p2 - p3 - p4] * (  - 4*N^(-2)*V*ep - 2*N^(-2)*V*ep^2 - 2*N^(-2)*V*ep^3 )
+       + den[sp[p1 - p3]]*den[sp[p2 - p3]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p1 - p4]*sp[p2 - p4]*sp[p2 - p3 - p4] * ( 1/4*N^(-2)*ep + 1/8*N^(-2)*ep^2 + 1/8*N^(-2)*ep^3 - 1/4*ep - 1/8*ep^2 - 1/8*ep^3 )
 
-       + den[sp[p1 - p3]]*den[sp[p2 - p3]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p1 - p4]*sp[p2 - p4]^2 * ( 6*N^(-2)*V*ep + 3*N^(-2)*V*ep^2 + 3*N^(-2)*V*ep^3 )
+       + den[sp[p1 - p3]]*den[sp[p2 - p3]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p1 - p4]*sp[p2 - p4]^2 * (  - 3/8*N^(-2)*ep - 3/16*N^(-2)*ep^2 - 3/16*N^(-2)*ep^3 + 3/8*ep + 3/16*ep^2 + 3/16*ep^3 )
 
-       + den[sp[p1 - p3]]*den[sp[p2 - p3]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p2 - p3 - p4]^3 * ( 2*N^(-2)*V*ep + N^(-2)*V*ep^2 + N^(-2)*V*ep^3 )
+       + den[sp[p1 - p3]]*den[sp[p2 - p3]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p2 - p3 - p4]^3 * (  - 1/8*N^(-2)*ep - 1/16*N^(-2)*ep^2 - 1/16*N^(-2)*ep^3 + 1/8*ep + 1/16*ep^2 + 1/16*ep^3 )
 
-       + den[sp[p1 - p3]]*den[sp[p2 - p3]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p2 - p4]*sp[p2 - p3 - p4]^2 * (  - 2*N^(-2)*V*ep - N^(-2)*V*ep^2 - N^(-2)*V*ep^3 )
+       + den[sp[p1 - p3]]*den[sp[p2 - p3]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p2 - p4]*sp[p2 - p3 - p4]^2 * ( 1/8*N^(-2)*ep + 1/16*N^(-2)*ep^2 + 1/16*N^(-2)*ep^3 - 1/8*ep - 1/16*ep^2 - 1/16*ep^3 )
 
-       + den[sp[p1 - p3]]*den[sp[p2 - p3]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p2 - p4]^2*sp[p2 - p3 - p4] * (  - 2*N^(-2)*V*ep - N^(-2)*V*ep^2 - N^(-2)*V*ep^3 )
+       + den[sp[p1 - p3]]*den[sp[p2 - p3]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p2 - p4]^2*sp[p2 - p3 - p4] * ( 1/8*N^(-2)*ep + 1/16*N^(-2)*ep^2 + 1/16*N^(-2)*ep^3 - 1/8*ep - 1/16*ep^2 - 1/16*ep^3 )
 
-       + den[sp[p1 - p3]]*den[sp[p2 - p3]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p2 - p4]^3 * ( 2*N^(-2)*V*ep + N^(-2)*V*ep^2 + N^(-2)*V*ep^3 )
+       + den[sp[p1 - p3]]*den[sp[p2 - p3]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p2 - p4]^3 * (  - 1/8*N^(-2)*ep - 1/16*N^(-2)*ep^2 - 1/16*N^(-2)*ep^3 + 1/8*ep + 1/16*ep^2 + 1/16*ep^3 )
 
-       + den[sp[p1 - p3]]*den[sp[p2 - p3]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3 - p4]^3 * ( 2*N^(-2)*V*ep + N^(-2)*V*ep^2 + N^(-2)*V*ep^3 )
+       + den[sp[p1 - p3]]*den[sp[p2 - p3]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3 - p4]^3 * (  - 1/8*N^(-2)*ep - 1/16*N^(-2)*ep^2 - 1/16*N^(-2)*ep^3 + 1/8*ep + 1/16*ep^2 + 1/16*ep^3 )
 
-       + den[sp[p1 - p3]]*den[sp[p2 - p3]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p4]*sp[p1 - p3 - p4]^2 * (  - 2*N^(-2)*V*ep - N^(-2)*V*ep^2 - N^(-2)*V*ep^3 )
+       + den[sp[p1 - p3]]*den[sp[p2 - p3]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p4]*sp[p1 - p3 - p4]^2 * ( 1/8*N^(-2)*ep + 1/16*N^(-2)*ep^2 + 1/16*N^(-2)*ep^3 - 1/8*ep - 1/16*ep^2 - 1/16*ep^3 )
 
-       + den[sp[p1 - p3]]*den[sp[p2 - p3]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p4]^2*sp[p1 - p3 - p4] * (  - 2*N^(-2)*V*ep - N^(-2)*V*ep^2 - N^(-2)*V*ep^3 )
+       + den[sp[p1 - p3]]*den[sp[p2 - p3]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p4]^2*sp[p1 - p3 - p4] * ( 1/8*N^(-2)*ep + 1/16*N^(-2)*ep^2 + 1/16*N^(-2)*ep^3 - 1/8*ep - 1/16*ep^2 - 1/16*ep^3 )
 
-       + den[sp[p1 - p3]]*den[sp[p2 - p3]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p4]^3 * ( 2*N^(-2)*V*ep + N^(-2)*V*ep^2 + N^(-2)*V*ep^3 )
+       + den[sp[p1 - p3]]*den[sp[p2 - p3]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p4]^3 * (  - 1/8*N^(-2)*ep - 1/16*N^(-2)*ep^2 - 1/16*N^(-2)*ep^3 + 1/8*ep + 1/16*ep^2 + 1/16*ep^3 )
 
-       + den[sp[p1 - p3]]*den[sp[p2 - p3]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p4]^2*sp[p2 - p4] * ( 6*N^(-2)*V*ep + 3*N^(-2)*V*ep^2 + 3*N^(-2)*V*ep^3 )
+       + den[sp[p1 - p3]]*den[sp[p2 - p3]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p4]^2*sp[p2 - p4] * (  - 3/8*N^(-2)*ep - 3/16*N^(-2)*ep^2 - 3/16*N^(-2)*ep^3 + 3/8*ep + 3/16*ep^2 + 3/16*ep^3 )
 
-       + den[sp[p1 - p3]]*den[sp[p2 - p3]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p4]*sp[p2 - p4]*sp[p1 - p3 - p4] * (  - 4*N^(-2)*V*ep - 2*N^(-2)*V*ep^2 - 2*N^(-2)*V*ep^3 )
+       + den[sp[p1 - p3]]*den[sp[p2 - p3]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p4]*sp[p2 - p4]*sp[p1 - p3 - p4] * ( 1/4*N^(-2)*ep + 1/8*N^(-2)*ep^2 + 1/8*N^(-2)*ep^3 - 1/4*ep - 1/8*ep^2 - 1/8*ep^3 )
 
-       + den[sp[p1 - p3]]*den[sp[p2 - p3]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p4]*sp[p2 - p4]^2 * ( 6*N^(-2)*V*ep + 3*N^(-2)*V*ep^2 + 3*N^(-2)*V*ep^3 )
+       + den[sp[p1 - p3]]*den[sp[p2 - p3]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p4]*sp[p2 - p4]^2 * (  - 3/8*N^(-2)*ep - 3/16*N^(-2)*ep^2 - 3/16*N^(-2)*ep^3 + 3/8*ep + 3/16*ep^2 + 3/16*ep^3 )
 
-       + den[sp[p1 - p3]]*den[sp[p2 - p3]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p2 - p4]*sp[p1 - p3 - p4]^2 * (  - 2*N^(-2)*V*ep - N^(-2)*V*ep^2 - N^(-2)*V*ep^3 )
+       + den[sp[p1 - p3]]*den[sp[p2 - p3]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p2 - p4]*sp[p1 - p3 - p4]^2 * ( 1/8*N^(-2)*ep + 1/16*N^(-2)*ep^2 + 1/16*N^(-2)*ep^3 - 1/8*ep - 1/16*ep^2 - 1/16*ep^3 )
 
-       + den[sp[p1 - p3]]*den[sp[p2 - p3]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p2 - p4]^2*sp[p1 - p3 - p4] * (  - 2*N^(-2)*V*ep - N^(-2)*V*ep^2 - N^(-2)*V*ep^3 )
+       + den[sp[p1 - p3]]*den[sp[p2 - p3]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p2 - p4]^2*sp[p1 - p3 - p4] * ( 1/8*N^(-2)*ep + 1/16*N^(-2)*ep^2 + 1/16*N^(-2)*ep^3 - 1/8*ep - 1/16*ep^2 - 1/16*ep^3 )
 
-       + den[sp[p1 - p3]]*den[sp[p2 - p3]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p2 - p4]^3 * ( 2*N^(-2)*V*ep + N^(-2)*V*ep^2 + N^(-2)*V*ep^3 )
+       + den[sp[p1 - p3]]*den[sp[p2 - p3]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p2 - p4]^3 * (  - 1/8*N^(-2)*ep - 1/16*N^(-2)*ep^2 - 1/16*N^(-2)*ep^3 + 1/8*ep + 1/16*ep^2 + 1/16*ep^3 )
 
-       + den[sp[p1 - p3]]*den[sp[p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3 - p4]^2 * ( 8*N^(-2)*V*ep + 4*N^(-2)*V*ep^2 + 4*N^(-2)*V*ep^3 )
+       + den[sp[p1 - p3]]*den[sp[p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3 - p4]^2 * (  - 1/2*N^(-2)*ep - 1/4*N^(-2)*ep^2 - 1/4*N^(-2)*ep^3 + 1/2*ep + 1/4*ep^2 + 1/4*ep^3 )
 
-       + den[sp[p1 - p3]]*den[sp[p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3 - p4]*sp[p2 - p3 - p4] * ( 12*N^(-2)*V*ep + 6*N^(-2)*V*ep^2 + 6*N^(-2)*V*ep^3 )
+       + den[sp[p1 - p3]]*den[sp[p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3 - p4]*sp[p2 - p3 - p4] * (  - 3/4*N^(-2)*ep - 3/8*N^(-2)*ep^2 - 3/8*N^(-2)*ep^3 + 3/4*ep + 3/8*ep^2 + 3/8*ep^3 )
 
-       + den[sp[p1 - p3]]*den[sp[p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p4]*sp[p1 - p3 - p4] * (  - 6*N^(-2)*V*ep - 3*N^(-2)*V*ep^2 - 3*N^(-2)*V*ep^3 )
+       + den[sp[p1 - p3]]*den[sp[p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p4]*sp[p1 - p3 - p4] * ( 3/8*N^(-2)*ep + 3/16*N^(-2)*ep^2 + 3/16*N^(-2)*ep^3 - 3/8*ep - 3/16*ep^2 - 3/16*ep^3 )
 
-       + den[sp[p1 - p3]]*den[sp[p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p4]^2 * (  - 4*N^(-2)*V*ep - 2*N^(-2)*V*ep^2 - 2*N^(-2)*V*ep^3 )
+       + den[sp[p1 - p3]]*den[sp[p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p4]^2 * ( 1/4*N^(-2)*ep + 1/8*N^(-2)*ep^2 + 1/8*N^(-2)*ep^3 - 1/4*ep - 1/8*ep^2 - 1/8*ep^3 )
 
-       + den[sp[p1 - p3]]*den[sp[p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p4]*sp[p2 - p3 - p4] * (  - 6*N^(-2)*V*ep - 3*N^(-2)*V*ep^2 - 3*N^(-2)*V*ep^3 )
+       + den[sp[p1 - p3]]*den[sp[p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p4]*sp[p2 - p3 - p4] * ( 3/8*N^(-2)*ep + 3/16*N^(-2)*ep^2 + 3/16*N^(-2)*ep^3 - 3/8*ep - 3/16*ep^2 - 3/16*ep^3 )
 
-       + den[sp[p1 - p3]]*den[sp[p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p4]*sp[p2 - p4] * (  - 8*N^(-2)*V*ep - 4*N^(-2)*V*ep^2 - 4*N^(-2)*V*ep^3 )
+       + den[sp[p1 - p3]]*den[sp[p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p4]*sp[p2 - p4] * ( 1/2*N^(-2)*ep + 1/4*N^(-2)*ep^2 + 1/4*N^(-2)*ep^3 - 1/2*ep - 1/4*ep^2 - 1/4*ep^3 )
 
-       + den[sp[p1 - p3]]*den[sp[p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p3 - p4]^2 * ( 8*N^(-2)*V*ep + 4*N^(-2)*V*ep^2 + 4*N^(-2)*V*ep^3 )
+       + den[sp[p1 - p3]]*den[sp[p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p3 - p4]^2 * (  - 1/2*N^(-2)*ep - 1/4*N^(-2)*ep^2 - 1/4*N^(-2)*ep^3 + 1/2*ep + 1/4*ep^2 + 1/4*ep^3 )
 
-       + den[sp[p1 - p3]]*den[sp[p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p4]*sp[p1 - p3 - p4] * (  - 6*N^(-2)*V*ep - 3*N^(-2)*V*ep^2 - 3*N^(-2)*V*ep^3 )
+       + den[sp[p1 - p3]]*den[sp[p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p4]*sp[p1 - p3 - p4] * ( 3/8*N^(-2)*ep + 3/16*N^(-2)*ep^2 + 3/16*N^(-2)*ep^3 - 3/8*ep - 3/16*ep^2 - 3/16*ep^3 )
 
-       + den[sp[p1 - p3]]*den[sp[p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p4]*sp[p2 - p3 - p4] * (  - 6*N^(-2)*V*ep - 3*N^(-2)*V*ep^2 - 3*N^(-2)*V*ep^3 )
+       + den[sp[p1 - p3]]*den[sp[p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p4]*sp[p2 - p3 - p4] * ( 3/8*N^(-2)*ep + 3/16*N^(-2)*ep^2 + 3/16*N^(-2)*ep^3 - 3/8*ep - 3/16*ep^2 - 3/16*ep^3 )
 
-       + den[sp[p1 - p3]]*den[sp[p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p4]^2 * (  - 4*N^(-2)*V*ep - 2*N^(-2)*V*ep^2 - 2*N^(-2)*V*ep^3 )
+       + den[sp[p1 - p3]]*den[sp[p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p4]^2 * ( 1/4*N^(-2)*ep + 1/8*N^(-2)*ep^2 + 1/8*N^(-2)*ep^3 - 1/4*ep - 1/8*ep^2 - 1/8*ep^3 )
 
-       + den[sp[p1 - p3]]*den[sp[p2 - p3]]*den[sp[p1 - p3 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p4]^2*s * ( 2*N^(-4)*V - 3*N^(-4)*V*ep + N^(-4)*V*ep^3 + 2*N^(-2)*V - 3*N^(-2)*V*ep + N^(-2)*V*ep^3 )
+       + den[sp[p1 - p3]]*den[sp[p2 - p3]]*den[sp[p1 - p3 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p4]^2*s * ( 1/2 - 1/2*N^(-4) + 3/4*N^(-4)*ep - 1/4*N^(-4)*ep^3 - 3/4*ep + 1/4*ep^3 )
 
-       + den[sp[p1 - p3]]*den[sp[p2 - p3]]*den[sp[p1 - p3 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p4]*sp[p2 - p4]*s * ( 2*N^(-4)*V*ep + 6*N^(-4)*V*ep^2 + 2*N^(-2)*V*ep + 6*N^(-2)*V*ep^2 )
+       + den[sp[p1 - p3]]*den[sp[p2 - p3]]*den[sp[p1 - p3 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p4]*sp[p2 - p4]*s * (  - 1/2*N^(-4)*ep - 3/2*N^(-4)*ep^2 + 1/2*ep + 3/2*ep^2 )
 
-       + den[sp[p1 - p3]]*den[sp[p2 - p3]]*den[sp[p1 - p3 - p4]]*den[sp[p2 - p3 - p4]]*sp[p2 - p4]^2*s * ( 2*N^(-4)*V - 3*N^(-4)*V*ep + N^(-4)*V*ep^3 + 2*N^(-2)*V - 3*N^(-2)*V*ep + N^(-2)*V*ep^3 )
+       + den[sp[p1 - p3]]*den[sp[p2 - p3]]*den[sp[p1 - p3 - p4]]*den[sp[p2 - p3 - p4]]*sp[p2 - p4]^2*s * ( 1/2 - 1/2*N^(-4) + 3/4*N^(-4)*ep - 1/4*N^(-4)*ep^3 - 3/4*ep + 1/4*ep^3 )
 
-       + den[sp[p1 - p3]]*den[sp[p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p2 - p3 - p4]*s * (  - N^(-4)*V*ep + 2*N^(-4)*V*ep^2 - N^(-4)*V*ep^3 - N^(-2)*V*ep + 2*N^(-2)*V*ep^2 - N^(-2)*V*ep^3 )
+       + den[sp[p1 - p3]]*den[sp[p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p2 - p3 - p4]*s * ( 1/4*N^(-4)*ep - 1/2*N^(-4)*ep^2 + 1/4*N^(-4)*ep^3 - 1/4*ep + 1/2*ep^2 - 1/4*ep^3 )
 
-       + den[sp[p1 - p3]]*den[sp[p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3 - p4]*s * (  - N^(-4)*V*ep + 2*N^(-4)*V*ep^2 - N^(-4)*V*ep^3 - N^(-2)*V*ep + 2*N^(-2)*V*ep^2 - N^(-2)*V*ep^3 )
+       + den[sp[p1 - p3]]*den[sp[p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3 - p4]*s * ( 1/4*N^(-4)*ep - 1/2*N^(-4)*ep^2 + 1/4*N^(-4)*ep^3 - 1/4*ep + 1/2*ep^2 - 1/4*ep^3 )
 
-       + den[sp[p1 - p3]]*den[sp[p2 - p3]]*den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*sp[p1 - p3 - p4]^3 * (  - 8*N^(-2)*V + 16*N^(-2)*V*ep - 8*N^(-2)*V*ep^2 )
+       + den[sp[p1 - p3]]*den[sp[p2 - p3]]*den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*sp[p1 - p3 - p4]^3 * (  - 1/2 + 1/2*N^(-2) - N^(-2)*ep + 1/2*N^(-2)*ep^2 + ep - 1/2*ep^2 )
 
-       + den[sp[p1 - p3]]*den[sp[p2 - p3]]*den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*sp[p1 - p3 - p4]*sp[p2 - p3 - p4]^2 * (  - 8*N^(-2)*V + 16*N^(-2)*V*ep - 8*N^(-2)*V*ep^2 )
+       + den[sp[p1 - p3]]*den[sp[p2 - p3]]*den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*sp[p1 - p3 - p4]*sp[p2 - p3 - p4]^2 * (  - 1/2 + 1/2*N^(-2) - N^(-2)*ep + 1/2*N^(-2)*ep^2 + ep - 1/2*ep^2 )
 
-       + den[sp[p1 - p3]]*den[sp[p2 - p3]]*den[sp[p2 - p4]]*den[sp[p3 + p4]]*sp[p1 - p3 - p4]^3 * ( 2*N^(-2)*V*ep + N^(-2)*V*ep^2 + N^(-2)*V*ep^3 )
+       + den[sp[p1 - p3]]*den[sp[p2 - p3]]*den[sp[p2 - p4]]*den[sp[p3 + p4]]*sp[p1 - p3 - p4]^3 * (  - 1/8*N^(-2)*ep - 1/16*N^(-2)*ep^2 - 1/16*N^(-2)*ep^3 + 1/8*ep + 1/16*ep^2 + 1/16*ep^3 )
 
-       + den[sp[p1 - p3]]*den[sp[p2 - p3]]*den[sp[p2 - p4]]*den[sp[p3 + p4]]*sp[p1 - p3 - p4]^2*sp[p2 - p3 - p4] * ( 6*N^(-2)*V*ep + 3*N^(-2)*V*ep^2 + 3*N^(-2)*V*ep^3 )
+       + den[sp[p1 - p3]]*den[sp[p2 - p3]]*den[sp[p2 - p4]]*den[sp[p3 + p4]]*sp[p1 - p3 - p4]^2*sp[p2 - p3 - p4] * (  - 3/8*N^(-2)*ep - 3/16*N^(-2)*ep^2 - 3/16*N^(-2)*ep^3 + 3/8*ep + 3/16*ep^2 + 3/16*ep^3 )
 
-       + den[sp[p1 - p3]]*den[sp[p2 - p3]]*den[sp[p2 - p4]]*den[sp[p3 + p4]]*sp[p1 - p3 - p4]*sp[p2 - p3 - p4]^2 * ( 6*N^(-2)*V*ep + 3*N^(-2)*V*ep^2 + 3*N^(-2)*V*ep^3 )
+       + den[sp[p1 - p3]]*den[sp[p2 - p3]]*den[sp[p2 - p4]]*den[sp[p3 + p4]]*sp[p1 - p3 - p4]*sp[p2 - p3 - p4]^2 * (  - 3/8*N^(-2)*ep - 3/16*N^(-2)*ep^2 - 3/16*N^(-2)*ep^3 + 3/8*ep + 3/16*ep^2 + 3/16*ep^3 )
 
-       + den[sp[p1 - p3]]*den[sp[p2 - p3]]*den[sp[p2 - p4]]*den[sp[p3 + p4]]*sp[p1 - p4]*sp[p1 - p3 - p4]^2 * (  - 2*N^(-2)*V*ep - N^(-2)*V*ep^2 - N^(-2)*V*ep^3 )
+       + den[sp[p1 - p3]]*den[sp[p2 - p3]]*den[sp[p2 - p4]]*den[sp[p3 + p4]]*sp[p1 - p4]*sp[p1 - p3 - p4]^2 * ( 1/8*N^(-2)*ep + 1/16*N^(-2)*ep^2 + 1/16*N^(-2)*ep^3 - 1/8*ep - 1/16*ep^2 - 1/16*ep^3 )
 
-       + den[sp[p1 - p3]]*den[sp[p2 - p3]]*den[sp[p2 - p4]]*den[sp[p3 + p4]]*sp[p1 - p4]*sp[p1 - p3 - p4]*sp[p2 - p3 - p4] * (  - 4*N^(-2)*V*ep - 2*N^(-2)*V*ep^2 - 2*N^(-2)*V*ep^3 )
+       + den[sp[p1 - p3]]*den[sp[p2 - p3]]*den[sp[p2 - p4]]*den[sp[p3 + p4]]*sp[p1 - p4]*sp[p1 - p3 - p4]*sp[p2 - p3 - p4] * ( 1/4*N^(-2)*ep + 1/8*N^(-2)*ep^2 + 1/8*N^(-2)*ep^3 - 1/4*ep - 1/8*ep^2 - 1/8*ep^3 )
 
-       + den[sp[p1 - p3]]*den[sp[p2 - p3]]*den[sp[p2 - p4]]*den[sp[p3 + p4]]*sp[p1 - p4]^2*sp[p1 - p3 - p4] * (  - 2*N^(-2)*V*ep - N^(-2)*V*ep^2 - N^(-2)*V*ep^3 )
+       + den[sp[p1 - p3]]*den[sp[p2 - p3]]*den[sp[p2 - p4]]*den[sp[p3 + p4]]*sp[p1 - p4]^2*sp[p1 - p3 - p4] * ( 1/8*N^(-2)*ep + 1/16*N^(-2)*ep^2 + 1/16*N^(-2)*ep^3 - 1/8*ep - 1/16*ep^2 - 1/16*ep^3 )
 
-       + den[sp[p1 - p3]]*den[sp[p2 - p3]]*den[sp[p2 - p4]]*den[sp[p3 + p4]]*sp[p1 - p4]^3 * ( 2*N^(-2)*V*ep + N^(-2)*V*ep^2 + N^(-2)*V*ep^3 )
+       + den[sp[p1 - p3]]*den[sp[p2 - p3]]*den[sp[p2 - p4]]*den[sp[p3 + p4]]*sp[p1 - p4]^3 * (  - 1/8*N^(-2)*ep - 1/16*N^(-2)*ep^2 - 1/16*N^(-2)*ep^3 + 1/8*ep + 1/16*ep^2 + 1/16*ep^3 )
 
-       + den[sp[p1 - p3]]*den[sp[p2 - p3]]*den[sp[p2 - p4]]*den[sp[p3 + p4]]*sp[p1 - p4]^2*sp[p2 - p3 - p4] * (  - 2*N^(-2)*V*ep - N^(-2)*V*ep^2 - N^(-2)*V*ep^3 )
+       + den[sp[p1 - p3]]*den[sp[p2 - p3]]*den[sp[p2 - p4]]*den[sp[p3 + p4]]*sp[p1 - p4]^2*sp[p2 - p3 - p4] * ( 1/8*N^(-2)*ep + 1/16*N^(-2)*ep^2 + 1/16*N^(-2)*ep^3 - 1/8*ep - 1/16*ep^2 - 1/16*ep^3 )
 
-       + den[sp[p1 - p3]]*den[sp[p2 - p3]]*den[sp[p2 - p4]]*den[sp[p3 + p4]]*sp[p1 - p4]*sp[p2 - p3 - p4]^2 * (  - 2*N^(-2)*V*ep - N^(-2)*V*ep^2 - N^(-2)*V*ep^3 )
+       + den[sp[p1 - p3]]*den[sp[p2 - p3]]*den[sp[p2 - p4]]*den[sp[p3 + p4]]*sp[p1 - p4]*sp[p2 - p3 - p4]^2 * ( 1/8*N^(-2)*ep + 1/16*N^(-2)*ep^2 + 1/16*N^(-2)*ep^3 - 1/8*ep - 1/16*ep^2 - 1/16*ep^3 )
 
-       + den[sp[p1 - p3]]*den[sp[p2 - p3]]*den[sp[p2 - p4]]*den[sp[p3 + p4]]*sp[p2 - p3 - p4]^3 * ( 2*N^(-2)*V*ep + N^(-2)*V*ep^2 + N^(-2)*V*ep^3 )
+       + den[sp[p1 - p3]]*den[sp[p2 - p3]]*den[sp[p2 - p4]]*den[sp[p3 + p4]]*sp[p2 - p3 - p4]^3 * (  - 1/8*N^(-2)*ep - 1/16*N^(-2)*ep^2 - 1/16*N^(-2)*ep^3 + 1/8*ep + 1/16*ep^2 + 1/16*ep^3 )
 
-       + den[sp[p1 - p3]]*den[sp[p2 - p3]]*den[sp[p2 - p4]]*sp[p1 - p4]*s * (  - N^(-4)*V*ep + 2*N^(-4)*V*ep^2 - N^(-4)*V*ep^3 - N^(-2)*V*ep + 2*N^(-2)*V*ep^2 - N^(-2)*V*ep^3 )
+       + den[sp[p1 - p3]]*den[sp[p2 - p3]]*den[sp[p2 - p4]]*sp[p1 - p4]*s * ( 1/4*N^(-4)*ep - 1/2*N^(-4)*ep^2 + 1/4*N^(-4)*ep^3 - 1/4*ep + 1/2*ep^2 - 1/4*ep^3 )
 
-       + den[sp[p1 - p3]]*den[sp[p2 - p3]]*den[sp[p3 + p4]]*sp[p1 - p3 - p4]^2 * (  - 4*N^(-2)*V*ep - 2*N^(-2)*V*ep^2 - 2*N^(-2)*V*ep^3 )
+       + den[sp[p1 - p3]]*den[sp[p2 - p3]]*den[sp[p3 + p4]]*sp[p1 - p3 - p4]^2 * ( 1/4*N^(-2)*ep + 1/8*N^(-2)*ep^2 + 1/8*N^(-2)*ep^3 - 1/4*ep - 1/8*ep^2 - 1/8*ep^3 )
 
-       + den[sp[p1 - p3]]*den[sp[p2 - p3]]*den[sp[p3 + p4]]*sp[p1 - p3 - p4]*sp[p2 - p3 - p4] * (  - 8*N^(-2)*V*ep - 4*N^(-2)*V*ep^2 - 4*N^(-2)*V*ep^3 )
+       + den[sp[p1 - p3]]*den[sp[p2 - p3]]*den[sp[p3 + p4]]*sp[p1 - p3 - p4]*sp[p2 - p3 - p4] * ( 1/2*N^(-2)*ep + 1/4*N^(-2)*ep^2 + 1/4*N^(-2)*ep^3 - 1/2*ep - 1/4*ep^2 - 1/4*ep^3 )
 
-       + den[sp[p1 - p3]]*den[sp[p2 - p3]]*den[sp[p3 + p4]]*sp[p1 - p4]*sp[p1 - p3 - p4] * (  - 6*N^(-2)*V*ep - 3*N^(-2)*V*ep^2 - 3*N^(-2)*V*ep^3 )
+       + den[sp[p1 - p3]]*den[sp[p2 - p3]]*den[sp[p3 + p4]]*sp[p1 - p4]*sp[p1 - p3 - p4] * ( 3/8*N^(-2)*ep + 3/16*N^(-2)*ep^2 + 3/16*N^(-2)*ep^3 - 3/8*ep - 3/16*ep^2 - 3/16*ep^3 )
 
-       + den[sp[p1 - p3]]*den[sp[p2 - p3]]*den[sp[p3 + p4]]*sp[p1 - p4]^2 * ( 8*N^(-2)*V*ep + 4*N^(-2)*V*ep^2 + 4*N^(-2)*V*ep^3 )
+       + den[sp[p1 - p3]]*den[sp[p2 - p3]]*den[sp[p3 + p4]]*sp[p1 - p4]^2 * (  - 1/2*N^(-2)*ep - 1/4*N^(-2)*ep^2 - 1/4*N^(-2)*ep^3 + 1/2*ep + 1/4*ep^2 + 1/4*ep^3 )
 
-       + den[sp[p1 - p3]]*den[sp[p2 - p3]]*den[sp[p3 + p4]]*sp[p1 - p4]*sp[p2 - p3 - p4] * (  - 6*N^(-2)*V*ep - 3*N^(-2)*V*ep^2 - 3*N^(-2)*V*ep^3 )
+       + den[sp[p1 - p3]]*den[sp[p2 - p3]]*den[sp[p3 + p4]]*sp[p1 - p4]*sp[p2 - p3 - p4] * ( 3/8*N^(-2)*ep + 3/16*N^(-2)*ep^2 + 3/16*N^(-2)*ep^3 - 3/8*ep - 3/16*ep^2 - 3/16*ep^3 )
 
-       + den[sp[p1 - p3]]*den[sp[p2 - p3]]*den[sp[p3 + p4]]*sp[p1 - p4]*sp[p2 - p4] * ( 12*N^(-2)*V*ep + 6*N^(-2)*V*ep^2 + 6*N^(-2)*V*ep^3 )
+       + den[sp[p1 - p3]]*den[sp[p2 - p3]]*den[sp[p3 + p4]]*sp[p1 - p4]*sp[p2 - p4] * (  - 3/4*N^(-2)*ep - 3/8*N^(-2)*ep^2 - 3/8*N^(-2)*ep^3 + 3/4*ep + 3/8*ep^2 + 3/8*ep^3 )
 
-       + den[sp[p1 - p3]]*den[sp[p2 - p3]]*den[sp[p3 + p4]]*sp[p2 - p3 - p4]^2 * (  - 4*N^(-2)*V*ep - 2*N^(-2)*V*ep^2 - 2*N^(-2)*V*ep^3 )
+       + den[sp[p1 - p3]]*den[sp[p2 - p3]]*den[sp[p3 + p4]]*sp[p2 - p3 - p4]^2 * ( 1/4*N^(-2)*ep + 1/8*N^(-2)*ep^2 + 1/8*N^(-2)*ep^3 - 1/4*ep - 1/8*ep^2 - 1/8*ep^3 )
 
-       + den[sp[p1 - p3]]*den[sp[p2 - p3]]*den[sp[p3 + p4]]*sp[p2 - p4]*sp[p1 - p3 - p4] * (  - 6*N^(-2)*V*ep - 3*N^(-2)*V*ep^2 - 3*N^(-2)*V*ep^3 )
+       + den[sp[p1 - p3]]*den[sp[p2 - p3]]*den[sp[p3 + p4]]*sp[p2 - p4]*sp[p1 - p3 - p4] * ( 3/8*N^(-2)*ep + 3/16*N^(-2)*ep^2 + 3/16*N^(-2)*ep^3 - 3/8*ep - 3/16*ep^2 - 3/16*ep^3 )
 
-       + den[sp[p1 - p3]]*den[sp[p2 - p3]]*den[sp[p3 + p4]]*sp[p2 - p4]*sp[p2 - p3 - p4] * (  - 6*N^(-2)*V*ep - 3*N^(-2)*V*ep^2 - 3*N^(-2)*V*ep^3 )
+       + den[sp[p1 - p3]]*den[sp[p2 - p3]]*den[sp[p3 + p4]]*sp[p2 - p4]*sp[p2 - p3 - p4] * ( 3/8*N^(-2)*ep + 3/16*N^(-2)*ep^2 + 3/16*N^(-2)*ep^3 - 3/8*ep - 3/16*ep^2 - 3/16*ep^3 )
 
-       + den[sp[p1 - p3]]*den[sp[p2 - p3]]*den[sp[p3 + p4]]*sp[p2 - p4]^2 * ( 8*N^(-2)*V*ep + 4*N^(-2)*V*ep^2 + 4*N^(-2)*V*ep^3 )
+       + den[sp[p1 - p3]]*den[sp[p2 - p3]]*den[sp[p3 + p4]]*sp[p2 - p4]^2 * (  - 1/2*N^(-2)*ep - 1/4*N^(-2)*ep^2 - 1/4*N^(-2)*ep^3 + 1/2*ep + 1/4*ep^2 + 1/4*ep^3 )
 
-       + den[sp[p1 - p3]]*den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3 - p4]^4*s^(-1) * (  - 4*V*ep - 6*V*ep^2 + 2*V*ep^3 )
+       + den[sp[p1 - p3]]*den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3 - p4]^4*s^(-1) * ( 1/16*ep + 3/32*ep^2 - 1/32*ep^3 - 1/16*N^2*ep - 3/32*N^2*ep^2 + 1/32*N^2*ep^3 )
 
-       + den[sp[p1 - p3]]*den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3 - p4]^3*sp[p2 - p3 - p4]*s^(-1) * ( 32*V - 32*V*ep + 24*V*ep^2 + 8*V*ep^3 )
+       + den[sp[p1 - p3]]*den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3 - p4]^3*sp[p2 - p3 - p4]*s^(-1) * (  - 1/2 + 1/2*ep - 3/8*ep^2 - 1/8*ep^3 + 1/2*N^2 - 1/2*N^2*ep + 3/8*N^2*ep^2 + 1/8*N^2*ep^3 )
 
-       + den[sp[p1 - p3]]*den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3 - p4]^2*sp[p2 - p3 - p4]^2*s^(-1) * ( 8*V*ep + 60*V*ep^2 + 12*V*ep^3 )
+       + den[sp[p1 - p3]]*den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3 - p4]^2*sp[p2 - p3 - p4]^2*s^(-1) * (  - 1/8*ep - 15/16*ep^2 - 3/16*ep^3 + 1/8*N^2*ep + 15/16*N^2*ep^2 + 3/16*N^2*ep^3 )
 
-       + den[sp[p1 - p3]]*den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3 - p4]*sp[p2 - p3 - p4]^3*s^(-1) * ( 32*V - 32*V*ep + 24*V*ep^2 + 8*V*ep^3 )
+       + den[sp[p1 - p3]]*den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3 - p4]*sp[p2 - p3 - p4]^3*s^(-1) * (  - 1/2 + 1/2*ep - 3/8*ep^2 - 1/8*ep^3 + 1/2*N^2 - 1/2*N^2*ep + 3/8*N^2*ep^2 + 1/8*N^2*ep^3 )
 
-       + den[sp[p1 - p3]]*den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p4]*sp[p1 - p3 - p4]^3*s^(-1) * ( 2*V*ep - 2*V*ep^2 )
+       + den[sp[p1 - p3]]*den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p4]*sp[p1 - p3 - p4]^3*s^(-1) * (  - 1/32*ep + 1/32*ep^2 + 1/32*N^2*ep - 1/32*N^2*ep^2 )
 
-       + den[sp[p1 - p3]]*den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p4]*sp[p1 - p3 - p4]^2*sp[p2 - p3 - p4]*s^(-1) * (  - 2*V*ep + 2*V*ep^2 )
+       + den[sp[p1 - p3]]*den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p4]*sp[p1 - p3 - p4]^2*sp[p2 - p3 - p4]*s^(-1) * ( 1/32*ep - 1/32*ep^2 - 1/32*N^2*ep + 1/32*N^2*ep^2 )
 
-       + den[sp[p1 - p3]]*den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p4]*sp[p1 - p3 - p4]*sp[p2 - p3 - p4]^2*s^(-1) * (  - 2*V*ep + 2*V*ep^2 )
+       + den[sp[p1 - p3]]*den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p4]*sp[p1 - p3 - p4]*sp[p2 - p3 - p4]^2*s^(-1) * ( 1/32*ep - 1/32*ep^2 - 1/32*N^2*ep + 1/32*N^2*ep^2 )
 
-       + den[sp[p1 - p3]]*den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p4]^2*sp[p1 - p3 - p4]^2*s^(-1) * ( 8*V*ep + 12*V*ep^2 - 4*V*ep^3 )
+       + den[sp[p1 - p3]]*den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p4]^2*sp[p1 - p3 - p4]^2*s^(-1) * (  - 1/8*ep - 3/16*ep^2 + 1/16*ep^3 + 1/8*N^2*ep + 3/16*N^2*ep^2 - 1/16*N^2*ep^3 )
 
-       + den[sp[p1 - p3]]*den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p4]^2*sp[p1 - p3 - p4]*sp[p2 - p3 - p4]*s^(-1) * (  - 32*V*ep + 8*V*ep^2 - 8*V*ep^3 )
+       + den[sp[p1 - p3]]*den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p4]^2*sp[p1 - p3 - p4]*sp[p2 - p3 - p4]*s^(-1) * ( 1/2*ep - 1/8*ep^2 + 1/8*ep^3 - 1/2*N^2*ep + 1/8*N^2*ep^2 - 1/8*N^2*ep^3 )
 
-       + den[sp[p1 - p3]]*den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p4]^3*sp[p1 - p3 - p4]*s^(-1) * (  - 2*V*ep + 2*V*ep^2 )
+       + den[sp[p1 - p3]]*den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p4]^3*sp[p1 - p3 - p4]*s^(-1) * ( 1/32*ep - 1/32*ep^2 - 1/32*N^2*ep + 1/32*N^2*ep^2 )
 
-       + den[sp[p1 - p3]]*den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p4]^4*s^(-1) * (  - 4*V*ep - 6*V*ep^2 + 2*V*ep^3 )
+       + den[sp[p1 - p3]]*den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p4]^4*s^(-1) * ( 1/16*ep + 3/32*ep^2 - 1/32*ep^3 - 1/16*N^2*ep - 3/32*N^2*ep^2 + 1/32*N^2*ep^3 )
 
-       + den[sp[p1 - p3]]*den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p4]^3*sp[p2 - p3 - p4]*s^(-1) * (  - 2*V*ep + 2*V*ep^2 )
+       + den[sp[p1 - p3]]*den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p4]^3*sp[p2 - p3 - p4]*s^(-1) * ( 1/32*ep - 1/32*ep^2 - 1/32*N^2*ep + 1/32*N^2*ep^2 )
 
-       + den[sp[p1 - p3]]*den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p4]^2*sp[p2 - p3]*sp[p1 - p3 - p4]*s^(-1) * ( 2*V*ep - 2*V*ep^2 )
+       + den[sp[p1 - p3]]*den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p4]^2*sp[p2 - p3]*sp[p1 - p3 - p4]*s^(-1) * (  - 1/32*ep + 1/32*ep^2 + 1/32*N^2*ep - 1/32*N^2*ep^2 )
 
-       + den[sp[p1 - p3]]*den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p4]^2*sp[p2 - p3]^2*s^(-1) * ( 8*V*ep + 12*V*ep^2 - 4*V*ep^3 )
+       + den[sp[p1 - p3]]*den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p4]^2*sp[p2 - p3]^2*s^(-1) * (  - 1/8*ep - 3/16*ep^2 + 1/16*ep^3 + 1/8*N^2*ep + 3/16*N^2*ep^2 - 1/16*N^2*ep^3 )
 
-       + den[sp[p1 - p3]]*den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p4]^2*sp[p2 - p3]*sp[p2 - p3 - p4]*s^(-1) * ( 2*V*ep - 2*V*ep^2 )
+       + den[sp[p1 - p3]]*den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p4]^2*sp[p2 - p3]*sp[p2 - p3 - p4]*s^(-1) * (  - 1/32*ep + 1/32*ep^2 + 1/32*N^2*ep - 1/32*N^2*ep^2 )
 
-       + den[sp[p1 - p3]]*den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p4]^2*sp[p2 - p3 - p4]^2*s^(-1) * ( 8*V*ep + 12*V*ep^2 - 4*V*ep^3 )
+       + den[sp[p1 - p3]]*den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p4]^2*sp[p2 - p3 - p4]^2*s^(-1) * (  - 1/8*ep - 3/16*ep^2 + 1/16*ep^3 + 1/8*N^2*ep + 3/16*N^2*ep^2 - 1/16*N^2*ep^3 )
 
-       + den[sp[p1 - p3]]*den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p4]*sp[p2 - p3]^2*sp[p1 - p3 - p4]*s^(-1) * ( 2*V*ep - 2*V*ep^2 )
+       + den[sp[p1 - p3]]*den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p4]*sp[p2 - p3]^2*sp[p1 - p3 - p4]*s^(-1) * (  - 1/32*ep + 1/32*ep^2 + 1/32*N^2*ep - 1/32*N^2*ep^2 )
 
-       + den[sp[p1 - p3]]*den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p4]*sp[p2 - p3]^2*sp[p2 - p3 - p4]*s^(-1) * ( 2*V*ep - 2*V*ep^2 )
+       + den[sp[p1 - p3]]*den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p4]*sp[p2 - p3]^2*sp[p2 - p3 - p4]*s^(-1) * (  - 1/32*ep + 1/32*ep^2 + 1/32*N^2*ep - 1/32*N^2*ep^2 )
 
-       + den[sp[p1 - p3]]*den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p4]*sp[p2 - p3 - p4]^3*s^(-1) * ( 2*V*ep - 2*V*ep^2 )
+       + den[sp[p1 - p3]]*den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p4]*sp[p2 - p3 - p4]^3*s^(-1) * (  - 1/32*ep + 1/32*ep^2 + 1/32*N^2*ep - 1/32*N^2*ep^2 )
 
-       + den[sp[p1 - p3]]*den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p3]*sp[p1 - p3 - p4]^3*s^(-1) * ( 2*V*ep - 2*V*ep^2 )
+       + den[sp[p1 - p3]]*den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p3]*sp[p1 - p3 - p4]^3*s^(-1) * (  - 1/32*ep + 1/32*ep^2 + 1/32*N^2*ep - 1/32*N^2*ep^2 )
 
-       + den[sp[p1 - p3]]*den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p3]*sp[p1 - p3 - p4]^2*sp[p2 - p3 - p4]*s^(-1) * (  - 2*V*ep + 2*V*ep^2 )
+       + den[sp[p1 - p3]]*den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p3]*sp[p1 - p3 - p4]^2*sp[p2 - p3 - p4]*s^(-1) * ( 1/32*ep - 1/32*ep^2 - 1/32*N^2*ep + 1/32*N^2*ep^2 )
 
-       + den[sp[p1 - p3]]*den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p3]*sp[p1 - p3 - p4]*sp[p2 - p3 - p4]^2*s^(-1) * (  - 2*V*ep + 2*V*ep^2 )
+       + den[sp[p1 - p3]]*den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p3]*sp[p1 - p3 - p4]*sp[p2 - p3 - p4]^2*s^(-1) * ( 1/32*ep - 1/32*ep^2 - 1/32*N^2*ep + 1/32*N^2*ep^2 )
 
-       + den[sp[p1 - p3]]*den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p3]^2*sp[p1 - p3 - p4]^2*s^(-1) * ( 8*V*ep + 12*V*ep^2 - 4*V*ep^3 )
+       + den[sp[p1 - p3]]*den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p3]^2*sp[p1 - p3 - p4]^2*s^(-1) * (  - 1/8*ep - 3/16*ep^2 + 1/16*ep^3 + 1/8*N^2*ep + 3/16*N^2*ep^2 - 1/16*N^2*ep^3 )
 
-       + den[sp[p1 - p3]]*den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p3]^2*sp[p1 - p3 - p4]*sp[p2 - p3 - p4]*s^(-1) * (  - 32*V*ep + 8*V*ep^2 - 8*V*ep^3 )
+       + den[sp[p1 - p3]]*den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p3]^2*sp[p1 - p3 - p4]*sp[p2 - p3 - p4]*s^(-1) * ( 1/2*ep - 1/8*ep^2 + 1/8*ep^3 - 1/2*N^2*ep + 1/8*N^2*ep^2 - 1/8*N^2*ep^3 )
 
-       + den[sp[p1 - p3]]*den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p3]^3*sp[p1 - p3 - p4]*s^(-1) * (  - 2*V*ep + 2*V*ep^2 )
+       + den[sp[p1 - p3]]*den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p3]^3*sp[p1 - p3 - p4]*s^(-1) * ( 1/32*ep - 1/32*ep^2 - 1/32*N^2*ep + 1/32*N^2*ep^2 )
 
-       + den[sp[p1 - p3]]*den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p3]^4*s^(-1) * (  - 4*V*ep - 6*V*ep^2 + 2*V*ep^3 )
+       + den[sp[p1 - p3]]*den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p3]^4*s^(-1) * ( 1/16*ep + 3/32*ep^2 - 1/32*ep^3 - 1/16*N^2*ep - 3/32*N^2*ep^2 + 1/32*N^2*ep^3 )
 
-       + den[sp[p1 - p3]]*den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p3]^3*sp[p2 - p3 - p4]*s^(-1) * (  - 2*V*ep + 2*V*ep^2 )
+       + den[sp[p1 - p3]]*den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p3]^3*sp[p2 - p3 - p4]*s^(-1) * ( 1/32*ep - 1/32*ep^2 - 1/32*N^2*ep + 1/32*N^2*ep^2 )
 
-       + den[sp[p1 - p3]]*den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p3]^2*sp[p2 - p3 - p4]^2*s^(-1) * ( 8*V*ep + 12*V*ep^2 - 4*V*ep^3 )
+       + den[sp[p1 - p3]]*den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p3]^2*sp[p2 - p3 - p4]^2*s^(-1) * (  - 1/8*ep - 3/16*ep^2 + 1/16*ep^3 + 1/8*N^2*ep + 3/16*N^2*ep^2 - 1/16*N^2*ep^3 )
 
-       + den[sp[p1 - p3]]*den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p3]*sp[p2 - p3 - p4]^3*s^(-1) * ( 2*V*ep - 2*V*ep^2 )
+       + den[sp[p1 - p3]]*den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p3]*sp[p2 - p3 - p4]^3*s^(-1) * (  - 1/32*ep + 1/32*ep^2 + 1/32*N^2*ep - 1/32*N^2*ep^2 )
 
-       + den[sp[p1 - p3]]*den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p3 - p4]^4*s^(-1) * (  - 4*V*ep - 6*V*ep^2 + 2*V*ep^3 )
+       + den[sp[p1 - p3]]*den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p3 - p4]^4*s^(-1) * ( 1/16*ep + 3/32*ep^2 - 1/32*ep^3 - 1/16*N^2*ep - 3/32*N^2*ep^2 + 1/32*N^2*ep^3 )
 
-       + den[sp[p1 - p3]]*den[sp[p2 - p4]]*den[sp[p3 + p4]]*sp[p1 - p3 - p4]^2 * (  - 8*N^(-2)*V + 6*N^(-2)*V*ep - 2*N^(-2)*V*ep^2 - 4*N^(-2)*V*ep^3 )
+       + den[sp[p1 - p3]]*den[sp[p2 - p4]]*den[sp[p3 + p4]]*sp[p1 - p3 - p4]^2 * (  - 1/2 + 1/2*N^(-2) - 3/8*N^(-2)*ep + 1/8*N^(-2)*ep^2 + 1/4*N^(-2)*ep^3 + 3/8*ep - 1/8*ep^2 - 1/4*ep^3 )
 
-       + den[sp[p1 - p3]]*den[sp[p2 - p4]]*den[sp[p3 + p4]]*sp[p1 - p3 - p4]*sp[p2 - p3 - p4] * (  - 12*N^(-2)*V*ep - 28*N^(-2)*V*ep^2 - 8*N^(-2)*V*ep^3 )
+       + den[sp[p1 - p3]]*den[sp[p2 - p4]]*den[sp[p3 + p4]]*sp[p1 - p3 - p4]*sp[p2 - p3 - p4] * ( 3/4*N^(-2)*ep + 7/4*N^(-2)*ep^2 + 1/2*N^(-2)*ep^3 - 3/4*ep - 7/4*ep^2 - 1/2*ep^3 )
 
-       + den[sp[p1 - p3]]*den[sp[p2 - p4]]*den[sp[p3 + p4]]*sp[p1 - p4]*sp[p1 - p3 - p4] * (  - 2*N^(-2)*V*ep + 9*N^(-2)*V*ep^2 - 3*N^(-2)*V*ep^3 )
+       + den[sp[p1 - p3]]*den[sp[p2 - p4]]*den[sp[p3 + p4]]*sp[p1 - p4]*sp[p1 - p3 - p4] * ( 1/8*N^(-2)*ep - 9/16*N^(-2)*ep^2 + 3/16*N^(-2)*ep^3 - 1/8*ep + 9/16*ep^2 - 3/16*ep^3 )
 
-       + den[sp[p1 - p3]]*den[sp[p2 - p4]]*den[sp[p3 + p4]]*sp[p1 - p4]^2 * ( 10*N^(-2)*V*ep - 16*N^(-2)*V*ep^2 + 6*N^(-2)*V*ep^3 )
+       + den[sp[p1 - p3]]*den[sp[p2 - p4]]*den[sp[p3 + p4]]*sp[p1 - p4]^2 * (  - 5/8*N^(-2)*ep + N^(-2)*ep^2 - 3/8*N^(-2)*ep^3 + 5/8*ep - ep^2 + 3/8*ep^3 )
 
-       + den[sp[p1 - p3]]*den[sp[p2 - p4]]*den[sp[p3 + p4]]*sp[p1 - p4]*sp[p2 - p3] * (  - 18*N^(-2)*V*ep^2 + 10*N^(-2)*V*ep^3 )
+       + den[sp[p1 - p3]]*den[sp[p2 - p4]]*den[sp[p3 + p4]]*sp[p1 - p4]*sp[p2 - p3] * ( 9/8*N^(-2)*ep^2 - 5/8*N^(-2)*ep^3 - 9/8*ep^2 + 5/8*ep^3 )
 
-       + den[sp[p1 - p3]]*den[sp[p2 - p4]]*den[sp[p3 + p4]]*sp[p1 - p4]*sp[p2 - p3 - p4] * (  - 2*N^(-2)*V*ep + 9*N^(-2)*V*ep^2 - 3*N^(-2)*V*ep^3 )
+       + den[sp[p1 - p3]]*den[sp[p2 - p4]]*den[sp[p3 + p4]]*sp[p1 - p4]*sp[p2 - p3 - p4] * ( 1/8*N^(-2)*ep - 9/16*N^(-2)*ep^2 + 3/16*N^(-2)*ep^3 - 1/8*ep + 9/16*ep^2 - 3/16*ep^3 )
 
-       + den[sp[p1 - p3]]*den[sp[p2 - p4]]*den[sp[p3 + p4]]*sp[p2 - p3]*sp[p1 - p3 - p4] * (  - 2*N^(-2)*V*ep + 9*N^(-2)*V*ep^2 - 3*N^(-2)*V*ep^3 )
+       + den[sp[p1 - p3]]*den[sp[p2 - p4]]*den[sp[p3 + p4]]*sp[p2 - p3]*sp[p1 - p3 - p4] * ( 1/8*N^(-2)*ep - 9/16*N^(-2)*ep^2 + 3/16*N^(-2)*ep^3 - 1/8*ep + 9/16*ep^2 - 3/16*ep^3 )
 
-       + den[sp[p1 - p3]]*den[sp[p2 - p4]]*den[sp[p3 + p4]]*sp[p2 - p3]^2 * ( 10*N^(-2)*V*ep - 16*N^(-2)*V*ep^2 + 6*N^(-2)*V*ep^3 )
+       + den[sp[p1 - p3]]*den[sp[p2 - p4]]*den[sp[p3 + p4]]*sp[p2 - p3]^2 * (  - 5/8*N^(-2)*ep + N^(-2)*ep^2 - 3/8*N^(-2)*ep^3 + 5/8*ep - ep^2 + 3/8*ep^3 )
 
-       + den[sp[p1 - p3]]*den[sp[p2 - p4]]*den[sp[p3 + p4]]*sp[p2 - p3]*sp[p2 - p3 - p4] * (  - 2*N^(-2)*V*ep + 9*N^(-2)*V*ep^2 - 3*N^(-2)*V*ep^3 )
+       + den[sp[p1 - p3]]*den[sp[p2 - p4]]*den[sp[p3 + p4]]*sp[p2 - p3]*sp[p2 - p3 - p4] * ( 1/8*N^(-2)*ep - 9/16*N^(-2)*ep^2 + 3/16*N^(-2)*ep^3 - 1/8*ep + 9/16*ep^2 - 3/16*ep^3 )
 
-       + den[sp[p1 - p3]]*den[sp[p2 - p4]]*den[sp[p3 + p4]]*sp[p2 - p3 - p4]^2 * (  - 8*N^(-2)*V + 6*N^(-2)*V*ep - 2*N^(-2)*V*ep^2 - 4*N^(-2)*V*ep^3 )
+       + den[sp[p1 - p3]]*den[sp[p2 - p4]]*den[sp[p3 + p4]]*sp[p2 - p3 - p4]^2 * (  - 1/2 + 1/2*N^(-2) - 3/8*N^(-2)*ep + 1/8*N^(-2)*ep^2 + 1/4*N^(-2)*ep^3 + 3/8*ep - 1/8*ep^2 - 1/4*ep^3 )
 
-       + den[sp[p1 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p1 - p4]^4*s^(-1) * (  - 4*V*ep - 6*V*ep^2 + 2*V*ep^3 )
+       + den[sp[p1 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p1 - p4]^4*s^(-1) * ( 1/16*ep + 3/32*ep^2 - 1/32*ep^3 - 1/16*N^2*ep - 3/32*N^2*ep^2 + 1/32*N^2*ep^3 )
 
-       + den[sp[p1 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p1 - p4]^3*sp[p2 - p3]*s^(-1) * ( 2*V*ep - 2*V*ep^2 )
+       + den[sp[p1 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p1 - p4]^3*sp[p2 - p3]*s^(-1) * (  - 1/32*ep + 1/32*ep^2 + 1/32*N^2*ep - 1/32*N^2*ep^2 )
 
-       + den[sp[p1 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p1 - p4]^3*sp[p2 - p3 - p4]*s^(-1) * ( 2*V*ep - 2*V*ep^2 )
+       + den[sp[p1 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p1 - p4]^3*sp[p2 - p3 - p4]*s^(-1) * (  - 1/32*ep + 1/32*ep^2 + 1/32*N^2*ep - 1/32*N^2*ep^2 )
 
-       + den[sp[p1 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p1 - p4]^3*sp[p2 - p4]*s^(-1) * ( 32*V - 32*V*ep + 24*V*ep^2 + 8*V*ep^3 )
+       + den[sp[p1 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p1 - p4]^3*sp[p2 - p4]*s^(-1) * (  - 1/2 + 1/2*ep - 3/8*ep^2 - 1/8*ep^3 + 1/2*N^2 - 1/2*N^2*ep + 3/8*N^2*ep^2 + 1/8*N^2*ep^3 )
 
-       + den[sp[p1 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p1 - p4]^2*sp[p2 - p3]^2*s^(-1) * ( 8*V*ep + 12*V*ep^2 - 4*V*ep^3 )
+       + den[sp[p1 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p1 - p4]^2*sp[p2 - p3]^2*s^(-1) * (  - 1/8*ep - 3/16*ep^2 + 1/16*ep^3 + 1/8*N^2*ep + 3/16*N^2*ep^2 - 1/16*N^2*ep^3 )
 
-       + den[sp[p1 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p1 - p4]^2*sp[p2 - p3]*sp[p2 - p4]*s^(-1) * (  - 2*V*ep + 2*V*ep^2 )
+       + den[sp[p1 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p1 - p4]^2*sp[p2 - p3]*sp[p2 - p4]*s^(-1) * ( 1/32*ep - 1/32*ep^2 - 1/32*N^2*ep + 1/32*N^2*ep^2 )
 
-       + den[sp[p1 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p1 - p4]^2*sp[p2 - p3 - p4]^2*s^(-1) * ( 8*V*ep + 12*V*ep^2 - 4*V*ep^3 )
+       + den[sp[p1 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p1 - p4]^2*sp[p2 - p3 - p4]^2*s^(-1) * (  - 1/8*ep - 3/16*ep^2 + 1/16*ep^3 + 1/8*N^2*ep + 3/16*N^2*ep^2 - 1/16*N^2*ep^3 )
 
-       + den[sp[p1 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p1 - p4]^2*sp[p2 - p4]*sp[p2 - p3 - p4]*s^(-1) * (  - 2*V*ep + 2*V*ep^2 )
+       + den[sp[p1 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p1 - p4]^2*sp[p2 - p4]*sp[p2 - p3 - p4]*s^(-1) * ( 1/32*ep - 1/32*ep^2 - 1/32*N^2*ep + 1/32*N^2*ep^2 )
 
-       + den[sp[p1 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p1 - p4]^2*sp[p2 - p4]^2*s^(-1) * ( 8*V*ep + 60*V*ep^2 + 12*V*ep^3 )
+       + den[sp[p1 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p1 - p4]^2*sp[p2 - p4]^2*s^(-1) * (  - 1/8*ep - 15/16*ep^2 - 3/16*ep^3 + 1/8*N^2*ep + 15/16*N^2*ep^2 + 3/16*N^2*ep^3 )
 
-       + den[sp[p1 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p1 - p4]*sp[p2 - p3]^3*s^(-1) * (  - 2*V*ep + 2*V*ep^2 )
+       + den[sp[p1 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p1 - p4]*sp[p2 - p3]^3*s^(-1) * ( 1/32*ep - 1/32*ep^2 - 1/32*N^2*ep + 1/32*N^2*ep^2 )
 
-       + den[sp[p1 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p1 - p4]*sp[p2 - p3]^2*sp[p2 - p3 - p4]*s^(-1) * ( 2*V*ep - 2*V*ep^2 )
+       + den[sp[p1 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p1 - p4]*sp[p2 - p3]^2*sp[p2 - p3 - p4]*s^(-1) * (  - 1/32*ep + 1/32*ep^2 + 1/32*N^2*ep - 1/32*N^2*ep^2 )
 
-       + den[sp[p1 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p1 - p4]*sp[p2 - p3]^2*sp[p2 - p4]*s^(-1) * (  - 32*V*ep + 8*V*ep^2 - 8*V*ep^3 )
+       + den[sp[p1 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p1 - p4]*sp[p2 - p3]^2*sp[p2 - p4]*s^(-1) * ( 1/2*ep - 1/8*ep^2 + 1/8*ep^3 - 1/2*N^2*ep + 1/8*N^2*ep^2 - 1/8*N^2*ep^3 )
 
-       + den[sp[p1 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p1 - p4]*sp[p2 - p3]*sp[p2 - p3 - p4]^2*s^(-1) * ( 2*V*ep - 2*V*ep^2 )
+       + den[sp[p1 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p1 - p4]*sp[p2 - p3]*sp[p2 - p3 - p4]^2*s^(-1) * (  - 1/32*ep + 1/32*ep^2 + 1/32*N^2*ep - 1/32*N^2*ep^2 )
 
-       + den[sp[p1 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p1 - p4]*sp[p2 - p3]*sp[p2 - p4]^2*s^(-1) * (  - 2*V*ep + 2*V*ep^2 )
+       + den[sp[p1 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p1 - p4]*sp[p2 - p3]*sp[p2 - p4]^2*s^(-1) * ( 1/32*ep - 1/32*ep^2 - 1/32*N^2*ep + 1/32*N^2*ep^2 )
 
-       + den[sp[p1 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p1 - p4]*sp[p2 - p3 - p4]^3*s^(-1) * (  - 2*V*ep + 2*V*ep^2 )
+       + den[sp[p1 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p1 - p4]*sp[p2 - p3 - p4]^3*s^(-1) * ( 1/32*ep - 1/32*ep^2 - 1/32*N^2*ep + 1/32*N^2*ep^2 )
 
-       + den[sp[p1 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p1 - p4]*sp[p2 - p4]*sp[p2 - p3 - p4]^2*s^(-1) * (  - 32*V*ep + 8*V*ep^2 - 8*V*ep^3 )
+       + den[sp[p1 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p1 - p4]*sp[p2 - p4]*sp[p2 - p3 - p4]^2*s^(-1) * ( 1/2*ep - 1/8*ep^2 + 1/8*ep^3 - 1/2*N^2*ep + 1/8*N^2*ep^2 - 1/8*N^2*ep^3 )
 
-       + den[sp[p1 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p1 - p4]*sp[p2 - p4]^2*sp[p2 - p3 - p4]*s^(-1) * (  - 2*V*ep + 2*V*ep^2 )
+       + den[sp[p1 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p1 - p4]*sp[p2 - p4]^2*sp[p2 - p3 - p4]*s^(-1) * ( 1/32*ep - 1/32*ep^2 - 1/32*N^2*ep + 1/32*N^2*ep^2 )
 
-       + den[sp[p1 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p1 - p4]*sp[p2 - p4]^3*s^(-1) * ( 32*V - 32*V*ep + 24*V*ep^2 + 8*V*ep^3 )
+       + den[sp[p1 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p1 - p4]*sp[p2 - p4]^3*s^(-1) * (  - 1/2 + 1/2*ep - 3/8*ep^2 - 1/8*ep^3 + 1/2*N^2 - 1/2*N^2*ep + 3/8*N^2*ep^2 + 1/8*N^2*ep^3 )
 
-       + den[sp[p1 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p2 - p3]^4*s^(-1) * (  - 4*V*ep - 6*V*ep^2 + 2*V*ep^3 )
+       + den[sp[p1 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p2 - p3]^4*s^(-1) * ( 1/16*ep + 3/32*ep^2 - 1/32*ep^3 - 1/16*N^2*ep - 3/32*N^2*ep^2 + 1/32*N^2*ep^3 )
 
-       + den[sp[p1 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p2 - p3]^3*sp[p2 - p4]*s^(-1) * (  - 2*V*ep + 2*V*ep^2 )
+       + den[sp[p1 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p2 - p3]^3*sp[p2 - p4]*s^(-1) * ( 1/32*ep - 1/32*ep^2 - 1/32*N^2*ep + 1/32*N^2*ep^2 )
 
-       + den[sp[p1 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p2 - p3]^2*sp[p2 - p3 - p4]^2*s^(-1) * ( 8*V*ep + 12*V*ep^2 - 4*V*ep^3 )
+       + den[sp[p1 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p2 - p3]^2*sp[p2 - p3 - p4]^2*s^(-1) * (  - 1/8*ep - 3/16*ep^2 + 1/16*ep^3 + 1/8*N^2*ep + 3/16*N^2*ep^2 - 1/16*N^2*ep^3 )
 
-       + den[sp[p1 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p2 - p3]^2*sp[p2 - p4]*sp[p2 - p3 - p4]*s^(-1) * ( 2*V*ep - 2*V*ep^2 )
+       + den[sp[p1 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p2 - p3]^2*sp[p2 - p4]*sp[p2 - p3 - p4]*s^(-1) * (  - 1/32*ep + 1/32*ep^2 + 1/32*N^2*ep - 1/32*N^2*ep^2 )
 
-       + den[sp[p1 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p2 - p3]^2*sp[p2 - p4]^2*s^(-1) * ( 8*V*ep + 12*V*ep^2 - 4*V*ep^3 )
+       + den[sp[p1 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p2 - p3]^2*sp[p2 - p4]^2*s^(-1) * (  - 1/8*ep - 3/16*ep^2 + 1/16*ep^3 + 1/8*N^2*ep + 3/16*N^2*ep^2 - 1/16*N^2*ep^3 )
 
-       + den[sp[p1 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p2 - p3]*sp[p2 - p4]*sp[p2 - p3 - p4]^2*s^(-1) * ( 2*V*ep - 2*V*ep^2 )
+       + den[sp[p1 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p2 - p3]*sp[p2 - p4]*sp[p2 - p3 - p4]^2*s^(-1) * (  - 1/32*ep + 1/32*ep^2 + 1/32*N^2*ep - 1/32*N^2*ep^2 )
 
-       + den[sp[p1 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p2 - p3]*sp[p2 - p4]^3*s^(-1) * ( 2*V*ep - 2*V*ep^2 )
+       + den[sp[p1 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p2 - p3]*sp[p2 - p4]^3*s^(-1) * (  - 1/32*ep + 1/32*ep^2 + 1/32*N^2*ep - 1/32*N^2*ep^2 )
 
-       + den[sp[p1 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p2 - p3 - p4]^4*s^(-1) * (  - 4*V*ep - 6*V*ep^2 + 2*V*ep^3 )
+       + den[sp[p1 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p2 - p3 - p4]^4*s^(-1) * ( 1/16*ep + 3/32*ep^2 - 1/32*ep^3 - 1/16*N^2*ep - 3/32*N^2*ep^2 + 1/32*N^2*ep^3 )
 
-       + den[sp[p1 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p2 - p4]*sp[p2 - p3 - p4]^3*s^(-1) * (  - 2*V*ep + 2*V*ep^2 )
+       + den[sp[p1 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p2 - p4]*sp[p2 - p3 - p4]^3*s^(-1) * ( 1/32*ep - 1/32*ep^2 - 1/32*N^2*ep + 1/32*N^2*ep^2 )
 
-       + den[sp[p1 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p2 - p4]^2*sp[p2 - p3 - p4]^2*s^(-1) * ( 8*V*ep + 12*V*ep^2 - 4*V*ep^3 )
+       + den[sp[p1 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p2 - p4]^2*sp[p2 - p3 - p4]^2*s^(-1) * (  - 1/8*ep - 3/16*ep^2 + 1/16*ep^3 + 1/8*N^2*ep + 3/16*N^2*ep^2 - 1/16*N^2*ep^3 )
 
-       + den[sp[p1 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p2 - p4]^3*sp[p2 - p3 - p4]*s^(-1) * ( 2*V*ep - 2*V*ep^2 )
+       + den[sp[p1 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p2 - p4]^3*sp[p2 - p3 - p4]*s^(-1) * (  - 1/32*ep + 1/32*ep^2 + 1/32*N^2*ep - 1/32*N^2*ep^2 )
 
-       + den[sp[p1 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p2 - p4]^4*s^(-1) * (  - 4*V*ep - 6*V*ep^2 + 2*V*ep^3 )
+       + den[sp[p1 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p2 - p4]^4*s^(-1) * ( 1/16*ep + 3/32*ep^2 - 1/32*ep^3 - 1/16*N^2*ep - 3/32*N^2*ep^2 + 1/32*N^2*ep^3 )
 
-       + den[sp[p1 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p1 - p4]*sp[p1 - p3 - p4]^3*s^(-1) * (  - 2*V*ep + 2*V*ep^2 )
+       + den[sp[p1 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p1 - p4]*sp[p1 - p3 - p4]^3*s^(-1) * ( 1/32*ep - 1/32*ep^2 - 1/32*N^2*ep + 1/32*N^2*ep^2 )
 
-       + den[sp[p1 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p1 - p4]^3*sp[p1 - p3 - p4]*s^(-1) * ( 6*V*ep - 6*V*ep^2 )
+       + den[sp[p1 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p1 - p4]^3*sp[p1 - p3 - p4]*s^(-1) * (  - 3/32*ep + 3/32*ep^2 + 3/32*N^2*ep - 3/32*N^2*ep^2 )
 
-       + den[sp[p1 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p1 - p4]^4*s^(-1) * (  - 4*V*ep + 4*V*ep^2 )
+       + den[sp[p1 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p1 - p4]^4*s^(-1) * ( 1/16*ep - 1/16*ep^2 - 1/16*N^2*ep + 1/16*N^2*ep^2 )
 
-       + den[sp[p1 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p1 - p4]^3*sp[p2 - p3]*s^(-1) * ( 6*V*ep - 6*V*ep^2 )
+       + den[sp[p1 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p1 - p4]^3*sp[p2 - p3]*s^(-1) * (  - 3/32*ep + 3/32*ep^2 + 3/32*N^2*ep - 3/32*N^2*ep^2 )
 
-       + den[sp[p1 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p1 - p4]^3*sp[p2 - p4]*s^(-1) * (  - 8*V*ep + 8*V*ep^2 )
+       + den[sp[p1 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p1 - p4]^3*sp[p2 - p4]*s^(-1) * ( 1/8*ep - 1/8*ep^2 - 1/8*N^2*ep + 1/8*N^2*ep^2 )
 
-       + den[sp[p1 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p1 - p4]^2*sp[p2 - p3]*sp[p1 - p3 - p4]*s^(-1) * ( 4*V*ep - 4*V*ep^2 )
+       + den[sp[p1 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p1 - p4]^2*sp[p2 - p3]*sp[p1 - p3 - p4]*s^(-1) * (  - 1/16*ep + 1/16*ep^2 + 1/16*N^2*ep - 1/16*N^2*ep^2 )
 
-       + den[sp[p1 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p1 - p4]^2*sp[p2 - p3]*sp[p2 - p4]*s^(-1) * ( 10*V*ep - 10*V*ep^2 )
+       + den[sp[p1 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p1 - p4]^2*sp[p2 - p3]*sp[p2 - p4]*s^(-1) * (  - 5/32*ep + 5/32*ep^2 + 5/32*N^2*ep - 5/32*N^2*ep^2 )
 
-       + den[sp[p1 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p1 - p4]^2*sp[p2 - p4]*sp[p1 - p3 - p4]*s^(-1) * ( 10*V*ep - 10*V*ep^2 )
+       + den[sp[p1 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p1 - p4]^2*sp[p2 - p4]*sp[p1 - p3 - p4]*s^(-1) * (  - 5/32*ep + 5/32*ep^2 + 5/32*N^2*ep - 5/32*N^2*ep^2 )
 
-       + den[sp[p1 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p1 - p4]*sp[p2 - p3]*sp[p1 - p3 - p4]^2*s^(-1) * (  - 10*V*ep + 10*V*ep^2 )
+       + den[sp[p1 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p1 - p4]*sp[p2 - p3]*sp[p1 - p3 - p4]^2*s^(-1) * ( 5/32*ep - 5/32*ep^2 - 5/32*N^2*ep + 5/32*N^2*ep^2 )
 
-       + den[sp[p1 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p1 - p4]*sp[p2 - p3]^2*sp[p1 - p3 - p4]*s^(-1) * (  - 10*V*ep + 10*V*ep^2 )
+       + den[sp[p1 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p1 - p4]*sp[p2 - p3]^2*sp[p1 - p3 - p4]*s^(-1) * ( 5/32*ep - 5/32*ep^2 - 5/32*N^2*ep + 5/32*N^2*ep^2 )
 
-       + den[sp[p1 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p1 - p4]*sp[p2 - p3]^3*s^(-1) * (  - 2*V*ep + 2*V*ep^2 )
+       + den[sp[p1 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p1 - p4]*sp[p2 - p3]^3*s^(-1) * ( 1/32*ep - 1/32*ep^2 - 1/32*N^2*ep + 1/32*N^2*ep^2 )
 
-       + den[sp[p1 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p1 - p4]*sp[p2 - p3]*sp[p2 - p4]^2*s^(-1) * ( 10*V*ep - 10*V*ep^2 )
+       + den[sp[p1 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p1 - p4]*sp[p2 - p3]*sp[p2 - p4]^2*s^(-1) * (  - 5/32*ep + 5/32*ep^2 + 5/32*N^2*ep - 5/32*N^2*ep^2 )
 
-       + den[sp[p1 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p1 - p4]*sp[p2 - p4]^2*sp[p1 - p3 - p4]*s^(-1) * ( 10*V*ep - 10*V*ep^2 )
+       + den[sp[p1 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p1 - p4]*sp[p2 - p4]^2*sp[p1 - p3 - p4]*s^(-1) * (  - 5/32*ep + 5/32*ep^2 + 5/32*N^2*ep - 5/32*N^2*ep^2 )
 
-       + den[sp[p1 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p1 - p4]*sp[p2 - p4]^3*s^(-1) * ( 8*V*ep - 8*V*ep^2 )
+       + den[sp[p1 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p1 - p4]*sp[p2 - p4]^3*s^(-1) * (  - 1/8*ep + 1/8*ep^2 + 1/8*N^2*ep - 1/8*N^2*ep^2 )
 
-       + den[sp[p1 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p2 - p3]^3*sp[p2 - p4]*s^(-1) * (  - 2*V*ep + 2*V*ep^2 )
+       + den[sp[p1 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p2 - p3]^3*sp[p2 - p4]*s^(-1) * ( 1/32*ep - 1/32*ep^2 - 1/32*N^2*ep + 1/32*N^2*ep^2 )
 
-       + den[sp[p1 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p2 - p3]^2*sp[p2 - p4]*sp[p1 - p3 - p4]*s^(-1) * (  - 10*V*ep + 10*V*ep^2 )
+       + den[sp[p1 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p2 - p3]^2*sp[p2 - p4]*sp[p1 - p3 - p4]*s^(-1) * ( 5/32*ep - 5/32*ep^2 - 5/32*N^2*ep + 5/32*N^2*ep^2 )
 
-       + den[sp[p1 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p2 - p3]*sp[p2 - p4]*sp[p1 - p3 - p4]^2*s^(-1) * (  - 10*V*ep + 10*V*ep^2 )
+       + den[sp[p1 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p2 - p3]*sp[p2 - p4]*sp[p1 - p3 - p4]^2*s^(-1) * ( 5/32*ep - 5/32*ep^2 - 5/32*N^2*ep + 5/32*N^2*ep^2 )
 
-       + den[sp[p1 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p2 - p3]*sp[p2 - p4]^2*sp[p1 - p3 - p4]*s^(-1) * (  - 4*V*ep + 4*V*ep^2 )
+       + den[sp[p1 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p2 - p3]*sp[p2 - p4]^2*sp[p1 - p3 - p4]*s^(-1) * ( 1/16*ep - 1/16*ep^2 - 1/16*N^2*ep + 1/16*N^2*ep^2 )
 
-       + den[sp[p1 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p2 - p3]*sp[p2 - p4]^3*s^(-1) * ( 6*V*ep - 6*V*ep^2 )
+       + den[sp[p1 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p2 - p3]*sp[p2 - p4]^3*s^(-1) * (  - 3/32*ep + 3/32*ep^2 + 3/32*N^2*ep - 3/32*N^2*ep^2 )
 
-       + den[sp[p1 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p2 - p4]*sp[p1 - p3 - p4]^3*s^(-1) * (  - 2*V*ep + 2*V*ep^2 )
+       + den[sp[p1 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p2 - p4]*sp[p1 - p3 - p4]^3*s^(-1) * ( 1/32*ep - 1/32*ep^2 - 1/32*N^2*ep + 1/32*N^2*ep^2 )
 
-       + den[sp[p1 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p2 - p4]^3*sp[p1 - p3 - p4]*s^(-1) * ( 6*V*ep - 6*V*ep^2 )
+       + den[sp[p1 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p2 - p4]^3*sp[p1 - p3 - p4]*s^(-1) * (  - 3/32*ep + 3/32*ep^2 + 3/32*N^2*ep - 3/32*N^2*ep^2 )
 
-       + den[sp[p1 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p2 - p4]^4*s^(-1) * ( 4*V*ep - 4*V*ep^2 )
+       + den[sp[p1 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p2 - p4]^4*s^(-1) * (  - 1/16*ep + 1/16*ep^2 + 1/16*N^2*ep - 1/16*N^2*ep^2 )
 
-       + den[sp[p1 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*sp[p1 - p3 - p4]^3*s^(-1) * ( 4*V*ep - 14*V*ep^2 + 2*V*ep^3 )
+       + den[sp[p1 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*sp[p1 - p3 - p4]^3*s^(-1) * (  - 1/16*ep + 7/32*ep^2 - 1/32*ep^3 + 1/16*N^2*ep - 7/32*N^2*ep^2 + 1/32*N^2*ep^3 )
 
-       + den[sp[p1 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*sp[p1 - p3 - p4]^2*sp[p2 - p3 - p4]*s^(-1) * ( 8*V + 16*V*ep + 8*V*ep^3 )
+       + den[sp[p1 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*sp[p1 - p3 - p4]^2*sp[p2 - p3 - p4]*s^(-1) * (  - 1/2 + 1/8*ep - 1/8*ep^3 + 1/2*N^2 - 1/8*N^2*ep + 1/8*N^2*ep^3 )
 
-       + den[sp[p1 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*sp[p1 - p3 - p4]*sp[p2 - p3 - p4]^2*s^(-1) * ( 32*V*ep + 36*V*ep^2 + 12*V*ep^3 )
+       + den[sp[p1 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*sp[p1 - p3 - p4]*sp[p2 - p3 - p4]^2*s^(-1) * (  - 1/2*ep - 9/16*ep^2 - 3/16*ep^3 + 1/2*N^2*ep + 9/16*N^2*ep^2 + 3/16*N^2*ep^3 )
 
-       + den[sp[p1 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*sp[p1 - p4]*sp[p1 - p3 - p4]^2*s^(-1) * (  - 8*V*ep + 8*V*ep^2 )
+       + den[sp[p1 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*sp[p1 - p4]*sp[p1 - p3 - p4]^2*s^(-1) * ( 1/8*ep - 1/8*ep^2 - 1/8*N^2*ep + 1/8*N^2*ep^2 )
 
-       + den[sp[p1 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*sp[p1 - p4]*sp[p1 - p3 - p4]*sp[p2 - p3 - p4]*s^(-1) * (  - 12*V*ep + 12*V*ep^2 )
+       + den[sp[p1 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*sp[p1 - p4]*sp[p1 - p3 - p4]*sp[p2 - p3 - p4]*s^(-1) * ( 3/16*ep - 3/16*ep^2 - 3/16*N^2*ep + 3/16*N^2*ep^2 )
 
-       + den[sp[p1 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*sp[p1 - p4]^2*sp[p1 - p3 - p4]*s^(-1) * ( 20*V*ep^2 - 4*V*ep^3 )
+       + den[sp[p1 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*sp[p1 - p4]^2*sp[p1 - p3 - p4]*s^(-1) * (  - 5/16*ep^2 + 1/16*ep^3 + 5/16*N^2*ep^2 - 1/16*N^2*ep^3 )
 
-       + den[sp[p1 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*sp[p1 - p4]^3*s^(-1) * ( 8*V*ep - 8*V*ep^2 )
+       + den[sp[p1 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*sp[p1 - p4]^3*s^(-1) * (  - 1/8*ep + 1/8*ep^2 + 1/8*N^2*ep - 1/8*N^2*ep^2 )
 
-       + den[sp[p1 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*sp[p1 - p4]^2*sp[p2 - p3]*s^(-1) * ( 20*V*ep - 20*V*ep^2 )
+       + den[sp[p1 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*sp[p1 - p4]^2*sp[p2 - p3]*s^(-1) * (  - 9/16*ep + 9/16*ep^2 + 9/16*N^2*ep - 9/16*N^2*ep^2 )
 
-       + den[sp[p1 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*sp[p1 - p4]^2*sp[p2 - p3 - p4]*s^(-1) * (  - 40*V*ep + 16*V*ep^2 - 8*V*ep^3 )
+       + den[sp[p1 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*sp[p1 - p4]^2*sp[p2 - p3 - p4]*s^(-1) * ( 5/8*ep - 1/4*ep^2 + 1/8*ep^3 - 5/8*N^2*ep + 1/4*N^2*ep^2 - 1/8*N^2*ep^3 )
 
-       + den[sp[p1 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*sp[p1 - p4]^2*sp[p2 - p4]*s^(-1) * ( 8*V*ep - 8*V*ep^2 )
+       + den[sp[p1 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*sp[p1 - p4]^2*sp[p2 - p4]*s^(-1) * (  - 1/8*ep + 1/8*ep^2 + 1/8*N^2*ep - 1/8*N^2*ep^2 )
 
-       + den[sp[p1 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*sp[p1 - p4]*sp[p2 - p3]*sp[p1 - p3 - p4]*s^(-1) * (  - 18*V*ep + 18*V*ep^2 )
+       + den[sp[p1 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*sp[p1 - p4]*sp[p2 - p3]*sp[p1 - p3 - p4]*s^(-1) * ( 9/32*ep - 9/32*ep^2 - 9/32*N^2*ep + 9/32*N^2*ep^2 )
 
-       + den[sp[p1 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*sp[p1 - p4]*sp[p2 - p3]^2*s^(-1) * (  - 8*V*ep + 8*V*ep^2 )
+       + den[sp[p1 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*sp[p1 - p4]*sp[p2 - p3]^2*s^(-1) * ( 1/8*ep - 1/8*ep^2 - 1/8*N^2*ep + 1/8*N^2*ep^2 )
 
-       + den[sp[p1 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*sp[p1 - p4]*sp[p2 - p3]*sp[p2 - p3 - p4]*s^(-1) * (  - 6*V*ep + 6*V*ep^2 )
+       + den[sp[p1 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*sp[p1 - p4]*sp[p2 - p3]*sp[p2 - p3 - p4]*s^(-1) * ( 3/32*ep - 3/32*ep^2 - 3/32*N^2*ep + 3/32*N^2*ep^2 )
 
-       + den[sp[p1 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*sp[p1 - p4]*sp[p2 - p3]*sp[p2 - p4]*s^(-1) * ( 32*V*ep - 32*V*ep^2 )
+       + den[sp[p1 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*sp[p1 - p4]*sp[p2 - p3]*sp[p2 - p4]*s^(-1) * (  - 1/2*ep + 1/2*ep^2 + 1/2*N^2*ep - 1/2*N^2*ep^2 )
 
-       + den[sp[p1 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*sp[p1 - p4]*sp[p2 - p3 - p4]^2*s^(-1) * (  - 8*V*ep + 8*V*ep^2 )
+       + den[sp[p1 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*sp[p1 - p4]*sp[p2 - p3 - p4]^2*s^(-1) * ( 1/8*ep - 1/8*ep^2 - 1/8*N^2*ep + 1/8*N^2*ep^2 )
 
-       + den[sp[p1 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*sp[p1 - p4]*sp[p2 - p4]*sp[p1 - p3 - p4]*s^(-1) * (  - 48*V*ep + 24*V*ep^2 - 8*V*ep^3 )
+       + den[sp[p1 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*sp[p1 - p4]*sp[p2 - p4]*sp[p1 - p3 - p4]*s^(-1) * ( 3/4*ep - 3/8*ep^2 + 1/8*ep^3 - 3/4*N^2*ep + 3/8*N^2*ep^2 - 1/8*N^2*ep^3 )
 
-       + den[sp[p1 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*sp[p1 - p4]*sp[p2 - p4]*sp[p2 - p3 - p4]*s^(-1) * (  - 176*V*ep - 16*V*ep^3 )
+       + den[sp[p1 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*sp[p1 - p4]*sp[p2 - p4]*sp[p2 - p3 - p4]*s^(-1) * ( 11/4*ep + 1/4*ep^3 - 11/4*N^2*ep - 1/4*N^2*ep^3 )
 
-       + den[sp[p1 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*sp[p1 - p4]*sp[p2 - p4]^2*s^(-1) * ( 8*V*ep - 8*V*ep^2 )
+       + den[sp[p1 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*sp[p1 - p4]*sp[p2 - p4]^2*s^(-1) * (  - 1/8*ep + 1/8*ep^2 + 1/8*N^2*ep - 1/8*N^2*ep^2 )
 
-       + den[sp[p1 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*sp[p2 - p3]*sp[p1 - p3 - p4]^2*s^(-1) * (  - 16*V*ep + 16*V*ep^2 )
+       + den[sp[p1 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*sp[p2 - p3]*sp[p1 - p3 - p4]^2*s^(-1) * ( 1/4*ep - 1/4*ep^2 - 1/4*N^2*ep + 1/4*N^2*ep^2 )
 
-       + den[sp[p1 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*sp[p2 - p3]^2*sp[p1 - p3 - p4]*s^(-1) * ( 8*V*ep + 12*V*ep^2 - 4*V*ep^3 )
+       + den[sp[p1 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*sp[p2 - p3]^2*sp[p1 - p3 - p4]*s^(-1) * (  - 1/8*ep - 3/16*ep^2 + 1/16*ep^3 + 1/8*N^2*ep + 3/16*N^2*ep^2 - 1/16*N^2*ep^3 )
 
-       + den[sp[p1 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*sp[p2 - p3]^3*s^(-1) * ( 8*V*ep - 8*V*ep^2 )
+       + den[sp[p1 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*sp[p2 - p3]^3*s^(-1) * (  - 1/8*ep + 1/8*ep^2 + 1/8*N^2*ep - 1/8*N^2*ep^2 )
 
-       + den[sp[p1 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*sp[p2 - p3]^2*sp[p2 - p3 - p4]*s^(-1) * (  - 64*V*ep + 40*V*ep^2 - 8*V*ep^3 )
+       + den[sp[p1 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*sp[p2 - p3]^2*sp[p2 - p3 - p4]*s^(-1) * ( ep - 5/8*ep^2 + 1/8*ep^3 - N^2*ep + 5/8*N^2*ep^2 - 1/8*N^2*ep^3 )
 
-       + den[sp[p1 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*sp[p2 - p3]^2*sp[p2 - p4]*s^(-1) * (  - 8*V*ep + 8*V*ep^2 )
+       + den[sp[p1 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*sp[p2 - p3]^2*sp[p2 - p4]*s^(-1) * ( 1/8*ep - 1/8*ep^2 - 1/8*N^2*ep + 1/8*N^2*ep^2 )
 
-       + den[sp[p1 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*sp[p2 - p3]*sp[p2 - p3 - p4]^2*s^(-1) * ( 16*V*ep - 16*V*ep^2 )
+       + den[sp[p1 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*sp[p2 - p3]*sp[p2 - p3 - p4]^2*s^(-1) * (  - 1/4*ep + 1/4*ep^2 + 1/4*N^2*ep - 1/4*N^2*ep^2 )
 
-       + den[sp[p1 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*sp[p2 - p3]*sp[p2 - p4]*sp[p1 - p3 - p4]*s^(-1) * (  - 18*V*ep + 18*V*ep^2 )
+       + den[sp[p1 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*sp[p2 - p3]*sp[p2 - p4]*sp[p1 - p3 - p4]*s^(-1) * ( 9/32*ep - 9/32*ep^2 - 9/32*N^2*ep + 9/32*N^2*ep^2 )
 
-       + den[sp[p1 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*sp[p2 - p3]*sp[p2 - p4]*sp[p2 - p3 - p4]*s^(-1) * (  - 6*V*ep + 6*V*ep^2 )
+       + den[sp[p1 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*sp[p2 - p3]*sp[p2 - p4]*sp[p2 - p3 - p4]*s^(-1) * ( 3/32*ep - 3/32*ep^2 - 3/32*N^2*ep + 3/32*N^2*ep^2 )
 
-       + den[sp[p1 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*sp[p2 - p3]*sp[p2 - p4]^2*s^(-1) * ( 12*V*ep - 12*V*ep^2 )
+       + den[sp[p1 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*sp[p2 - p3]*sp[p2 - p4]^2*s^(-1) * ( 1/16*ep - 1/16*ep^2 - 1/16*N^2*ep + 1/16*N^2*ep^2 )
 
-       + den[sp[p1 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*sp[p2 - p3 - p4]^3*s^(-1) * ( 8*V + 16*V*ep^2 + 8*V*ep^3 )
+       + den[sp[p1 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*sp[p2 - p3 - p4]^3*s^(-1) * (  - 1/2 + 3/8*ep - 1/4*ep^2 - 1/8*ep^3 + 1/2*N^2 - 3/8*N^2*ep + 1/4*N^2*ep^2 + 1/8*N^2*ep^3 )
 
-       + den[sp[p1 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*sp[p2 - p4]*sp[p1 - p3 - p4]^2*s^(-1) * (  - 8*V*ep + 8*V*ep^2 )
+       + den[sp[p1 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*sp[p2 - p4]*sp[p1 - p3 - p4]^2*s^(-1) * ( 1/8*ep - 1/8*ep^2 - 1/8*N^2*ep + 1/8*N^2*ep^2 )
 
-       + den[sp[p1 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*sp[p2 - p4]*sp[p1 - p3 - p4]*sp[p2 - p3 - p4]*s^(-1) * (  - 12*V*ep + 12*V*ep^2 )
+       + den[sp[p1 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*sp[p2 - p4]*sp[p1 - p3 - p4]*sp[p2 - p3 - p4]*s^(-1) * ( 3/16*ep - 3/16*ep^2 - 3/16*N^2*ep + 3/16*N^2*ep^2 )
 
-       + den[sp[p1 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*sp[p2 - p4]*sp[p2 - p3 - p4]^2*s^(-1) * (  - 8*V*ep + 8*V*ep^2 )
+       + den[sp[p1 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*sp[p2 - p4]*sp[p2 - p3 - p4]^2*s^(-1) * ( 1/8*ep - 1/8*ep^2 - 1/8*N^2*ep + 1/8*N^2*ep^2 )
 
-       + den[sp[p1 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*sp[p2 - p4]^2*sp[p1 - p3 - p4]*s^(-1) * ( 20*V*ep^2 - 4*V*ep^3 )
+       + den[sp[p1 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*sp[p2 - p4]^2*sp[p1 - p3 - p4]*s^(-1) * (  - 5/16*ep^2 + 1/16*ep^3 + 5/16*N^2*ep^2 - 1/16*N^2*ep^3 )
 
-       + den[sp[p1 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*sp[p2 - p4]^2*sp[p2 - p3 - p4]*s^(-1) * (  - 40*V*ep + 16*V*ep^2 - 8*V*ep^3 )
+       + den[sp[p1 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*sp[p2 - p4]^2*sp[p2 - p3 - p4]*s^(-1) * ( 5/8*ep - 1/4*ep^2 + 1/8*ep^3 - 5/8*N^2*ep + 1/4*N^2*ep^2 - 1/8*N^2*ep^3 )
 
-       + den[sp[p1 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*sp[p2 - p4]^3*s^(-1) * ( 8*V*ep - 8*V*ep^2 )
+       + den[sp[p1 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*sp[p2 - p4]^3*s^(-1) * (  - 1/8*ep + 1/8*ep^2 + 1/8*N^2*ep - 1/8*N^2*ep^2 )
 
-       + den[sp[p1 - p3]]*den[sp[p3 + p4]]*den[sp[p1 - p3 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p4]^3 * (  - 8*N^(-2)*V + 16*N^(-2)*V*ep - 8*N^(-2)*V*ep^2 )
+       + den[sp[p1 - p3]]*den[sp[p3 + p4]]*den[sp[p1 - p3 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p4]^3 * (  - 1/2 + 1/2*N^(-2) - N^(-2)*ep + 1/2*N^(-2)*ep^2 + ep - 1/2*ep^2 )
 
-       + den[sp[p1 - p3]]*den[sp[p3 + p4]]*den[sp[p1 - p3 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p4]*sp[p2 - p4]^2 * (  - 8*N^(-2)*V + 16*N^(-2)*V*ep - 8*N^(-2)*V*ep^2 )
+       + den[sp[p1 - p3]]*den[sp[p3 + p4]]*den[sp[p1 - p3 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p4]*sp[p2 - p4]^2 * (  - 1/2 + 1/2*N^(-2) - N^(-2)*ep + 1/2*N^(-2)*ep^2 + ep - 1/2*ep^2 )
 
-       + den[sp[p1 - p3]]*den[sp[p3 + p4]]*den[sp[p2 - p3 - p4]]*sp[p2 - p4]*sp[p1 - p3 - p4] * (  - 4*N^(-2)*V*ep - 12*N^(-2)*V*ep^2 )
+       + den[sp[p1 - p3]]*den[sp[p3 + p4]]*den[sp[p2 - p3 - p4]]*sp[p2 - p4]*sp[p1 - p3 - p4] * ( 1/2*N^(-2)*ep + 3/2*N^(-2)*ep^2 - 1/2*ep - 3/2*ep^2 )
 
-       + den[sp[p1 - p3]]*den[sp[p3 + p4]]*sp[p1 - p3 - p4] * (  - 8*N^(-2)*V*ep + 6*N^(-2)*V*ep^2 - 6*N^(-2)*V*ep^3 )
+       + den[sp[p1 - p3]]*den[sp[p3 + p4]]*sp[p1 - p3 - p4] * ( 1/2*N^(-2)*ep - 3/8*N^(-2)*ep^2 + 3/8*N^(-2)*ep^3 - 1/2*ep + 3/8*ep^2 - 3/8*ep^3 )
 
-       + den[sp[p1 - p3]]*den[sp[p3 + p4]]*sp[p1 - p4] * ( 54*N^(-2)*V*ep - 10*N^(-2)*V*ep^2 + 12*N^(-2)*V*ep^3 )
+       + den[sp[p1 - p3]]*den[sp[p3 + p4]]*sp[p1 - p4] * (  - 27/8*N^(-2)*ep + 5/8*N^(-2)*ep^2 - 3/4*N^(-2)*ep^3 + 27/8*ep - 5/8*ep^2 + 3/4*ep^3 )
 
-       + den[sp[p1 - p3]]*den[sp[p3 + p4]]*sp[p2 - p3] * ( 16*N^(-2)*V*ep + 8*N^(-2)*V*ep^2 + 8*N^(-2)*V*ep^3 )
+       + den[sp[p1 - p3]]*den[sp[p3 + p4]]*sp[p2 - p3] * (  - N^(-2)*ep - 1/2*N^(-2)*ep^2 - 1/2*N^(-2)*ep^3 + ep + 1/2*ep^2 + 1/2*ep^3 )
 
-       + den[sp[p1 - p3]]*den[sp[p3 + p4]]*sp[p2 - p3 - p4] * (  - 8*N^(-2)*V*ep + 6*N^(-2)*V*ep^2 - 6*N^(-2)*V*ep^3 )
+       + den[sp[p1 - p3]]*den[sp[p3 + p4]]*sp[p2 - p3 - p4] * ( 1/2*N^(-2)*ep - 3/8*N^(-2)*ep^2 + 3/8*N^(-2)*ep^3 - 1/2*ep + 3/8*ep^2 - 3/8*ep^3 )
 
-       + den[sp[p1 - p3]]*den[sp[p3 + p4]]*sp[p2 - p4] * ( 10*N^(-2)*V*ep + 16*N^(-2)*V*ep^2 + 6*N^(-2)*V*ep^3 )
+       + den[sp[p1 - p3]]*den[sp[p3 + p4]]*sp[p2 - p4] * (  - 7/8*N^(-2)*ep - 7/4*N^(-2)*ep^2 - 3/8*N^(-2)*ep^3 + 7/8*ep + 7/4*ep^2 + 3/8*ep^3 )
 
-       + den[sp[p1 - p3 - p4]]*den[sp[p2 - p3 - p4]]*s * (  - 12*N^(-4)*V*ep - 4*N^(-4)*V*ep^2 - 12*N^(-2)*V*ep - 4*N^(-2)*V*ep^2 )
+       + den[sp[p1 - p3 - p4]]*den[sp[p2 - p3 - p4]]*s * ( 3*N^(-4)*ep + N^(-4)*ep^2 - 3*ep - ep^2 )
 
-       + den[sp[p1 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]^3*s^(-1) * ( 8*V + 16*V*ep^2 + 8*V*ep^3 )
+       + den[sp[p1 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]^3*s^(-1) * (  - 1/2 + 3/8*ep - 1/4*ep^2 - 1/8*ep^3 + 1/2*N^2 - 3/8*N^2*ep + 1/4*N^2*ep^2 + 1/8*N^2*ep^3 )
 
-       + den[sp[p1 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]^2*sp[p1 - p3 - p4]*s^(-1) * (  - 8*V*ep + 8*V*ep^2 )
+       + den[sp[p1 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]^2*sp[p1 - p3 - p4]*s^(-1) * ( 1/8*ep - 1/8*ep^2 - 1/8*N^2*ep + 1/8*N^2*ep^2 )
 
-       + den[sp[p1 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]^2*sp[p2 - p3]*s^(-1) * ( 32*V*ep + 36*V*ep^2 + 12*V*ep^3 )
+       + den[sp[p1 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]^2*sp[p2 - p3]*s^(-1) * (  - 1/2*ep - 9/16*ep^2 - 3/16*ep^3 + 1/2*N^2*ep + 9/16*N^2*ep^2 + 3/16*N^2*ep^3 )
 
-       + den[sp[p1 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]^2*sp[p2 - p3 - p4]*s^(-1) * (  - 8*V*ep + 8*V*ep^2 )
+       + den[sp[p1 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]^2*sp[p2 - p3 - p4]*s^(-1) * ( 1/8*ep - 1/8*ep^2 - 1/8*N^2*ep + 1/8*N^2*ep^2 )
 
-       + den[sp[p1 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]^2*sp[p2 - p4]*s^(-1) * ( 16*V*ep - 16*V*ep^2 )
+       + den[sp[p1 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]^2*sp[p2 - p4]*s^(-1) * (  - 1/4*ep + 1/4*ep^2 + 1/4*N^2*ep - 1/4*N^2*ep^2 )
 
-       + den[sp[p1 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]*sp[p1 - p3 - p4]^2*s^(-1) * (  - 40*V*ep + 16*V*ep^2 - 8*V*ep^3 )
+       + den[sp[p1 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]*sp[p1 - p3 - p4]^2*s^(-1) * ( 5/8*ep - 1/4*ep^2 + 1/8*ep^3 - 5/8*N^2*ep + 1/4*N^2*ep^2 - 1/8*N^2*ep^3 )
 
-       + den[sp[p1 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]*sp[p1 - p3 - p4]*sp[p2 - p3 - p4]*s^(-1) * (  - 176*V*ep - 16*V*ep^3 )
+       + den[sp[p1 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]*sp[p1 - p3 - p4]*sp[p2 - p3 - p4]*s^(-1) * ( 11/4*ep + 1/4*ep^3 - 11/4*N^2*ep - 1/4*N^2*ep^3 )
 
-       + den[sp[p1 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]*sp[p2 - p3]*sp[p1 - p3 - p4]*s^(-1) * (  - 12*V*ep + 12*V*ep^2 )
+       + den[sp[p1 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]*sp[p2 - p3]*sp[p1 - p3 - p4]*s^(-1) * ( 3/16*ep - 3/16*ep^2 - 3/16*N^2*ep + 3/16*N^2*ep^2 )
 
-       + den[sp[p1 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]*sp[p2 - p3]^2*s^(-1) * ( 8*V + 16*V*ep + 8*V*ep^3 )
+       + den[sp[p1 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]*sp[p2 - p3]^2*s^(-1) * (  - 1/2 + 1/8*ep - 1/8*ep^3 + 1/2*N^2 - 1/8*N^2*ep + 1/8*N^2*ep^3 )
 
-       + den[sp[p1 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]*sp[p2 - p3]*sp[p2 - p3 - p4]*s^(-1) * (  - 12*V*ep + 12*V*ep^2 )
+       + den[sp[p1 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]*sp[p2 - p3]*sp[p2 - p3 - p4]*s^(-1) * ( 3/16*ep - 3/16*ep^2 - 3/16*N^2*ep + 3/16*N^2*ep^2 )
 
-       + den[sp[p1 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]*sp[p2 - p3 - p4]^2*s^(-1) * (  - 40*V*ep + 16*V*ep^2 - 8*V*ep^3 )
+       + den[sp[p1 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]*sp[p2 - p3 - p4]^2*s^(-1) * ( 5/8*ep - 1/4*ep^2 + 1/8*ep^3 - 5/8*N^2*ep + 1/4*N^2*ep^2 - 1/8*N^2*ep^3 )
 
-       + den[sp[p1 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]*sp[p2 - p4]*sp[p1 - p3 - p4]*s^(-1) * (  - 6*V*ep + 6*V*ep^2 )
+       + den[sp[p1 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]*sp[p2 - p4]*sp[p1 - p3 - p4]*s^(-1) * ( 3/32*ep - 3/32*ep^2 - 3/32*N^2*ep + 3/32*N^2*ep^2 )
 
-       + den[sp[p1 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]*sp[p2 - p4]*sp[p2 - p3 - p4]*s^(-1) * (  - 6*V*ep + 6*V*ep^2 )
+       + den[sp[p1 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]*sp[p2 - p4]*sp[p2 - p3 - p4]*s^(-1) * ( 3/32*ep - 3/32*ep^2 - 3/32*N^2*ep + 3/32*N^2*ep^2 )
 
-       + den[sp[p1 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]*sp[p2 - p4]^2*s^(-1) * (  - 64*V*ep + 40*V*ep^2 - 8*V*ep^3 )
+       + den[sp[p1 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]*sp[p2 - p4]^2*s^(-1) * ( ep - 5/8*ep^2 + 1/8*ep^3 - N^2*ep + 5/8*N^2*ep^2 - 1/8*N^2*ep^3 )
 
-       + den[sp[p1 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3 - p4]^3*s^(-1) * ( 8*V*ep - 8*V*ep^2 )
+       + den[sp[p1 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3 - p4]^3*s^(-1) * (  - 1/8*ep + 1/8*ep^2 + 1/8*N^2*ep - 1/8*N^2*ep^2 )
 
-       + den[sp[p1 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3 - p4]^2*sp[p2 - p3 - p4]*s^(-1) * ( 8*V*ep - 8*V*ep^2 )
+       + den[sp[p1 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3 - p4]^2*sp[p2 - p3 - p4]*s^(-1) * (  - 1/8*ep + 1/8*ep^2 + 1/8*N^2*ep - 1/8*N^2*ep^2 )
 
-       + den[sp[p1 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3 - p4]*sp[p2 - p3 - p4]^2*s^(-1) * ( 8*V*ep - 8*V*ep^2 )
+       + den[sp[p1 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3 - p4]*sp[p2 - p3 - p4]^2*s^(-1) * (  - 1/8*ep + 1/8*ep^2 + 1/8*N^2*ep - 1/8*N^2*ep^2 )
 
-       + den[sp[p1 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p3]*sp[p1 - p3 - p4]^2*s^(-1) * ( 20*V*ep^2 - 4*V*ep^3 )
+       + den[sp[p1 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p3]*sp[p1 - p3 - p4]^2*s^(-1) * (  - 5/16*ep^2 + 1/16*ep^3 + 5/16*N^2*ep^2 - 1/16*N^2*ep^3 )
 
-       + den[sp[p1 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p3]*sp[p1 - p3 - p4]*sp[p2 - p3 - p4]*s^(-1) * (  - 48*V*ep + 24*V*ep^2 - 8*V*ep^3 )
+       + den[sp[p1 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p3]*sp[p1 - p3 - p4]*sp[p2 - p3 - p4]*s^(-1) * ( 3/4*ep - 3/8*ep^2 + 1/8*ep^3 - 3/4*N^2*ep + 3/8*N^2*ep^2 - 1/8*N^2*ep^3 )
 
-       + den[sp[p1 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p3]^2*sp[p1 - p3 - p4]*s^(-1) * (  - 8*V*ep + 8*V*ep^2 )
+       + den[sp[p1 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p3]^2*sp[p1 - p3 - p4]*s^(-1) * ( 1/8*ep - 1/8*ep^2 - 1/8*N^2*ep + 1/8*N^2*ep^2 )
 
-       + den[sp[p1 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p3]^3*s^(-1) * ( 4*V*ep - 14*V*ep^2 + 2*V*ep^3 )
+       + den[sp[p1 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p3]^3*s^(-1) * (  - 1/16*ep + 7/32*ep^2 - 1/32*ep^3 + 1/16*N^2*ep - 7/32*N^2*ep^2 + 1/32*N^2*ep^3 )
 
-       + den[sp[p1 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p3]^2*sp[p2 - p3 - p4]*s^(-1) * (  - 8*V*ep + 8*V*ep^2 )
+       + den[sp[p1 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p3]^2*sp[p2 - p3 - p4]*s^(-1) * ( 1/8*ep - 1/8*ep^2 - 1/8*N^2*ep + 1/8*N^2*ep^2 )
 
-       + den[sp[p1 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p3]^2*sp[p2 - p4]*s^(-1) * (  - 16*V*ep + 16*V*ep^2 )
+       + den[sp[p1 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p3]^2*sp[p2 - p4]*s^(-1) * ( 1/4*ep - 1/4*ep^2 - 1/4*N^2*ep + 1/4*N^2*ep^2 )
 
-       + den[sp[p1 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p3]*sp[p2 - p3 - p4]^2*s^(-1) * ( 20*V*ep^2 - 4*V*ep^3 )
+       + den[sp[p1 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p3]*sp[p2 - p3 - p4]^2*s^(-1) * (  - 5/16*ep^2 + 1/16*ep^3 + 5/16*N^2*ep^2 - 1/16*N^2*ep^3 )
 
-       + den[sp[p1 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p3]*sp[p2 - p4]*sp[p1 - p3 - p4]*s^(-1) * (  - 18*V*ep + 18*V*ep^2 )
+       + den[sp[p1 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p3]*sp[p2 - p4]*sp[p1 - p3 - p4]*s^(-1) * ( 9/32*ep - 9/32*ep^2 - 9/32*N^2*ep + 9/32*N^2*ep^2 )
 
-       + den[sp[p1 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p3]*sp[p2 - p4]*sp[p2 - p3 - p4]*s^(-1) * (  - 18*V*ep + 18*V*ep^2 )
+       + den[sp[p1 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p3]*sp[p2 - p4]*sp[p2 - p3 - p4]*s^(-1) * ( 9/32*ep - 9/32*ep^2 - 9/32*N^2*ep + 9/32*N^2*ep^2 )
 
-       + den[sp[p1 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p3]*sp[p2 - p4]^2*s^(-1) * ( 8*V*ep + 12*V*ep^2 - 4*V*ep^3 )
+       + den[sp[p1 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p3]*sp[p2 - p4]^2*s^(-1) * (  - 1/8*ep - 3/16*ep^2 + 1/16*ep^3 + 1/8*N^2*ep + 3/16*N^2*ep^2 - 1/16*N^2*ep^3 )
 
-       + den[sp[p1 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p3 - p4]^3*s^(-1) * ( 8*V*ep - 8*V*ep^2 )
+       + den[sp[p1 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p3 - p4]^3*s^(-1) * (  - 1/8*ep + 1/8*ep^2 + 1/8*N^2*ep - 1/8*N^2*ep^2 )
 
-       + den[sp[p1 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p4]*sp[p1 - p3 - p4]^2*s^(-1) * ( 12*V*ep - 12*V*ep^2 )
+       + den[sp[p1 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p4]*sp[p1 - p3 - p4]^2*s^(-1) * ( 1/16*ep - 1/16*ep^2 - 1/16*N^2*ep + 1/16*N^2*ep^2 )
 
-       + den[sp[p1 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p4]*sp[p1 - p3 - p4]*sp[p2 - p3 - p4]*s^(-1) * ( 32*V*ep - 32*V*ep^2 )
+       + den[sp[p1 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p4]*sp[p1 - p3 - p4]*sp[p2 - p3 - p4]*s^(-1) * (  - 1/2*ep + 1/2*ep^2 + 1/2*N^2*ep - 1/2*N^2*ep^2 )
 
-       + den[sp[p1 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p4]*sp[p2 - p3 - p4]^2*s^(-1) * ( 20*V*ep - 20*V*ep^2 )
+       + den[sp[p1 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p4]*sp[p2 - p3 - p4]^2*s^(-1) * (  - 9/16*ep + 9/16*ep^2 + 9/16*N^2*ep - 9/16*N^2*ep^2 )
 
-       + den[sp[p1 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p4]^2*sp[p1 - p3 - p4]*s^(-1) * (  - 8*V*ep + 8*V*ep^2 )
+       + den[sp[p1 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p4]^2*sp[p1 - p3 - p4]*s^(-1) * ( 1/8*ep - 1/8*ep^2 - 1/8*N^2*ep + 1/8*N^2*ep^2 )
 
-       + den[sp[p1 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p4]^2*sp[p2 - p3 - p4]*s^(-1) * (  - 8*V*ep + 8*V*ep^2 )
+       + den[sp[p1 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p4]^2*sp[p2 - p3 - p4]*s^(-1) * ( 1/8*ep - 1/8*ep^2 - 1/8*N^2*ep + 1/8*N^2*ep^2 )
 
-       + den[sp[p1 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p4]^3*s^(-1) * ( 8*V*ep - 8*V*ep^2 )
+       + den[sp[p1 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p4]^3*s^(-1) * (  - 1/8*ep + 1/8*ep^2 + 1/8*N^2*ep - 1/8*N^2*ep^2 )
 
-       + den[sp[p1 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]^3 * ( 2*N^(-2)*V*ep + N^(-2)*V*ep^2 + N^(-2)*V*ep^3 )
+       + den[sp[p1 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]^3 * (  - 1/8*N^(-2)*ep - 1/16*N^(-2)*ep^2 - 1/16*N^(-2)*ep^3 + 1/8*ep + 1/16*ep^2 + 1/16*ep^3 )
 
-       + den[sp[p1 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]^2*sp[p2 - p3] * ( 6*N^(-2)*V*ep + 3*N^(-2)*V*ep^2 + 3*N^(-2)*V*ep^3 )
+       + den[sp[p1 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]^2*sp[p2 - p3] * (  - 3/8*N^(-2)*ep - 3/16*N^(-2)*ep^2 - 3/16*N^(-2)*ep^3 + 3/8*ep + 3/16*ep^2 + 3/16*ep^3 )
 
-       + den[sp[p1 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]^2*sp[p2 - p4] * (  - 2*N^(-2)*V*ep - N^(-2)*V*ep^2 - N^(-2)*V*ep^3 )
+       + den[sp[p1 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]^2*sp[p2 - p4] * ( 1/8*N^(-2)*ep + 1/16*N^(-2)*ep^2 + 1/16*N^(-2)*ep^3 - 1/8*ep - 1/16*ep^2 - 1/16*ep^3 )
 
-       + den[sp[p1 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]*sp[p2 - p3]^2 * ( 6*N^(-2)*V*ep + 3*N^(-2)*V*ep^2 + 3*N^(-2)*V*ep^3 )
+       + den[sp[p1 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]*sp[p2 - p3]^2 * (  - 3/8*N^(-2)*ep - 3/16*N^(-2)*ep^2 - 3/16*N^(-2)*ep^3 + 3/8*ep + 3/16*ep^2 + 3/16*ep^3 )
 
-       + den[sp[p1 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]*sp[p2 - p3]*sp[p2 - p4] * (  - 4*N^(-2)*V*ep - 2*N^(-2)*V*ep^2 - 2*N^(-2)*V*ep^3 )
+       + den[sp[p1 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]*sp[p2 - p3]*sp[p2 - p4] * ( 1/4*N^(-2)*ep + 1/8*N^(-2)*ep^2 + 1/8*N^(-2)*ep^3 - 1/4*ep - 1/8*ep^2 - 1/8*ep^3 )
 
-       + den[sp[p1 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]*sp[p2 - p4]^2 * (  - 2*N^(-2)*V*ep - N^(-2)*V*ep^2 - N^(-2)*V*ep^3 )
+       + den[sp[p1 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]*sp[p2 - p4]^2 * ( 1/8*N^(-2)*ep + 1/16*N^(-2)*ep^2 + 1/16*N^(-2)*ep^3 - 1/8*ep - 1/16*ep^2 - 1/16*ep^3 )
 
-       + den[sp[p1 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*den[sp[p2 - p3 - p4]]*sp[p2 - p3]^3 * ( 2*N^(-2)*V*ep + N^(-2)*V*ep^2 + N^(-2)*V*ep^3 )
+       + den[sp[p1 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*den[sp[p2 - p3 - p4]]*sp[p2 - p3]^3 * (  - 1/8*N^(-2)*ep - 1/16*N^(-2)*ep^2 - 1/16*N^(-2)*ep^3 + 1/8*ep + 1/16*ep^2 + 1/16*ep^3 )
 
-       + den[sp[p1 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*den[sp[p2 - p3 - p4]]*sp[p2 - p3]^2*sp[p2 - p4] * (  - 2*N^(-2)*V*ep - N^(-2)*V*ep^2 - N^(-2)*V*ep^3 )
+       + den[sp[p1 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*den[sp[p2 - p3 - p4]]*sp[p2 - p3]^2*sp[p2 - p4] * ( 1/8*N^(-2)*ep + 1/16*N^(-2)*ep^2 + 1/16*N^(-2)*ep^3 - 1/8*ep - 1/16*ep^2 - 1/16*ep^3 )
 
-       + den[sp[p1 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*den[sp[p2 - p3 - p4]]*sp[p2 - p3]*sp[p2 - p4]^2 * (  - 2*N^(-2)*V*ep - N^(-2)*V*ep^2 - N^(-2)*V*ep^3 )
+       + den[sp[p1 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*den[sp[p2 - p3 - p4]]*sp[p2 - p3]*sp[p2 - p4]^2 * ( 1/8*N^(-2)*ep + 1/16*N^(-2)*ep^2 + 1/16*N^(-2)*ep^3 - 1/8*ep - 1/16*ep^2 - 1/16*ep^3 )
 
-       + den[sp[p1 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*den[sp[p2 - p3 - p4]]*sp[p2 - p4]^3 * ( 2*N^(-2)*V*ep + N^(-2)*V*ep^2 + N^(-2)*V*ep^3 )
+       + den[sp[p1 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*den[sp[p2 - p3 - p4]]*sp[p2 - p4]^3 * (  - 1/8*N^(-2)*ep - 1/16*N^(-2)*ep^2 - 1/16*N^(-2)*ep^3 + 1/8*ep + 1/16*ep^2 + 1/16*ep^3 )
 
-       + den[sp[p1 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p1 - p3]^2 * (  - 8*N^(-2)*V + 6*N^(-2)*V*ep - 2*N^(-2)*V*ep^2 - 4*N^(-2)*V*ep^3 )
+       + den[sp[p1 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p1 - p3]^2 * (  - 1/2 + 1/2*N^(-2) - 3/8*N^(-2)*ep + 1/8*N^(-2)*ep^2 + 1/4*N^(-2)*ep^3 + 3/8*ep - 1/8*ep^2 - 1/4*ep^3 )
 
-       + den[sp[p1 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p1 - p3]*sp[p2 - p3] * (  - 12*N^(-2)*V*ep - 28*N^(-2)*V*ep^2 - 8*N^(-2)*V*ep^3 )
+       + den[sp[p1 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p1 - p3]*sp[p2 - p3] * ( 3/4*N^(-2)*ep + 7/4*N^(-2)*ep^2 + 1/2*N^(-2)*ep^3 - 3/4*ep - 7/4*ep^2 - 1/2*ep^3 )
 
-       + den[sp[p1 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p1 - p3]*sp[p2 - p3 - p4] * (  - 2*N^(-2)*V*ep + 9*N^(-2)*V*ep^2 - 3*N^(-2)*V*ep^3 )
+       + den[sp[p1 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p1 - p3]*sp[p2 - p3 - p4] * ( 1/8*N^(-2)*ep - 9/16*N^(-2)*ep^2 + 3/16*N^(-2)*ep^3 - 1/8*ep + 9/16*ep^2 - 3/16*ep^3 )
 
-       + den[sp[p1 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p1 - p3]*sp[p2 - p4] * (  - 2*N^(-2)*V*ep + 9*N^(-2)*V*ep^2 - 3*N^(-2)*V*ep^3 )
+       + den[sp[p1 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p1 - p3]*sp[p2 - p4] * ( 1/8*N^(-2)*ep - 9/16*N^(-2)*ep^2 + 3/16*N^(-2)*ep^3 - 1/8*ep + 9/16*ep^2 - 3/16*ep^3 )
 
-       + den[sp[p1 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p2 - p3]^2 * (  - 8*N^(-2)*V + 6*N^(-2)*V*ep - 2*N^(-2)*V*ep^2 - 4*N^(-2)*V*ep^3 )
+       + den[sp[p1 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p2 - p3]^2 * (  - 1/2 + 1/2*N^(-2) - 3/8*N^(-2)*ep + 1/8*N^(-2)*ep^2 + 1/4*N^(-2)*ep^3 + 3/8*ep - 1/8*ep^2 - 1/4*ep^3 )
 
-       + den[sp[p1 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p2 - p3]*sp[p2 - p3 - p4] * (  - 2*N^(-2)*V*ep + 9*N^(-2)*V*ep^2 - 3*N^(-2)*V*ep^3 )
+       + den[sp[p1 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p2 - p3]*sp[p2 - p3 - p4] * ( 1/8*N^(-2)*ep - 9/16*N^(-2)*ep^2 + 3/16*N^(-2)*ep^3 - 1/8*ep + 9/16*ep^2 - 3/16*ep^3 )
 
-       + den[sp[p1 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p2 - p3]*sp[p2 - p4] * (  - 2*N^(-2)*V*ep + 9*N^(-2)*V*ep^2 - 3*N^(-2)*V*ep^3 )
+       + den[sp[p1 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p2 - p3]*sp[p2 - p4] * ( 1/8*N^(-2)*ep - 9/16*N^(-2)*ep^2 + 3/16*N^(-2)*ep^3 - 1/8*ep + 9/16*ep^2 - 3/16*ep^3 )
 
-       + den[sp[p1 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p2 - p3 - p4]^2 * ( 10*N^(-2)*V*ep - 16*N^(-2)*V*ep^2 + 6*N^(-2)*V*ep^3 )
+       + den[sp[p1 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p2 - p3 - p4]^2 * (  - 5/8*N^(-2)*ep + N^(-2)*ep^2 - 3/8*N^(-2)*ep^3 + 5/8*ep - ep^2 + 3/8*ep^3 )
 
-       + den[sp[p1 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p2 - p4]*sp[p2 - p3 - p4] * (  - 18*N^(-2)*V*ep^2 + 10*N^(-2)*V*ep^3 )
+       + den[sp[p1 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p2 - p4]*sp[p2 - p3 - p4] * ( 9/8*N^(-2)*ep^2 - 5/8*N^(-2)*ep^3 - 9/8*ep^2 + 5/8*ep^3 )
 
-       + den[sp[p1 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p2 - p4]^2 * ( 10*N^(-2)*V*ep - 16*N^(-2)*V*ep^2 + 6*N^(-2)*V*ep^3 )
+       + den[sp[p1 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p2 - p4]^2 * (  - 5/8*N^(-2)*ep + N^(-2)*ep^2 - 3/8*N^(-2)*ep^3 + 5/8*ep - ep^2 + 3/8*ep^3 )
 
-       + den[sp[p1 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]^2 * ( 2*N^(-2)*V*ep + 12*N^(-2)*V*ep^2 + 2*N^(-2)*V*ep^3 )
+       + den[sp[p1 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]^2 * (  - 1/8*N^(-2)*ep - 3/4*N^(-2)*ep^2 - 1/8*N^(-2)*ep^3 + 1/8*ep + 3/4*ep^2 + 1/8*ep^3 )
 
-       + den[sp[p1 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]*sp[p1 - p3 - p4] * (  - 14*N^(-2)*V*ep - 27*N^(-2)*V*ep^2 - 3*N^(-2)*V*ep^3 )
+       + den[sp[p1 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]*sp[p1 - p3 - p4] * ( 7/8*N^(-2)*ep + 27/16*N^(-2)*ep^2 + 3/16*N^(-2)*ep^3 - 7/8*ep - 27/16*ep^2 - 3/16*ep^3 )
 
-       + den[sp[p1 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]*sp[p2 - p3] * ( 12*N^(-2)*V*ep - 16*N^(-2)*V*ep^2 + 4*N^(-2)*V*ep^3 )
+       + den[sp[p1 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]*sp[p2 - p3] * (  - 3/4*N^(-2)*ep + N^(-2)*ep^2 - 1/4*N^(-2)*ep^3 + 3/4*ep - ep^2 + 1/4*ep^3 )
 
-       + den[sp[p1 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]*sp[p2 - p4] * (  - 14*N^(-2)*V*ep - 27*N^(-2)*V*ep^2 - 3*N^(-2)*V*ep^3 )
+       + den[sp[p1 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]*sp[p2 - p4] * ( 7/8*N^(-2)*ep + 27/16*N^(-2)*ep^2 + 3/16*N^(-2)*ep^3 - 7/8*ep - 27/16*ep^2 - 3/16*ep^3 )
 
-       + den[sp[p1 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3 - p4]^2 * ( 10*N^(-2)*V*ep + 14*N^(-2)*V*ep^2 )
+       + den[sp[p1 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3 - p4]^2 * (  - 5/8*N^(-2)*ep - 7/8*N^(-2)*ep^2 + 5/8*ep + 7/8*ep^2 )
 
-       + den[sp[p1 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p2 - p3]*sp[p1 - p3 - p4] * (  - 14*N^(-2)*V*ep - 27*N^(-2)*V*ep^2 - 3*N^(-2)*V*ep^3 )
+       + den[sp[p1 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p2 - p3]*sp[p1 - p3 - p4] * ( 7/8*N^(-2)*ep + 27/16*N^(-2)*ep^2 + 3/16*N^(-2)*ep^3 - 7/8*ep - 27/16*ep^2 - 3/16*ep^3 )
 
-       + den[sp[p1 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p2 - p3]^2 * ( 2*N^(-2)*V*ep + 12*N^(-2)*V*ep^2 + 2*N^(-2)*V*ep^3 )
+       + den[sp[p1 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p2 - p3]^2 * (  - 1/8*N^(-2)*ep - 3/4*N^(-2)*ep^2 - 1/8*N^(-2)*ep^3 + 1/8*ep + 3/4*ep^2 + 1/8*ep^3 )
 
-       + den[sp[p1 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p2 - p3]*sp[p2 - p4] * (  - 14*N^(-2)*V*ep - 27*N^(-2)*V*ep^2 - 3*N^(-2)*V*ep^3 )
+       + den[sp[p1 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p2 - p3]*sp[p2 - p4] * ( 7/8*N^(-2)*ep + 27/16*N^(-2)*ep^2 + 3/16*N^(-2)*ep^3 - 7/8*ep - 27/16*ep^2 - 3/16*ep^3 )
 
-       + den[sp[p1 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p2 - p4]*sp[p1 - p3 - p4] * ( 16*N^(-2)*V*ep + 26*N^(-2)*V*ep^2 - 2*N^(-2)*V*ep^3 )
+       + den[sp[p1 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p2 - p4]*sp[p1 - p3 - p4] * (  - N^(-2)*ep - 13/8*N^(-2)*ep^2 + 1/8*N^(-2)*ep^3 + ep + 13/8*ep^2 - 1/8*ep^3 )
 
-       + den[sp[p1 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p2 - p4]^2 * ( 10*N^(-2)*V*ep + 14*N^(-2)*V*ep^2 )
+       + den[sp[p1 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p2 - p4]^2 * (  - 5/8*N^(-2)*ep - 7/8*N^(-2)*ep^2 + 5/8*ep + 7/8*ep^2 )
 
-       + den[sp[p1 - p4]]*den[sp[p1 + p2 - p3]]*sp[p1 - p3] * (  - 8*N^(-2)*V*ep + 6*N^(-2)*V*ep^2 - 6*N^(-2)*V*ep^3 )
+       + den[sp[p1 - p4]]*den[sp[p1 + p2 - p3]]*sp[p1 - p3] * ( 1/2*N^(-2)*ep - 3/8*N^(-2)*ep^2 + 3/8*N^(-2)*ep^3 - 1/2*ep + 3/8*ep^2 - 3/8*ep^3 )
 
-       + den[sp[p1 - p4]]*den[sp[p1 + p2 - p3]]*sp[p1 - p3 - p4] * ( 10*N^(-2)*V*ep + 16*N^(-2)*V*ep^2 + 6*N^(-2)*V*ep^3 )
+       + den[sp[p1 - p4]]*den[sp[p1 + p2 - p3]]*sp[p1 - p3 - p4] * (  - 7/8*N^(-2)*ep - 7/4*N^(-2)*ep^2 - 3/8*N^(-2)*ep^3 + 7/8*ep + 7/4*ep^2 + 3/8*ep^3 )
 
-       + den[sp[p1 - p4]]*den[sp[p1 + p2 - p3]]*sp[p2 - p3] * (  - 8*N^(-2)*V*ep + 6*N^(-2)*V*ep^2 - 6*N^(-2)*V*ep^3 )
+       + den[sp[p1 - p4]]*den[sp[p1 + p2 - p3]]*sp[p2 - p3] * ( 1/2*N^(-2)*ep - 3/8*N^(-2)*ep^2 + 3/8*N^(-2)*ep^3 - 1/2*ep + 3/8*ep^2 - 3/8*ep^3 )
 
-       + den[sp[p1 - p4]]*den[sp[p1 + p2 - p3]]*sp[p2 - p3 - p4] * ( 54*N^(-2)*V*ep - 10*N^(-2)*V*ep^2 + 12*N^(-2)*V*ep^3 )
+       + den[sp[p1 - p4]]*den[sp[p1 + p2 - p3]]*sp[p2 - p3 - p4] * (  - 27/8*N^(-2)*ep + 5/8*N^(-2)*ep^2 - 3/4*N^(-2)*ep^3 + 27/8*ep - 5/8*ep^2 + 3/4*ep^3 )
 
-       + den[sp[p1 - p4]]*den[sp[p1 + p2 - p3]]*sp[p2 - p4] * ( 16*N^(-2)*V*ep + 8*N^(-2)*V*ep^2 + 8*N^(-2)*V*ep^3 )
+       + den[sp[p1 - p4]]*den[sp[p1 + p2 - p3]]*sp[p2 - p4] * (  - N^(-2)*ep - 1/2*N^(-2)*ep^2 - 1/2*N^(-2)*ep^3 + ep + 1/2*ep^2 + 1/2*ep^3 )
 
-       + den[sp[p1 - p4]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p2 - p3]*sp[p2 - p4] * (  - 4*N^(-2)*V*ep - 12*N^(-2)*V*ep^2 )
+       + den[sp[p1 - p4]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p2 - p3]*sp[p2 - p4] * ( 1/2*N^(-2)*ep + 3/2*N^(-2)*ep^2 - 1/2*ep - 3/2*ep^2 )
 
-       + den[sp[p1 - p4]]*den[sp[p1 - p3 - p4]]*den[sp[p2 - p3 - p4]]*sp[p2 - p4]*s * (  - N^(-4)*V*ep + 2*N^(-4)*V*ep^2 - N^(-4)*V*ep^3 - N^(-2)*V*ep + 2*N^(-2)*V*ep^2 - N^(-2)*V*ep^3 )
+       + den[sp[p1 - p4]]*den[sp[p1 - p3 - p4]]*den[sp[p2 - p3 - p4]]*sp[p2 - p4]*s * ( 1/4*N^(-4)*ep - 1/2*N^(-4)*ep^2 + 1/4*N^(-4)*ep^3 - 1/4*ep + 1/2*ep^2 - 1/4*ep^3 )
 
-       + den[sp[p1 - p4]]*den[sp[p2 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]^4*s^(-1) * (  - 4*V*ep - 6*V*ep^2 + 2*V*ep^3 )
+       + den[sp[p1 - p4]]*den[sp[p2 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]^4*s^(-1) * ( 1/16*ep + 3/32*ep^2 - 1/32*ep^3 - 1/16*N^2*ep - 3/32*N^2*ep^2 + 1/32*N^2*ep^3 )
 
-       + den[sp[p1 - p4]]*den[sp[p2 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]^3*sp[p1 - p3 - p4]*s^(-1) * (  - 2*V*ep + 2*V*ep^2 )
+       + den[sp[p1 - p4]]*den[sp[p2 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]^3*sp[p1 - p3 - p4]*s^(-1) * ( 1/32*ep - 1/32*ep^2 - 1/32*N^2*ep + 1/32*N^2*ep^2 )
 
-       + den[sp[p1 - p4]]*den[sp[p2 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]^3*sp[p2 - p3 - p4]*s^(-1) * (  - 2*V*ep + 2*V*ep^2 )
+       + den[sp[p1 - p4]]*den[sp[p2 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]^3*sp[p2 - p3 - p4]*s^(-1) * ( 1/32*ep - 1/32*ep^2 - 1/32*N^2*ep + 1/32*N^2*ep^2 )
 
-       + den[sp[p1 - p4]]*den[sp[p2 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]^2*sp[p1 - p3 - p4]^2*s^(-1) * ( 8*V*ep + 12*V*ep^2 - 4*V*ep^3 )
+       + den[sp[p1 - p4]]*den[sp[p2 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]^2*sp[p1 - p3 - p4]^2*s^(-1) * (  - 1/8*ep - 3/16*ep^2 + 1/16*ep^3 + 1/8*N^2*ep + 3/16*N^2*ep^2 - 1/16*N^2*ep^3 )
 
-       + den[sp[p1 - p4]]*den[sp[p2 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]^2*sp[p1 - p3 - p4]*sp[p2 - p3 - p4]*s^(-1) * (  - 32*V*ep + 8*V*ep^2 - 8*V*ep^3 )
+       + den[sp[p1 - p4]]*den[sp[p2 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]^2*sp[p1 - p3 - p4]*sp[p2 - p3 - p4]*s^(-1) * ( 1/2*ep - 1/8*ep^2 + 1/8*ep^3 - 1/2*N^2*ep + 1/8*N^2*ep^2 - 1/8*N^2*ep^3 )
 
-       + den[sp[p1 - p4]]*den[sp[p2 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]^2*sp[p2 - p3 - p4]^2*s^(-1) * ( 8*V*ep + 12*V*ep^2 - 4*V*ep^3 )
+       + den[sp[p1 - p4]]*den[sp[p2 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]^2*sp[p2 - p3 - p4]^2*s^(-1) * (  - 1/8*ep - 3/16*ep^2 + 1/16*ep^3 + 1/8*N^2*ep + 3/16*N^2*ep^2 - 1/16*N^2*ep^3 )
 
-       + den[sp[p1 - p4]]*den[sp[p2 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]^2*sp[p2 - p4]*sp[p1 - p3 - p4]*s^(-1) * ( 2*V*ep - 2*V*ep^2 )
+       + den[sp[p1 - p4]]*den[sp[p2 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]^2*sp[p2 - p4]*sp[p1 - p3 - p4]*s^(-1) * (  - 1/32*ep + 1/32*ep^2 + 1/32*N^2*ep - 1/32*N^2*ep^2 )
 
-       + den[sp[p1 - p4]]*den[sp[p2 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]^2*sp[p2 - p4]*sp[p2 - p3 - p4]*s^(-1) * ( 2*V*ep - 2*V*ep^2 )
+       + den[sp[p1 - p4]]*den[sp[p2 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]^2*sp[p2 - p4]*sp[p2 - p3 - p4]*s^(-1) * (  - 1/32*ep + 1/32*ep^2 + 1/32*N^2*ep - 1/32*N^2*ep^2 )
 
-       + den[sp[p1 - p4]]*den[sp[p2 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]^2*sp[p2 - p4]^2*s^(-1) * ( 8*V*ep + 12*V*ep^2 - 4*V*ep^3 )
+       + den[sp[p1 - p4]]*den[sp[p2 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]^2*sp[p2 - p4]^2*s^(-1) * (  - 1/8*ep - 3/16*ep^2 + 1/16*ep^3 + 1/8*N^2*ep + 3/16*N^2*ep^2 - 1/16*N^2*ep^3 )
 
-       + den[sp[p1 - p4]]*den[sp[p2 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]*sp[p1 - p3 - p4]^3*s^(-1) * ( 2*V*ep - 2*V*ep^2 )
+       + den[sp[p1 - p4]]*den[sp[p2 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]*sp[p1 - p3 - p4]^3*s^(-1) * (  - 1/32*ep + 1/32*ep^2 + 1/32*N^2*ep - 1/32*N^2*ep^2 )
 
-       + den[sp[p1 - p4]]*den[sp[p2 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]*sp[p1 - p3 - p4]^2*sp[p2 - p3 - p4]*s^(-1) * (  - 2*V*ep + 2*V*ep^2 )
+       + den[sp[p1 - p4]]*den[sp[p2 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]*sp[p1 - p3 - p4]^2*sp[p2 - p3 - p4]*s^(-1) * ( 1/32*ep - 1/32*ep^2 - 1/32*N^2*ep + 1/32*N^2*ep^2 )
 
-       + den[sp[p1 - p4]]*den[sp[p2 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]*sp[p1 - p3 - p4]*sp[p2 - p3 - p4]^2*s^(-1) * (  - 2*V*ep + 2*V*ep^2 )
+       + den[sp[p1 - p4]]*den[sp[p2 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]*sp[p1 - p3 - p4]*sp[p2 - p3 - p4]^2*s^(-1) * ( 1/32*ep - 1/32*ep^2 - 1/32*N^2*ep + 1/32*N^2*ep^2 )
 
-       + den[sp[p1 - p4]]*den[sp[p2 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]*sp[p2 - p3 - p4]^3*s^(-1) * ( 2*V*ep - 2*V*ep^2 )
+       + den[sp[p1 - p4]]*den[sp[p2 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]*sp[p2 - p3 - p4]^3*s^(-1) * (  - 1/32*ep + 1/32*ep^2 + 1/32*N^2*ep - 1/32*N^2*ep^2 )
 
-       + den[sp[p1 - p4]]*den[sp[p2 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]*sp[p2 - p4]^2*sp[p1 - p3 - p4]*s^(-1) * ( 2*V*ep - 2*V*ep^2 )
+       + den[sp[p1 - p4]]*den[sp[p2 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]*sp[p2 - p4]^2*sp[p1 - p3 - p4]*s^(-1) * (  - 1/32*ep + 1/32*ep^2 + 1/32*N^2*ep - 1/32*N^2*ep^2 )
 
-       + den[sp[p1 - p4]]*den[sp[p2 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]*sp[p2 - p4]^2*sp[p2 - p3 - p4]*s^(-1) * ( 2*V*ep - 2*V*ep^2 )
+       + den[sp[p1 - p4]]*den[sp[p2 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]*sp[p2 - p4]^2*sp[p2 - p3 - p4]*s^(-1) * (  - 1/32*ep + 1/32*ep^2 + 1/32*N^2*ep - 1/32*N^2*ep^2 )
 
-       + den[sp[p1 - p4]]*den[sp[p2 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3 - p4]^4*s^(-1) * (  - 4*V*ep - 6*V*ep^2 + 2*V*ep^3 )
+       + den[sp[p1 - p4]]*den[sp[p2 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3 - p4]^4*s^(-1) * ( 1/16*ep + 3/32*ep^2 - 1/32*ep^3 - 1/16*N^2*ep - 3/32*N^2*ep^2 + 1/32*N^2*ep^3 )
 
-       + den[sp[p1 - p4]]*den[sp[p2 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3 - p4]^3*sp[p2 - p3 - p4]*s^(-1) * ( 32*V - 32*V*ep + 24*V*ep^2 + 8*V*ep^3 )
+       + den[sp[p1 - p4]]*den[sp[p2 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3 - p4]^3*sp[p2 - p3 - p4]*s^(-1) * (  - 1/2 + 1/2*ep - 3/8*ep^2 - 1/8*ep^3 + 1/2*N^2 - 1/2*N^2*ep + 3/8*N^2*ep^2 + 1/8*N^2*ep^3 )
 
-       + den[sp[p1 - p4]]*den[sp[p2 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3 - p4]^2*sp[p2 - p3 - p4]^2*s^(-1) * ( 8*V*ep + 60*V*ep^2 + 12*V*ep^3 )
+       + den[sp[p1 - p4]]*den[sp[p2 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3 - p4]^2*sp[p2 - p3 - p4]^2*s^(-1) * (  - 1/8*ep - 15/16*ep^2 - 3/16*ep^3 + 1/8*N^2*ep + 15/16*N^2*ep^2 + 3/16*N^2*ep^3 )
 
-       + den[sp[p1 - p4]]*den[sp[p2 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3 - p4]*sp[p2 - p3 - p4]^3*s^(-1) * ( 32*V - 32*V*ep + 24*V*ep^2 + 8*V*ep^3 )
+       + den[sp[p1 - p4]]*den[sp[p2 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3 - p4]*sp[p2 - p3 - p4]^3*s^(-1) * (  - 1/2 + 1/2*ep - 3/8*ep^2 - 1/8*ep^3 + 1/2*N^2 - 1/2*N^2*ep + 3/8*N^2*ep^2 + 1/8*N^2*ep^3 )
 
-       + den[sp[p1 - p4]]*den[sp[p2 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p3 - p4]^4*s^(-1) * (  - 4*V*ep - 6*V*ep^2 + 2*V*ep^3 )
+       + den[sp[p1 - p4]]*den[sp[p2 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p3 - p4]^4*s^(-1) * ( 1/16*ep + 3/32*ep^2 - 1/32*ep^3 - 1/16*N^2*ep - 3/32*N^2*ep^2 + 1/32*N^2*ep^3 )
 
-       + den[sp[p1 - p4]]*den[sp[p2 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p4]*sp[p1 - p3 - p4]^3*s^(-1) * ( 2*V*ep - 2*V*ep^2 )
+       + den[sp[p1 - p4]]*den[sp[p2 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p4]*sp[p1 - p3 - p4]^3*s^(-1) * (  - 1/32*ep + 1/32*ep^2 + 1/32*N^2*ep - 1/32*N^2*ep^2 )
 
-       + den[sp[p1 - p4]]*den[sp[p2 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p4]*sp[p1 - p3 - p4]^2*sp[p2 - p3 - p4]*s^(-1) * (  - 2*V*ep + 2*V*ep^2 )
+       + den[sp[p1 - p4]]*den[sp[p2 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p4]*sp[p1 - p3 - p4]^2*sp[p2 - p3 - p4]*s^(-1) * ( 1/32*ep - 1/32*ep^2 - 1/32*N^2*ep + 1/32*N^2*ep^2 )
 
-       + den[sp[p1 - p4]]*den[sp[p2 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p4]*sp[p1 - p3 - p4]*sp[p2 - p3 - p4]^2*s^(-1) * (  - 2*V*ep + 2*V*ep^2 )
+       + den[sp[p1 - p4]]*den[sp[p2 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p4]*sp[p1 - p3 - p4]*sp[p2 - p3 - p4]^2*s^(-1) * ( 1/32*ep - 1/32*ep^2 - 1/32*N^2*ep + 1/32*N^2*ep^2 )
 
-       + den[sp[p1 - p4]]*den[sp[p2 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p4]*sp[p2 - p3 - p4]^3*s^(-1) * ( 2*V*ep - 2*V*ep^2 )
+       + den[sp[p1 - p4]]*den[sp[p2 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p4]*sp[p2 - p3 - p4]^3*s^(-1) * (  - 1/32*ep + 1/32*ep^2 + 1/32*N^2*ep - 1/32*N^2*ep^2 )
 
-       + den[sp[p1 - p4]]*den[sp[p2 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p4]^2*sp[p1 - p3 - p4]^2*s^(-1) * ( 8*V*ep + 12*V*ep^2 - 4*V*ep^3 )
+       + den[sp[p1 - p4]]*den[sp[p2 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p4]^2*sp[p1 - p3 - p4]^2*s^(-1) * (  - 1/8*ep - 3/16*ep^2 + 1/16*ep^3 + 1/8*N^2*ep + 3/16*N^2*ep^2 - 1/16*N^2*ep^3 )
 
-       + den[sp[p1 - p4]]*den[sp[p2 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p4]^2*sp[p1 - p3 - p4]*sp[p2 - p3 - p4]*s^(-1) * (  - 32*V*ep + 8*V*ep^2 - 8*V*ep^3 )
+       + den[sp[p1 - p4]]*den[sp[p2 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p4]^2*sp[p1 - p3 - p4]*sp[p2 - p3 - p4]*s^(-1) * ( 1/2*ep - 1/8*ep^2 + 1/8*ep^3 - 1/2*N^2*ep + 1/8*N^2*ep^2 - 1/8*N^2*ep^3 )
 
-       + den[sp[p1 - p4]]*den[sp[p2 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p4]^2*sp[p2 - p3 - p4]^2*s^(-1) * ( 8*V*ep + 12*V*ep^2 - 4*V*ep^3 )
+       + den[sp[p1 - p4]]*den[sp[p2 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p4]^2*sp[p2 - p3 - p4]^2*s^(-1) * (  - 1/8*ep - 3/16*ep^2 + 1/16*ep^3 + 1/8*N^2*ep + 3/16*N^2*ep^2 - 1/16*N^2*ep^3 )
 
-       + den[sp[p1 - p4]]*den[sp[p2 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p4]^3*sp[p1 - p3 - p4]*s^(-1) * (  - 2*V*ep + 2*V*ep^2 )
+       + den[sp[p1 - p4]]*den[sp[p2 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p4]^3*sp[p1 - p3 - p4]*s^(-1) * ( 1/32*ep - 1/32*ep^2 - 1/32*N^2*ep + 1/32*N^2*ep^2 )
 
-       + den[sp[p1 - p4]]*den[sp[p2 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p4]^3*sp[p2 - p3 - p4]*s^(-1) * (  - 2*V*ep + 2*V*ep^2 )
+       + den[sp[p1 - p4]]*den[sp[p2 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p4]^3*sp[p2 - p3 - p4]*s^(-1) * ( 1/32*ep - 1/32*ep^2 - 1/32*N^2*ep + 1/32*N^2*ep^2 )
 
-       + den[sp[p1 - p4]]*den[sp[p2 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p4]^4*s^(-1) * (  - 4*V*ep - 6*V*ep^2 + 2*V*ep^3 )
+       + den[sp[p1 - p4]]*den[sp[p2 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p4]^4*s^(-1) * ( 1/16*ep + 3/32*ep^2 - 1/32*ep^3 - 1/16*N^2*ep - 3/32*N^2*ep^2 + 1/32*N^2*ep^3 )
 
-       + den[sp[p1 - p4]]*den[sp[p2 - p3]]*den[sp[p2 - p4]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3 - p4]^3 * (  - 8*N^(-2)*V + 16*N^(-2)*V*ep - 8*N^(-2)*V*ep^2 )
+       + den[sp[p1 - p4]]*den[sp[p2 - p3]]*den[sp[p2 - p4]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3 - p4]^3 * (  - 1/2 + 1/2*N^(-2) - N^(-2)*ep + 1/2*N^(-2)*ep^2 + ep - 1/2*ep^2 )
 
-       + den[sp[p1 - p4]]*den[sp[p2 - p3]]*den[sp[p2 - p4]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3 - p4]*sp[p2 - p3 - p4]^2 * (  - 8*N^(-2)*V + 16*N^(-2)*V*ep - 8*N^(-2)*V*ep^2 )
+       + den[sp[p1 - p4]]*den[sp[p2 - p3]]*den[sp[p2 - p4]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3 - p4]*sp[p2 - p3 - p4]^2 * (  - 1/2 + 1/2*N^(-2) - N^(-2)*ep + 1/2*N^(-2)*ep^2 + ep - 1/2*ep^2 )
 
-       + den[sp[p1 - p4]]*den[sp[p2 - p3]]*den[sp[p2 - p4]]*den[sp[p3 + p4]]*sp[p1 - p3]^3 * ( 2*N^(-2)*V*ep + N^(-2)*V*ep^2 + N^(-2)*V*ep^3 )
+       + den[sp[p1 - p4]]*den[sp[p2 - p3]]*den[sp[p2 - p4]]*den[sp[p3 + p4]]*sp[p1 - p3]^3 * (  - 1/8*N^(-2)*ep - 1/16*N^(-2)*ep^2 - 1/16*N^(-2)*ep^3 + 1/8*ep + 1/16*ep^2 + 1/16*ep^3 )
 
-       + den[sp[p1 - p4]]*den[sp[p2 - p3]]*den[sp[p2 - p4]]*den[sp[p3 + p4]]*sp[p1 - p3]^2*sp[p1 - p3 - p4] * (  - 2*N^(-2)*V*ep - N^(-2)*V*ep^2 - N^(-2)*V*ep^3 )
+       + den[sp[p1 - p4]]*den[sp[p2 - p3]]*den[sp[p2 - p4]]*den[sp[p3 + p4]]*sp[p1 - p3]^2*sp[p1 - p3 - p4] * ( 1/8*N^(-2)*ep + 1/16*N^(-2)*ep^2 + 1/16*N^(-2)*ep^3 - 1/8*ep - 1/16*ep^2 - 1/16*ep^3 )
 
-       + den[sp[p1 - p4]]*den[sp[p2 - p3]]*den[sp[p2 - p4]]*den[sp[p3 + p4]]*sp[p1 - p3]^2*sp[p2 - p3 - p4] * (  - 2*N^(-2)*V*ep - N^(-2)*V*ep^2 - N^(-2)*V*ep^3 )
+       + den[sp[p1 - p4]]*den[sp[p2 - p3]]*den[sp[p2 - p4]]*den[sp[p3 + p4]]*sp[p1 - p3]^2*sp[p2 - p3 - p4] * ( 1/8*N^(-2)*ep + 1/16*N^(-2)*ep^2 + 1/16*N^(-2)*ep^3 - 1/8*ep - 1/16*ep^2 - 1/16*ep^3 )
 
-       + den[sp[p1 - p4]]*den[sp[p2 - p3]]*den[sp[p2 - p4]]*den[sp[p3 + p4]]*sp[p1 - p3]*sp[p1 - p3 - p4]^2 * (  - 2*N^(-2)*V*ep - N^(-2)*V*ep^2 - N^(-2)*V*ep^3 )
+       + den[sp[p1 - p4]]*den[sp[p2 - p3]]*den[sp[p2 - p4]]*den[sp[p3 + p4]]*sp[p1 - p3]*sp[p1 - p3 - p4]^2 * ( 1/8*N^(-2)*ep + 1/16*N^(-2)*ep^2 + 1/16*N^(-2)*ep^3 - 1/8*ep - 1/16*ep^2 - 1/16*ep^3 )
 
-       + den[sp[p1 - p4]]*den[sp[p2 - p3]]*den[sp[p2 - p4]]*den[sp[p3 + p4]]*sp[p1 - p3]*sp[p1 - p3 - p4]*sp[p2 - p3 - p4] * (  - 4*N^(-2)*V*ep - 2*N^(-2)*V*ep^2 - 2*N^(-2)*V*ep^3 )
+       + den[sp[p1 - p4]]*den[sp[p2 - p3]]*den[sp[p2 - p4]]*den[sp[p3 + p4]]*sp[p1 - p3]*sp[p1 - p3 - p4]*sp[p2 - p3 - p4] * ( 1/4*N^(-2)*ep + 1/8*N^(-2)*ep^2 + 1/8*N^(-2)*ep^3 - 1/4*ep - 1/8*ep^2 - 1/8*ep^3 )
 
-       + den[sp[p1 - p4]]*den[sp[p2 - p3]]*den[sp[p2 - p4]]*den[sp[p3 + p4]]*sp[p1 - p3]*sp[p2 - p3 - p4]^2 * (  - 2*N^(-2)*V*ep - N^(-2)*V*ep^2 - N^(-2)*V*ep^3 )
+       + den[sp[p1 - p4]]*den[sp[p2 - p3]]*den[sp[p2 - p4]]*den[sp[p3 + p4]]*sp[p1 - p3]*sp[p2 - p3 - p4]^2 * ( 1/8*N^(-2)*ep + 1/16*N^(-2)*ep^2 + 1/16*N^(-2)*ep^3 - 1/8*ep - 1/16*ep^2 - 1/16*ep^3 )
 
-       + den[sp[p1 - p4]]*den[sp[p2 - p3]]*den[sp[p2 - p4]]*den[sp[p3 + p4]]*sp[p1 - p3 - p4]^3 * ( 2*N^(-2)*V*ep + N^(-2)*V*ep^2 + N^(-2)*V*ep^3 )
+       + den[sp[p1 - p4]]*den[sp[p2 - p3]]*den[sp[p2 - p4]]*den[sp[p3 + p4]]*sp[p1 - p3 - p4]^3 * (  - 1/8*N^(-2)*ep - 1/16*N^(-2)*ep^2 - 1/16*N^(-2)*ep^3 + 1/8*ep + 1/16*ep^2 + 1/16*ep^3 )
 
-       + den[sp[p1 - p4]]*den[sp[p2 - p3]]*den[sp[p2 - p4]]*den[sp[p3 + p4]]*sp[p1 - p3 - p4]^2*sp[p2 - p3 - p4] * ( 6*N^(-2)*V*ep + 3*N^(-2)*V*ep^2 + 3*N^(-2)*V*ep^3 )
+       + den[sp[p1 - p4]]*den[sp[p2 - p3]]*den[sp[p2 - p4]]*den[sp[p3 + p4]]*sp[p1 - p3 - p4]^2*sp[p2 - p3 - p4] * (  - 3/8*N^(-2)*ep - 3/16*N^(-2)*ep^2 - 3/16*N^(-2)*ep^3 + 3/8*ep + 3/16*ep^2 + 3/16*ep^3 )
 
-       + den[sp[p1 - p4]]*den[sp[p2 - p3]]*den[sp[p2 - p4]]*den[sp[p3 + p4]]*sp[p1 - p3 - p4]*sp[p2 - p3 - p4]^2 * ( 6*N^(-2)*V*ep + 3*N^(-2)*V*ep^2 + 3*N^(-2)*V*ep^3 )
+       + den[sp[p1 - p4]]*den[sp[p2 - p3]]*den[sp[p2 - p4]]*den[sp[p3 + p4]]*sp[p1 - p3 - p4]*sp[p2 - p3 - p4]^2 * (  - 3/8*N^(-2)*ep - 3/16*N^(-2)*ep^2 - 3/16*N^(-2)*ep^3 + 3/8*ep + 3/16*ep^2 + 3/16*ep^3 )
 
-       + den[sp[p1 - p4]]*den[sp[p2 - p3]]*den[sp[p2 - p4]]*den[sp[p3 + p4]]*sp[p2 - p3 - p4]^3 * ( 2*N^(-2)*V*ep + N^(-2)*V*ep^2 + N^(-2)*V*ep^3 )
+       + den[sp[p1 - p4]]*den[sp[p2 - p3]]*den[sp[p2 - p4]]*den[sp[p3 + p4]]*sp[p2 - p3 - p4]^3 * (  - 1/8*N^(-2)*ep - 1/16*N^(-2)*ep^2 - 1/16*N^(-2)*ep^3 + 1/8*ep + 1/16*ep^2 + 1/16*ep^3 )
 
-       + den[sp[p1 - p4]]*den[sp[p2 - p3]]*den[sp[p2 - p4]]*sp[p1 - p3]*s * (  - N^(-4)*V*ep + 2*N^(-4)*V*ep^2 - N^(-4)*V*ep^3 - N^(-2)*V*ep + 2*N^(-2)*V*ep^2 - N^(-2)*V*ep^3 )
+       + den[sp[p1 - p4]]*den[sp[p2 - p3]]*den[sp[p2 - p4]]*sp[p1 - p3]*s * ( 1/4*N^(-4)*ep - 1/2*N^(-4)*ep^2 + 1/4*N^(-4)*ep^3 - 1/4*ep + 1/2*ep^2 - 1/4*ep^3 )
 
-       + den[sp[p1 - p4]]*den[sp[p2 - p3]]*den[sp[p3 + p4]]*sp[p1 - p3]^2 * ( 10*N^(-2)*V*ep - 16*N^(-2)*V*ep^2 + 6*N^(-2)*V*ep^3 )
+       + den[sp[p1 - p4]]*den[sp[p2 - p3]]*den[sp[p3 + p4]]*sp[p1 - p3]^2 * (  - 5/8*N^(-2)*ep + N^(-2)*ep^2 - 3/8*N^(-2)*ep^3 + 5/8*ep - ep^2 + 3/8*ep^3 )
 
-       + den[sp[p1 - p4]]*den[sp[p2 - p3]]*den[sp[p3 + p4]]*sp[p1 - p3]*sp[p1 - p3 - p4] * (  - 2*N^(-2)*V*ep + 9*N^(-2)*V*ep^2 - 3*N^(-2)*V*ep^3 )
+       + den[sp[p1 - p4]]*den[sp[p2 - p3]]*den[sp[p3 + p4]]*sp[p1 - p3]*sp[p1 - p3 - p4] * ( 1/8*N^(-2)*ep - 9/16*N^(-2)*ep^2 + 3/16*N^(-2)*ep^3 - 1/8*ep + 9/16*ep^2 - 3/16*ep^3 )
 
-       + den[sp[p1 - p4]]*den[sp[p2 - p3]]*den[sp[p3 + p4]]*sp[p1 - p3]*sp[p2 - p3 - p4] * (  - 2*N^(-2)*V*ep + 9*N^(-2)*V*ep^2 - 3*N^(-2)*V*ep^3 )
+       + den[sp[p1 - p4]]*den[sp[p2 - p3]]*den[sp[p3 + p4]]*sp[p1 - p3]*sp[p2 - p3 - p4] * ( 1/8*N^(-2)*ep - 9/16*N^(-2)*ep^2 + 3/16*N^(-2)*ep^3 - 1/8*ep + 9/16*ep^2 - 3/16*ep^3 )
 
-       + den[sp[p1 - p4]]*den[sp[p2 - p3]]*den[sp[p3 + p4]]*sp[p1 - p3]*sp[p2 - p4] * (  - 18*N^(-2)*V*ep^2 + 10*N^(-2)*V*ep^3 )
+       + den[sp[p1 - p4]]*den[sp[p2 - p3]]*den[sp[p3 + p4]]*sp[p1 - p3]*sp[p2 - p4] * ( 9/8*N^(-2)*ep^2 - 5/8*N^(-2)*ep^3 - 9/8*ep^2 + 5/8*ep^3 )
 
-       + den[sp[p1 - p4]]*den[sp[p2 - p3]]*den[sp[p3 + p4]]*sp[p1 - p3 - p4]^2 * (  - 8*N^(-2)*V + 6*N^(-2)*V*ep - 2*N^(-2)*V*ep^2 - 4*N^(-2)*V*ep^3 )
+       + den[sp[p1 - p4]]*den[sp[p2 - p3]]*den[sp[p3 + p4]]*sp[p1 - p3 - p4]^2 * (  - 1/2 + 1/2*N^(-2) - 3/8*N^(-2)*ep + 1/8*N^(-2)*ep^2 + 1/4*N^(-2)*ep^3 + 3/8*ep - 1/8*ep^2 - 1/4*ep^3 )
 
-       + den[sp[p1 - p4]]*den[sp[p2 - p3]]*den[sp[p3 + p4]]*sp[p1 - p3 - p4]*sp[p2 - p3 - p4] * (  - 12*N^(-2)*V*ep - 28*N^(-2)*V*ep^2 - 8*N^(-2)*V*ep^3 )
+       + den[sp[p1 - p4]]*den[sp[p2 - p3]]*den[sp[p3 + p4]]*sp[p1 - p3 - p4]*sp[p2 - p3 - p4] * ( 3/4*N^(-2)*ep + 7/4*N^(-2)*ep^2 + 1/2*N^(-2)*ep^3 - 3/4*ep - 7/4*ep^2 - 1/2*ep^3 )
 
-       + den[sp[p1 - p4]]*den[sp[p2 - p3]]*den[sp[p3 + p4]]*sp[p2 - p3 - p4]^2 * (  - 8*N^(-2)*V + 6*N^(-2)*V*ep - 2*N^(-2)*V*ep^2 - 4*N^(-2)*V*ep^3 )
+       + den[sp[p1 - p4]]*den[sp[p2 - p3]]*den[sp[p3 + p4]]*sp[p2 - p3 - p4]^2 * (  - 1/2 + 1/2*N^(-2) - 3/8*N^(-2)*ep + 1/8*N^(-2)*ep^2 + 1/4*N^(-2)*ep^3 + 3/8*ep - 1/8*ep^2 - 1/4*ep^3 )
 
-       + den[sp[p1 - p4]]*den[sp[p2 - p3]]*den[sp[p3 + p4]]*sp[p2 - p4]*sp[p1 - p3 - p4] * (  - 2*N^(-2)*V*ep + 9*N^(-2)*V*ep^2 - 3*N^(-2)*V*ep^3 )
+       + den[sp[p1 - p4]]*den[sp[p2 - p3]]*den[sp[p3 + p4]]*sp[p2 - p4]*sp[p1 - p3 - p4] * ( 1/8*N^(-2)*ep - 9/16*N^(-2)*ep^2 + 3/16*N^(-2)*ep^3 - 1/8*ep + 9/16*ep^2 - 3/16*ep^3 )
 
-       + den[sp[p1 - p4]]*den[sp[p2 - p3]]*den[sp[p3 + p4]]*sp[p2 - p4]*sp[p2 - p3 - p4] * (  - 2*N^(-2)*V*ep + 9*N^(-2)*V*ep^2 - 3*N^(-2)*V*ep^3 )
+       + den[sp[p1 - p4]]*den[sp[p2 - p3]]*den[sp[p3 + p4]]*sp[p2 - p4]*sp[p2 - p3 - p4] * ( 1/8*N^(-2)*ep - 9/16*N^(-2)*ep^2 + 3/16*N^(-2)*ep^3 - 1/8*ep + 9/16*ep^2 - 3/16*ep^3 )
 
-       + den[sp[p1 - p4]]*den[sp[p2 - p3]]*den[sp[p3 + p4]]*sp[p2 - p4]^2 * ( 10*N^(-2)*V*ep - 16*N^(-2)*V*ep^2 + 6*N^(-2)*V*ep^3 )
+       + den[sp[p1 - p4]]*den[sp[p2 - p3]]*den[sp[p3 + p4]]*sp[p2 - p4]^2 * (  - 5/8*N^(-2)*ep + N^(-2)*ep^2 - 3/8*N^(-2)*ep^3 + 5/8*ep - ep^2 + 3/8*ep^3 )
 
-       + den[sp[p1 - p4]]*den[sp[p2 - p4]]*s * (  - 12*N^(-4)*V*ep - 4*N^(-4)*V*ep^2 - 12*N^(-2)*V*ep - 4*N^(-2)*V*ep^2 )
+       + den[sp[p1 - p4]]*den[sp[p2 - p4]]*s * ( 3*N^(-4)*ep + N^(-4)*ep^2 - 3*ep - ep^2 )
 
-       + den[sp[p1 - p4]]*den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p1 - p3]^3 * ( 2*N^(-2)*V*ep + N^(-2)*V*ep^2 + N^(-2)*V*ep^3 )
+       + den[sp[p1 - p4]]*den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p1 - p3]^3 * (  - 1/8*N^(-2)*ep - 1/16*N^(-2)*ep^2 - 1/16*N^(-2)*ep^3 + 1/8*ep + 1/16*ep^2 + 1/16*ep^3 )
 
-       + den[sp[p1 - p4]]*den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p1 - p3]^2*sp[p2 - p3] * ( 6*N^(-2)*V*ep + 3*N^(-2)*V*ep^2 + 3*N^(-2)*V*ep^3 )
+       + den[sp[p1 - p4]]*den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p1 - p3]^2*sp[p2 - p3] * (  - 3/8*N^(-2)*ep - 3/16*N^(-2)*ep^2 - 3/16*N^(-2)*ep^3 + 3/8*ep + 3/16*ep^2 + 3/16*ep^3 )
 
-       + den[sp[p1 - p4]]*den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p1 - p3]^2*sp[p2 - p3 - p4] * (  - 2*N^(-2)*V*ep - N^(-2)*V*ep^2 - N^(-2)*V*ep^3 )
+       + den[sp[p1 - p4]]*den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p1 - p3]^2*sp[p2 - p3 - p4] * ( 1/8*N^(-2)*ep + 1/16*N^(-2)*ep^2 + 1/16*N^(-2)*ep^3 - 1/8*ep - 1/16*ep^2 - 1/16*ep^3 )
 
-       + den[sp[p1 - p4]]*den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p1 - p3]*sp[p2 - p3]^2 * ( 6*N^(-2)*V*ep + 3*N^(-2)*V*ep^2 + 3*N^(-2)*V*ep^3 )
+       + den[sp[p1 - p4]]*den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p1 - p3]*sp[p2 - p3]^2 * (  - 3/8*N^(-2)*ep - 3/16*N^(-2)*ep^2 - 3/16*N^(-2)*ep^3 + 3/8*ep + 3/16*ep^2 + 3/16*ep^3 )
 
-       + den[sp[p1 - p4]]*den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p1 - p3]*sp[p2 - p3]*sp[p2 - p3 - p4] * (  - 4*N^(-2)*V*ep - 2*N^(-2)*V*ep^2 - 2*N^(-2)*V*ep^3 )
+       + den[sp[p1 - p4]]*den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p1 - p3]*sp[p2 - p3]*sp[p2 - p3 - p4] * ( 1/4*N^(-2)*ep + 1/8*N^(-2)*ep^2 + 1/8*N^(-2)*ep^3 - 1/4*ep - 1/8*ep^2 - 1/8*ep^3 )
 
-       + den[sp[p1 - p4]]*den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p1 - p3]*sp[p2 - p3 - p4]^2 * (  - 2*N^(-2)*V*ep - N^(-2)*V*ep^2 - N^(-2)*V*ep^3 )
+       + den[sp[p1 - p4]]*den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p1 - p3]*sp[p2 - p3 - p4]^2 * ( 1/8*N^(-2)*ep + 1/16*N^(-2)*ep^2 + 1/16*N^(-2)*ep^3 - 1/8*ep - 1/16*ep^2 - 1/16*ep^3 )
 
-       + den[sp[p1 - p4]]*den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p2 - p3]^3 * ( 2*N^(-2)*V*ep + N^(-2)*V*ep^2 + N^(-2)*V*ep^3 )
+       + den[sp[p1 - p4]]*den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p2 - p3]^3 * (  - 1/8*N^(-2)*ep - 1/16*N^(-2)*ep^2 - 1/16*N^(-2)*ep^3 + 1/8*ep + 1/16*ep^2 + 1/16*ep^3 )
 
-       + den[sp[p1 - p4]]*den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p2 - p3]^2*sp[p2 - p3 - p4] * (  - 2*N^(-2)*V*ep - N^(-2)*V*ep^2 - N^(-2)*V*ep^3 )
+       + den[sp[p1 - p4]]*den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p2 - p3]^2*sp[p2 - p3 - p4] * ( 1/8*N^(-2)*ep + 1/16*N^(-2)*ep^2 + 1/16*N^(-2)*ep^3 - 1/8*ep - 1/16*ep^2 - 1/16*ep^3 )
 
-       + den[sp[p1 - p4]]*den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p2 - p3]*sp[p2 - p3 - p4]^2 * (  - 2*N^(-2)*V*ep - N^(-2)*V*ep^2 - N^(-2)*V*ep^3 )
+       + den[sp[p1 - p4]]*den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p2 - p3]*sp[p2 - p3 - p4]^2 * ( 1/8*N^(-2)*ep + 1/16*N^(-2)*ep^2 + 1/16*N^(-2)*ep^3 - 1/8*ep - 1/16*ep^2 - 1/16*ep^3 )
 
-       + den[sp[p1 - p4]]*den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p2 - p3 - p4]^3 * ( 2*N^(-2)*V*ep + N^(-2)*V*ep^2 + N^(-2)*V*ep^3 )
+       + den[sp[p1 - p4]]*den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p2 - p3 - p4]^3 * (  - 1/8*N^(-2)*ep - 1/16*N^(-2)*ep^2 - 1/16*N^(-2)*ep^3 + 1/8*ep + 1/16*ep^2 + 1/16*ep^3 )
 
-       + den[sp[p1 - p4]]*den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]^3 * ( 2*N^(-2)*V*ep + N^(-2)*V*ep^2 + N^(-2)*V*ep^3 )
+       + den[sp[p1 - p4]]*den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]^3 * (  - 1/8*N^(-2)*ep - 1/16*N^(-2)*ep^2 - 1/16*N^(-2)*ep^3 + 1/8*ep + 1/16*ep^2 + 1/16*ep^3 )
 
-       + den[sp[p1 - p4]]*den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]^2*sp[p1 - p3 - p4] * (  - 2*N^(-2)*V*ep - N^(-2)*V*ep^2 - N^(-2)*V*ep^3 )
+       + den[sp[p1 - p4]]*den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]^2*sp[p1 - p3 - p4] * ( 1/8*N^(-2)*ep + 1/16*N^(-2)*ep^2 + 1/16*N^(-2)*ep^3 - 1/8*ep - 1/16*ep^2 - 1/16*ep^3 )
 
-       + den[sp[p1 - p4]]*den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]^2*sp[p2 - p3] * ( 6*N^(-2)*V*ep + 3*N^(-2)*V*ep^2 + 3*N^(-2)*V*ep^3 )
+       + den[sp[p1 - p4]]*den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]^2*sp[p2 - p3] * (  - 3/8*N^(-2)*ep - 3/16*N^(-2)*ep^2 - 3/16*N^(-2)*ep^3 + 3/8*ep + 3/16*ep^2 + 3/16*ep^3 )
 
-       + den[sp[p1 - p4]]*den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]*sp[p1 - p3 - p4]^2 * (  - 2*N^(-2)*V*ep - N^(-2)*V*ep^2 - N^(-2)*V*ep^3 )
+       + den[sp[p1 - p4]]*den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]*sp[p1 - p3 - p4]^2 * ( 1/8*N^(-2)*ep + 1/16*N^(-2)*ep^2 + 1/16*N^(-2)*ep^3 - 1/8*ep - 1/16*ep^2 - 1/16*ep^3 )
 
-       + den[sp[p1 - p4]]*den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]*sp[p2 - p3]*sp[p1 - p3 - p4] * (  - 4*N^(-2)*V*ep - 2*N^(-2)*V*ep^2 - 2*N^(-2)*V*ep^3 )
+       + den[sp[p1 - p4]]*den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]*sp[p2 - p3]*sp[p1 - p3 - p4] * ( 1/4*N^(-2)*ep + 1/8*N^(-2)*ep^2 + 1/8*N^(-2)*ep^3 - 1/4*ep - 1/8*ep^2 - 1/8*ep^3 )
 
-       + den[sp[p1 - p4]]*den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]*sp[p2 - p3]^2 * ( 6*N^(-2)*V*ep + 3*N^(-2)*V*ep^2 + 3*N^(-2)*V*ep^3 )
+       + den[sp[p1 - p4]]*den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]*sp[p2 - p3]^2 * (  - 3/8*N^(-2)*ep - 3/16*N^(-2)*ep^2 - 3/16*N^(-2)*ep^3 + 3/8*ep + 3/16*ep^2 + 3/16*ep^3 )
 
-       + den[sp[p1 - p4]]*den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3 - p4]^3 * ( 2*N^(-2)*V*ep + N^(-2)*V*ep^2 + N^(-2)*V*ep^3 )
+       + den[sp[p1 - p4]]*den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3 - p4]^3 * (  - 1/8*N^(-2)*ep - 1/16*N^(-2)*ep^2 - 1/16*N^(-2)*ep^3 + 1/8*ep + 1/16*ep^2 + 1/16*ep^3 )
 
-       + den[sp[p1 - p4]]*den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p2 - p3]*sp[p1 - p3 - p4]^2 * (  - 2*N^(-2)*V*ep - N^(-2)*V*ep^2 - N^(-2)*V*ep^3 )
+       + den[sp[p1 - p4]]*den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p2 - p3]*sp[p1 - p3 - p4]^2 * ( 1/8*N^(-2)*ep + 1/16*N^(-2)*ep^2 + 1/16*N^(-2)*ep^3 - 1/8*ep - 1/16*ep^2 - 1/16*ep^3 )
 
-       + den[sp[p1 - p4]]*den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p2 - p3]^2*sp[p1 - p3 - p4] * (  - 2*N^(-2)*V*ep - N^(-2)*V*ep^2 - N^(-2)*V*ep^3 )
+       + den[sp[p1 - p4]]*den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p2 - p3]^2*sp[p1 - p3 - p4] * ( 1/8*N^(-2)*ep + 1/16*N^(-2)*ep^2 + 1/16*N^(-2)*ep^3 - 1/8*ep - 1/16*ep^2 - 1/16*ep^3 )
 
-       + den[sp[p1 - p4]]*den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p2 - p3]^3 * ( 2*N^(-2)*V*ep + N^(-2)*V*ep^2 + N^(-2)*V*ep^3 )
+       + den[sp[p1 - p4]]*den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p2 - p3]^3 * (  - 1/8*N^(-2)*ep - 1/16*N^(-2)*ep^2 - 1/16*N^(-2)*ep^3 + 1/8*ep + 1/16*ep^2 + 1/16*ep^3 )
 
-       + den[sp[p1 - p4]]*den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*sp[p1 - p3]^2 * (  - 4*N^(-2)*V*ep - 2*N^(-2)*V*ep^2 - 2*N^(-2)*V*ep^3 )
+       + den[sp[p1 - p4]]*den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*sp[p1 - p3]^2 * ( 1/4*N^(-2)*ep + 1/8*N^(-2)*ep^2 + 1/8*N^(-2)*ep^3 - 1/4*ep - 1/8*ep^2 - 1/8*ep^3 )
 
-       + den[sp[p1 - p4]]*den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*sp[p1 - p3]*sp[p1 - p3 - p4] * (  - 6*N^(-2)*V*ep - 3*N^(-2)*V*ep^2 - 3*N^(-2)*V*ep^3 )
+       + den[sp[p1 - p4]]*den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*sp[p1 - p3]*sp[p1 - p3 - p4] * ( 3/8*N^(-2)*ep + 3/16*N^(-2)*ep^2 + 3/16*N^(-2)*ep^3 - 3/8*ep - 3/16*ep^2 - 3/16*ep^3 )
 
-       + den[sp[p1 - p4]]*den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*sp[p1 - p3]*sp[p2 - p3] * (  - 8*N^(-2)*V*ep - 4*N^(-2)*V*ep^2 - 4*N^(-2)*V*ep^3 )
+       + den[sp[p1 - p4]]*den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*sp[p1 - p3]*sp[p2 - p3] * ( 1/2*N^(-2)*ep + 1/4*N^(-2)*ep^2 + 1/4*N^(-2)*ep^3 - 1/2*ep - 1/4*ep^2 - 1/4*ep^3 )
 
-       + den[sp[p1 - p4]]*den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*sp[p1 - p3]*sp[p2 - p3 - p4] * (  - 6*N^(-2)*V*ep - 3*N^(-2)*V*ep^2 - 3*N^(-2)*V*ep^3 )
+       + den[sp[p1 - p4]]*den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*sp[p1 - p3]*sp[p2 - p3 - p4] * ( 3/8*N^(-2)*ep + 3/16*N^(-2)*ep^2 + 3/16*N^(-2)*ep^3 - 3/8*ep - 3/16*ep^2 - 3/16*ep^3 )
 
-       + den[sp[p1 - p4]]*den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*sp[p1 - p3 - p4]^2 * ( 8*N^(-2)*V*ep + 4*N^(-2)*V*ep^2 + 4*N^(-2)*V*ep^3 )
+       + den[sp[p1 - p4]]*den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*sp[p1 - p3 - p4]^2 * (  - 1/2*N^(-2)*ep - 1/4*N^(-2)*ep^2 - 1/4*N^(-2)*ep^3 + 1/2*ep + 1/4*ep^2 + 1/4*ep^3 )
 
-       + den[sp[p1 - p4]]*den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*sp[p1 - p3 - p4]*sp[p2 - p3 - p4] * ( 12*N^(-2)*V*ep + 6*N^(-2)*V*ep^2 + 6*N^(-2)*V*ep^3 )
+       + den[sp[p1 - p4]]*den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*sp[p1 - p3 - p4]*sp[p2 - p3 - p4] * (  - 3/4*N^(-2)*ep - 3/8*N^(-2)*ep^2 - 3/8*N^(-2)*ep^3 + 3/4*ep + 3/8*ep^2 + 3/8*ep^3 )
 
-       + den[sp[p1 - p4]]*den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*sp[p2 - p3]*sp[p1 - p3 - p4] * (  - 6*N^(-2)*V*ep - 3*N^(-2)*V*ep^2 - 3*N^(-2)*V*ep^3 )
+       + den[sp[p1 - p4]]*den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*sp[p2 - p3]*sp[p1 - p3 - p4] * ( 3/8*N^(-2)*ep + 3/16*N^(-2)*ep^2 + 3/16*N^(-2)*ep^3 - 3/8*ep - 3/16*ep^2 - 3/16*ep^3 )
 
-       + den[sp[p1 - p4]]*den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*sp[p2 - p3]^2 * (  - 4*N^(-2)*V*ep - 2*N^(-2)*V*ep^2 - 2*N^(-2)*V*ep^3 )
+       + den[sp[p1 - p4]]*den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*sp[p2 - p3]^2 * ( 1/4*N^(-2)*ep + 1/8*N^(-2)*ep^2 + 1/8*N^(-2)*ep^3 - 1/4*ep - 1/8*ep^2 - 1/8*ep^3 )
 
-       + den[sp[p1 - p4]]*den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*sp[p2 - p3]*sp[p2 - p3 - p4] * (  - 6*N^(-2)*V*ep - 3*N^(-2)*V*ep^2 - 3*N^(-2)*V*ep^3 )
+       + den[sp[p1 - p4]]*den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*sp[p2 - p3]*sp[p2 - p3 - p4] * ( 3/8*N^(-2)*ep + 3/16*N^(-2)*ep^2 + 3/16*N^(-2)*ep^3 - 3/8*ep - 3/16*ep^2 - 3/16*ep^3 )
 
-       + den[sp[p1 - p4]]*den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*sp[p2 - p3 - p4]^2 * ( 8*N^(-2)*V*ep + 4*N^(-2)*V*ep^2 + 4*N^(-2)*V*ep^3 )
+       + den[sp[p1 - p4]]*den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*sp[p2 - p3 - p4]^2 * (  - 1/2*N^(-2)*ep - 1/4*N^(-2)*ep^2 - 1/4*N^(-2)*ep^3 + 1/2*ep + 1/4*ep^2 + 1/4*ep^3 )
 
-       + den[sp[p1 - p4]]*den[sp[p2 - p4]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p1 - p3]^2*sp[p2 - p3] * (  - 8*N^(-2)*V + 16*N^(-2)*V*ep - 8*N^(-2)*V*ep^2 )
+       + den[sp[p1 - p4]]*den[sp[p2 - p4]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p1 - p3]^2*sp[p2 - p3] * (  - 1/2 + 1/2*N^(-2) - N^(-2)*ep + 1/2*N^(-2)*ep^2 + ep - 1/2*ep^2 )
 
-       + den[sp[p1 - p4]]*den[sp[p2 - p4]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p2 - p3]^3 * (  - 8*N^(-2)*V + 16*N^(-2)*V*ep - 8*N^(-2)*V*ep^2 )
+       + den[sp[p1 - p4]]*den[sp[p2 - p4]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p2 - p3]^3 * (  - 1/2 + 1/2*N^(-2) - N^(-2)*ep + 1/2*N^(-2)*ep^2 + ep - 1/2*ep^2 )
 
-       + den[sp[p1 - p4]]*den[sp[p2 - p4]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]^3 * (  - 8*N^(-2)*V + 16*N^(-2)*V*ep - 8*N^(-2)*V*ep^2 )
+       + den[sp[p1 - p4]]*den[sp[p2 - p4]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]^3 * (  - 1/2 + 1/2*N^(-2) - N^(-2)*ep + 1/2*N^(-2)*ep^2 + ep - 1/2*ep^2 )
 
-       + den[sp[p1 - p4]]*den[sp[p2 - p4]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]*sp[p2 - p3]^2 * (  - 8*N^(-2)*V + 16*N^(-2)*V*ep - 8*N^(-2)*V*ep^2 )
+       + den[sp[p1 - p4]]*den[sp[p2 - p4]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]*sp[p2 - p3]^2 * (  - 1/2 + 1/2*N^(-2) - N^(-2)*ep + 1/2*N^(-2)*ep^2 + ep - 1/2*ep^2 )
 
-       + den[sp[p1 - p4]]*den[sp[p2 - p4]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]*sp[p1 - p3 - p4] * ( 8*N^(-2)*V*ep - 8*N^(-2)*V*ep^2 )
+       + den[sp[p1 - p4]]*den[sp[p2 - p4]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]*sp[p1 - p3 - p4] * (  - 2*N^(-2)*ep + 2*N^(-2)*ep^2 + 2*ep - 2*ep^2 )
 
-       + den[sp[p1 - p4]]*den[sp[p2 - p4]]*den[sp[p1 + p2 - p4]]*sp[p2 - p3]*sp[p2 - p3 - p4] * ( 8*N^(-2)*V*ep - 8*N^(-2)*V*ep^2 )
+       + den[sp[p1 - p4]]*den[sp[p2 - p4]]*den[sp[p1 + p2 - p4]]*sp[p2 - p3]*sp[p2 - p3 - p4] * (  - 2*N^(-2)*ep + 2*N^(-2)*ep^2 + 2*ep - 2*ep^2 )
 
-       + den[sp[p1 - p4]]*den[sp[p2 - p4]]*den[sp[p1 - p3 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]^2*s * ( 2*N^(-4)*V - 3*N^(-4)*V*ep + N^(-4)*V*ep^3 + 2*N^(-2)*V - 3*N^(-2)*V*ep + N^(-2)*V*ep^3 )
+       + den[sp[p1 - p4]]*den[sp[p2 - p4]]*den[sp[p1 - p3 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]^2*s * ( 1/2 - 1/2*N^(-4) + 3/4*N^(-4)*ep - 1/4*N^(-4)*ep^3 - 3/4*ep + 1/4*ep^3 )
 
-       + den[sp[p1 - p4]]*den[sp[p2 - p4]]*den[sp[p1 - p3 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]*sp[p2 - p3]*s * ( 2*N^(-4)*V*ep + 6*N^(-4)*V*ep^2 + 2*N^(-2)*V*ep + 6*N^(-2)*V*ep^2 )
+       + den[sp[p1 - p4]]*den[sp[p2 - p4]]*den[sp[p1 - p3 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]*sp[p2 - p3]*s * (  - 1/2*N^(-4)*ep - 3/2*N^(-4)*ep^2 + 1/2*ep + 3/2*ep^2 )
 
-       + den[sp[p1 - p4]]*den[sp[p2 - p4]]*den[sp[p1 - p3 - p4]]*den[sp[p2 - p3 - p4]]*sp[p2 - p3]^2*s * ( 2*N^(-4)*V - 3*N^(-4)*V*ep + N^(-4)*V*ep^3 + 2*N^(-2)*V - 3*N^(-2)*V*ep + N^(-2)*V*ep^3 )
+       + den[sp[p1 - p4]]*den[sp[p2 - p4]]*den[sp[p1 - p3 - p4]]*den[sp[p2 - p3 - p4]]*sp[p2 - p3]^2*s * ( 1/2 - 1/2*N^(-4) + 3/4*N^(-4)*ep - 1/4*N^(-4)*ep^3 - 3/4*ep + 1/4*ep^3 )
 
-       + den[sp[p1 - p4]]*den[sp[p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p2 - p3 - p4]*s * (  - N^(-4)*V*ep + 2*N^(-4)*V*ep^2 - N^(-4)*V*ep^3 - N^(-2)*V*ep + 2*N^(-2)*V*ep^2 - N^(-2)*V*ep^3 )
+       + den[sp[p1 - p4]]*den[sp[p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p2 - p3 - p4]*s * ( 1/4*N^(-4)*ep - 1/2*N^(-4)*ep^2 + 1/4*N^(-4)*ep^3 - 1/4*ep + 1/2*ep^2 - 1/4*ep^3 )
 
-       + den[sp[p1 - p4]]*den[sp[p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3 - p4]*s * (  - N^(-4)*V*ep + 2*N^(-4)*V*ep^2 - N^(-4)*V*ep^3 - N^(-2)*V*ep + 2*N^(-2)*V*ep^2 - N^(-2)*V*ep^3 )
+       + den[sp[p1 - p4]]*den[sp[p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3 - p4]*s * ( 1/4*N^(-4)*ep - 1/2*N^(-4)*ep^2 + 1/4*N^(-4)*ep^3 - 1/4*ep + 1/2*ep^2 - 1/4*ep^3 )
 
-       + den[sp[p1 - p4]]*den[sp[p2 - p4]]*den[sp[p3 + p4]]*sp[p1 - p3]^2 * ( 8*N^(-2)*V*ep + 4*N^(-2)*V*ep^2 + 4*N^(-2)*V*ep^3 )
+       + den[sp[p1 - p4]]*den[sp[p2 - p4]]*den[sp[p3 + p4]]*sp[p1 - p3]^2 * (  - 1/2*N^(-2)*ep - 1/4*N^(-2)*ep^2 - 1/4*N^(-2)*ep^3 + 1/2*ep + 1/4*ep^2 + 1/4*ep^3 )
 
-       + den[sp[p1 - p4]]*den[sp[p2 - p4]]*den[sp[p3 + p4]]*sp[p1 - p3]*sp[p1 - p3 - p4] * (  - 6*N^(-2)*V*ep - 3*N^(-2)*V*ep^2 - 3*N^(-2)*V*ep^3 )
+       + den[sp[p1 - p4]]*den[sp[p2 - p4]]*den[sp[p3 + p4]]*sp[p1 - p3]*sp[p1 - p3 - p4] * ( 3/8*N^(-2)*ep + 3/16*N^(-2)*ep^2 + 3/16*N^(-2)*ep^3 - 3/8*ep - 3/16*ep^2 - 3/16*ep^3 )
 
-       + den[sp[p1 - p4]]*den[sp[p2 - p4]]*den[sp[p3 + p4]]*sp[p1 - p3]*sp[p2 - p3] * ( 12*N^(-2)*V*ep + 6*N^(-2)*V*ep^2 + 6*N^(-2)*V*ep^3 )
+       + den[sp[p1 - p4]]*den[sp[p2 - p4]]*den[sp[p3 + p4]]*sp[p1 - p3]*sp[p2 - p3] * (  - 3/4*N^(-2)*ep - 3/8*N^(-2)*ep^2 - 3/8*N^(-2)*ep^3 + 3/4*ep + 3/8*ep^2 + 3/8*ep^3 )
 
-       + den[sp[p1 - p4]]*den[sp[p2 - p4]]*den[sp[p3 + p4]]*sp[p1 - p3]*sp[p2 - p3 - p4] * (  - 6*N^(-2)*V*ep - 3*N^(-2)*V*ep^2 - 3*N^(-2)*V*ep^3 )
+       + den[sp[p1 - p4]]*den[sp[p2 - p4]]*den[sp[p3 + p4]]*sp[p1 - p3]*sp[p2 - p3 - p4] * ( 3/8*N^(-2)*ep + 3/16*N^(-2)*ep^2 + 3/16*N^(-2)*ep^3 - 3/8*ep - 3/16*ep^2 - 3/16*ep^3 )
 
-       + den[sp[p1 - p4]]*den[sp[p2 - p4]]*den[sp[p3 + p4]]*sp[p1 - p3 - p4]^2 * (  - 4*N^(-2)*V*ep - 2*N^(-2)*V*ep^2 - 2*N^(-2)*V*ep^3 )
+       + den[sp[p1 - p4]]*den[sp[p2 - p4]]*den[sp[p3 + p4]]*sp[p1 - p3 - p4]^2 * ( 1/4*N^(-2)*ep + 1/8*N^(-2)*ep^2 + 1/8*N^(-2)*ep^3 - 1/4*ep - 1/8*ep^2 - 1/8*ep^3 )
 
-       + den[sp[p1 - p4]]*den[sp[p2 - p4]]*den[sp[p3 + p4]]*sp[p1 - p3 - p4]*sp[p2 - p3 - p4] * (  - 8*N^(-2)*V*ep - 4*N^(-2)*V*ep^2 - 4*N^(-2)*V*ep^3 )
+       + den[sp[p1 - p4]]*den[sp[p2 - p4]]*den[sp[p3 + p4]]*sp[p1 - p3 - p4]*sp[p2 - p3 - p4] * ( 1/2*N^(-2)*ep + 1/4*N^(-2)*ep^2 + 1/4*N^(-2)*ep^3 - 1/2*ep - 1/4*ep^2 - 1/4*ep^3 )
 
-       + den[sp[p1 - p4]]*den[sp[p2 - p4]]*den[sp[p3 + p4]]*sp[p2 - p3]*sp[p1 - p3 - p4] * (  - 6*N^(-2)*V*ep - 3*N^(-2)*V*ep^2 - 3*N^(-2)*V*ep^3 )
+       + den[sp[p1 - p4]]*den[sp[p2 - p4]]*den[sp[p3 + p4]]*sp[p2 - p3]*sp[p1 - p3 - p4] * ( 3/8*N^(-2)*ep + 3/16*N^(-2)*ep^2 + 3/16*N^(-2)*ep^3 - 3/8*ep - 3/16*ep^2 - 3/16*ep^3 )
 
-       + den[sp[p1 - p4]]*den[sp[p2 - p4]]*den[sp[p3 + p4]]*sp[p2 - p3]^2 * ( 8*N^(-2)*V*ep + 4*N^(-2)*V*ep^2 + 4*N^(-2)*V*ep^3 )
+       + den[sp[p1 - p4]]*den[sp[p2 - p4]]*den[sp[p3 + p4]]*sp[p2 - p3]^2 * (  - 1/2*N^(-2)*ep - 1/4*N^(-2)*ep^2 - 1/4*N^(-2)*ep^3 + 1/2*ep + 1/4*ep^2 + 1/4*ep^3 )
 
-       + den[sp[p1 - p4]]*den[sp[p2 - p4]]*den[sp[p3 + p4]]*sp[p2 - p3]*sp[p2 - p3 - p4] * (  - 6*N^(-2)*V*ep - 3*N^(-2)*V*ep^2 - 3*N^(-2)*V*ep^3 )
+       + den[sp[p1 - p4]]*den[sp[p2 - p4]]*den[sp[p3 + p4]]*sp[p2 - p3]*sp[p2 - p3 - p4] * ( 3/8*N^(-2)*ep + 3/16*N^(-2)*ep^2 + 3/16*N^(-2)*ep^3 - 3/8*ep - 3/16*ep^2 - 3/16*ep^3 )
 
-       + den[sp[p1 - p4]]*den[sp[p2 - p4]]*den[sp[p3 + p4]]*sp[p2 - p3 - p4]^2 * (  - 4*N^(-2)*V*ep - 2*N^(-2)*V*ep^2 - 2*N^(-2)*V*ep^3 )
+       + den[sp[p1 - p4]]*den[sp[p2 - p4]]*den[sp[p3 + p4]]*sp[p2 - p3 - p4]^2 * ( 1/4*N^(-2)*ep + 1/8*N^(-2)*ep^2 + 1/8*N^(-2)*ep^3 - 1/4*ep - 1/8*ep^2 - 1/8*ep^3 )
 
-       + den[sp[p1 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p1 - p3]^4*s^(-1) * (  - 4*V*ep - 6*V*ep^2 + 2*V*ep^3 )
+       + den[sp[p1 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p1 - p3]^4*s^(-1) * ( 1/16*ep + 3/32*ep^2 - 1/32*ep^3 - 1/16*N^2*ep - 3/32*N^2*ep^2 + 1/32*N^2*ep^3 )
 
-       + den[sp[p1 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p1 - p3]^3*sp[p2 - p3]*s^(-1) * ( 32*V - 32*V*ep + 24*V*ep^2 + 8*V*ep^3 )
+       + den[sp[p1 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p1 - p3]^3*sp[p2 - p3]*s^(-1) * (  - 1/2 + 1/2*ep - 3/8*ep^2 - 1/8*ep^3 + 1/2*N^2 - 1/2*N^2*ep + 3/8*N^2*ep^2 + 1/8*N^2*ep^3 )
 
-       + den[sp[p1 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p1 - p3]^3*sp[p2 - p3 - p4]*s^(-1) * ( 2*V*ep - 2*V*ep^2 )
+       + den[sp[p1 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p1 - p3]^3*sp[p2 - p3 - p4]*s^(-1) * (  - 1/32*ep + 1/32*ep^2 + 1/32*N^2*ep - 1/32*N^2*ep^2 )
 
-       + den[sp[p1 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p1 - p3]^3*sp[p2 - p4]*s^(-1) * ( 2*V*ep - 2*V*ep^2 )
+       + den[sp[p1 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p1 - p3]^3*sp[p2 - p4]*s^(-1) * (  - 1/32*ep + 1/32*ep^2 + 1/32*N^2*ep - 1/32*N^2*ep^2 )
 
-       + den[sp[p1 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p1 - p3]^2*sp[p2 - p3]^2*s^(-1) * ( 8*V*ep + 60*V*ep^2 + 12*V*ep^3 )
+       + den[sp[p1 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p1 - p3]^2*sp[p2 - p3]^2*s^(-1) * (  - 1/8*ep - 15/16*ep^2 - 3/16*ep^3 + 1/8*N^2*ep + 15/16*N^2*ep^2 + 3/16*N^2*ep^3 )
 
-       + den[sp[p1 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p1 - p3]^2*sp[p2 - p3]*sp[p2 - p3 - p4]*s^(-1) * (  - 2*V*ep + 2*V*ep^2 )
+       + den[sp[p1 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p1 - p3]^2*sp[p2 - p3]*sp[p2 - p3 - p4]*s^(-1) * ( 1/32*ep - 1/32*ep^2 - 1/32*N^2*ep + 1/32*N^2*ep^2 )
 
-       + den[sp[p1 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p1 - p3]^2*sp[p2 - p3]*sp[p2 - p4]*s^(-1) * (  - 2*V*ep + 2*V*ep^2 )
+       + den[sp[p1 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p1 - p3]^2*sp[p2 - p3]*sp[p2 - p4]*s^(-1) * ( 1/32*ep - 1/32*ep^2 - 1/32*N^2*ep + 1/32*N^2*ep^2 )
 
-       + den[sp[p1 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p1 - p3]^2*sp[p2 - p3 - p4]^2*s^(-1) * ( 8*V*ep + 12*V*ep^2 - 4*V*ep^3 )
+       + den[sp[p1 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p1 - p3]^2*sp[p2 - p3 - p4]^2*s^(-1) * (  - 1/8*ep - 3/16*ep^2 + 1/16*ep^3 + 1/8*N^2*ep + 3/16*N^2*ep^2 - 1/16*N^2*ep^3 )
 
-       + den[sp[p1 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p1 - p3]^2*sp[p2 - p4]^2*s^(-1) * ( 8*V*ep + 12*V*ep^2 - 4*V*ep^3 )
+       + den[sp[p1 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p1 - p3]^2*sp[p2 - p4]^2*s^(-1) * (  - 1/8*ep - 3/16*ep^2 + 1/16*ep^3 + 1/8*N^2*ep + 3/16*N^2*ep^2 - 1/16*N^2*ep^3 )
 
-       + den[sp[p1 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p1 - p3]*sp[p2 - p3]^3*s^(-1) * ( 32*V - 32*V*ep + 24*V*ep^2 + 8*V*ep^3 )
+       + den[sp[p1 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p1 - p3]*sp[p2 - p3]^3*s^(-1) * (  - 1/2 + 1/2*ep - 3/8*ep^2 - 1/8*ep^3 + 1/2*N^2 - 1/2*N^2*ep + 3/8*N^2*ep^2 + 1/8*N^2*ep^3 )
 
-       + den[sp[p1 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p1 - p3]*sp[p2 - p3]^2*sp[p2 - p3 - p4]*s^(-1) * (  - 2*V*ep + 2*V*ep^2 )
+       + den[sp[p1 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p1 - p3]*sp[p2 - p3]^2*sp[p2 - p3 - p4]*s^(-1) * ( 1/32*ep - 1/32*ep^2 - 1/32*N^2*ep + 1/32*N^2*ep^2 )
 
-       + den[sp[p1 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p1 - p3]*sp[p2 - p3]^2*sp[p2 - p4]*s^(-1) * (  - 2*V*ep + 2*V*ep^2 )
+       + den[sp[p1 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p1 - p3]*sp[p2 - p3]^2*sp[p2 - p4]*s^(-1) * ( 1/32*ep - 1/32*ep^2 - 1/32*N^2*ep + 1/32*N^2*ep^2 )
 
-       + den[sp[p1 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p1 - p3]*sp[p2 - p3]*sp[p2 - p3 - p4]^2*s^(-1) * (  - 32*V*ep + 8*V*ep^2 - 8*V*ep^3 )
+       + den[sp[p1 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p1 - p3]*sp[p2 - p3]*sp[p2 - p3 - p4]^2*s^(-1) * ( 1/2*ep - 1/8*ep^2 + 1/8*ep^3 - 1/2*N^2*ep + 1/8*N^2*ep^2 - 1/8*N^2*ep^3 )
 
-       + den[sp[p1 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p1 - p3]*sp[p2 - p3]*sp[p2 - p4]^2*s^(-1) * (  - 32*V*ep + 8*V*ep^2 - 8*V*ep^3 )
+       + den[sp[p1 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p1 - p3]*sp[p2 - p3]*sp[p2 - p4]^2*s^(-1) * ( 1/2*ep - 1/8*ep^2 + 1/8*ep^3 - 1/2*N^2*ep + 1/8*N^2*ep^2 - 1/8*N^2*ep^3 )
 
-       + den[sp[p1 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p1 - p3]*sp[p2 - p3 - p4]^3*s^(-1) * (  - 2*V*ep + 2*V*ep^2 )
+       + den[sp[p1 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p1 - p3]*sp[p2 - p3 - p4]^3*s^(-1) * ( 1/32*ep - 1/32*ep^2 - 1/32*N^2*ep + 1/32*N^2*ep^2 )
 
-       + den[sp[p1 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p1 - p3]*sp[p2 - p4]*sp[p2 - p3 - p4]^2*s^(-1) * ( 2*V*ep - 2*V*ep^2 )
+       + den[sp[p1 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p1 - p3]*sp[p2 - p4]*sp[p2 - p3 - p4]^2*s^(-1) * (  - 1/32*ep + 1/32*ep^2 + 1/32*N^2*ep - 1/32*N^2*ep^2 )
 
-       + den[sp[p1 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p1 - p3]*sp[p2 - p4]^2*sp[p2 - p3 - p4]*s^(-1) * ( 2*V*ep - 2*V*ep^2 )
+       + den[sp[p1 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p1 - p3]*sp[p2 - p4]^2*sp[p2 - p3 - p4]*s^(-1) * (  - 1/32*ep + 1/32*ep^2 + 1/32*N^2*ep - 1/32*N^2*ep^2 )
 
-       + den[sp[p1 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p1 - p3]*sp[p2 - p4]^3*s^(-1) * (  - 2*V*ep + 2*V*ep^2 )
+       + den[sp[p1 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p1 - p3]*sp[p2 - p4]^3*s^(-1) * ( 1/32*ep - 1/32*ep^2 - 1/32*N^2*ep + 1/32*N^2*ep^2 )
 
-       + den[sp[p1 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p2 - p3]^4*s^(-1) * (  - 4*V*ep - 6*V*ep^2 + 2*V*ep^3 )
+       + den[sp[p1 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p2 - p3]^4*s^(-1) * ( 1/16*ep + 3/32*ep^2 - 1/32*ep^3 - 1/16*N^2*ep - 3/32*N^2*ep^2 + 1/32*N^2*ep^3 )
 
-       + den[sp[p1 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p2 - p3]^3*sp[p2 - p3 - p4]*s^(-1) * ( 2*V*ep - 2*V*ep^2 )
+       + den[sp[p1 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p2 - p3]^3*sp[p2 - p3 - p4]*s^(-1) * (  - 1/32*ep + 1/32*ep^2 + 1/32*N^2*ep - 1/32*N^2*ep^2 )
 
-       + den[sp[p1 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p2 - p3]^3*sp[p2 - p4]*s^(-1) * ( 2*V*ep - 2*V*ep^2 )
+       + den[sp[p1 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p2 - p3]^3*sp[p2 - p4]*s^(-1) * (  - 1/32*ep + 1/32*ep^2 + 1/32*N^2*ep - 1/32*N^2*ep^2 )
 
-       + den[sp[p1 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p2 - p3]^2*sp[p2 - p3 - p4]^2*s^(-1) * ( 8*V*ep + 12*V*ep^2 - 4*V*ep^3 )
+       + den[sp[p1 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p2 - p3]^2*sp[p2 - p3 - p4]^2*s^(-1) * (  - 1/8*ep - 3/16*ep^2 + 1/16*ep^3 + 1/8*N^2*ep + 3/16*N^2*ep^2 - 1/16*N^2*ep^3 )
 
-       + den[sp[p1 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p2 - p3]^2*sp[p2 - p4]^2*s^(-1) * ( 8*V*ep + 12*V*ep^2 - 4*V*ep^3 )
+       + den[sp[p1 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p2 - p3]^2*sp[p2 - p4]^2*s^(-1) * (  - 1/8*ep - 3/16*ep^2 + 1/16*ep^3 + 1/8*N^2*ep + 3/16*N^2*ep^2 - 1/16*N^2*ep^3 )
 
-       + den[sp[p1 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p2 - p3]*sp[p2 - p3 - p4]^3*s^(-1) * (  - 2*V*ep + 2*V*ep^2 )
+       + den[sp[p1 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p2 - p3]*sp[p2 - p3 - p4]^3*s^(-1) * ( 1/32*ep - 1/32*ep^2 - 1/32*N^2*ep + 1/32*N^2*ep^2 )
 
-       + den[sp[p1 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p2 - p3]*sp[p2 - p4]*sp[p2 - p3 - p4]^2*s^(-1) * ( 2*V*ep - 2*V*ep^2 )
+       + den[sp[p1 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p2 - p3]*sp[p2 - p4]*sp[p2 - p3 - p4]^2*s^(-1) * (  - 1/32*ep + 1/32*ep^2 + 1/32*N^2*ep - 1/32*N^2*ep^2 )
 
-       + den[sp[p1 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p2 - p3]*sp[p2 - p4]^2*sp[p2 - p3 - p4]*s^(-1) * ( 2*V*ep - 2*V*ep^2 )
+       + den[sp[p1 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p2 - p3]*sp[p2 - p4]^2*sp[p2 - p3 - p4]*s^(-1) * (  - 1/32*ep + 1/32*ep^2 + 1/32*N^2*ep - 1/32*N^2*ep^2 )
 
-       + den[sp[p1 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p2 - p3]*sp[p2 - p4]^3*s^(-1) * (  - 2*V*ep + 2*V*ep^2 )
+       + den[sp[p1 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p2 - p3]*sp[p2 - p4]^3*s^(-1) * ( 1/32*ep - 1/32*ep^2 - 1/32*N^2*ep + 1/32*N^2*ep^2 )
 
-       + den[sp[p1 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p2 - p3 - p4]^4*s^(-1) * (  - 4*V*ep - 6*V*ep^2 + 2*V*ep^3 )
+       + den[sp[p1 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p2 - p3 - p4]^4*s^(-1) * ( 1/16*ep + 3/32*ep^2 - 1/32*ep^3 - 1/16*N^2*ep - 3/32*N^2*ep^2 + 1/32*N^2*ep^3 )
 
-       + den[sp[p1 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p2 - p4]^2*sp[p2 - p3 - p4]^2*s^(-1) * ( 8*V*ep + 12*V*ep^2 - 4*V*ep^3 )
+       + den[sp[p1 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p2 - p4]^2*sp[p2 - p3 - p4]^2*s^(-1) * (  - 1/8*ep - 3/16*ep^2 + 1/16*ep^3 + 1/8*N^2*ep + 3/16*N^2*ep^2 - 1/16*N^2*ep^3 )
 
-       + den[sp[p1 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p2 - p4]^4*s^(-1) * (  - 4*V*ep - 6*V*ep^2 + 2*V*ep^3 )
+       + den[sp[p1 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p2 - p4]^4*s^(-1) * ( 1/16*ep + 3/32*ep^2 - 1/32*ep^3 - 1/16*N^2*ep - 3/32*N^2*ep^2 + 1/32*N^2*ep^3 )
 
-       + den[sp[p1 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]^4*s^(-1) * (  - 4*V*ep + 4*V*ep^2 )
+       + den[sp[p1 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]^4*s^(-1) * ( 1/16*ep - 1/16*ep^2 - 1/16*N^2*ep + 1/16*N^2*ep^2 )
 
-       + den[sp[p1 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]^3*sp[p1 - p3 - p4]*s^(-1) * ( 6*V*ep - 6*V*ep^2 )
+       + den[sp[p1 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]^3*sp[p1 - p3 - p4]*s^(-1) * (  - 3/32*ep + 3/32*ep^2 + 3/32*N^2*ep - 3/32*N^2*ep^2 )
 
-       + den[sp[p1 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]^3*sp[p2 - p3]*s^(-1) * (  - 8*V*ep + 8*V*ep^2 )
+       + den[sp[p1 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]^3*sp[p2 - p3]*s^(-1) * ( 1/8*ep - 1/8*ep^2 - 1/8*N^2*ep + 1/8*N^2*ep^2 )
 
-       + den[sp[p1 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]^3*sp[p2 - p4]*s^(-1) * ( 6*V*ep - 6*V*ep^2 )
+       + den[sp[p1 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]^3*sp[p2 - p4]*s^(-1) * (  - 3/32*ep + 3/32*ep^2 + 3/32*N^2*ep - 3/32*N^2*ep^2 )
 
-       + den[sp[p1 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]^2*sp[p2 - p3]*sp[p1 - p3 - p4]*s^(-1) * ( 10*V*ep - 10*V*ep^2 )
+       + den[sp[p1 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]^2*sp[p2 - p3]*sp[p1 - p3 - p4]*s^(-1) * (  - 5/32*ep + 5/32*ep^2 + 5/32*N^2*ep - 5/32*N^2*ep^2 )
 
-       + den[sp[p1 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]^2*sp[p2 - p3]*sp[p2 - p4]*s^(-1) * ( 10*V*ep - 10*V*ep^2 )
+       + den[sp[p1 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]^2*sp[p2 - p3]*sp[p2 - p4]*s^(-1) * (  - 5/32*ep + 5/32*ep^2 + 5/32*N^2*ep - 5/32*N^2*ep^2 )
 
-       + den[sp[p1 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]^2*sp[p2 - p4]*sp[p1 - p3 - p4]*s^(-1) * ( 4*V*ep - 4*V*ep^2 )
+       + den[sp[p1 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]^2*sp[p2 - p4]*sp[p1 - p3 - p4]*s^(-1) * (  - 1/16*ep + 1/16*ep^2 + 1/16*N^2*ep - 1/16*N^2*ep^2 )
 
-       + den[sp[p1 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]*sp[p1 - p3 - p4]^3*s^(-1) * (  - 2*V*ep + 2*V*ep^2 )
+       + den[sp[p1 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]*sp[p1 - p3 - p4]^3*s^(-1) * ( 1/32*ep - 1/32*ep^2 - 1/32*N^2*ep + 1/32*N^2*ep^2 )
 
-       + den[sp[p1 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]*sp[p2 - p3]^2*sp[p1 - p3 - p4]*s^(-1) * ( 10*V*ep - 10*V*ep^2 )
+       + den[sp[p1 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]*sp[p2 - p3]^2*sp[p1 - p3 - p4]*s^(-1) * (  - 5/32*ep + 5/32*ep^2 + 5/32*N^2*ep - 5/32*N^2*ep^2 )
 
-       + den[sp[p1 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]*sp[p2 - p3]^3*s^(-1) * ( 8*V*ep - 8*V*ep^2 )
+       + den[sp[p1 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]*sp[p2 - p3]^3*s^(-1) * (  - 1/8*ep + 1/8*ep^2 + 1/8*N^2*ep - 1/8*N^2*ep^2 )
 
-       + den[sp[p1 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]*sp[p2 - p3]^2*sp[p2 - p4]*s^(-1) * ( 10*V*ep - 10*V*ep^2 )
+       + den[sp[p1 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]*sp[p2 - p3]^2*sp[p2 - p4]*s^(-1) * (  - 5/32*ep + 5/32*ep^2 + 5/32*N^2*ep - 5/32*N^2*ep^2 )
 
-       + den[sp[p1 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]*sp[p2 - p4]*sp[p1 - p3 - p4]^2*s^(-1) * (  - 10*V*ep + 10*V*ep^2 )
+       + den[sp[p1 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]*sp[p2 - p4]*sp[p1 - p3 - p4]^2*s^(-1) * ( 5/32*ep - 5/32*ep^2 - 5/32*N^2*ep + 5/32*N^2*ep^2 )
 
-       + den[sp[p1 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]*sp[p2 - p4]^2*sp[p1 - p3 - p4]*s^(-1) * (  - 10*V*ep + 10*V*ep^2 )
+       + den[sp[p1 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]*sp[p2 - p4]^2*sp[p1 - p3 - p4]*s^(-1) * ( 5/32*ep - 5/32*ep^2 - 5/32*N^2*ep + 5/32*N^2*ep^2 )
 
-       + den[sp[p1 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]*sp[p2 - p4]^3*s^(-1) * (  - 2*V*ep + 2*V*ep^2 )
+       + den[sp[p1 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]*sp[p2 - p4]^3*s^(-1) * ( 1/32*ep - 1/32*ep^2 - 1/32*N^2*ep + 1/32*N^2*ep^2 )
 
-       + den[sp[p1 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p2 - p3]*sp[p1 - p3 - p4]^3*s^(-1) * (  - 2*V*ep + 2*V*ep^2 )
+       + den[sp[p1 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p2 - p3]*sp[p1 - p3 - p4]^3*s^(-1) * ( 1/32*ep - 1/32*ep^2 - 1/32*N^2*ep + 1/32*N^2*ep^2 )
 
-       + den[sp[p1 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p2 - p3]^3*sp[p1 - p3 - p4]*s^(-1) * ( 6*V*ep - 6*V*ep^2 )
+       + den[sp[p1 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p2 - p3]^3*sp[p1 - p3 - p4]*s^(-1) * (  - 3/32*ep + 3/32*ep^2 + 3/32*N^2*ep - 3/32*N^2*ep^2 )
 
-       + den[sp[p1 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p2 - p3]^4*s^(-1) * ( 4*V*ep - 4*V*ep^2 )
+       + den[sp[p1 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p2 - p3]^4*s^(-1) * (  - 1/16*ep + 1/16*ep^2 + 1/16*N^2*ep - 1/16*N^2*ep^2 )
 
-       + den[sp[p1 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p2 - p3]^3*sp[p2 - p4]*s^(-1) * ( 6*V*ep - 6*V*ep^2 )
+       + den[sp[p1 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p2 - p3]^3*sp[p2 - p4]*s^(-1) * (  - 3/32*ep + 3/32*ep^2 + 3/32*N^2*ep - 3/32*N^2*ep^2 )
 
-       + den[sp[p1 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p2 - p3]^2*sp[p2 - p4]*sp[p1 - p3 - p4]*s^(-1) * (  - 4*V*ep + 4*V*ep^2 )
+       + den[sp[p1 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p2 - p3]^2*sp[p2 - p4]*sp[p1 - p3 - p4]*s^(-1) * ( 1/16*ep - 1/16*ep^2 - 1/16*N^2*ep + 1/16*N^2*ep^2 )
 
-       + den[sp[p1 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p2 - p3]*sp[p2 - p4]*sp[p1 - p3 - p4]^2*s^(-1) * (  - 10*V*ep + 10*V*ep^2 )
+       + den[sp[p1 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p2 - p3]*sp[p2 - p4]*sp[p1 - p3 - p4]^2*s^(-1) * ( 5/32*ep - 5/32*ep^2 - 5/32*N^2*ep + 5/32*N^2*ep^2 )
 
-       + den[sp[p1 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p2 - p3]*sp[p2 - p4]^2*sp[p1 - p3 - p4]*s^(-1) * (  - 10*V*ep + 10*V*ep^2 )
+       + den[sp[p1 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p2 - p3]*sp[p2 - p4]^2*sp[p1 - p3 - p4]*s^(-1) * ( 5/32*ep - 5/32*ep^2 - 5/32*N^2*ep + 5/32*N^2*ep^2 )
 
-       + den[sp[p1 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p2 - p3]*sp[p2 - p4]^3*s^(-1) * (  - 2*V*ep + 2*V*ep^2 )
+       + den[sp[p1 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p2 - p3]*sp[p2 - p4]^3*s^(-1) * ( 1/32*ep - 1/32*ep^2 - 1/32*N^2*ep + 1/32*N^2*ep^2 )
 
-       + den[sp[p1 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]^3*s^(-1) * ( 8*V*ep - 8*V*ep^2 )
+       + den[sp[p1 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]^3*s^(-1) * (  - 1/8*ep + 1/8*ep^2 + 1/8*N^2*ep - 1/8*N^2*ep^2 )
 
-       + den[sp[p1 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]^2*sp[p1 - p3 - p4]*s^(-1) * ( 20*V*ep^2 - 4*V*ep^3 )
+       + den[sp[p1 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]^2*sp[p1 - p3 - p4]*s^(-1) * (  - 5/16*ep^2 + 1/16*ep^3 + 5/16*N^2*ep^2 - 1/16*N^2*ep^3 )
 
-       + den[sp[p1 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]^2*sp[p2 - p3]*s^(-1) * ( 8*V*ep - 8*V*ep^2 )
+       + den[sp[p1 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]^2*sp[p2 - p3]*s^(-1) * (  - 1/8*ep + 1/8*ep^2 + 1/8*N^2*ep - 1/8*N^2*ep^2 )
 
-       + den[sp[p1 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]^2*sp[p2 - p3 - p4]*s^(-1) * (  - 40*V*ep + 16*V*ep^2 - 8*V*ep^3 )
+       + den[sp[p1 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]^2*sp[p2 - p3 - p4]*s^(-1) * ( 5/8*ep - 1/4*ep^2 + 1/8*ep^3 - 5/8*N^2*ep + 1/4*N^2*ep^2 - 1/8*N^2*ep^3 )
 
-       + den[sp[p1 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]^2*sp[p2 - p4]*s^(-1) * ( 20*V*ep - 20*V*ep^2 )
+       + den[sp[p1 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]^2*sp[p2 - p4]*s^(-1) * (  - 9/16*ep + 9/16*ep^2 + 9/16*N^2*ep - 9/16*N^2*ep^2 )
 
-       + den[sp[p1 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]*sp[p1 - p3 - p4]^2*s^(-1) * (  - 8*V*ep + 8*V*ep^2 )
+       + den[sp[p1 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]*sp[p1 - p3 - p4]^2*s^(-1) * ( 1/8*ep - 1/8*ep^2 - 1/8*N^2*ep + 1/8*N^2*ep^2 )
 
-       + den[sp[p1 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]*sp[p1 - p3 - p4]*sp[p2 - p3 - p4]*s^(-1) * (  - 12*V*ep + 12*V*ep^2 )
+       + den[sp[p1 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]*sp[p1 - p3 - p4]*sp[p2 - p3 - p4]*s^(-1) * ( 3/16*ep - 3/16*ep^2 - 3/16*N^2*ep + 3/16*N^2*ep^2 )
 
-       + den[sp[p1 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]*sp[p2 - p3]*sp[p1 - p3 - p4]*s^(-1) * (  - 48*V*ep + 24*V*ep^2 - 8*V*ep^3 )
+       + den[sp[p1 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]*sp[p2 - p3]*sp[p1 - p3 - p4]*s^(-1) * ( 3/4*ep - 3/8*ep^2 + 1/8*ep^3 - 3/4*N^2*ep + 3/8*N^2*ep^2 - 1/8*N^2*ep^3 )
 
-       + den[sp[p1 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]*sp[p2 - p3]^2*s^(-1) * ( 8*V*ep - 8*V*ep^2 )
+       + den[sp[p1 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]*sp[p2 - p3]^2*s^(-1) * (  - 1/8*ep + 1/8*ep^2 + 1/8*N^2*ep - 1/8*N^2*ep^2 )
 
-       + den[sp[p1 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]*sp[p2 - p3]*sp[p2 - p3 - p4]*s^(-1) * (  - 176*V*ep - 16*V*ep^3 )
+       + den[sp[p1 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]*sp[p2 - p3]*sp[p2 - p3 - p4]*s^(-1) * ( 11/4*ep + 1/4*ep^3 - 11/4*N^2*ep - 1/4*N^2*ep^3 )
 
-       + den[sp[p1 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]*sp[p2 - p3]*sp[p2 - p4]*s^(-1) * ( 32*V*ep - 32*V*ep^2 )
+       + den[sp[p1 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]*sp[p2 - p3]*sp[p2 - p4]*s^(-1) * (  - 1/2*ep + 1/2*ep^2 + 1/2*N^2*ep - 1/2*N^2*ep^2 )
 
-       + den[sp[p1 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]*sp[p2 - p3 - p4]^2*s^(-1) * (  - 8*V*ep + 8*V*ep^2 )
+       + den[sp[p1 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]*sp[p2 - p3 - p4]^2*s^(-1) * ( 1/8*ep - 1/8*ep^2 - 1/8*N^2*ep + 1/8*N^2*ep^2 )
 
-       + den[sp[p1 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]*sp[p2 - p4]*sp[p1 - p3 - p4]*s^(-1) * (  - 18*V*ep + 18*V*ep^2 )
+       + den[sp[p1 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]*sp[p2 - p4]*sp[p1 - p3 - p4]*s^(-1) * ( 9/32*ep - 9/32*ep^2 - 9/32*N^2*ep + 9/32*N^2*ep^2 )
 
-       + den[sp[p1 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]*sp[p2 - p4]*sp[p2 - p3 - p4]*s^(-1) * (  - 6*V*ep + 6*V*ep^2 )
+       + den[sp[p1 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]*sp[p2 - p4]*sp[p2 - p3 - p4]*s^(-1) * ( 3/32*ep - 3/32*ep^2 - 3/32*N^2*ep + 3/32*N^2*ep^2 )
 
-       + den[sp[p1 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]*sp[p2 - p4]^2*s^(-1) * (  - 8*V*ep + 8*V*ep^2 )
+       + den[sp[p1 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]*sp[p2 - p4]^2*s^(-1) * ( 1/8*ep - 1/8*ep^2 - 1/8*N^2*ep + 1/8*N^2*ep^2 )
 
-       + den[sp[p1 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3 - p4]^3*s^(-1) * ( 4*V*ep - 14*V*ep^2 + 2*V*ep^3 )
+       + den[sp[p1 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3 - p4]^3*s^(-1) * (  - 1/16*ep + 7/32*ep^2 - 1/32*ep^3 + 1/16*N^2*ep - 7/32*N^2*ep^2 + 1/32*N^2*ep^3 )
 
-       + den[sp[p1 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3 - p4]^2*sp[p2 - p3 - p4]*s^(-1) * ( 8*V + 16*V*ep + 8*V*ep^3 )
+       + den[sp[p1 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3 - p4]^2*sp[p2 - p3 - p4]*s^(-1) * (  - 1/2 + 1/8*ep - 1/8*ep^3 + 1/2*N^2 - 1/8*N^2*ep + 1/8*N^2*ep^3 )
 
-       + den[sp[p1 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3 - p4]*sp[p2 - p3 - p4]^2*s^(-1) * ( 32*V*ep + 36*V*ep^2 + 12*V*ep^3 )
+       + den[sp[p1 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3 - p4]*sp[p2 - p3 - p4]^2*s^(-1) * (  - 1/2*ep - 9/16*ep^2 - 3/16*ep^3 + 1/2*N^2*ep + 9/16*N^2*ep^2 + 3/16*N^2*ep^3 )
 
-       + den[sp[p1 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*sp[p2 - p3]*sp[p1 - p3 - p4]^2*s^(-1) * (  - 8*V*ep + 8*V*ep^2 )
+       + den[sp[p1 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*sp[p2 - p3]*sp[p1 - p3 - p4]^2*s^(-1) * ( 1/8*ep - 1/8*ep^2 - 1/8*N^2*ep + 1/8*N^2*ep^2 )
 
-       + den[sp[p1 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*sp[p2 - p3]*sp[p1 - p3 - p4]*sp[p2 - p3 - p4]*s^(-1) * (  - 12*V*ep + 12*V*ep^2 )
+       + den[sp[p1 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*sp[p2 - p3]*sp[p1 - p3 - p4]*sp[p2 - p3 - p4]*s^(-1) * ( 3/16*ep - 3/16*ep^2 - 3/16*N^2*ep + 3/16*N^2*ep^2 )
 
-       + den[sp[p1 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*sp[p2 - p3]^2*sp[p1 - p3 - p4]*s^(-1) * ( 20*V*ep^2 - 4*V*ep^3 )
+       + den[sp[p1 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*sp[p2 - p3]^2*sp[p1 - p3 - p4]*s^(-1) * (  - 5/16*ep^2 + 1/16*ep^3 + 5/16*N^2*ep^2 - 1/16*N^2*ep^3 )
 
-       + den[sp[p1 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*sp[p2 - p3]^3*s^(-1) * ( 8*V*ep - 8*V*ep^2 )
+       + den[sp[p1 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*sp[p2 - p3]^3*s^(-1) * (  - 1/8*ep + 1/8*ep^2 + 1/8*N^2*ep - 1/8*N^2*ep^2 )
 
-       + den[sp[p1 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*sp[p2 - p3]^2*sp[p2 - p3 - p4]*s^(-1) * (  - 40*V*ep + 16*V*ep^2 - 8*V*ep^3 )
+       + den[sp[p1 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*sp[p2 - p3]^2*sp[p2 - p3 - p4]*s^(-1) * ( 5/8*ep - 1/4*ep^2 + 1/8*ep^3 - 5/8*N^2*ep + 1/4*N^2*ep^2 - 1/8*N^2*ep^3 )
 
-       + den[sp[p1 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*sp[p2 - p3]^2*sp[p2 - p4]*s^(-1) * ( 12*V*ep - 12*V*ep^2 )
+       + den[sp[p1 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*sp[p2 - p3]^2*sp[p2 - p4]*s^(-1) * ( 1/16*ep - 1/16*ep^2 - 1/16*N^2*ep + 1/16*N^2*ep^2 )
 
-       + den[sp[p1 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*sp[p2 - p3]*sp[p2 - p3 - p4]^2*s^(-1) * (  - 8*V*ep + 8*V*ep^2 )
+       + den[sp[p1 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*sp[p2 - p3]*sp[p2 - p3 - p4]^2*s^(-1) * ( 1/8*ep - 1/8*ep^2 - 1/8*N^2*ep + 1/8*N^2*ep^2 )
 
-       + den[sp[p1 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*sp[p2 - p3]*sp[p2 - p4]*sp[p1 - p3 - p4]*s^(-1) * (  - 18*V*ep + 18*V*ep^2 )
+       + den[sp[p1 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*sp[p2 - p3]*sp[p2 - p4]*sp[p1 - p3 - p4]*s^(-1) * ( 9/32*ep - 9/32*ep^2 - 9/32*N^2*ep + 9/32*N^2*ep^2 )
 
-       + den[sp[p1 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*sp[p2 - p3]*sp[p2 - p4]*sp[p2 - p3 - p4]*s^(-1) * (  - 6*V*ep + 6*V*ep^2 )
+       + den[sp[p1 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*sp[p2 - p3]*sp[p2 - p4]*sp[p2 - p3 - p4]*s^(-1) * ( 3/32*ep - 3/32*ep^2 - 3/32*N^2*ep + 3/32*N^2*ep^2 )
 
-       + den[sp[p1 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*sp[p2 - p3]*sp[p2 - p4]^2*s^(-1) * (  - 8*V*ep + 8*V*ep^2 )
+       + den[sp[p1 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*sp[p2 - p3]*sp[p2 - p4]^2*s^(-1) * ( 1/8*ep - 1/8*ep^2 - 1/8*N^2*ep + 1/8*N^2*ep^2 )
 
-       + den[sp[p1 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*sp[p2 - p3 - p4]^3*s^(-1) * ( 8*V + 16*V*ep^2 + 8*V*ep^3 )
+       + den[sp[p1 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*sp[p2 - p3 - p4]^3*s^(-1) * (  - 1/2 + 3/8*ep - 1/4*ep^2 - 1/8*ep^3 + 1/2*N^2 - 3/8*N^2*ep + 1/4*N^2*ep^2 + 1/8*N^2*ep^3 )
 
-       + den[sp[p1 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*sp[p2 - p4]*sp[p1 - p3 - p4]^2*s^(-1) * (  - 16*V*ep + 16*V*ep^2 )
+       + den[sp[p1 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*sp[p2 - p4]*sp[p1 - p3 - p4]^2*s^(-1) * ( 1/4*ep - 1/4*ep^2 - 1/4*N^2*ep + 1/4*N^2*ep^2 )
 
-       + den[sp[p1 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*sp[p2 - p4]*sp[p2 - p3 - p4]^2*s^(-1) * ( 16*V*ep - 16*V*ep^2 )
+       + den[sp[p1 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*sp[p2 - p4]*sp[p2 - p3 - p4]^2*s^(-1) * (  - 1/4*ep + 1/4*ep^2 + 1/4*N^2*ep - 1/4*N^2*ep^2 )
 
-       + den[sp[p1 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*sp[p2 - p4]^2*sp[p1 - p3 - p4]*s^(-1) * ( 8*V*ep + 12*V*ep^2 - 4*V*ep^3 )
+       + den[sp[p1 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*sp[p2 - p4]^2*sp[p1 - p3 - p4]*s^(-1) * (  - 1/8*ep - 3/16*ep^2 + 1/16*ep^3 + 1/8*N^2*ep + 3/16*N^2*ep^2 - 1/16*N^2*ep^3 )
 
-       + den[sp[p1 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*sp[p2 - p4]^2*sp[p2 - p3 - p4]*s^(-1) * (  - 64*V*ep + 40*V*ep^2 - 8*V*ep^3 )
+       + den[sp[p1 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*sp[p2 - p4]^2*sp[p2 - p3 - p4]*s^(-1) * ( ep - 5/8*ep^2 + 1/8*ep^3 - N^2*ep + 5/8*N^2*ep^2 - 1/8*N^2*ep^3 )
 
-       + den[sp[p1 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*sp[p2 - p4]^3*s^(-1) * ( 8*V*ep - 8*V*ep^2 )
+       + den[sp[p1 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*sp[p2 - p4]^3*s^(-1) * (  - 1/8*ep + 1/8*ep^2 + 1/8*N^2*ep - 1/8*N^2*ep^2 )
 
-       + den[sp[p1 - p4]]*den[sp[p3 + p4]]*den[sp[p1 - p3 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]^3 * (  - 8*N^(-2)*V + 16*N^(-2)*V*ep - 8*N^(-2)*V*ep^2 )
+       + den[sp[p1 - p4]]*den[sp[p3 + p4]]*den[sp[p1 - p3 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]^3 * (  - 1/2 + 1/2*N^(-2) - N^(-2)*ep + 1/2*N^(-2)*ep^2 + ep - 1/2*ep^2 )
 
-       + den[sp[p1 - p4]]*den[sp[p3 + p4]]*den[sp[p1 - p3 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]*sp[p2 - p3]^2 * (  - 8*N^(-2)*V + 16*N^(-2)*V*ep - 8*N^(-2)*V*ep^2 )
+       + den[sp[p1 - p4]]*den[sp[p3 + p4]]*den[sp[p1 - p3 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]*sp[p2 - p3]^2 * (  - 1/2 + 1/2*N^(-2) - N^(-2)*ep + 1/2*N^(-2)*ep^2 + ep - 1/2*ep^2 )
 
-       + den[sp[p1 - p4]]*den[sp[p3 + p4]]*den[sp[p2 - p3 - p4]]*sp[p2 - p3]*sp[p1 - p3 - p4] * (  - 4*N^(-2)*V*ep - 12*N^(-2)*V*ep^2 )
+       + den[sp[p1 - p4]]*den[sp[p3 + p4]]*den[sp[p2 - p3 - p4]]*sp[p2 - p3]*sp[p1 - p3 - p4] * ( 1/2*N^(-2)*ep + 3/2*N^(-2)*ep^2 - 1/2*ep - 3/2*ep^2 )
 
-       + den[sp[p1 - p4]]*den[sp[p3 + p4]]*sp[p1 - p3] * ( 54*N^(-2)*V*ep - 10*N^(-2)*V*ep^2 + 12*N^(-2)*V*ep^3 )
+       + den[sp[p1 - p4]]*den[sp[p3 + p4]]*sp[p1 - p3] * (  - 27/8*N^(-2)*ep + 5/8*N^(-2)*ep^2 - 3/4*N^(-2)*ep^3 + 27/8*ep - 5/8*ep^2 + 3/4*ep^3 )
 
-       + den[sp[p1 - p4]]*den[sp[p3 + p4]]*sp[p1 - p3 - p4] * (  - 8*N^(-2)*V*ep + 6*N^(-2)*V*ep^2 - 6*N^(-2)*V*ep^3 )
+       + den[sp[p1 - p4]]*den[sp[p3 + p4]]*sp[p1 - p3 - p4] * ( 1/2*N^(-2)*ep - 3/8*N^(-2)*ep^2 + 3/8*N^(-2)*ep^3 - 1/2*ep + 3/8*ep^2 - 3/8*ep^3 )
 
-       + den[sp[p1 - p4]]*den[sp[p3 + p4]]*sp[p2 - p3] * ( 10*N^(-2)*V*ep + 16*N^(-2)*V*ep^2 + 6*N^(-2)*V*ep^3 )
+       + den[sp[p1 - p4]]*den[sp[p3 + p4]]*sp[p2 - p3] * (  - 7/8*N^(-2)*ep - 7/4*N^(-2)*ep^2 - 3/8*N^(-2)*ep^3 + 7/8*ep + 7/4*ep^2 + 3/8*ep^3 )
 
-       + den[sp[p1 - p4]]*den[sp[p3 + p4]]*sp[p2 - p3 - p4] * (  - 8*N^(-2)*V*ep + 6*N^(-2)*V*ep^2 - 6*N^(-2)*V*ep^3 )
+       + den[sp[p1 - p4]]*den[sp[p3 + p4]]*sp[p2 - p3 - p4] * ( 1/2*N^(-2)*ep - 3/8*N^(-2)*ep^2 + 3/8*N^(-2)*ep^3 - 1/2*ep + 3/8*ep^2 - 3/8*ep^3 )
 
-       + den[sp[p1 - p4]]*den[sp[p3 + p4]]*sp[p2 - p4] * ( 16*N^(-2)*V*ep + 8*N^(-2)*V*ep^2 + 8*N^(-2)*V*ep^3 )
+       + den[sp[p1 - p4]]*den[sp[p3 + p4]]*sp[p2 - p4] * (  - N^(-2)*ep - 1/2*N^(-2)*ep^2 - 1/2*N^(-2)*ep^3 + ep + 1/2*ep^2 + 1/2*ep^3 )
 
-       + den[sp[p2 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]^3*s^(-1) * ( 8*V*ep - 8*V*ep^2 )
+       + den[sp[p2 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]^3*s^(-1) * (  - 1/8*ep + 1/8*ep^2 + 1/8*N^2*ep - 1/8*N^2*ep^2 )
 
-       + den[sp[p2 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]^2*sp[p1 - p3 - p4]*s^(-1) * (  - 8*V*ep + 8*V*ep^2 )
+       + den[sp[p2 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]^2*sp[p1 - p3 - p4]*s^(-1) * ( 1/8*ep - 1/8*ep^2 - 1/8*N^2*ep + 1/8*N^2*ep^2 )
 
-       + den[sp[p2 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]^2*sp[p1 - p4]*s^(-1) * ( 8*V*ep + 12*V*ep^2 - 4*V*ep^3 )
+       + den[sp[p2 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]^2*sp[p1 - p4]*s^(-1) * (  - 1/8*ep - 3/16*ep^2 + 1/16*ep^3 + 1/8*N^2*ep + 3/16*N^2*ep^2 - 1/16*N^2*ep^3 )
 
-       + den[sp[p2 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]^2*sp[p2 - p3 - p4]*s^(-1) * (  - 8*V*ep + 8*V*ep^2 )
+       + den[sp[p2 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]^2*sp[p2 - p3 - p4]*s^(-1) * ( 1/8*ep - 1/8*ep^2 - 1/8*N^2*ep + 1/8*N^2*ep^2 )
 
-       + den[sp[p2 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]^2*sp[p2 - p4]*s^(-1) * (  - 64*V*ep + 40*V*ep^2 - 8*V*ep^3 )
+       + den[sp[p2 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]^2*sp[p2 - p4]*s^(-1) * ( ep - 5/8*ep^2 + 1/8*ep^3 - N^2*ep + 5/8*N^2*ep^2 - 1/8*N^2*ep^3 )
 
-       + den[sp[p2 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]*sp[p1 - p3 - p4]^2*s^(-1) * ( 20*V*ep - 20*V*ep^2 )
+       + den[sp[p2 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]*sp[p1 - p3 - p4]^2*s^(-1) * (  - 9/16*ep + 9/16*ep^2 + 9/16*N^2*ep - 9/16*N^2*ep^2 )
 
-       + den[sp[p2 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]*sp[p1 - p3 - p4]*sp[p2 - p3 - p4]*s^(-1) * ( 32*V*ep - 32*V*ep^2 )
+       + den[sp[p2 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]*sp[p1 - p3 - p4]*sp[p2 - p3 - p4]*s^(-1) * (  - 1/2*ep + 1/2*ep^2 + 1/2*N^2*ep - 1/2*N^2*ep^2 )
 
-       + den[sp[p2 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]*sp[p1 - p4]*sp[p1 - p3 - p4]*s^(-1) * (  - 18*V*ep + 18*V*ep^2 )
+       + den[sp[p2 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]*sp[p1 - p4]*sp[p1 - p3 - p4]*s^(-1) * ( 9/32*ep - 9/32*ep^2 - 9/32*N^2*ep + 9/32*N^2*ep^2 )
 
-       + den[sp[p2 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]*sp[p1 - p4]^2*s^(-1) * (  - 16*V*ep + 16*V*ep^2 )
+       + den[sp[p2 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]*sp[p1 - p4]^2*s^(-1) * ( 1/4*ep - 1/4*ep^2 - 1/4*N^2*ep + 1/4*N^2*ep^2 )
 
-       + den[sp[p2 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]*sp[p1 - p4]*sp[p2 - p3 - p4]*s^(-1) * (  - 18*V*ep + 18*V*ep^2 )
+       + den[sp[p2 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]*sp[p1 - p4]*sp[p2 - p3 - p4]*s^(-1) * ( 9/32*ep - 9/32*ep^2 - 9/32*N^2*ep + 9/32*N^2*ep^2 )
 
-       + den[sp[p2 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]*sp[p2 - p3 - p4]^2*s^(-1) * ( 12*V*ep - 12*V*ep^2 )
+       + den[sp[p2 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]*sp[p2 - p3 - p4]^2*s^(-1) * ( 1/16*ep - 1/16*ep^2 - 1/16*N^2*ep + 1/16*N^2*ep^2 )
 
-       + den[sp[p2 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]*sp[p2 - p4]*sp[p1 - p3 - p4]*s^(-1) * (  - 6*V*ep + 6*V*ep^2 )
+       + den[sp[p2 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]*sp[p2 - p4]*sp[p1 - p3 - p4]*s^(-1) * ( 3/32*ep - 3/32*ep^2 - 3/32*N^2*ep + 3/32*N^2*ep^2 )
 
-       + den[sp[p2 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]*sp[p2 - p4]*sp[p2 - p3 - p4]*s^(-1) * (  - 6*V*ep + 6*V*ep^2 )
+       + den[sp[p2 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]*sp[p2 - p4]*sp[p2 - p3 - p4]*s^(-1) * ( 3/32*ep - 3/32*ep^2 - 3/32*N^2*ep + 3/32*N^2*ep^2 )
 
-       + den[sp[p2 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]*sp[p2 - p4]^2*s^(-1) * ( 16*V*ep - 16*V*ep^2 )
+       + den[sp[p2 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]*sp[p2 - p4]^2*s^(-1) * (  - 1/4*ep + 1/4*ep^2 + 1/4*N^2*ep - 1/4*N^2*ep^2 )
 
-       + den[sp[p2 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3 - p4]^3*s^(-1) * ( 8*V*ep - 8*V*ep^2 )
+       + den[sp[p2 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3 - p4]^3*s^(-1) * (  - 1/8*ep + 1/8*ep^2 + 1/8*N^2*ep - 1/8*N^2*ep^2 )
 
-       + den[sp[p2 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3 - p4]^2*sp[p2 - p3 - p4]*s^(-1) * ( 8*V*ep - 8*V*ep^2 )
+       + den[sp[p2 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3 - p4]^2*sp[p2 - p3 - p4]*s^(-1) * (  - 1/8*ep + 1/8*ep^2 + 1/8*N^2*ep - 1/8*N^2*ep^2 )
 
-       + den[sp[p2 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3 - p4]*sp[p2 - p3 - p4]^2*s^(-1) * ( 8*V*ep - 8*V*ep^2 )
+       + den[sp[p2 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3 - p4]*sp[p2 - p3 - p4]^2*s^(-1) * (  - 1/8*ep + 1/8*ep^2 + 1/8*N^2*ep - 1/8*N^2*ep^2 )
 
-       + den[sp[p2 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p4]*sp[p1 - p3 - p4]^2*s^(-1) * ( 20*V*ep^2 - 4*V*ep^3 )
+       + den[sp[p2 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p4]*sp[p1 - p3 - p4]^2*s^(-1) * (  - 5/16*ep^2 + 1/16*ep^3 + 5/16*N^2*ep^2 - 1/16*N^2*ep^3 )
 
-       + den[sp[p2 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p4]*sp[p1 - p3 - p4]*sp[p2 - p3 - p4]*s^(-1) * (  - 48*V*ep + 24*V*ep^2 - 8*V*ep^3 )
+       + den[sp[p2 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p4]*sp[p1 - p3 - p4]*sp[p2 - p3 - p4]*s^(-1) * ( 3/4*ep - 3/8*ep^2 + 1/8*ep^3 - 3/4*N^2*ep + 3/8*N^2*ep^2 - 1/8*N^2*ep^3 )
 
-       + den[sp[p2 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p4]^2*sp[p1 - p3 - p4]*s^(-1) * (  - 8*V*ep + 8*V*ep^2 )
+       + den[sp[p2 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p4]^2*sp[p1 - p3 - p4]*s^(-1) * ( 1/8*ep - 1/8*ep^2 - 1/8*N^2*ep + 1/8*N^2*ep^2 )
 
-       + den[sp[p2 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p4]^3*s^(-1) * ( 4*V*ep - 14*V*ep^2 + 2*V*ep^3 )
+       + den[sp[p2 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p4]^3*s^(-1) * (  - 1/16*ep + 7/32*ep^2 - 1/32*ep^3 + 1/16*N^2*ep - 7/32*N^2*ep^2 + 1/32*N^2*ep^3 )
 
-       + den[sp[p2 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p4]^2*sp[p2 - p3 - p4]*s^(-1) * (  - 8*V*ep + 8*V*ep^2 )
+       + den[sp[p2 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p4]^2*sp[p2 - p3 - p4]*s^(-1) * ( 1/8*ep - 1/8*ep^2 - 1/8*N^2*ep + 1/8*N^2*ep^2 )
 
-       + den[sp[p2 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p4]^2*sp[p2 - p4]*s^(-1) * ( 8*V + 16*V*ep + 8*V*ep^3 )
+       + den[sp[p2 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p4]^2*sp[p2 - p4]*s^(-1) * (  - 1/2 + 1/8*ep - 1/8*ep^3 + 1/2*N^2 - 1/8*N^2*ep + 1/8*N^2*ep^3 )
 
-       + den[sp[p2 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p4]*sp[p2 - p3 - p4]^2*s^(-1) * ( 20*V*ep^2 - 4*V*ep^3 )
+       + den[sp[p2 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p4]*sp[p2 - p3 - p4]^2*s^(-1) * (  - 5/16*ep^2 + 1/16*ep^3 + 5/16*N^2*ep^2 - 1/16*N^2*ep^3 )
 
-       + den[sp[p2 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p4]*sp[p2 - p4]*sp[p1 - p3 - p4]*s^(-1) * (  - 12*V*ep + 12*V*ep^2 )
+       + den[sp[p2 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p4]*sp[p2 - p4]*sp[p1 - p3 - p4]*s^(-1) * ( 3/16*ep - 3/16*ep^2 - 3/16*N^2*ep + 3/16*N^2*ep^2 )
 
-       + den[sp[p2 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p4]*sp[p2 - p4]*sp[p2 - p3 - p4]*s^(-1) * (  - 12*V*ep + 12*V*ep^2 )
+       + den[sp[p2 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p4]*sp[p2 - p4]*sp[p2 - p3 - p4]*s^(-1) * ( 3/16*ep - 3/16*ep^2 - 3/16*N^2*ep + 3/16*N^2*ep^2 )
 
-       + den[sp[p2 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p4]*sp[p2 - p4]^2*s^(-1) * ( 32*V*ep + 36*V*ep^2 + 12*V*ep^3 )
+       + den[sp[p2 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p4]*sp[p2 - p4]^2*s^(-1) * (  - 1/2*ep - 9/16*ep^2 - 3/16*ep^3 + 1/2*N^2*ep + 9/16*N^2*ep^2 + 3/16*N^2*ep^3 )
 
-       + den[sp[p2 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p3 - p4]^3*s^(-1) * ( 8*V*ep - 8*V*ep^2 )
+       + den[sp[p2 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p3 - p4]^3*s^(-1) * (  - 1/8*ep + 1/8*ep^2 + 1/8*N^2*ep - 1/8*N^2*ep^2 )
 
-       + den[sp[p2 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p4]*sp[p1 - p3 - p4]^2*s^(-1) * (  - 40*V*ep + 16*V*ep^2 - 8*V*ep^3 )
+       + den[sp[p2 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p4]*sp[p1 - p3 - p4]^2*s^(-1) * ( 5/8*ep - 1/4*ep^2 + 1/8*ep^3 - 5/8*N^2*ep + 1/4*N^2*ep^2 - 1/8*N^2*ep^3 )
 
-       + den[sp[p2 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p4]*sp[p1 - p3 - p4]*sp[p2 - p3 - p4]*s^(-1) * (  - 176*V*ep - 16*V*ep^3 )
+       + den[sp[p2 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p4]*sp[p1 - p3 - p4]*sp[p2 - p3 - p4]*s^(-1) * ( 11/4*ep + 1/4*ep^3 - 11/4*N^2*ep - 1/4*N^2*ep^3 )
 
-       + den[sp[p2 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p4]*sp[p2 - p3 - p4]^2*s^(-1) * (  - 40*V*ep + 16*V*ep^2 - 8*V*ep^3 )
+       + den[sp[p2 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p4]*sp[p2 - p3 - p4]^2*s^(-1) * ( 5/8*ep - 1/4*ep^2 + 1/8*ep^3 - 5/8*N^2*ep + 1/4*N^2*ep^2 - 1/8*N^2*ep^3 )
 
-       + den[sp[p2 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p4]^2*sp[p1 - p3 - p4]*s^(-1) * (  - 8*V*ep + 8*V*ep^2 )
+       + den[sp[p2 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p4]^2*sp[p1 - p3 - p4]*s^(-1) * ( 1/8*ep - 1/8*ep^2 - 1/8*N^2*ep + 1/8*N^2*ep^2 )
 
-       + den[sp[p2 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p4]^2*sp[p2 - p3 - p4]*s^(-1) * (  - 8*V*ep + 8*V*ep^2 )
+       + den[sp[p2 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p4]^2*sp[p2 - p3 - p4]*s^(-1) * ( 1/8*ep - 1/8*ep^2 - 1/8*N^2*ep + 1/8*N^2*ep^2 )
 
-       + den[sp[p2 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p4]^3*s^(-1) * ( 8*V + 16*V*ep^2 + 8*V*ep^3 )
+       + den[sp[p2 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p4]^3*s^(-1) * (  - 1/2 + 3/8*ep - 1/4*ep^2 - 1/8*ep^3 + 1/2*N^2 - 3/8*N^2*ep + 1/4*N^2*ep^2 + 1/8*N^2*ep^3 )
 
-       + den[sp[p2 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p1 - p3]*sp[p1 - p4] * (  - 4*N^(-2)*V*ep - 12*N^(-2)*V*ep^2 )
+       + den[sp[p2 - p3]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p1 - p3]*sp[p1 - p4] * ( 1/2*N^(-2)*ep + 3/2*N^(-2)*ep^2 - 1/2*ep - 3/2*ep^2 )
 
-       + den[sp[p2 - p3]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]^3 * ( 2*N^(-2)*V*ep + N^(-2)*V*ep^2 + N^(-2)*V*ep^3 )
+       + den[sp[p2 - p3]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]^3 * (  - 1/8*N^(-2)*ep - 1/16*N^(-2)*ep^2 - 1/16*N^(-2)*ep^3 + 1/8*ep + 1/16*ep^2 + 1/16*ep^3 )
 
-       + den[sp[p2 - p3]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]^2*sp[p1 - p4] * (  - 2*N^(-2)*V*ep - N^(-2)*V*ep^2 - N^(-2)*V*ep^3 )
+       + den[sp[p2 - p3]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]^2*sp[p1 - p4] * ( 1/8*N^(-2)*ep + 1/16*N^(-2)*ep^2 + 1/16*N^(-2)*ep^3 - 1/8*ep - 1/16*ep^2 - 1/16*ep^3 )
 
-       + den[sp[p2 - p3]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]^2*sp[p2 - p4] * (  - 2*N^(-2)*V*ep - N^(-2)*V*ep^2 - N^(-2)*V*ep^3 )
+       + den[sp[p2 - p3]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]^2*sp[p2 - p4] * ( 1/8*N^(-2)*ep + 1/16*N^(-2)*ep^2 + 1/16*N^(-2)*ep^3 - 1/8*ep - 1/16*ep^2 - 1/16*ep^3 )
 
-       + den[sp[p2 - p3]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]*sp[p1 - p4]^2 * (  - 2*N^(-2)*V*ep - N^(-2)*V*ep^2 - N^(-2)*V*ep^3 )
+       + den[sp[p2 - p3]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]*sp[p1 - p4]^2 * ( 1/8*N^(-2)*ep + 1/16*N^(-2)*ep^2 + 1/16*N^(-2)*ep^3 - 1/8*ep - 1/16*ep^2 - 1/16*ep^3 )
 
-       + den[sp[p2 - p3]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]*sp[p1 - p4]*sp[p2 - p4] * (  - 4*N^(-2)*V*ep - 2*N^(-2)*V*ep^2 - 2*N^(-2)*V*ep^3 )
+       + den[sp[p2 - p3]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]*sp[p1 - p4]*sp[p2 - p4] * ( 1/4*N^(-2)*ep + 1/8*N^(-2)*ep^2 + 1/8*N^(-2)*ep^3 - 1/4*ep - 1/8*ep^2 - 1/8*ep^3 )
 
-       + den[sp[p2 - p3]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]*sp[p2 - p4]^2 * (  - 2*N^(-2)*V*ep - N^(-2)*V*ep^2 - N^(-2)*V*ep^3 )
+       + den[sp[p2 - p3]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]*sp[p2 - p4]^2 * ( 1/8*N^(-2)*ep + 1/16*N^(-2)*ep^2 + 1/16*N^(-2)*ep^3 - 1/8*ep - 1/16*ep^2 - 1/16*ep^3 )
 
-       + den[sp[p2 - p3]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p4]^3 * ( 2*N^(-2)*V*ep + N^(-2)*V*ep^2 + N^(-2)*V*ep^3 )
+       + den[sp[p2 - p3]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p4]^3 * (  - 1/8*N^(-2)*ep - 1/16*N^(-2)*ep^2 - 1/16*N^(-2)*ep^3 + 1/8*ep + 1/16*ep^2 + 1/16*ep^3 )
 
-       + den[sp[p2 - p3]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p4]^2*sp[p2 - p4] * ( 6*N^(-2)*V*ep + 3*N^(-2)*V*ep^2 + 3*N^(-2)*V*ep^3 )
+       + den[sp[p2 - p3]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p4]^2*sp[p2 - p4] * (  - 3/8*N^(-2)*ep - 3/16*N^(-2)*ep^2 - 3/16*N^(-2)*ep^3 + 3/8*ep + 3/16*ep^2 + 3/16*ep^3 )
 
-       + den[sp[p2 - p3]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p4]*sp[p2 - p4]^2 * ( 6*N^(-2)*V*ep + 3*N^(-2)*V*ep^2 + 3*N^(-2)*V*ep^3 )
+       + den[sp[p2 - p3]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p4]*sp[p2 - p4]^2 * (  - 3/8*N^(-2)*ep - 3/16*N^(-2)*ep^2 - 3/16*N^(-2)*ep^3 + 3/8*ep + 3/16*ep^2 + 3/16*ep^3 )
 
-       + den[sp[p2 - p3]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*den[sp[p2 - p3 - p4]]*sp[p2 - p4]^3 * ( 2*N^(-2)*V*ep + N^(-2)*V*ep^2 + N^(-2)*V*ep^3 )
+       + den[sp[p2 - p3]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*den[sp[p2 - p3 - p4]]*sp[p2 - p4]^3 * (  - 1/8*N^(-2)*ep - 1/16*N^(-2)*ep^2 - 1/16*N^(-2)*ep^3 + 1/8*ep + 1/16*ep^2 + 1/16*ep^3 )
 
-       + den[sp[p2 - p3]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p1 - p3]^2 * ( 10*N^(-2)*V*ep + 14*N^(-2)*V*ep^2 )
+       + den[sp[p2 - p3]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p1 - p3]^2 * (  - 5/8*N^(-2)*ep - 7/8*N^(-2)*ep^2 + 5/8*ep + 7/8*ep^2 )
 
-       + den[sp[p2 - p3]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p1 - p3]*sp[p1 - p4] * (  - 14*N^(-2)*V*ep - 27*N^(-2)*V*ep^2 - 3*N^(-2)*V*ep^3 )
+       + den[sp[p2 - p3]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p1 - p3]*sp[p1 - p4] * ( 7/8*N^(-2)*ep + 27/16*N^(-2)*ep^2 + 3/16*N^(-2)*ep^3 - 7/8*ep - 27/16*ep^2 - 3/16*ep^3 )
 
-       + den[sp[p2 - p3]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p1 - p3]*sp[p2 - p3 - p4] * ( 16*N^(-2)*V*ep + 26*N^(-2)*V*ep^2 - 2*N^(-2)*V*ep^3 )
+       + den[sp[p2 - p3]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p1 - p3]*sp[p2 - p3 - p4] * (  - N^(-2)*ep - 13/8*N^(-2)*ep^2 + 1/8*N^(-2)*ep^3 + ep + 13/8*ep^2 - 1/8*ep^3 )
 
-       + den[sp[p2 - p3]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p1 - p3]*sp[p2 - p4] * (  - 14*N^(-2)*V*ep - 27*N^(-2)*V*ep^2 - 3*N^(-2)*V*ep^3 )
+       + den[sp[p2 - p3]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p1 - p3]*sp[p2 - p4] * ( 7/8*N^(-2)*ep + 27/16*N^(-2)*ep^2 + 3/16*N^(-2)*ep^3 - 7/8*ep - 27/16*ep^2 - 3/16*ep^3 )
 
-       + den[sp[p2 - p3]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p1 - p4]^2 * ( 2*N^(-2)*V*ep + 12*N^(-2)*V*ep^2 + 2*N^(-2)*V*ep^3 )
+       + den[sp[p2 - p3]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p1 - p4]^2 * (  - 1/8*N^(-2)*ep - 3/4*N^(-2)*ep^2 - 1/8*N^(-2)*ep^3 + 1/8*ep + 3/4*ep^2 + 1/8*ep^3 )
 
-       + den[sp[p2 - p3]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p1 - p4]*sp[p2 - p3 - p4] * (  - 14*N^(-2)*V*ep - 27*N^(-2)*V*ep^2 - 3*N^(-2)*V*ep^3 )
+       + den[sp[p2 - p3]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p1 - p4]*sp[p2 - p3 - p4] * ( 7/8*N^(-2)*ep + 27/16*N^(-2)*ep^2 + 3/16*N^(-2)*ep^3 - 7/8*ep - 27/16*ep^2 - 3/16*ep^3 )
 
-       + den[sp[p2 - p3]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p1 - p4]*sp[p2 - p4] * ( 12*N^(-2)*V*ep - 16*N^(-2)*V*ep^2 + 4*N^(-2)*V*ep^3 )
+       + den[sp[p2 - p3]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p1 - p4]*sp[p2 - p4] * (  - 3/4*N^(-2)*ep + N^(-2)*ep^2 - 1/4*N^(-2)*ep^3 + 3/4*ep - ep^2 + 1/4*ep^3 )
 
-       + den[sp[p2 - p3]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p2 - p3 - p4]^2 * ( 10*N^(-2)*V*ep + 14*N^(-2)*V*ep^2 )
+       + den[sp[p2 - p3]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p2 - p3 - p4]^2 * (  - 5/8*N^(-2)*ep - 7/8*N^(-2)*ep^2 + 5/8*ep + 7/8*ep^2 )
 
-       + den[sp[p2 - p3]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p2 - p4]*sp[p2 - p3 - p4] * (  - 14*N^(-2)*V*ep - 27*N^(-2)*V*ep^2 - 3*N^(-2)*V*ep^3 )
+       + den[sp[p2 - p3]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p2 - p4]*sp[p2 - p3 - p4] * ( 7/8*N^(-2)*ep + 27/16*N^(-2)*ep^2 + 3/16*N^(-2)*ep^3 - 7/8*ep - 27/16*ep^2 - 3/16*ep^3 )
 
-       + den[sp[p2 - p3]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p2 - p4]^2 * ( 2*N^(-2)*V*ep + 12*N^(-2)*V*ep^2 + 2*N^(-2)*V*ep^3 )
+       + den[sp[p2 - p3]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p2 - p4]^2 * (  - 1/8*N^(-2)*ep - 3/4*N^(-2)*ep^2 - 1/8*N^(-2)*ep^3 + 1/8*ep + 3/4*ep^2 + 1/8*ep^3 )
 
-       + den[sp[p2 - p3]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]^2 * ( 10*N^(-2)*V*ep - 16*N^(-2)*V*ep^2 + 6*N^(-2)*V*ep^3 )
+       + den[sp[p2 - p3]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]^2 * (  - 5/8*N^(-2)*ep + N^(-2)*ep^2 - 3/8*N^(-2)*ep^3 + 5/8*ep - ep^2 + 3/8*ep^3 )
 
-       + den[sp[p2 - p3]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]*sp[p1 - p3 - p4] * (  - 18*N^(-2)*V*ep^2 + 10*N^(-2)*V*ep^3 )
+       + den[sp[p2 - p3]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]*sp[p1 - p3 - p4] * ( 9/8*N^(-2)*ep^2 - 5/8*N^(-2)*ep^3 - 9/8*ep^2 + 5/8*ep^3 )
 
-       + den[sp[p2 - p3]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]*sp[p1 - p4] * (  - 2*N^(-2)*V*ep + 9*N^(-2)*V*ep^2 - 3*N^(-2)*V*ep^3 )
+       + den[sp[p2 - p3]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]*sp[p1 - p4] * ( 1/8*N^(-2)*ep - 9/16*N^(-2)*ep^2 + 3/16*N^(-2)*ep^3 - 1/8*ep + 9/16*ep^2 - 3/16*ep^3 )
 
-       + den[sp[p2 - p3]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]*sp[p2 - p4] * (  - 2*N^(-2)*V*ep + 9*N^(-2)*V*ep^2 - 3*N^(-2)*V*ep^3 )
+       + den[sp[p2 - p3]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]*sp[p2 - p4] * ( 1/8*N^(-2)*ep - 9/16*N^(-2)*ep^2 + 3/16*N^(-2)*ep^3 - 1/8*ep + 9/16*ep^2 - 3/16*ep^3 )
 
-       + den[sp[p2 - p3]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3 - p4]^2 * ( 10*N^(-2)*V*ep - 16*N^(-2)*V*ep^2 + 6*N^(-2)*V*ep^3 )
+       + den[sp[p2 - p3]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3 - p4]^2 * (  - 5/8*N^(-2)*ep + N^(-2)*ep^2 - 3/8*N^(-2)*ep^3 + 5/8*ep - ep^2 + 3/8*ep^3 )
 
-       + den[sp[p2 - p3]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p4]*sp[p1 - p3 - p4] * (  - 2*N^(-2)*V*ep + 9*N^(-2)*V*ep^2 - 3*N^(-2)*V*ep^3 )
+       + den[sp[p2 - p3]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p4]*sp[p1 - p3 - p4] * ( 1/8*N^(-2)*ep - 9/16*N^(-2)*ep^2 + 3/16*N^(-2)*ep^3 - 1/8*ep + 9/16*ep^2 - 3/16*ep^3 )
 
-       + den[sp[p2 - p3]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p4]^2 * (  - 8*N^(-2)*V + 6*N^(-2)*V*ep - 2*N^(-2)*V*ep^2 - 4*N^(-2)*V*ep^3 )
+       + den[sp[p2 - p3]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p4]^2 * (  - 1/2 + 1/2*N^(-2) - 3/8*N^(-2)*ep + 1/8*N^(-2)*ep^2 + 1/4*N^(-2)*ep^3 + 3/8*ep - 1/8*ep^2 - 1/4*ep^3 )
 
-       + den[sp[p2 - p3]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p4]*sp[p2 - p4] * (  - 12*N^(-2)*V*ep - 28*N^(-2)*V*ep^2 - 8*N^(-2)*V*ep^3 )
+       + den[sp[p2 - p3]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p4]*sp[p2 - p4] * ( 3/4*N^(-2)*ep + 7/4*N^(-2)*ep^2 + 1/2*N^(-2)*ep^3 - 3/4*ep - 7/4*ep^2 - 1/2*ep^3 )
 
-       + den[sp[p2 - p3]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p2 - p4]*sp[p1 - p3 - p4] * (  - 2*N^(-2)*V*ep + 9*N^(-2)*V*ep^2 - 3*N^(-2)*V*ep^3 )
+       + den[sp[p2 - p3]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p2 - p4]*sp[p1 - p3 - p4] * ( 1/8*N^(-2)*ep - 9/16*N^(-2)*ep^2 + 3/16*N^(-2)*ep^3 - 1/8*ep + 9/16*ep^2 - 3/16*ep^3 )
 
-       + den[sp[p2 - p3]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p2 - p4]^2 * (  - 8*N^(-2)*V + 6*N^(-2)*V*ep - 2*N^(-2)*V*ep^2 - 4*N^(-2)*V*ep^3 )
+       + den[sp[p2 - p3]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p2 - p4]^2 * (  - 1/2 + 1/2*N^(-2) - 3/8*N^(-2)*ep + 1/8*N^(-2)*ep^2 + 1/4*N^(-2)*ep^3 + 3/8*ep - 1/8*ep^2 - 1/4*ep^3 )
 
-       + den[sp[p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3] * ( 16*N^(-2)*V*ep + 8*N^(-2)*V*ep^2 + 8*N^(-2)*V*ep^3 )
+       + den[sp[p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3] * (  - N^(-2)*ep - 1/2*N^(-2)*ep^2 - 1/2*N^(-2)*ep^3 + ep + 1/2*ep^2 + 1/2*ep^3 )
 
-       + den[sp[p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3 - p4] * ( 54*N^(-2)*V*ep - 10*N^(-2)*V*ep^2 + 12*N^(-2)*V*ep^3 )
+       + den[sp[p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3 - p4] * (  - 27/8*N^(-2)*ep + 5/8*N^(-2)*ep^2 - 3/4*N^(-2)*ep^3 + 27/8*ep - 5/8*ep^2 + 3/4*ep^3 )
 
-       + den[sp[p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p4] * (  - 8*N^(-2)*V*ep + 6*N^(-2)*V*ep^2 - 6*N^(-2)*V*ep^3 )
+       + den[sp[p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p4] * ( 1/2*N^(-2)*ep - 3/8*N^(-2)*ep^2 + 3/8*N^(-2)*ep^3 - 1/2*ep + 3/8*ep^2 - 3/8*ep^3 )
 
-       + den[sp[p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p3 - p4] * ( 10*N^(-2)*V*ep + 16*N^(-2)*V*ep^2 + 6*N^(-2)*V*ep^3 )
+       + den[sp[p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p3 - p4] * (  - 7/8*N^(-2)*ep - 7/4*N^(-2)*ep^2 - 3/8*N^(-2)*ep^3 + 7/8*ep + 7/4*ep^2 + 3/8*ep^3 )
 
-       + den[sp[p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p4] * (  - 8*N^(-2)*V*ep + 6*N^(-2)*V*ep^2 - 6*N^(-2)*V*ep^3 )
+       + den[sp[p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p4] * ( 1/2*N^(-2)*ep - 3/8*N^(-2)*ep^2 + 3/8*N^(-2)*ep^3 - 1/2*ep + 3/8*ep^2 - 3/8*ep^3 )
 
-       + den[sp[p2 - p3]]*den[sp[p1 - p3 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]*s * (  - N^(-4)*V*ep + 2*N^(-4)*V*ep^2 - N^(-4)*V*ep^3 - N^(-2)*V*ep + 2*N^(-2)*V*ep^2 - N^(-2)*V*ep^3 )
+       + den[sp[p2 - p3]]*den[sp[p1 - p3 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]*s * ( 1/4*N^(-4)*ep - 1/2*N^(-4)*ep^2 + 1/4*N^(-4)*ep^3 - 1/4*ep + 1/2*ep^2 - 1/4*ep^3 )
 
-       + den[sp[p2 - p3]]*den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]^3*sp[p1 - p3 - p4]*s^(-1) * (  - 2*V*ep + 2*V*ep^2 )
+       + den[sp[p2 - p3]]*den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]^3*sp[p1 - p3 - p4]*s^(-1) * ( 1/32*ep - 1/32*ep^2 - 1/32*N^2*ep + 1/32*N^2*ep^2 )
 
-       + den[sp[p2 - p3]]*den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]^3*sp[p2 - p3 - p4]*s^(-1) * (  - 2*V*ep + 2*V*ep^2 )
+       + den[sp[p2 - p3]]*den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]^3*sp[p2 - p3 - p4]*s^(-1) * ( 1/32*ep - 1/32*ep^2 - 1/32*N^2*ep + 1/32*N^2*ep^2 )
 
-       + den[sp[p2 - p3]]*den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]^2*sp[p1 - p4]*sp[p1 - p3 - p4]*s^(-1) * (  - 10*V*ep + 10*V*ep^2 )
+       + den[sp[p2 - p3]]*den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]^2*sp[p1 - p4]*sp[p1 - p3 - p4]*s^(-1) * ( 5/32*ep - 5/32*ep^2 - 5/32*N^2*ep + 5/32*N^2*ep^2 )
 
-       + den[sp[p2 - p3]]*den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]^2*sp[p1 - p4]*sp[p2 - p3 - p4]*s^(-1) * (  - 10*V*ep + 10*V*ep^2 )
+       + den[sp[p2 - p3]]*den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]^2*sp[p1 - p4]*sp[p2 - p3 - p4]*s^(-1) * ( 5/32*ep - 5/32*ep^2 - 5/32*N^2*ep + 5/32*N^2*ep^2 )
 
-       + den[sp[p2 - p3]]*den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]*sp[p1 - p3 - p4]^3*s^(-1) * ( 6*V*ep - 6*V*ep^2 )
+       + den[sp[p2 - p3]]*den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]*sp[p1 - p3 - p4]^3*s^(-1) * (  - 3/32*ep + 3/32*ep^2 + 3/32*N^2*ep - 3/32*N^2*ep^2 )
 
-       + den[sp[p2 - p3]]*den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]*sp[p1 - p3 - p4]^2*sp[p2 - p3 - p4]*s^(-1) * ( 10*V*ep - 10*V*ep^2 )
+       + den[sp[p2 - p3]]*den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]*sp[p1 - p3 - p4]^2*sp[p2 - p3 - p4]*s^(-1) * (  - 5/32*ep + 5/32*ep^2 + 5/32*N^2*ep - 5/32*N^2*ep^2 )
 
-       + den[sp[p2 - p3]]*den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]*sp[p1 - p3 - p4]*sp[p2 - p3 - p4]^2*s^(-1) * ( 10*V*ep - 10*V*ep^2 )
+       + den[sp[p2 - p3]]*den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]*sp[p1 - p3 - p4]*sp[p2 - p3 - p4]^2*s^(-1) * (  - 5/32*ep + 5/32*ep^2 + 5/32*N^2*ep - 5/32*N^2*ep^2 )
 
-       + den[sp[p2 - p3]]*den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]*sp[p1 - p4]*sp[p1 - p3 - p4]^2*s^(-1) * ( 4*V*ep - 4*V*ep^2 )
+       + den[sp[p2 - p3]]*den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]*sp[p1 - p4]*sp[p1 - p3 - p4]^2*s^(-1) * (  - 1/16*ep + 1/16*ep^2 + 1/16*N^2*ep - 1/16*N^2*ep^2 )
 
-       + den[sp[p2 - p3]]*den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]*sp[p1 - p4]^2*sp[p1 - p3 - p4]*s^(-1) * (  - 10*V*ep + 10*V*ep^2 )
+       + den[sp[p2 - p3]]*den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]*sp[p1 - p4]^2*sp[p1 - p3 - p4]*s^(-1) * ( 5/32*ep - 5/32*ep^2 - 5/32*N^2*ep + 5/32*N^2*ep^2 )
 
-       + den[sp[p2 - p3]]*den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]*sp[p1 - p4]^2*sp[p2 - p3 - p4]*s^(-1) * (  - 10*V*ep + 10*V*ep^2 )
+       + den[sp[p2 - p3]]*den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]*sp[p1 - p4]^2*sp[p2 - p3 - p4]*s^(-1) * ( 5/32*ep - 5/32*ep^2 - 5/32*N^2*ep + 5/32*N^2*ep^2 )
 
-       + den[sp[p2 - p3]]*den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]*sp[p1 - p4]*sp[p2 - p3 - p4]^2*s^(-1) * (  - 4*V*ep + 4*V*ep^2 )
+       + den[sp[p2 - p3]]*den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]*sp[p1 - p4]*sp[p2 - p3 - p4]^2*s^(-1) * ( 1/16*ep - 1/16*ep^2 - 1/16*N^2*ep + 1/16*N^2*ep^2 )
 
-       + den[sp[p2 - p3]]*den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]*sp[p2 - p3 - p4]^3*s^(-1) * ( 6*V*ep - 6*V*ep^2 )
+       + den[sp[p2 - p3]]*den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]*sp[p2 - p3 - p4]^3*s^(-1) * (  - 3/32*ep + 3/32*ep^2 + 3/32*N^2*ep - 3/32*N^2*ep^2 )
 
-       + den[sp[p2 - p3]]*den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3 - p4]^4*s^(-1) * (  - 4*V*ep + 4*V*ep^2 )
+       + den[sp[p2 - p3]]*den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3 - p4]^4*s^(-1) * ( 1/16*ep - 1/16*ep^2 - 1/16*N^2*ep + 1/16*N^2*ep^2 )
 
-       + den[sp[p2 - p3]]*den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3 - p4]^3*sp[p2 - p3 - p4]*s^(-1) * (  - 8*V*ep + 8*V*ep^2 )
+       + den[sp[p2 - p3]]*den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3 - p4]^3*sp[p2 - p3 - p4]*s^(-1) * ( 1/8*ep - 1/8*ep^2 - 1/8*N^2*ep + 1/8*N^2*ep^2 )
 
-       + den[sp[p2 - p3]]*den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3 - p4]*sp[p2 - p3 - p4]^3*s^(-1) * ( 8*V*ep - 8*V*ep^2 )
+       + den[sp[p2 - p3]]*den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3 - p4]*sp[p2 - p3 - p4]^3*s^(-1) * (  - 1/8*ep + 1/8*ep^2 + 1/8*N^2*ep - 1/8*N^2*ep^2 )
 
-       + den[sp[p2 - p3]]*den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p4]*sp[p1 - p3 - p4]^3*s^(-1) * ( 6*V*ep - 6*V*ep^2 )
+       + den[sp[p2 - p3]]*den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p4]*sp[p1 - p3 - p4]^3*s^(-1) * (  - 3/32*ep + 3/32*ep^2 + 3/32*N^2*ep - 3/32*N^2*ep^2 )
 
-       + den[sp[p2 - p3]]*den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p4]*sp[p1 - p3 - p4]^2*sp[p2 - p3 - p4]*s^(-1) * ( 10*V*ep - 10*V*ep^2 )
+       + den[sp[p2 - p3]]*den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p4]*sp[p1 - p3 - p4]^2*sp[p2 - p3 - p4]*s^(-1) * (  - 5/32*ep + 5/32*ep^2 + 5/32*N^2*ep - 5/32*N^2*ep^2 )
 
-       + den[sp[p2 - p3]]*den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p4]*sp[p1 - p3 - p4]*sp[p2 - p3 - p4]^2*s^(-1) * ( 10*V*ep - 10*V*ep^2 )
+       + den[sp[p2 - p3]]*den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p4]*sp[p1 - p3 - p4]*sp[p2 - p3 - p4]^2*s^(-1) * (  - 5/32*ep + 5/32*ep^2 + 5/32*N^2*ep - 5/32*N^2*ep^2 )
 
-       + den[sp[p2 - p3]]*den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p4]^3*sp[p1 - p3 - p4]*s^(-1) * (  - 2*V*ep + 2*V*ep^2 )
+       + den[sp[p2 - p3]]*den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p4]^3*sp[p1 - p3 - p4]*s^(-1) * ( 1/32*ep - 1/32*ep^2 - 1/32*N^2*ep + 1/32*N^2*ep^2 )
 
-       + den[sp[p2 - p3]]*den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p4]^3*sp[p2 - p3 - p4]*s^(-1) * (  - 2*V*ep + 2*V*ep^2 )
+       + den[sp[p2 - p3]]*den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p4]^3*sp[p2 - p3 - p4]*s^(-1) * ( 1/32*ep - 1/32*ep^2 - 1/32*N^2*ep + 1/32*N^2*ep^2 )
 
-       + den[sp[p2 - p3]]*den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p4]*sp[p2 - p3 - p4]^3*s^(-1) * ( 6*V*ep - 6*V*ep^2 )
+       + den[sp[p2 - p3]]*den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p4]*sp[p2 - p3 - p4]^3*s^(-1) * (  - 3/32*ep + 3/32*ep^2 + 3/32*N^2*ep - 3/32*N^2*ep^2 )
 
-       + den[sp[p2 - p3]]*den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p3 - p4]^4*s^(-1) * ( 4*V*ep - 4*V*ep^2 )
+       + den[sp[p2 - p3]]*den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p3 - p4]^4*s^(-1) * (  - 1/16*ep + 1/16*ep^2 + 1/16*N^2*ep - 1/16*N^2*ep^2 )
 
-       + den[sp[p2 - p3]]*den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*sp[p1 - p3]*sp[p2 - p3 - p4] * (  - 4*N^(-2)*V*ep - 12*N^(-2)*V*ep^2 )
+       + den[sp[p2 - p3]]*den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*sp[p1 - p3]*sp[p2 - p3 - p4] * ( 1/2*N^(-2)*ep + 3/2*N^(-2)*ep^2 - 1/2*ep - 3/2*ep^2 )
 
-       + den[sp[p2 - p3]]*den[sp[p2 - p4]]*den[sp[p1 + p2 - p4]]*sp[p1 - p4]*sp[p2 - p3 - p4] * (  - 4*N^(-2)*V*ep - 12*N^(-2)*V*ep^2 )
+       + den[sp[p2 - p3]]*den[sp[p2 - p4]]*den[sp[p1 + p2 - p4]]*sp[p1 - p4]*sp[p2 - p3 - p4] * ( 1/2*N^(-2)*ep + 3/2*N^(-2)*ep^2 - 1/2*ep - 3/2*ep^2 )
 
-       + den[sp[p2 - p3]]*den[sp[p2 - p4]]*den[sp[p3 + p4]]*sp[p1 - p3]^2 * ( 10*N^(-2)*V*ep + 14*N^(-2)*V*ep^2 )
+       + den[sp[p2 - p3]]*den[sp[p2 - p4]]*den[sp[p3 + p4]]*sp[p1 - p3]^2 * (  - 5/8*N^(-2)*ep - 7/8*N^(-2)*ep^2 + 5/8*ep + 7/8*ep^2 )
 
-       + den[sp[p2 - p3]]*den[sp[p2 - p4]]*den[sp[p3 + p4]]*sp[p1 - p3]*sp[p1 - p3 - p4] * (  - 14*N^(-2)*V*ep - 27*N^(-2)*V*ep^2 - 3*N^(-2)*V*ep^3 )
+       + den[sp[p2 - p3]]*den[sp[p2 - p4]]*den[sp[p3 + p4]]*sp[p1 - p3]*sp[p1 - p3 - p4] * ( 7/8*N^(-2)*ep + 27/16*N^(-2)*ep^2 + 3/16*N^(-2)*ep^3 - 7/8*ep - 27/16*ep^2 - 3/16*ep^3 )
 
-       + den[sp[p2 - p3]]*den[sp[p2 - p4]]*den[sp[p3 + p4]]*sp[p1 - p3]*sp[p1 - p4] * ( 16*N^(-2)*V*ep + 26*N^(-2)*V*ep^2 - 2*N^(-2)*V*ep^3 )
+       + den[sp[p2 - p3]]*den[sp[p2 - p4]]*den[sp[p3 + p4]]*sp[p1 - p3]*sp[p1 - p4] * (  - N^(-2)*ep - 13/8*N^(-2)*ep^2 + 1/8*N^(-2)*ep^3 + ep + 13/8*ep^2 - 1/8*ep^3 )
 
-       + den[sp[p2 - p3]]*den[sp[p2 - p4]]*den[sp[p3 + p4]]*sp[p1 - p3]*sp[p2 - p3 - p4] * (  - 14*N^(-2)*V*ep - 27*N^(-2)*V*ep^2 - 3*N^(-2)*V*ep^3 )
+       + den[sp[p2 - p3]]*den[sp[p2 - p4]]*den[sp[p3 + p4]]*sp[p1 - p3]*sp[p2 - p3 - p4] * ( 7/8*N^(-2)*ep + 27/16*N^(-2)*ep^2 + 3/16*N^(-2)*ep^3 - 7/8*ep - 27/16*ep^2 - 3/16*ep^3 )
 
-       + den[sp[p2 - p3]]*den[sp[p2 - p4]]*den[sp[p3 + p4]]*sp[p1 - p3 - p4]^2 * ( 2*N^(-2)*V*ep + 12*N^(-2)*V*ep^2 + 2*N^(-2)*V*ep^3 )
+       + den[sp[p2 - p3]]*den[sp[p2 - p4]]*den[sp[p3 + p4]]*sp[p1 - p3 - p4]^2 * (  - 1/8*N^(-2)*ep - 3/4*N^(-2)*ep^2 - 1/8*N^(-2)*ep^3 + 1/8*ep + 3/4*ep^2 + 1/8*ep^3 )
 
-       + den[sp[p2 - p3]]*den[sp[p2 - p4]]*den[sp[p3 + p4]]*sp[p1 - p3 - p4]*sp[p2 - p3 - p4] * ( 12*N^(-2)*V*ep - 16*N^(-2)*V*ep^2 + 4*N^(-2)*V*ep^3 )
+       + den[sp[p2 - p3]]*den[sp[p2 - p4]]*den[sp[p3 + p4]]*sp[p1 - p3 - p4]*sp[p2 - p3 - p4] * (  - 3/4*N^(-2)*ep + N^(-2)*ep^2 - 1/4*N^(-2)*ep^3 + 3/4*ep - ep^2 + 1/4*ep^3 )
 
-       + den[sp[p2 - p3]]*den[sp[p2 - p4]]*den[sp[p3 + p4]]*sp[p1 - p4]*sp[p1 - p3 - p4] * (  - 14*N^(-2)*V*ep - 27*N^(-2)*V*ep^2 - 3*N^(-2)*V*ep^3 )
+       + den[sp[p2 - p3]]*den[sp[p2 - p4]]*den[sp[p3 + p4]]*sp[p1 - p4]*sp[p1 - p3 - p4] * ( 7/8*N^(-2)*ep + 27/16*N^(-2)*ep^2 + 3/16*N^(-2)*ep^3 - 7/8*ep - 27/16*ep^2 - 3/16*ep^3 )
 
-       + den[sp[p2 - p3]]*den[sp[p2 - p4]]*den[sp[p3 + p4]]*sp[p1 - p4]^2 * ( 10*N^(-2)*V*ep + 14*N^(-2)*V*ep^2 )
+       + den[sp[p2 - p3]]*den[sp[p2 - p4]]*den[sp[p3 + p4]]*sp[p1 - p4]^2 * (  - 5/8*N^(-2)*ep - 7/8*N^(-2)*ep^2 + 5/8*ep + 7/8*ep^2 )
 
-       + den[sp[p2 - p3]]*den[sp[p2 - p4]]*den[sp[p3 + p4]]*sp[p1 - p4]*sp[p2 - p3 - p4] * (  - 14*N^(-2)*V*ep - 27*N^(-2)*V*ep^2 - 3*N^(-2)*V*ep^3 )
+       + den[sp[p2 - p3]]*den[sp[p2 - p4]]*den[sp[p3 + p4]]*sp[p1 - p4]*sp[p2 - p3 - p4] * ( 7/8*N^(-2)*ep + 27/16*N^(-2)*ep^2 + 3/16*N^(-2)*ep^3 - 7/8*ep - 27/16*ep^2 - 3/16*ep^3 )
 
-       + den[sp[p2 - p3]]*den[sp[p2 - p4]]*den[sp[p3 + p4]]*sp[p2 - p3 - p4]^2 * ( 2*N^(-2)*V*ep + 12*N^(-2)*V*ep^2 + 2*N^(-2)*V*ep^3 )
+       + den[sp[p2 - p3]]*den[sp[p2 - p4]]*den[sp[p3 + p4]]*sp[p2 - p3 - p4]^2 * (  - 1/8*N^(-2)*ep - 3/4*N^(-2)*ep^2 - 1/8*N^(-2)*ep^3 + 1/8*ep + 3/4*ep^2 + 1/8*ep^3 )
 
-       + den[sp[p2 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p1 - p3]^3*sp[p1 - p4]*s^(-1) * (  - 2*V*ep + 2*V*ep^2 )
+       + den[sp[p2 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p1 - p3]^3*sp[p1 - p4]*s^(-1) * ( 1/32*ep - 1/32*ep^2 - 1/32*N^2*ep + 1/32*N^2*ep^2 )
 
-       + den[sp[p2 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p1 - p3]^3*sp[p2 - p4]*s^(-1) * (  - 2*V*ep + 2*V*ep^2 )
+       + den[sp[p2 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p1 - p3]^3*sp[p2 - p4]*s^(-1) * ( 1/32*ep - 1/32*ep^2 - 1/32*N^2*ep + 1/32*N^2*ep^2 )
 
-       + den[sp[p2 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p1 - p3]^2*sp[p1 - p4]*sp[p2 - p3 - p4]*s^(-1) * (  - 10*V*ep + 10*V*ep^2 )
+       + den[sp[p2 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p1 - p3]^2*sp[p1 - p4]*sp[p2 - p3 - p4]*s^(-1) * ( 5/32*ep - 5/32*ep^2 - 5/32*N^2*ep + 5/32*N^2*ep^2 )
 
-       + den[sp[p2 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p1 - p3]^2*sp[p2 - p4]*sp[p2 - p3 - p4]*s^(-1) * (  - 10*V*ep + 10*V*ep^2 )
+       + den[sp[p2 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p1 - p3]^2*sp[p2 - p4]*sp[p2 - p3 - p4]*s^(-1) * ( 5/32*ep - 5/32*ep^2 - 5/32*N^2*ep + 5/32*N^2*ep^2 )
 
-       + den[sp[p2 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p1 - p3]*sp[p1 - p4]^3*s^(-1) * ( 6*V*ep - 6*V*ep^2 )
+       + den[sp[p2 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p1 - p3]*sp[p1 - p4]^3*s^(-1) * (  - 3/32*ep + 3/32*ep^2 + 3/32*N^2*ep - 3/32*N^2*ep^2 )
 
-       + den[sp[p2 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p1 - p3]*sp[p1 - p4]^2*sp[p2 - p3 - p4]*s^(-1) * (  - 4*V*ep + 4*V*ep^2 )
+       + den[sp[p2 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p1 - p3]*sp[p1 - p4]^2*sp[p2 - p3 - p4]*s^(-1) * ( 1/16*ep - 1/16*ep^2 - 1/16*N^2*ep + 1/16*N^2*ep^2 )
 
-       + den[sp[p2 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p1 - p3]*sp[p1 - p4]^2*sp[p2 - p4]*s^(-1) * ( 10*V*ep - 10*V*ep^2 )
+       + den[sp[p2 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p1 - p3]*sp[p1 - p4]^2*sp[p2 - p4]*s^(-1) * (  - 5/32*ep + 5/32*ep^2 + 5/32*N^2*ep - 5/32*N^2*ep^2 )
 
-       + den[sp[p2 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p1 - p3]*sp[p1 - p4]*sp[p2 - p3 - p4]^2*s^(-1) * (  - 10*V*ep + 10*V*ep^2 )
+       + den[sp[p2 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p1 - p3]*sp[p1 - p4]*sp[p2 - p3 - p4]^2*s^(-1) * ( 5/32*ep - 5/32*ep^2 - 5/32*N^2*ep + 5/32*N^2*ep^2 )
 
-       + den[sp[p2 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p1 - p3]*sp[p1 - p4]*sp[p2 - p4]^2*s^(-1) * ( 10*V*ep - 10*V*ep^2 )
+       + den[sp[p2 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p1 - p3]*sp[p1 - p4]*sp[p2 - p4]^2*s^(-1) * (  - 5/32*ep + 5/32*ep^2 + 5/32*N^2*ep - 5/32*N^2*ep^2 )
 
-       + den[sp[p2 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p1 - p3]*sp[p2 - p4]*sp[p2 - p3 - p4]^2*s^(-1) * (  - 10*V*ep + 10*V*ep^2 )
+       + den[sp[p2 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p1 - p3]*sp[p2 - p4]*sp[p2 - p3 - p4]^2*s^(-1) * ( 5/32*ep - 5/32*ep^2 - 5/32*N^2*ep + 5/32*N^2*ep^2 )
 
-       + den[sp[p2 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p1 - p3]*sp[p2 - p4]^2*sp[p2 - p3 - p4]*s^(-1) * ( 4*V*ep - 4*V*ep^2 )
+       + den[sp[p2 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p1 - p3]*sp[p2 - p4]^2*sp[p2 - p3 - p4]*s^(-1) * (  - 1/16*ep + 1/16*ep^2 + 1/16*N^2*ep - 1/16*N^2*ep^2 )
 
-       + den[sp[p2 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p1 - p3]*sp[p2 - p4]^3*s^(-1) * ( 6*V*ep - 6*V*ep^2 )
+       + den[sp[p2 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p1 - p3]*sp[p2 - p4]^3*s^(-1) * (  - 3/32*ep + 3/32*ep^2 + 3/32*N^2*ep - 3/32*N^2*ep^2 )
 
-       + den[sp[p2 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p1 - p4]^4*s^(-1) * ( 4*V*ep - 4*V*ep^2 )
+       + den[sp[p2 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p1 - p4]^4*s^(-1) * (  - 1/16*ep + 1/16*ep^2 + 1/16*N^2*ep - 1/16*N^2*ep^2 )
 
-       + den[sp[p2 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p1 - p4]^3*sp[p2 - p3 - p4]*s^(-1) * ( 6*V*ep - 6*V*ep^2 )
+       + den[sp[p2 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p1 - p4]^3*sp[p2 - p3 - p4]*s^(-1) * (  - 3/32*ep + 3/32*ep^2 + 3/32*N^2*ep - 3/32*N^2*ep^2 )
 
-       + den[sp[p2 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p1 - p4]^3*sp[p2 - p4]*s^(-1) * ( 8*V*ep - 8*V*ep^2 )
+       + den[sp[p2 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p1 - p4]^3*sp[p2 - p4]*s^(-1) * (  - 1/8*ep + 1/8*ep^2 + 1/8*N^2*ep - 1/8*N^2*ep^2 )
 
-       + den[sp[p2 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p1 - p4]^2*sp[p2 - p4]*sp[p2 - p3 - p4]*s^(-1) * ( 10*V*ep - 10*V*ep^2 )
+       + den[sp[p2 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p1 - p4]^2*sp[p2 - p4]*sp[p2 - p3 - p4]*s^(-1) * (  - 5/32*ep + 5/32*ep^2 + 5/32*N^2*ep - 5/32*N^2*ep^2 )
 
-       + den[sp[p2 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p1 - p4]*sp[p2 - p3 - p4]^3*s^(-1) * (  - 2*V*ep + 2*V*ep^2 )
+       + den[sp[p2 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p1 - p4]*sp[p2 - p3 - p4]^3*s^(-1) * ( 1/32*ep - 1/32*ep^2 - 1/32*N^2*ep + 1/32*N^2*ep^2 )
 
-       + den[sp[p2 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p1 - p4]*sp[p2 - p4]^2*sp[p2 - p3 - p4]*s^(-1) * ( 10*V*ep - 10*V*ep^2 )
+       + den[sp[p2 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p1 - p4]*sp[p2 - p4]^2*sp[p2 - p3 - p4]*s^(-1) * (  - 5/32*ep + 5/32*ep^2 + 5/32*N^2*ep - 5/32*N^2*ep^2 )
 
-       + den[sp[p2 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p1 - p4]*sp[p2 - p4]^3*s^(-1) * (  - 8*V*ep + 8*V*ep^2 )
+       + den[sp[p2 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p1 - p4]*sp[p2 - p4]^3*s^(-1) * ( 1/8*ep - 1/8*ep^2 - 1/8*N^2*ep + 1/8*N^2*ep^2 )
 
-       + den[sp[p2 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p2 - p4]*sp[p2 - p3 - p4]^3*s^(-1) * (  - 2*V*ep + 2*V*ep^2 )
+       + den[sp[p2 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p2 - p4]*sp[p2 - p3 - p4]^3*s^(-1) * ( 1/32*ep - 1/32*ep^2 - 1/32*N^2*ep + 1/32*N^2*ep^2 )
 
-       + den[sp[p2 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p2 - p4]^3*sp[p2 - p3 - p4]*s^(-1) * ( 6*V*ep - 6*V*ep^2 )
+       + den[sp[p2 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p2 - p4]^3*sp[p2 - p3 - p4]*s^(-1) * (  - 3/32*ep + 3/32*ep^2 + 3/32*N^2*ep - 3/32*N^2*ep^2 )
 
-       + den[sp[p2 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p2 - p4]^4*s^(-1) * (  - 4*V*ep + 4*V*ep^2 )
+       + den[sp[p2 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p2 - p4]^4*s^(-1) * ( 1/16*ep - 1/16*ep^2 - 1/16*N^2*ep + 1/16*N^2*ep^2 )
 
-       + den[sp[p2 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]^4*s^(-1) * (  - 4*V*ep - 6*V*ep^2 + 2*V*ep^3 )
+       + den[sp[p2 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]^4*s^(-1) * ( 1/16*ep + 3/32*ep^2 - 1/32*ep^3 - 1/16*N^2*ep - 3/32*N^2*ep^2 + 1/32*N^2*ep^3 )
 
-       + den[sp[p2 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]^3*sp[p1 - p4]*s^(-1) * (  - 2*V*ep + 2*V*ep^2 )
+       + den[sp[p2 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]^3*sp[p1 - p4]*s^(-1) * ( 1/32*ep - 1/32*ep^2 - 1/32*N^2*ep + 1/32*N^2*ep^2 )
 
-       + den[sp[p2 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]^3*sp[p2 - p4]*s^(-1) * (  - 2*V*ep + 2*V*ep^2 )
+       + den[sp[p2 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]^3*sp[p2 - p4]*s^(-1) * ( 1/32*ep - 1/32*ep^2 - 1/32*N^2*ep + 1/32*N^2*ep^2 )
 
-       + den[sp[p2 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]^2*sp[p1 - p3 - p4]^2*s^(-1) * ( 8*V*ep + 12*V*ep^2 - 4*V*ep^3 )
+       + den[sp[p2 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]^2*sp[p1 - p3 - p4]^2*s^(-1) * (  - 1/8*ep - 3/16*ep^2 + 1/16*ep^3 + 1/8*N^2*ep + 3/16*N^2*ep^2 - 1/16*N^2*ep^3 )
 
-       + den[sp[p2 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]^2*sp[p1 - p4]*sp[p1 - p3 - p4]*s^(-1) * ( 2*V*ep - 2*V*ep^2 )
+       + den[sp[p2 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]^2*sp[p1 - p4]*sp[p1 - p3 - p4]*s^(-1) * (  - 1/32*ep + 1/32*ep^2 + 1/32*N^2*ep - 1/32*N^2*ep^2 )
 
-       + den[sp[p2 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]^2*sp[p1 - p4]^2*s^(-1) * ( 8*V*ep + 12*V*ep^2 - 4*V*ep^3 )
+       + den[sp[p2 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]^2*sp[p1 - p4]^2*s^(-1) * (  - 1/8*ep - 3/16*ep^2 + 1/16*ep^3 + 1/8*N^2*ep + 3/16*N^2*ep^2 - 1/16*N^2*ep^3 )
 
-       + den[sp[p2 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]^2*sp[p1 - p4]*sp[p2 - p4]*s^(-1) * (  - 32*V*ep + 8*V*ep^2 - 8*V*ep^3 )
+       + den[sp[p2 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]^2*sp[p1 - p4]*sp[p2 - p4]*s^(-1) * ( 1/2*ep - 1/8*ep^2 + 1/8*ep^3 - 1/2*N^2*ep + 1/8*N^2*ep^2 - 1/8*N^2*ep^3 )
 
-       + den[sp[p2 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]^2*sp[p2 - p4]*sp[p1 - p3 - p4]*s^(-1) * ( 2*V*ep - 2*V*ep^2 )
+       + den[sp[p2 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]^2*sp[p2 - p4]*sp[p1 - p3 - p4]*s^(-1) * (  - 1/32*ep + 1/32*ep^2 + 1/32*N^2*ep - 1/32*N^2*ep^2 )
 
-       + den[sp[p2 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]^2*sp[p2 - p4]^2*s^(-1) * ( 8*V*ep + 12*V*ep^2 - 4*V*ep^3 )
+       + den[sp[p2 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]^2*sp[p2 - p4]^2*s^(-1) * (  - 1/8*ep - 3/16*ep^2 + 1/16*ep^3 + 1/8*N^2*ep + 3/16*N^2*ep^2 - 1/16*N^2*ep^3 )
 
-       + den[sp[p2 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]*sp[p1 - p4]*sp[p1 - p3 - p4]^2*s^(-1) * ( 2*V*ep - 2*V*ep^2 )
+       + den[sp[p2 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]*sp[p1 - p4]*sp[p1 - p3 - p4]^2*s^(-1) * (  - 1/32*ep + 1/32*ep^2 + 1/32*N^2*ep - 1/32*N^2*ep^2 )
 
-       + den[sp[p2 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]*sp[p1 - p4]^3*s^(-1) * ( 2*V*ep - 2*V*ep^2 )
+       + den[sp[p2 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]*sp[p1 - p4]^3*s^(-1) * (  - 1/32*ep + 1/32*ep^2 + 1/32*N^2*ep - 1/32*N^2*ep^2 )
 
-       + den[sp[p2 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]*sp[p1 - p4]^2*sp[p2 - p4]*s^(-1) * (  - 2*V*ep + 2*V*ep^2 )
+       + den[sp[p2 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]*sp[p1 - p4]^2*sp[p2 - p4]*s^(-1) * ( 1/32*ep - 1/32*ep^2 - 1/32*N^2*ep + 1/32*N^2*ep^2 )
 
-       + den[sp[p2 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]*sp[p1 - p4]*sp[p2 - p4]^2*s^(-1) * (  - 2*V*ep + 2*V*ep^2 )
+       + den[sp[p2 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]*sp[p1 - p4]*sp[p2 - p4]^2*s^(-1) * ( 1/32*ep - 1/32*ep^2 - 1/32*N^2*ep + 1/32*N^2*ep^2 )
 
-       + den[sp[p2 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]*sp[p2 - p4]*sp[p1 - p3 - p4]^2*s^(-1) * ( 2*V*ep - 2*V*ep^2 )
+       + den[sp[p2 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]*sp[p2 - p4]*sp[p1 - p3 - p4]^2*s^(-1) * (  - 1/32*ep + 1/32*ep^2 + 1/32*N^2*ep - 1/32*N^2*ep^2 )
 
-       + den[sp[p2 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]*sp[p2 - p4]^3*s^(-1) * ( 2*V*ep - 2*V*ep^2 )
+       + den[sp[p2 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]*sp[p2 - p4]^3*s^(-1) * (  - 1/32*ep + 1/32*ep^2 + 1/32*N^2*ep - 1/32*N^2*ep^2 )
 
-       + den[sp[p2 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3 - p4]^4*s^(-1) * (  - 4*V*ep - 6*V*ep^2 + 2*V*ep^3 )
+       + den[sp[p2 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3 - p4]^4*s^(-1) * ( 1/16*ep + 3/32*ep^2 - 1/32*ep^3 - 1/16*N^2*ep - 3/32*N^2*ep^2 + 1/32*N^2*ep^3 )
 
-       + den[sp[p2 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p1 - p4]*sp[p1 - p3 - p4]^3*s^(-1) * (  - 2*V*ep + 2*V*ep^2 )
+       + den[sp[p2 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p1 - p4]*sp[p1 - p3 - p4]^3*s^(-1) * ( 1/32*ep - 1/32*ep^2 - 1/32*N^2*ep + 1/32*N^2*ep^2 )
 
-       + den[sp[p2 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p1 - p4]^2*sp[p1 - p3 - p4]^2*s^(-1) * ( 8*V*ep + 12*V*ep^2 - 4*V*ep^3 )
+       + den[sp[p2 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p1 - p4]^2*sp[p1 - p3 - p4]^2*s^(-1) * (  - 1/8*ep - 3/16*ep^2 + 1/16*ep^3 + 1/8*N^2*ep + 3/16*N^2*ep^2 - 1/16*N^2*ep^3 )
 
-       + den[sp[p2 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p1 - p4]^3*sp[p1 - p3 - p4]*s^(-1) * ( 2*V*ep - 2*V*ep^2 )
+       + den[sp[p2 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p1 - p4]^3*sp[p1 - p3 - p4]*s^(-1) * (  - 1/32*ep + 1/32*ep^2 + 1/32*N^2*ep - 1/32*N^2*ep^2 )
 
-       + den[sp[p2 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p1 - p4]^4*s^(-1) * (  - 4*V*ep - 6*V*ep^2 + 2*V*ep^3 )
+       + den[sp[p2 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p1 - p4]^4*s^(-1) * ( 1/16*ep + 3/32*ep^2 - 1/32*ep^3 - 1/16*N^2*ep - 3/32*N^2*ep^2 + 1/32*N^2*ep^3 )
 
-       + den[sp[p2 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p1 - p4]^3*sp[p2 - p4]*s^(-1) * ( 32*V - 32*V*ep + 24*V*ep^2 + 8*V*ep^3 )
+       + den[sp[p2 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p1 - p4]^3*sp[p2 - p4]*s^(-1) * (  - 1/2 + 1/2*ep - 3/8*ep^2 - 1/8*ep^3 + 1/2*N^2 - 1/2*N^2*ep + 3/8*N^2*ep^2 + 1/8*N^2*ep^3 )
 
-       + den[sp[p2 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p1 - p4]^2*sp[p2 - p4]*sp[p1 - p3 - p4]*s^(-1) * (  - 2*V*ep + 2*V*ep^2 )
+       + den[sp[p2 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p1 - p4]^2*sp[p2 - p4]*sp[p1 - p3 - p4]*s^(-1) * ( 1/32*ep - 1/32*ep^2 - 1/32*N^2*ep + 1/32*N^2*ep^2 )
 
-       + den[sp[p2 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p1 - p4]^2*sp[p2 - p4]^2*s^(-1) * ( 8*V*ep + 60*V*ep^2 + 12*V*ep^3 )
+       + den[sp[p2 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p1 - p4]^2*sp[p2 - p4]^2*s^(-1) * (  - 1/8*ep - 15/16*ep^2 - 3/16*ep^3 + 1/8*N^2*ep + 15/16*N^2*ep^2 + 3/16*N^2*ep^3 )
 
-       + den[sp[p2 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p1 - p4]*sp[p2 - p4]*sp[p1 - p3 - p4]^2*s^(-1) * (  - 32*V*ep + 8*V*ep^2 - 8*V*ep^3 )
+       + den[sp[p2 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p1 - p4]*sp[p2 - p4]*sp[p1 - p3 - p4]^2*s^(-1) * ( 1/2*ep - 1/8*ep^2 + 1/8*ep^3 - 1/2*N^2*ep + 1/8*N^2*ep^2 - 1/8*N^2*ep^3 )
 
-       + den[sp[p2 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p1 - p4]*sp[p2 - p4]^2*sp[p1 - p3 - p4]*s^(-1) * (  - 2*V*ep + 2*V*ep^2 )
+       + den[sp[p2 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p1 - p4]*sp[p2 - p4]^2*sp[p1 - p3 - p4]*s^(-1) * ( 1/32*ep - 1/32*ep^2 - 1/32*N^2*ep + 1/32*N^2*ep^2 )
 
-       + den[sp[p2 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p1 - p4]*sp[p2 - p4]^3*s^(-1) * ( 32*V - 32*V*ep + 24*V*ep^2 + 8*V*ep^3 )
+       + den[sp[p2 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p1 - p4]*sp[p2 - p4]^3*s^(-1) * (  - 1/2 + 1/2*ep - 3/8*ep^2 - 1/8*ep^3 + 1/2*N^2 - 1/2*N^2*ep + 3/8*N^2*ep^2 + 1/8*N^2*ep^3 )
 
-       + den[sp[p2 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p2 - p4]*sp[p1 - p3 - p4]^3*s^(-1) * (  - 2*V*ep + 2*V*ep^2 )
+       + den[sp[p2 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p2 - p4]*sp[p1 - p3 - p4]^3*s^(-1) * ( 1/32*ep - 1/32*ep^2 - 1/32*N^2*ep + 1/32*N^2*ep^2 )
 
-       + den[sp[p2 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p2 - p4]^2*sp[p1 - p3 - p4]^2*s^(-1) * ( 8*V*ep + 12*V*ep^2 - 4*V*ep^3 )
+       + den[sp[p2 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p2 - p4]^2*sp[p1 - p3 - p4]^2*s^(-1) * (  - 1/8*ep - 3/16*ep^2 + 1/16*ep^3 + 1/8*N^2*ep + 3/16*N^2*ep^2 - 1/16*N^2*ep^3 )
 
-       + den[sp[p2 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p2 - p4]^3*sp[p1 - p3 - p4]*s^(-1) * ( 2*V*ep - 2*V*ep^2 )
+       + den[sp[p2 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p2 - p4]^3*sp[p1 - p3 - p4]*s^(-1) * (  - 1/32*ep + 1/32*ep^2 + 1/32*N^2*ep - 1/32*N^2*ep^2 )
 
-       + den[sp[p2 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p2 - p4]^4*s^(-1) * (  - 4*V*ep - 6*V*ep^2 + 2*V*ep^3 )
+       + den[sp[p2 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p2 - p4]^4*s^(-1) * ( 1/16*ep + 3/32*ep^2 - 1/32*ep^3 - 1/16*N^2*ep - 3/32*N^2*ep^2 + 1/32*N^2*ep^3 )
 
-       + den[sp[p2 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*sp[p1 - p3]^3*s^(-1) * ( 8*V*ep - 8*V*ep^2 )
+       + den[sp[p2 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*sp[p1 - p3]^3*s^(-1) * (  - 1/8*ep + 1/8*ep^2 + 1/8*N^2*ep - 1/8*N^2*ep^2 )
 
-       + den[sp[p2 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*sp[p1 - p3]^2*sp[p1 - p3 - p4]*s^(-1) * (  - 64*V*ep + 40*V*ep^2 - 8*V*ep^3 )
+       + den[sp[p2 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*sp[p1 - p3]^2*sp[p1 - p3 - p4]*s^(-1) * ( ep - 5/8*ep^2 + 1/8*ep^3 - N^2*ep + 5/8*N^2*ep^2 - 1/8*N^2*ep^3 )
 
-       + den[sp[p2 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*sp[p1 - p3]^2*sp[p1 - p4]*s^(-1) * (  - 8*V*ep + 8*V*ep^2 )
+       + den[sp[p2 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*sp[p1 - p3]^2*sp[p1 - p4]*s^(-1) * ( 1/8*ep - 1/8*ep^2 - 1/8*N^2*ep + 1/8*N^2*ep^2 )
 
-       + den[sp[p2 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*sp[p1 - p3]^2*sp[p2 - p3 - p4]*s^(-1) * ( 8*V*ep + 12*V*ep^2 - 4*V*ep^3 )
+       + den[sp[p2 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*sp[p1 - p3]^2*sp[p2 - p3 - p4]*s^(-1) * (  - 1/8*ep - 3/16*ep^2 + 1/16*ep^3 + 1/8*N^2*ep + 3/16*N^2*ep^2 - 1/16*N^2*ep^3 )
 
-       + den[sp[p2 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*sp[p1 - p3]^2*sp[p2 - p4]*s^(-1) * (  - 8*V*ep + 8*V*ep^2 )
+       + den[sp[p2 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*sp[p1 - p3]^2*sp[p2 - p4]*s^(-1) * ( 1/8*ep - 1/8*ep^2 - 1/8*N^2*ep + 1/8*N^2*ep^2 )
 
-       + den[sp[p2 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*sp[p1 - p3]*sp[p1 - p3 - p4]^2*s^(-1) * ( 16*V*ep - 16*V*ep^2 )
+       + den[sp[p2 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*sp[p1 - p3]*sp[p1 - p3 - p4]^2*s^(-1) * (  - 1/4*ep + 1/4*ep^2 + 1/4*N^2*ep - 1/4*N^2*ep^2 )
 
-       + den[sp[p2 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*sp[p1 - p3]*sp[p1 - p4]*sp[p1 - p3 - p4]*s^(-1) * (  - 6*V*ep + 6*V*ep^2 )
+       + den[sp[p2 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*sp[p1 - p3]*sp[p1 - p4]*sp[p1 - p3 - p4]*s^(-1) * ( 3/32*ep - 3/32*ep^2 - 3/32*N^2*ep + 3/32*N^2*ep^2 )
 
-       + den[sp[p2 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*sp[p1 - p3]*sp[p1 - p4]^2*s^(-1) * ( 12*V*ep - 12*V*ep^2 )
+       + den[sp[p2 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*sp[p1 - p3]*sp[p1 - p4]^2*s^(-1) * ( 1/16*ep - 1/16*ep^2 - 1/16*N^2*ep + 1/16*N^2*ep^2 )
 
-       + den[sp[p2 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*sp[p1 - p3]*sp[p1 - p4]*sp[p2 - p3 - p4]*s^(-1) * (  - 18*V*ep + 18*V*ep^2 )
+       + den[sp[p2 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*sp[p1 - p3]*sp[p1 - p4]*sp[p2 - p3 - p4]*s^(-1) * ( 9/32*ep - 9/32*ep^2 - 9/32*N^2*ep + 9/32*N^2*ep^2 )
 
-       + den[sp[p2 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*sp[p1 - p3]*sp[p1 - p4]*sp[p2 - p4]*s^(-1) * ( 32*V*ep - 32*V*ep^2 )
+       + den[sp[p2 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*sp[p1 - p3]*sp[p1 - p4]*sp[p2 - p4]*s^(-1) * (  - 1/2*ep + 1/2*ep^2 + 1/2*N^2*ep - 1/2*N^2*ep^2 )
 
-       + den[sp[p2 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*sp[p1 - p3]*sp[p2 - p3 - p4]^2*s^(-1) * (  - 16*V*ep + 16*V*ep^2 )
+       + den[sp[p2 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*sp[p1 - p3]*sp[p2 - p3 - p4]^2*s^(-1) * ( 1/4*ep - 1/4*ep^2 - 1/4*N^2*ep + 1/4*N^2*ep^2 )
 
-       + den[sp[p2 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*sp[p1 - p3]*sp[p2 - p4]*sp[p1 - p3 - p4]*s^(-1) * (  - 6*V*ep + 6*V*ep^2 )
+       + den[sp[p2 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*sp[p1 - p3]*sp[p2 - p4]*sp[p1 - p3 - p4]*s^(-1) * ( 3/32*ep - 3/32*ep^2 - 3/32*N^2*ep + 3/32*N^2*ep^2 )
 
-       + den[sp[p2 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*sp[p1 - p3]*sp[p2 - p4]*sp[p2 - p3 - p4]*s^(-1) * (  - 18*V*ep + 18*V*ep^2 )
+       + den[sp[p2 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*sp[p1 - p3]*sp[p2 - p4]*sp[p2 - p3 - p4]*s^(-1) * ( 9/32*ep - 9/32*ep^2 - 9/32*N^2*ep + 9/32*N^2*ep^2 )
 
-       + den[sp[p2 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*sp[p1 - p3]*sp[p2 - p4]^2*s^(-1) * ( 20*V*ep - 20*V*ep^2 )
+       + den[sp[p2 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*sp[p1 - p3]*sp[p2 - p4]^2*s^(-1) * (  - 9/16*ep + 9/16*ep^2 + 9/16*N^2*ep - 9/16*N^2*ep^2 )
 
-       + den[sp[p2 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*sp[p1 - p3 - p4]^3*s^(-1) * ( 8*V + 16*V*ep^2 + 8*V*ep^3 )
+       + den[sp[p2 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*sp[p1 - p3 - p4]^3*s^(-1) * (  - 1/2 + 3/8*ep - 1/4*ep^2 - 1/8*ep^3 + 1/2*N^2 - 3/8*N^2*ep + 1/4*N^2*ep^2 + 1/8*N^2*ep^3 )
 
-       + den[sp[p2 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*sp[p1 - p3 - p4]^2*sp[p2 - p3 - p4]*s^(-1) * ( 32*V*ep + 36*V*ep^2 + 12*V*ep^3 )
+       + den[sp[p2 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*sp[p1 - p3 - p4]^2*sp[p2 - p3 - p4]*s^(-1) * (  - 1/2*ep - 9/16*ep^2 - 3/16*ep^3 + 1/2*N^2*ep + 9/16*N^2*ep^2 + 3/16*N^2*ep^3 )
 
-       + den[sp[p2 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*sp[p1 - p3 - p4]*sp[p2 - p3 - p4]^2*s^(-1) * ( 8*V + 16*V*ep + 8*V*ep^3 )
+       + den[sp[p2 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*sp[p1 - p3 - p4]*sp[p2 - p3 - p4]^2*s^(-1) * (  - 1/2 + 1/8*ep - 1/8*ep^3 + 1/2*N^2 - 1/8*N^2*ep + 1/8*N^2*ep^3 )
 
-       + den[sp[p2 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*sp[p1 - p4]*sp[p1 - p3 - p4]^2*s^(-1) * (  - 8*V*ep + 8*V*ep^2 )
+       + den[sp[p2 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*sp[p1 - p4]*sp[p1 - p3 - p4]^2*s^(-1) * ( 1/8*ep - 1/8*ep^2 - 1/8*N^2*ep + 1/8*N^2*ep^2 )
 
-       + den[sp[p2 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*sp[p1 - p4]*sp[p1 - p3 - p4]*sp[p2 - p3 - p4]*s^(-1) * (  - 12*V*ep + 12*V*ep^2 )
+       + den[sp[p2 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*sp[p1 - p4]*sp[p1 - p3 - p4]*sp[p2 - p3 - p4]*s^(-1) * ( 3/16*ep - 3/16*ep^2 - 3/16*N^2*ep + 3/16*N^2*ep^2 )
 
-       + den[sp[p2 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*sp[p1 - p4]^2*sp[p1 - p3 - p4]*s^(-1) * (  - 40*V*ep + 16*V*ep^2 - 8*V*ep^3 )
+       + den[sp[p2 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*sp[p1 - p4]^2*sp[p1 - p3 - p4]*s^(-1) * ( 5/8*ep - 1/4*ep^2 + 1/8*ep^3 - 5/8*N^2*ep + 1/4*N^2*ep^2 - 1/8*N^2*ep^3 )
 
-       + den[sp[p2 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*sp[p1 - p4]^3*s^(-1) * ( 8*V*ep - 8*V*ep^2 )
+       + den[sp[p2 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*sp[p1 - p4]^3*s^(-1) * (  - 1/8*ep + 1/8*ep^2 + 1/8*N^2*ep - 1/8*N^2*ep^2 )
 
-       + den[sp[p2 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*sp[p1 - p4]^2*sp[p2 - p3 - p4]*s^(-1) * ( 20*V*ep^2 - 4*V*ep^3 )
+       + den[sp[p2 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*sp[p1 - p4]^2*sp[p2 - p3 - p4]*s^(-1) * (  - 5/16*ep^2 + 1/16*ep^3 + 5/16*N^2*ep^2 - 1/16*N^2*ep^3 )
 
-       + den[sp[p2 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*sp[p1 - p4]^2*sp[p2 - p4]*s^(-1) * ( 8*V*ep - 8*V*ep^2 )
+       + den[sp[p2 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*sp[p1 - p4]^2*sp[p2 - p4]*s^(-1) * (  - 1/8*ep + 1/8*ep^2 + 1/8*N^2*ep - 1/8*N^2*ep^2 )
 
-       + den[sp[p2 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*sp[p1 - p4]*sp[p2 - p3 - p4]^2*s^(-1) * (  - 8*V*ep + 8*V*ep^2 )
+       + den[sp[p2 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*sp[p1 - p4]*sp[p2 - p3 - p4]^2*s^(-1) * ( 1/8*ep - 1/8*ep^2 - 1/8*N^2*ep + 1/8*N^2*ep^2 )
 
-       + den[sp[p2 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*sp[p1 - p4]*sp[p2 - p4]*sp[p1 - p3 - p4]*s^(-1) * (  - 176*V*ep - 16*V*ep^3 )
+       + den[sp[p2 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*sp[p1 - p4]*sp[p2 - p4]*sp[p1 - p3 - p4]*s^(-1) * ( 11/4*ep + 1/4*ep^3 - 11/4*N^2*ep - 1/4*N^2*ep^3 )
 
-       + den[sp[p2 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*sp[p1 - p4]*sp[p2 - p4]*sp[p2 - p3 - p4]*s^(-1) * (  - 48*V*ep + 24*V*ep^2 - 8*V*ep^3 )
+       + den[sp[p2 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*sp[p1 - p4]*sp[p2 - p4]*sp[p2 - p3 - p4]*s^(-1) * ( 3/4*ep - 3/8*ep^2 + 1/8*ep^3 - 3/4*N^2*ep + 3/8*N^2*ep^2 - 1/8*N^2*ep^3 )
 
-       + den[sp[p2 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*sp[p1 - p4]*sp[p2 - p4]^2*s^(-1) * ( 8*V*ep - 8*V*ep^2 )
+       + den[sp[p2 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*sp[p1 - p4]*sp[p2 - p4]^2*s^(-1) * (  - 1/8*ep + 1/8*ep^2 + 1/8*N^2*ep - 1/8*N^2*ep^2 )
 
-       + den[sp[p2 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*sp[p2 - p3 - p4]^3*s^(-1) * ( 4*V*ep - 14*V*ep^2 + 2*V*ep^3 )
+       + den[sp[p2 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*sp[p2 - p3 - p4]^3*s^(-1) * (  - 1/16*ep + 7/32*ep^2 - 1/32*ep^3 + 1/16*N^2*ep - 7/32*N^2*ep^2 + 1/32*N^2*ep^3 )
 
-       + den[sp[p2 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*sp[p2 - p4]*sp[p1 - p3 - p4]^2*s^(-1) * (  - 8*V*ep + 8*V*ep^2 )
+       + den[sp[p2 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*sp[p2 - p4]*sp[p1 - p3 - p4]^2*s^(-1) * ( 1/8*ep - 1/8*ep^2 - 1/8*N^2*ep + 1/8*N^2*ep^2 )
 
-       + den[sp[p2 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*sp[p2 - p4]*sp[p1 - p3 - p4]*sp[p2 - p3 - p4]*s^(-1) * (  - 12*V*ep + 12*V*ep^2 )
+       + den[sp[p2 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*sp[p2 - p4]*sp[p1 - p3 - p4]*sp[p2 - p3 - p4]*s^(-1) * ( 3/16*ep - 3/16*ep^2 - 3/16*N^2*ep + 3/16*N^2*ep^2 )
 
-       + den[sp[p2 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*sp[p2 - p4]*sp[p2 - p3 - p4]^2*s^(-1) * (  - 8*V*ep + 8*V*ep^2 )
+       + den[sp[p2 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*sp[p2 - p4]*sp[p2 - p3 - p4]^2*s^(-1) * ( 1/8*ep - 1/8*ep^2 - 1/8*N^2*ep + 1/8*N^2*ep^2 )
 
-       + den[sp[p2 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*sp[p2 - p4]^2*sp[p1 - p3 - p4]*s^(-1) * (  - 40*V*ep + 16*V*ep^2 - 8*V*ep^3 )
+       + den[sp[p2 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*sp[p2 - p4]^2*sp[p1 - p3 - p4]*s^(-1) * ( 5/8*ep - 1/4*ep^2 + 1/8*ep^3 - 5/8*N^2*ep + 1/4*N^2*ep^2 - 1/8*N^2*ep^3 )
 
-       + den[sp[p2 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*sp[p2 - p4]^2*sp[p2 - p3 - p4]*s^(-1) * ( 20*V*ep^2 - 4*V*ep^3 )
+       + den[sp[p2 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*sp[p2 - p4]^2*sp[p2 - p3 - p4]*s^(-1) * (  - 5/16*ep^2 + 1/16*ep^3 + 5/16*N^2*ep^2 - 1/16*N^2*ep^3 )
 
-       + den[sp[p2 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*sp[p2 - p4]^3*s^(-1) * ( 8*V*ep - 8*V*ep^2 )
+       + den[sp[p2 - p3]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*sp[p2 - p4]^3*s^(-1) * (  - 1/8*ep + 1/8*ep^2 + 1/8*N^2*ep - 1/8*N^2*ep^2 )
 
-       + den[sp[p2 - p3]]*den[sp[p3 + p4]]*den[sp[p1 - p3 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p4]^2*sp[p2 - p4] * (  - 8*N^(-2)*V + 16*N^(-2)*V*ep - 8*N^(-2)*V*ep^2 )
+       + den[sp[p2 - p3]]*den[sp[p3 + p4]]*den[sp[p1 - p3 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p4]^2*sp[p2 - p4] * (  - 1/2 + 1/2*N^(-2) - N^(-2)*ep + 1/2*N^(-2)*ep^2 + ep - 1/2*ep^2 )
 
-       + den[sp[p2 - p3]]*den[sp[p3 + p4]]*den[sp[p1 - p3 - p4]]*den[sp[p2 - p3 - p4]]*sp[p2 - p4]^3 * (  - 8*N^(-2)*V + 16*N^(-2)*V*ep - 8*N^(-2)*V*ep^2 )
+       + den[sp[p2 - p3]]*den[sp[p3 + p4]]*den[sp[p1 - p3 - p4]]*den[sp[p2 - p3 - p4]]*sp[p2 - p4]^3 * (  - 1/2 + 1/2*N^(-2) - N^(-2)*ep + 1/2*N^(-2)*ep^2 + ep - 1/2*ep^2 )
 
-       + den[sp[p2 - p3]]*den[sp[p3 + p4]]*den[sp[p1 - p3 - p4]]*sp[p1 - p4]*sp[p2 - p3 - p4] * (  - 4*N^(-2)*V*ep - 12*N^(-2)*V*ep^2 )
+       + den[sp[p2 - p3]]*den[sp[p3 + p4]]*den[sp[p1 - p3 - p4]]*sp[p1 - p4]*sp[p2 - p3 - p4] * ( 1/2*N^(-2)*ep + 3/2*N^(-2)*ep^2 - 1/2*ep - 3/2*ep^2 )
 
-       + den[sp[p2 - p3]]*den[sp[p3 + p4]]*sp[p1 - p3] * ( 16*N^(-2)*V*ep + 8*N^(-2)*V*ep^2 + 8*N^(-2)*V*ep^3 )
+       + den[sp[p2 - p3]]*den[sp[p3 + p4]]*sp[p1 - p3] * (  - N^(-2)*ep - 1/2*N^(-2)*ep^2 - 1/2*N^(-2)*ep^3 + ep + 1/2*ep^2 + 1/2*ep^3 )
 
-       + den[sp[p2 - p3]]*den[sp[p3 + p4]]*sp[p1 - p3 - p4] * (  - 8*N^(-2)*V*ep + 6*N^(-2)*V*ep^2 - 6*N^(-2)*V*ep^3 )
+       + den[sp[p2 - p3]]*den[sp[p3 + p4]]*sp[p1 - p3 - p4] * ( 1/2*N^(-2)*ep - 3/8*N^(-2)*ep^2 + 3/8*N^(-2)*ep^3 - 1/2*ep + 3/8*ep^2 - 3/8*ep^3 )
 
-       + den[sp[p2 - p3]]*den[sp[p3 + p4]]*sp[p1 - p4] * ( 10*N^(-2)*V*ep + 16*N^(-2)*V*ep^2 + 6*N^(-2)*V*ep^3 )
+       + den[sp[p2 - p3]]*den[sp[p3 + p4]]*sp[p1 - p4] * (  - 7/8*N^(-2)*ep - 7/4*N^(-2)*ep^2 - 3/8*N^(-2)*ep^3 + 7/8*ep + 7/4*ep^2 + 3/8*ep^3 )
 
-       + den[sp[p2 - p3]]*den[sp[p3 + p4]]*sp[p2 - p3 - p4] * (  - 8*N^(-2)*V*ep + 6*N^(-2)*V*ep^2 - 6*N^(-2)*V*ep^3 )
+       + den[sp[p2 - p3]]*den[sp[p3 + p4]]*sp[p2 - p3 - p4] * ( 1/2*N^(-2)*ep - 3/8*N^(-2)*ep^2 + 3/8*N^(-2)*ep^3 - 1/2*ep + 3/8*ep^2 - 3/8*ep^3 )
 
-       + den[sp[p2 - p3]]*den[sp[p3 + p4]]*sp[p2 - p4] * ( 54*N^(-2)*V*ep - 10*N^(-2)*V*ep^2 + 12*N^(-2)*V*ep^3 )
+       + den[sp[p2 - p3]]*den[sp[p3 + p4]]*sp[p2 - p4] * (  - 27/8*N^(-2)*ep + 5/8*N^(-2)*ep^2 - 3/4*N^(-2)*ep^3 + 27/8*ep - 5/8*ep^2 + 3/4*ep^3 )
 
-       + den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]^3*s^(-1) * ( 4*V*ep - 14*V*ep^2 + 2*V*ep^3 )
+       + den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]^3*s^(-1) * (  - 1/16*ep + 7/32*ep^2 - 1/32*ep^3 + 1/16*N^2*ep - 7/32*N^2*ep^2 + 1/32*N^2*ep^3 )
 
-       + den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]^2*sp[p1 - p3 - p4]*s^(-1) * (  - 8*V*ep + 8*V*ep^2 )
+       + den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]^2*sp[p1 - p3 - p4]*s^(-1) * ( 1/8*ep - 1/8*ep^2 - 1/8*N^2*ep + 1/8*N^2*ep^2 )
 
-       + den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]^2*sp[p1 - p4]*s^(-1) * (  - 16*V*ep + 16*V*ep^2 )
+       + den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]^2*sp[p1 - p4]*s^(-1) * ( 1/4*ep - 1/4*ep^2 - 1/4*N^2*ep + 1/4*N^2*ep^2 )
 
-       + den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]^2*sp[p2 - p3]*s^(-1) * ( 8*V + 16*V*ep + 8*V*ep^3 )
+       + den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]^2*sp[p2 - p3]*s^(-1) * (  - 1/2 + 1/8*ep - 1/8*ep^3 + 1/2*N^2 - 1/8*N^2*ep + 1/8*N^2*ep^3 )
 
-       + den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]^2*sp[p2 - p3 - p4]*s^(-1) * (  - 8*V*ep + 8*V*ep^2 )
+       + den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]^2*sp[p2 - p3 - p4]*s^(-1) * ( 1/8*ep - 1/8*ep^2 - 1/8*N^2*ep + 1/8*N^2*ep^2 )
 
-       + den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]*sp[p1 - p3 - p4]^2*s^(-1) * ( 20*V*ep^2 - 4*V*ep^3 )
+       + den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]*sp[p1 - p3 - p4]^2*s^(-1) * (  - 5/16*ep^2 + 1/16*ep^3 + 5/16*N^2*ep^2 - 1/16*N^2*ep^3 )
 
-       + den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]*sp[p1 - p3 - p4]*sp[p2 - p3 - p4]*s^(-1) * (  - 48*V*ep + 24*V*ep^2 - 8*V*ep^3 )
+       + den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]*sp[p1 - p3 - p4]*sp[p2 - p3 - p4]*s^(-1) * ( 3/4*ep - 3/8*ep^2 + 1/8*ep^3 - 3/4*N^2*ep + 3/8*N^2*ep^2 - 1/8*N^2*ep^3 )
 
-       + den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]*sp[p1 - p4]*sp[p1 - p3 - p4]*s^(-1) * (  - 18*V*ep + 18*V*ep^2 )
+       + den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]*sp[p1 - p4]*sp[p1 - p3 - p4]*s^(-1) * ( 9/32*ep - 9/32*ep^2 - 9/32*N^2*ep + 9/32*N^2*ep^2 )
 
-       + den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]*sp[p1 - p4]^2*s^(-1) * ( 8*V*ep + 12*V*ep^2 - 4*V*ep^3 )
+       + den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]*sp[p1 - p4]^2*s^(-1) * (  - 1/8*ep - 3/16*ep^2 + 1/16*ep^3 + 1/8*N^2*ep + 3/16*N^2*ep^2 - 1/16*N^2*ep^3 )
 
-       + den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]*sp[p1 - p4]*sp[p2 - p3 - p4]*s^(-1) * (  - 18*V*ep + 18*V*ep^2 )
+       + den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]*sp[p1 - p4]*sp[p2 - p3 - p4]*s^(-1) * ( 9/32*ep - 9/32*ep^2 - 9/32*N^2*ep + 9/32*N^2*ep^2 )
 
-       + den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]*sp[p2 - p3]*sp[p1 - p3 - p4]*s^(-1) * (  - 12*V*ep + 12*V*ep^2 )
+       + den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]*sp[p2 - p3]*sp[p1 - p3 - p4]*s^(-1) * ( 3/16*ep - 3/16*ep^2 - 3/16*N^2*ep + 3/16*N^2*ep^2 )
 
-       + den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]*sp[p2 - p3]^2*s^(-1) * ( 32*V*ep + 36*V*ep^2 + 12*V*ep^3 )
+       + den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]*sp[p2 - p3]^2*s^(-1) * (  - 1/2*ep - 9/16*ep^2 - 3/16*ep^3 + 1/2*N^2*ep + 9/16*N^2*ep^2 + 3/16*N^2*ep^3 )
 
-       + den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]*sp[p2 - p3]*sp[p2 - p3 - p4]*s^(-1) * (  - 12*V*ep + 12*V*ep^2 )
+       + den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]*sp[p2 - p3]*sp[p2 - p3 - p4]*s^(-1) * ( 3/16*ep - 3/16*ep^2 - 3/16*N^2*ep + 3/16*N^2*ep^2 )
 
-       + den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]*sp[p2 - p3 - p4]^2*s^(-1) * ( 20*V*ep^2 - 4*V*ep^3 )
+       + den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]*sp[p2 - p3 - p4]^2*s^(-1) * (  - 5/16*ep^2 + 1/16*ep^3 + 5/16*N^2*ep^2 - 1/16*N^2*ep^3 )
 
-       + den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3 - p4]^3*s^(-1) * ( 8*V*ep - 8*V*ep^2 )
+       + den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3 - p4]^3*s^(-1) * (  - 1/8*ep + 1/8*ep^2 + 1/8*N^2*ep - 1/8*N^2*ep^2 )
 
-       + den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3 - p4]^2*sp[p2 - p3 - p4]*s^(-1) * ( 8*V*ep - 8*V*ep^2 )
+       + den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3 - p4]^2*sp[p2 - p3 - p4]*s^(-1) * (  - 1/8*ep + 1/8*ep^2 + 1/8*N^2*ep - 1/8*N^2*ep^2 )
 
-       + den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3 - p4]*sp[p2 - p3 - p4]^2*s^(-1) * ( 8*V*ep - 8*V*ep^2 )
+       + den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3 - p4]*sp[p2 - p3 - p4]^2*s^(-1) * (  - 1/8*ep + 1/8*ep^2 + 1/8*N^2*ep - 1/8*N^2*ep^2 )
 
-       + den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p4]*sp[p1 - p3 - p4]^2*s^(-1) * ( 20*V*ep - 20*V*ep^2 )
+       + den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p4]*sp[p1 - p3 - p4]^2*s^(-1) * (  - 9/16*ep + 9/16*ep^2 + 9/16*N^2*ep - 9/16*N^2*ep^2 )
 
-       + den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p4]*sp[p1 - p3 - p4]*sp[p2 - p3 - p4]*s^(-1) * ( 32*V*ep - 32*V*ep^2 )
+       + den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p4]*sp[p1 - p3 - p4]*sp[p2 - p3 - p4]*s^(-1) * (  - 1/2*ep + 1/2*ep^2 + 1/2*N^2*ep - 1/2*N^2*ep^2 )
 
-       + den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p4]^2*sp[p1 - p3 - p4]*s^(-1) * (  - 8*V*ep + 8*V*ep^2 )
+       + den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p4]^2*sp[p1 - p3 - p4]*s^(-1) * ( 1/8*ep - 1/8*ep^2 - 1/8*N^2*ep + 1/8*N^2*ep^2 )
 
-       + den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p4]^3*s^(-1) * ( 8*V*ep - 8*V*ep^2 )
+       + den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p4]^3*s^(-1) * (  - 1/8*ep + 1/8*ep^2 + 1/8*N^2*ep - 1/8*N^2*ep^2 )
 
-       + den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p4]^2*sp[p2 - p3]*s^(-1) * (  - 64*V*ep + 40*V*ep^2 - 8*V*ep^3 )
+       + den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p4]^2*sp[p2 - p3]*s^(-1) * ( ep - 5/8*ep^2 + 1/8*ep^3 - N^2*ep + 5/8*N^2*ep^2 - 1/8*N^2*ep^3 )
 
-       + den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p4]^2*sp[p2 - p3 - p4]*s^(-1) * (  - 8*V*ep + 8*V*ep^2 )
+       + den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p4]^2*sp[p2 - p3 - p4]*s^(-1) * ( 1/8*ep - 1/8*ep^2 - 1/8*N^2*ep + 1/8*N^2*ep^2 )
 
-       + den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p4]*sp[p2 - p3]*sp[p1 - p3 - p4]*s^(-1) * (  - 6*V*ep + 6*V*ep^2 )
+       + den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p4]*sp[p2 - p3]*sp[p1 - p3 - p4]*s^(-1) * ( 3/32*ep - 3/32*ep^2 - 3/32*N^2*ep + 3/32*N^2*ep^2 )
 
-       + den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p4]*sp[p2 - p3]^2*s^(-1) * ( 16*V*ep - 16*V*ep^2 )
+       + den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p4]*sp[p2 - p3]^2*s^(-1) * (  - 1/4*ep + 1/4*ep^2 + 1/4*N^2*ep - 1/4*N^2*ep^2 )
 
-       + den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p4]*sp[p2 - p3]*sp[p2 - p3 - p4]*s^(-1) * (  - 6*V*ep + 6*V*ep^2 )
+       + den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p4]*sp[p2 - p3]*sp[p2 - p3 - p4]*s^(-1) * ( 3/32*ep - 3/32*ep^2 - 3/32*N^2*ep + 3/32*N^2*ep^2 )
 
-       + den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p4]*sp[p2 - p3 - p4]^2*s^(-1) * ( 12*V*ep - 12*V*ep^2 )
+       + den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p1 - p4]*sp[p2 - p3 - p4]^2*s^(-1) * ( 1/16*ep - 1/16*ep^2 - 1/16*N^2*ep + 1/16*N^2*ep^2 )
 
-       + den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p3]*sp[p1 - p3 - p4]^2*s^(-1) * (  - 40*V*ep + 16*V*ep^2 - 8*V*ep^3 )
+       + den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p3]*sp[p1 - p3 - p4]^2*s^(-1) * ( 5/8*ep - 1/4*ep^2 + 1/8*ep^3 - 5/8*N^2*ep + 1/4*N^2*ep^2 - 1/8*N^2*ep^3 )
 
-       + den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p3]*sp[p1 - p3 - p4]*sp[p2 - p3 - p4]*s^(-1) * (  - 176*V*ep - 16*V*ep^3 )
+       + den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p3]*sp[p1 - p3 - p4]*sp[p2 - p3 - p4]*s^(-1) * ( 11/4*ep + 1/4*ep^3 - 11/4*N^2*ep - 1/4*N^2*ep^3 )
 
-       + den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p3]^2*sp[p1 - p3 - p4]*s^(-1) * (  - 8*V*ep + 8*V*ep^2 )
+       + den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p3]^2*sp[p1 - p3 - p4]*s^(-1) * ( 1/8*ep - 1/8*ep^2 - 1/8*N^2*ep + 1/8*N^2*ep^2 )
 
-       + den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p3]^3*s^(-1) * ( 8*V + 16*V*ep^2 + 8*V*ep^3 )
+       + den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p3]^3*s^(-1) * (  - 1/2 + 3/8*ep - 1/4*ep^2 - 1/8*ep^3 + 1/2*N^2 - 3/8*N^2*ep + 1/4*N^2*ep^2 + 1/8*N^2*ep^3 )
 
-       + den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p3]^2*sp[p2 - p3 - p4]*s^(-1) * (  - 8*V*ep + 8*V*ep^2 )
+       + den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p3]^2*sp[p2 - p3 - p4]*s^(-1) * ( 1/8*ep - 1/8*ep^2 - 1/8*N^2*ep + 1/8*N^2*ep^2 )
 
-       + den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p3]*sp[p2 - p3 - p4]^2*s^(-1) * (  - 40*V*ep + 16*V*ep^2 - 8*V*ep^3 )
+       + den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p3]*sp[p2 - p3 - p4]^2*s^(-1) * ( 5/8*ep - 1/4*ep^2 + 1/8*ep^3 - 5/8*N^2*ep + 1/4*N^2*ep^2 - 1/8*N^2*ep^3 )
 
-       + den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p3 - p4]^3*s^(-1) * ( 8*V*ep - 8*V*ep^2 )
+       + den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 + p2 - p4]]*sp[p2 - p3 - p4]^3*s^(-1) * (  - 1/8*ep + 1/8*ep^2 + 1/8*N^2*ep - 1/8*N^2*ep^2 )
 
-       + den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]^3 * ( 2*N^(-2)*V*ep + N^(-2)*V*ep^2 + N^(-2)*V*ep^3 )
+       + den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]^3 * (  - 1/8*N^(-2)*ep - 1/16*N^(-2)*ep^2 - 1/16*N^(-2)*ep^3 + 1/8*ep + 1/16*ep^2 + 1/16*ep^3 )
 
-       + den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]^2*sp[p1 - p4] * (  - 2*N^(-2)*V*ep - N^(-2)*V*ep^2 - N^(-2)*V*ep^3 )
+       + den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]^2*sp[p1 - p4] * ( 1/8*N^(-2)*ep + 1/16*N^(-2)*ep^2 + 1/16*N^(-2)*ep^3 - 1/8*ep - 1/16*ep^2 - 1/16*ep^3 )
 
-       + den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]^2*sp[p2 - p3] * ( 6*N^(-2)*V*ep + 3*N^(-2)*V*ep^2 + 3*N^(-2)*V*ep^3 )
+       + den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]^2*sp[p2 - p3] * (  - 3/8*N^(-2)*ep - 3/16*N^(-2)*ep^2 - 3/16*N^(-2)*ep^3 + 3/8*ep + 3/16*ep^2 + 3/16*ep^3 )
 
-       + den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]*sp[p1 - p4]^2 * (  - 2*N^(-2)*V*ep - N^(-2)*V*ep^2 - N^(-2)*V*ep^3 )
+       + den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]*sp[p1 - p4]^2 * ( 1/8*N^(-2)*ep + 1/16*N^(-2)*ep^2 + 1/16*N^(-2)*ep^3 - 1/8*ep - 1/16*ep^2 - 1/16*ep^3 )
 
-       + den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]*sp[p1 - p4]*sp[p2 - p3] * (  - 4*N^(-2)*V*ep - 2*N^(-2)*V*ep^2 - 2*N^(-2)*V*ep^3 )
+       + den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]*sp[p1 - p4]*sp[p2 - p3] * ( 1/4*N^(-2)*ep + 1/8*N^(-2)*ep^2 + 1/8*N^(-2)*ep^3 - 1/4*ep - 1/8*ep^2 - 1/8*ep^3 )
 
-       + den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]*sp[p2 - p3]^2 * ( 6*N^(-2)*V*ep + 3*N^(-2)*V*ep^2 + 3*N^(-2)*V*ep^3 )
+       + den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]*sp[p2 - p3]^2 * (  - 3/8*N^(-2)*ep - 3/16*N^(-2)*ep^2 - 3/16*N^(-2)*ep^3 + 3/8*ep + 3/16*ep^2 + 3/16*ep^3 )
 
-       + den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p4]^3 * ( 2*N^(-2)*V*ep + N^(-2)*V*ep^2 + N^(-2)*V*ep^3 )
+       + den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p4]^3 * (  - 1/8*N^(-2)*ep - 1/16*N^(-2)*ep^2 - 1/16*N^(-2)*ep^3 + 1/8*ep + 1/16*ep^2 + 1/16*ep^3 )
 
-       + den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p4]^2*sp[p2 - p3] * (  - 2*N^(-2)*V*ep - N^(-2)*V*ep^2 - N^(-2)*V*ep^3 )
+       + den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p4]^2*sp[p2 - p3] * ( 1/8*N^(-2)*ep + 1/16*N^(-2)*ep^2 + 1/16*N^(-2)*ep^3 - 1/8*ep - 1/16*ep^2 - 1/16*ep^3 )
 
-       + den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p4]*sp[p2 - p3]^2 * (  - 2*N^(-2)*V*ep - N^(-2)*V*ep^2 - N^(-2)*V*ep^3 )
+       + den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p4]*sp[p2 - p3]^2 * ( 1/8*N^(-2)*ep + 1/16*N^(-2)*ep^2 + 1/16*N^(-2)*ep^3 - 1/8*ep - 1/16*ep^2 - 1/16*ep^3 )
 
-       + den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*den[sp[p2 - p3 - p4]]*sp[p2 - p3]^3 * ( 2*N^(-2)*V*ep + N^(-2)*V*ep^2 + N^(-2)*V*ep^3 )
+       + den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*den[sp[p2 - p3 - p4]]*sp[p2 - p3]^3 * (  - 1/8*N^(-2)*ep - 1/16*N^(-2)*ep^2 - 1/16*N^(-2)*ep^3 + 1/8*ep + 1/16*ep^2 + 1/16*ep^3 )
 
-       + den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p1 - p3]^2 * ( 2*N^(-2)*V*ep + 12*N^(-2)*V*ep^2 + 2*N^(-2)*V*ep^3 )
+       + den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p1 - p3]^2 * (  - 1/8*N^(-2)*ep - 3/4*N^(-2)*ep^2 - 1/8*N^(-2)*ep^3 + 1/8*ep + 3/4*ep^2 + 1/8*ep^3 )
 
-       + den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p1 - p3]*sp[p1 - p4] * (  - 14*N^(-2)*V*ep - 27*N^(-2)*V*ep^2 - 3*N^(-2)*V*ep^3 )
+       + den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p1 - p3]*sp[p1 - p4] * ( 7/8*N^(-2)*ep + 27/16*N^(-2)*ep^2 + 3/16*N^(-2)*ep^3 - 7/8*ep - 27/16*ep^2 - 3/16*ep^3 )
 
-       + den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p1 - p3]*sp[p2 - p3] * ( 12*N^(-2)*V*ep - 16*N^(-2)*V*ep^2 + 4*N^(-2)*V*ep^3 )
+       + den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p1 - p3]*sp[p2 - p3] * (  - 3/4*N^(-2)*ep + N^(-2)*ep^2 - 1/4*N^(-2)*ep^3 + 3/4*ep - ep^2 + 1/4*ep^3 )
 
-       + den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p1 - p3]*sp[p2 - p3 - p4] * (  - 14*N^(-2)*V*ep - 27*N^(-2)*V*ep^2 - 3*N^(-2)*V*ep^3 )
+       + den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p1 - p3]*sp[p2 - p3 - p4] * ( 7/8*N^(-2)*ep + 27/16*N^(-2)*ep^2 + 3/16*N^(-2)*ep^3 - 7/8*ep - 27/16*ep^2 - 3/16*ep^3 )
 
-       + den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p1 - p4]^2 * ( 10*N^(-2)*V*ep + 14*N^(-2)*V*ep^2 )
+       + den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p1 - p4]^2 * (  - 5/8*N^(-2)*ep - 7/8*N^(-2)*ep^2 + 5/8*ep + 7/8*ep^2 )
 
-       + den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p1 - p4]*sp[p2 - p3] * (  - 14*N^(-2)*V*ep - 27*N^(-2)*V*ep^2 - 3*N^(-2)*V*ep^3 )
+       + den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p1 - p4]*sp[p2 - p3] * ( 7/8*N^(-2)*ep + 27/16*N^(-2)*ep^2 + 3/16*N^(-2)*ep^3 - 7/8*ep - 27/16*ep^2 - 3/16*ep^3 )
 
-       + den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p1 - p4]*sp[p2 - p3 - p4] * ( 16*N^(-2)*V*ep + 26*N^(-2)*V*ep^2 - 2*N^(-2)*V*ep^3 )
+       + den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p1 - p4]*sp[p2 - p3 - p4] * (  - N^(-2)*ep - 13/8*N^(-2)*ep^2 + 1/8*N^(-2)*ep^3 + ep + 13/8*ep^2 - 1/8*ep^3 )
 
-       + den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p2 - p3]^2 * ( 2*N^(-2)*V*ep + 12*N^(-2)*V*ep^2 + 2*N^(-2)*V*ep^3 )
+       + den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p2 - p3]^2 * (  - 1/8*N^(-2)*ep - 3/4*N^(-2)*ep^2 - 1/8*N^(-2)*ep^3 + 1/8*ep + 3/4*ep^2 + 1/8*ep^3 )
 
-       + den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p2 - p3]*sp[p2 - p3 - p4] * (  - 14*N^(-2)*V*ep - 27*N^(-2)*V*ep^2 - 3*N^(-2)*V*ep^3 )
+       + den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p2 - p3]*sp[p2 - p3 - p4] * ( 7/8*N^(-2)*ep + 27/16*N^(-2)*ep^2 + 3/16*N^(-2)*ep^3 - 7/8*ep - 27/16*ep^2 - 3/16*ep^3 )
 
-       + den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p2 - p3 - p4]^2 * ( 10*N^(-2)*V*ep + 14*N^(-2)*V*ep^2 )
+       + den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p2 - p3 - p4]^2 * (  - 5/8*N^(-2)*ep - 7/8*N^(-2)*ep^2 + 5/8*ep + 7/8*ep^2 )
 
-       + den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]^2 * (  - 8*N^(-2)*V + 6*N^(-2)*V*ep - 2*N^(-2)*V*ep^2 - 4*N^(-2)*V*ep^3 )
+       + den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]^2 * (  - 1/2 + 1/2*N^(-2) - 3/8*N^(-2)*ep + 1/8*N^(-2)*ep^2 + 1/4*N^(-2)*ep^3 + 3/8*ep - 1/8*ep^2 - 1/4*ep^3 )
 
-       + den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]*sp[p1 - p3 - p4] * (  - 2*N^(-2)*V*ep + 9*N^(-2)*V*ep^2 - 3*N^(-2)*V*ep^3 )
+       + den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]*sp[p1 - p3 - p4] * ( 1/8*N^(-2)*ep - 9/16*N^(-2)*ep^2 + 3/16*N^(-2)*ep^3 - 1/8*ep + 9/16*ep^2 - 3/16*ep^3 )
 
-       + den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]*sp[p1 - p4] * (  - 2*N^(-2)*V*ep + 9*N^(-2)*V*ep^2 - 3*N^(-2)*V*ep^3 )
+       + den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]*sp[p1 - p4] * ( 1/8*N^(-2)*ep - 9/16*N^(-2)*ep^2 + 3/16*N^(-2)*ep^3 - 1/8*ep + 9/16*ep^2 - 3/16*ep^3 )
 
-       + den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]*sp[p2 - p3] * (  - 12*N^(-2)*V*ep - 28*N^(-2)*V*ep^2 - 8*N^(-2)*V*ep^3 )
+       + den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]*sp[p2 - p3] * ( 3/4*N^(-2)*ep + 7/4*N^(-2)*ep^2 + 1/2*N^(-2)*ep^3 - 3/4*ep - 7/4*ep^2 - 1/2*ep^3 )
 
-       + den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3 - p4]^2 * ( 10*N^(-2)*V*ep - 16*N^(-2)*V*ep^2 + 6*N^(-2)*V*ep^3 )
+       + den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3 - p4]^2 * (  - 5/8*N^(-2)*ep + N^(-2)*ep^2 - 3/8*N^(-2)*ep^3 + 5/8*ep - ep^2 + 3/8*ep^3 )
 
-       + den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p1 - p4]*sp[p1 - p3 - p4] * (  - 18*N^(-2)*V*ep^2 + 10*N^(-2)*V*ep^3 )
+       + den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p1 - p4]*sp[p1 - p3 - p4] * ( 9/8*N^(-2)*ep^2 - 5/8*N^(-2)*ep^3 - 9/8*ep^2 + 5/8*ep^3 )
 
-       + den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p1 - p4]^2 * ( 10*N^(-2)*V*ep - 16*N^(-2)*V*ep^2 + 6*N^(-2)*V*ep^3 )
+       + den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p1 - p4]^2 * (  - 5/8*N^(-2)*ep + N^(-2)*ep^2 - 3/8*N^(-2)*ep^3 + 5/8*ep - ep^2 + 3/8*ep^3 )
 
-       + den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p1 - p4]*sp[p2 - p3] * (  - 2*N^(-2)*V*ep + 9*N^(-2)*V*ep^2 - 3*N^(-2)*V*ep^3 )
+       + den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p1 - p4]*sp[p2 - p3] * ( 1/8*N^(-2)*ep - 9/16*N^(-2)*ep^2 + 3/16*N^(-2)*ep^3 - 1/8*ep + 9/16*ep^2 - 3/16*ep^3 )
 
-       + den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p2 - p3]*sp[p1 - p3 - p4] * (  - 2*N^(-2)*V*ep + 9*N^(-2)*V*ep^2 - 3*N^(-2)*V*ep^3 )
+       + den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p2 - p3]*sp[p1 - p3 - p4] * ( 1/8*N^(-2)*ep - 9/16*N^(-2)*ep^2 + 3/16*N^(-2)*ep^3 - 1/8*ep + 9/16*ep^2 - 3/16*ep^3 )
 
-       + den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p2 - p3]^2 * (  - 8*N^(-2)*V + 6*N^(-2)*V*ep - 2*N^(-2)*V*ep^2 - 4*N^(-2)*V*ep^3 )
+       + den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p2 - p3]^2 * (  - 1/2 + 1/2*N^(-2) - 3/8*N^(-2)*ep + 1/8*N^(-2)*ep^2 + 1/4*N^(-2)*ep^3 + 3/8*ep - 1/8*ep^2 - 1/4*ep^3 )
 
-       + den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*sp[p1 - p3] * (  - 8*N^(-2)*V*ep + 6*N^(-2)*V*ep^2 - 6*N^(-2)*V*ep^3 )
+       + den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*sp[p1 - p3] * ( 1/2*N^(-2)*ep - 3/8*N^(-2)*ep^2 + 3/8*N^(-2)*ep^3 - 1/2*ep + 3/8*ep^2 - 3/8*ep^3 )
 
-       + den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*sp[p1 - p3 - p4] * ( 54*N^(-2)*V*ep - 10*N^(-2)*V*ep^2 + 12*N^(-2)*V*ep^3 )
+       + den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*sp[p1 - p3 - p4] * (  - 27/8*N^(-2)*ep + 5/8*N^(-2)*ep^2 - 3/4*N^(-2)*ep^3 + 27/8*ep - 5/8*ep^2 + 3/4*ep^3 )
 
-       + den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*sp[p1 - p4] * ( 16*N^(-2)*V*ep + 8*N^(-2)*V*ep^2 + 8*N^(-2)*V*ep^3 )
+       + den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*sp[p1 - p4] * (  - N^(-2)*ep - 1/2*N^(-2)*ep^2 - 1/2*N^(-2)*ep^3 + ep + 1/2*ep^2 + 1/2*ep^3 )
 
-       + den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*sp[p2 - p3] * (  - 8*N^(-2)*V*ep + 6*N^(-2)*V*ep^2 - 6*N^(-2)*V*ep^3 )
+       + den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*sp[p2 - p3] * ( 1/2*N^(-2)*ep - 3/8*N^(-2)*ep^2 + 3/8*N^(-2)*ep^3 - 1/2*ep + 3/8*ep^2 - 3/8*ep^3 )
 
-       + den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*sp[p2 - p3 - p4] * ( 10*N^(-2)*V*ep + 16*N^(-2)*V*ep^2 + 6*N^(-2)*V*ep^3 )
+       + den[sp[p2 - p4]]*den[sp[p1 + p2 - p3]]*sp[p2 - p3 - p4] * (  - 7/8*N^(-2)*ep - 7/4*N^(-2)*ep^2 - 3/8*N^(-2)*ep^3 + 7/8*ep + 7/4*ep^2 + 3/8*ep^3 )
 
-       + den[sp[p2 - p4]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p1 - p3]*sp[p1 - p4] * (  - 4*N^(-2)*V*ep - 12*N^(-2)*V*ep^2 )
+       + den[sp[p2 - p4]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p1 - p3]*sp[p1 - p4] * ( 1/2*N^(-2)*ep + 3/2*N^(-2)*ep^2 - 1/2*ep - 3/2*ep^2 )
 
-       + den[sp[p2 - p4]]*den[sp[p1 - p3 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p4]*s * (  - N^(-4)*V*ep + 2*N^(-4)*V*ep^2 - N^(-4)*V*ep^3 - N^(-2)*V*ep + 2*N^(-2)*V*ep^2 - N^(-2)*V*ep^3 )
+       + den[sp[p2 - p4]]*den[sp[p1 - p3 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p4]*s * ( 1/4*N^(-4)*ep - 1/2*N^(-4)*ep^2 + 1/4*N^(-4)*ep^3 - 1/4*ep + 1/2*ep^2 - 1/4*ep^3 )
 
-       + den[sp[p2 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p1 - p3]^4*s^(-1) * ( 4*V*ep - 4*V*ep^2 )
+       + den[sp[p2 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p1 - p3]^4*s^(-1) * (  - 1/16*ep + 1/16*ep^2 + 1/16*N^2*ep - 1/16*N^2*ep^2 )
 
-       + den[sp[p2 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p1 - p3]^3*sp[p1 - p4]*s^(-1) * ( 6*V*ep - 6*V*ep^2 )
+       + den[sp[p2 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p1 - p3]^3*sp[p1 - p4]*s^(-1) * (  - 3/32*ep + 3/32*ep^2 + 3/32*N^2*ep - 3/32*N^2*ep^2 )
 
-       + den[sp[p2 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p1 - p3]^3*sp[p2 - p3]*s^(-1) * ( 8*V*ep - 8*V*ep^2 )
+       + den[sp[p2 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p1 - p3]^3*sp[p2 - p3]*s^(-1) * (  - 1/8*ep + 1/8*ep^2 + 1/8*N^2*ep - 1/8*N^2*ep^2 )
 
-       + den[sp[p2 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p1 - p3]^3*sp[p2 - p3 - p4]*s^(-1) * ( 6*V*ep - 6*V*ep^2 )
+       + den[sp[p2 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p1 - p3]^3*sp[p2 - p3 - p4]*s^(-1) * (  - 3/32*ep + 3/32*ep^2 + 3/32*N^2*ep - 3/32*N^2*ep^2 )
 
-       + den[sp[p2 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p1 - p3]^2*sp[p1 - p4]*sp[p2 - p3]*s^(-1) * ( 10*V*ep - 10*V*ep^2 )
+       + den[sp[p2 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p1 - p3]^2*sp[p1 - p4]*sp[p2 - p3]*s^(-1) * (  - 5/32*ep + 5/32*ep^2 + 5/32*N^2*ep - 5/32*N^2*ep^2 )
 
-       + den[sp[p2 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p1 - p3]^2*sp[p1 - p4]*sp[p2 - p3 - p4]*s^(-1) * (  - 4*V*ep + 4*V*ep^2 )
+       + den[sp[p2 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p1 - p3]^2*sp[p1 - p4]*sp[p2 - p3 - p4]*s^(-1) * ( 1/16*ep - 1/16*ep^2 - 1/16*N^2*ep + 1/16*N^2*ep^2 )
 
-       + den[sp[p2 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p1 - p3]^2*sp[p2 - p3]*sp[p2 - p3 - p4]*s^(-1) * ( 10*V*ep - 10*V*ep^2 )
+       + den[sp[p2 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p1 - p3]^2*sp[p2 - p3]*sp[p2 - p3 - p4]*s^(-1) * (  - 5/32*ep + 5/32*ep^2 + 5/32*N^2*ep - 5/32*N^2*ep^2 )
 
-       + den[sp[p2 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p1 - p3]*sp[p1 - p4]^3*s^(-1) * (  - 2*V*ep + 2*V*ep^2 )
+       + den[sp[p2 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p1 - p3]*sp[p1 - p4]^3*s^(-1) * ( 1/32*ep - 1/32*ep^2 - 1/32*N^2*ep + 1/32*N^2*ep^2 )
 
-       + den[sp[p2 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p1 - p3]*sp[p1 - p4]^2*sp[p2 - p3 - p4]*s^(-1) * (  - 10*V*ep + 10*V*ep^2 )
+       + den[sp[p2 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p1 - p3]*sp[p1 - p4]^2*sp[p2 - p3 - p4]*s^(-1) * ( 5/32*ep - 5/32*ep^2 - 5/32*N^2*ep + 5/32*N^2*ep^2 )
 
-       + den[sp[p2 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p1 - p3]*sp[p1 - p4]*sp[p2 - p3]^2*s^(-1) * ( 10*V*ep - 10*V*ep^2 )
+       + den[sp[p2 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p1 - p3]*sp[p1 - p4]*sp[p2 - p3]^2*s^(-1) * (  - 5/32*ep + 5/32*ep^2 + 5/32*N^2*ep - 5/32*N^2*ep^2 )
 
-       + den[sp[p2 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p1 - p3]*sp[p1 - p4]*sp[p2 - p3 - p4]^2*s^(-1) * (  - 10*V*ep + 10*V*ep^2 )
+       + den[sp[p2 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p1 - p3]*sp[p1 - p4]*sp[p2 - p3 - p4]^2*s^(-1) * ( 5/32*ep - 5/32*ep^2 - 5/32*N^2*ep + 5/32*N^2*ep^2 )
 
-       + den[sp[p2 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p1 - p3]*sp[p2 - p3]^3*s^(-1) * (  - 8*V*ep + 8*V*ep^2 )
+       + den[sp[p2 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p1 - p3]*sp[p2 - p3]^3*s^(-1) * ( 1/8*ep - 1/8*ep^2 - 1/8*N^2*ep + 1/8*N^2*ep^2 )
 
-       + den[sp[p2 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p1 - p3]*sp[p2 - p3]^2*sp[p2 - p3 - p4]*s^(-1) * ( 10*V*ep - 10*V*ep^2 )
+       + den[sp[p2 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p1 - p3]*sp[p2 - p3]^2*sp[p2 - p3 - p4]*s^(-1) * (  - 5/32*ep + 5/32*ep^2 + 5/32*N^2*ep - 5/32*N^2*ep^2 )
 
-       + den[sp[p2 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p1 - p3]*sp[p2 - p3 - p4]^3*s^(-1) * (  - 2*V*ep + 2*V*ep^2 )
+       + den[sp[p2 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p1 - p3]*sp[p2 - p3 - p4]^3*s^(-1) * ( 1/32*ep - 1/32*ep^2 - 1/32*N^2*ep + 1/32*N^2*ep^2 )
 
-       + den[sp[p2 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p1 - p4]^3*sp[p2 - p3]*s^(-1) * (  - 2*V*ep + 2*V*ep^2 )
+       + den[sp[p2 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p1 - p4]^3*sp[p2 - p3]*s^(-1) * ( 1/32*ep - 1/32*ep^2 - 1/32*N^2*ep + 1/32*N^2*ep^2 )
 
-       + den[sp[p2 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p1 - p4]^2*sp[p2 - p3]*sp[p2 - p3 - p4]*s^(-1) * (  - 10*V*ep + 10*V*ep^2 )
+       + den[sp[p2 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p1 - p4]^2*sp[p2 - p3]*sp[p2 - p3 - p4]*s^(-1) * ( 5/32*ep - 5/32*ep^2 - 5/32*N^2*ep + 5/32*N^2*ep^2 )
 
-       + den[sp[p2 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p1 - p4]*sp[p2 - p3]^3*s^(-1) * ( 6*V*ep - 6*V*ep^2 )
+       + den[sp[p2 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p1 - p4]*sp[p2 - p3]^3*s^(-1) * (  - 3/32*ep + 3/32*ep^2 + 3/32*N^2*ep - 3/32*N^2*ep^2 )
 
-       + den[sp[p2 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p1 - p4]*sp[p2 - p3]^2*sp[p2 - p3 - p4]*s^(-1) * ( 4*V*ep - 4*V*ep^2 )
+       + den[sp[p2 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p1 - p4]*sp[p2 - p3]^2*sp[p2 - p3 - p4]*s^(-1) * (  - 1/16*ep + 1/16*ep^2 + 1/16*N^2*ep - 1/16*N^2*ep^2 )
 
-       + den[sp[p2 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p1 - p4]*sp[p2 - p3]*sp[p2 - p3 - p4]^2*s^(-1) * (  - 10*V*ep + 10*V*ep^2 )
+       + den[sp[p2 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p1 - p4]*sp[p2 - p3]*sp[p2 - p3 - p4]^2*s^(-1) * ( 5/32*ep - 5/32*ep^2 - 5/32*N^2*ep + 5/32*N^2*ep^2 )
 
-       + den[sp[p2 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p2 - p3]^4*s^(-1) * (  - 4*V*ep + 4*V*ep^2 )
+       + den[sp[p2 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p2 - p3]^4*s^(-1) * ( 1/16*ep - 1/16*ep^2 - 1/16*N^2*ep + 1/16*N^2*ep^2 )
 
-       + den[sp[p2 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p2 - p3]^3*sp[p2 - p3 - p4]*s^(-1) * ( 6*V*ep - 6*V*ep^2 )
+       + den[sp[p2 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p2 - p3]^3*sp[p2 - p3 - p4]*s^(-1) * (  - 3/32*ep + 3/32*ep^2 + 3/32*N^2*ep - 3/32*N^2*ep^2 )
 
-       + den[sp[p2 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p2 - p3]*sp[p2 - p3 - p4]^3*s^(-1) * (  - 2*V*ep + 2*V*ep^2 )
+       + den[sp[p2 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p2 - p3]*sp[p2 - p3 - p4]^3*s^(-1) * ( 1/32*ep - 1/32*ep^2 - 1/32*N^2*ep + 1/32*N^2*ep^2 )
 
-       + den[sp[p2 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]^4*s^(-1) * (  - 4*V*ep - 6*V*ep^2 + 2*V*ep^3 )
+       + den[sp[p2 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]^4*s^(-1) * ( 1/16*ep + 3/32*ep^2 - 1/32*ep^3 - 1/16*N^2*ep - 3/32*N^2*ep^2 + 1/32*N^2*ep^3 )
 
-       + den[sp[p2 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]^3*sp[p1 - p3 - p4]*s^(-1) * ( 2*V*ep - 2*V*ep^2 )
+       + den[sp[p2 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]^3*sp[p1 - p3 - p4]*s^(-1) * (  - 1/32*ep + 1/32*ep^2 + 1/32*N^2*ep - 1/32*N^2*ep^2 )
 
-       + den[sp[p2 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]^3*sp[p1 - p4]*s^(-1) * ( 2*V*ep - 2*V*ep^2 )
+       + den[sp[p2 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]^3*sp[p1 - p4]*s^(-1) * (  - 1/32*ep + 1/32*ep^2 + 1/32*N^2*ep - 1/32*N^2*ep^2 )
 
-       + den[sp[p2 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]^3*sp[p2 - p3]*s^(-1) * ( 32*V - 32*V*ep + 24*V*ep^2 + 8*V*ep^3 )
+       + den[sp[p2 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]^3*sp[p2 - p3]*s^(-1) * (  - 1/2 + 1/2*ep - 3/8*ep^2 - 1/8*ep^3 + 1/2*N^2 - 1/2*N^2*ep + 3/8*N^2*ep^2 + 1/8*N^2*ep^3 )
 
-       + den[sp[p2 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]^2*sp[p1 - p3 - p4]^2*s^(-1) * ( 8*V*ep + 12*V*ep^2 - 4*V*ep^3 )
+       + den[sp[p2 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]^2*sp[p1 - p3 - p4]^2*s^(-1) * (  - 1/8*ep - 3/16*ep^2 + 1/16*ep^3 + 1/8*N^2*ep + 3/16*N^2*ep^2 - 1/16*N^2*ep^3 )
 
-       + den[sp[p2 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]^2*sp[p1 - p4]^2*s^(-1) * ( 8*V*ep + 12*V*ep^2 - 4*V*ep^3 )
+       + den[sp[p2 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]^2*sp[p1 - p4]^2*s^(-1) * (  - 1/8*ep - 3/16*ep^2 + 1/16*ep^3 + 1/8*N^2*ep + 3/16*N^2*ep^2 - 1/16*N^2*ep^3 )
 
-       + den[sp[p2 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]^2*sp[p1 - p4]*sp[p2 - p3]*s^(-1) * (  - 2*V*ep + 2*V*ep^2 )
+       + den[sp[p2 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]^2*sp[p1 - p4]*sp[p2 - p3]*s^(-1) * ( 1/32*ep - 1/32*ep^2 - 1/32*N^2*ep + 1/32*N^2*ep^2 )
 
-       + den[sp[p2 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]^2*sp[p2 - p3]*sp[p1 - p3 - p4]*s^(-1) * (  - 2*V*ep + 2*V*ep^2 )
+       + den[sp[p2 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]^2*sp[p2 - p3]*sp[p1 - p3 - p4]*s^(-1) * ( 1/32*ep - 1/32*ep^2 - 1/32*N^2*ep + 1/32*N^2*ep^2 )
 
-       + den[sp[p2 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]^2*sp[p2 - p3]^2*s^(-1) * ( 8*V*ep + 60*V*ep^2 + 12*V*ep^3 )
+       + den[sp[p2 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]^2*sp[p2 - p3]^2*s^(-1) * (  - 1/8*ep - 15/16*ep^2 - 3/16*ep^3 + 1/8*N^2*ep + 15/16*N^2*ep^2 + 3/16*N^2*ep^3 )
 
-       + den[sp[p2 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]*sp[p1 - p3 - p4]^3*s^(-1) * (  - 2*V*ep + 2*V*ep^2 )
+       + den[sp[p2 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]*sp[p1 - p3 - p4]^3*s^(-1) * ( 1/32*ep - 1/32*ep^2 - 1/32*N^2*ep + 1/32*N^2*ep^2 )
 
-       + den[sp[p2 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]*sp[p1 - p4]*sp[p1 - p3 - p4]^2*s^(-1) * ( 2*V*ep - 2*V*ep^2 )
+       + den[sp[p2 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]*sp[p1 - p4]*sp[p1 - p3 - p4]^2*s^(-1) * (  - 1/32*ep + 1/32*ep^2 + 1/32*N^2*ep - 1/32*N^2*ep^2 )
 
-       + den[sp[p2 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]*sp[p1 - p4]^2*sp[p1 - p3 - p4]*s^(-1) * ( 2*V*ep - 2*V*ep^2 )
+       + den[sp[p2 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]*sp[p1 - p4]^2*sp[p1 - p3 - p4]*s^(-1) * (  - 1/32*ep + 1/32*ep^2 + 1/32*N^2*ep - 1/32*N^2*ep^2 )
 
-       + den[sp[p2 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]*sp[p1 - p4]^3*s^(-1) * (  - 2*V*ep + 2*V*ep^2 )
+       + den[sp[p2 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]*sp[p1 - p4]^3*s^(-1) * ( 1/32*ep - 1/32*ep^2 - 1/32*N^2*ep + 1/32*N^2*ep^2 )
 
-       + den[sp[p2 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]*sp[p1 - p4]^2*sp[p2 - p3]*s^(-1) * (  - 32*V*ep + 8*V*ep^2 - 8*V*ep^3 )
+       + den[sp[p2 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]*sp[p1 - p4]^2*sp[p2 - p3]*s^(-1) * ( 1/2*ep - 1/8*ep^2 + 1/8*ep^3 - 1/2*N^2*ep + 1/8*N^2*ep^2 - 1/8*N^2*ep^3 )
 
-       + den[sp[p2 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]*sp[p1 - p4]*sp[p2 - p3]^2*s^(-1) * (  - 2*V*ep + 2*V*ep^2 )
+       + den[sp[p2 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]*sp[p1 - p4]*sp[p2 - p3]^2*s^(-1) * ( 1/32*ep - 1/32*ep^2 - 1/32*N^2*ep + 1/32*N^2*ep^2 )
 
-       + den[sp[p2 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]*sp[p2 - p3]*sp[p1 - p3 - p4]^2*s^(-1) * (  - 32*V*ep + 8*V*ep^2 - 8*V*ep^3 )
+       + den[sp[p2 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]*sp[p2 - p3]*sp[p1 - p3 - p4]^2*s^(-1) * ( 1/2*ep - 1/8*ep^2 + 1/8*ep^3 - 1/2*N^2*ep + 1/8*N^2*ep^2 - 1/8*N^2*ep^3 )
 
-       + den[sp[p2 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]*sp[p2 - p3]^2*sp[p1 - p3 - p4]*s^(-1) * (  - 2*V*ep + 2*V*ep^2 )
+       + den[sp[p2 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]*sp[p2 - p3]^2*sp[p1 - p3 - p4]*s^(-1) * ( 1/32*ep - 1/32*ep^2 - 1/32*N^2*ep + 1/32*N^2*ep^2 )
 
-       + den[sp[p2 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]*sp[p2 - p3]^3*s^(-1) * ( 32*V - 32*V*ep + 24*V*ep^2 + 8*V*ep^3 )
+       + den[sp[p2 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]*sp[p2 - p3]^3*s^(-1) * (  - 1/2 + 1/2*ep - 3/8*ep^2 - 1/8*ep^3 + 1/2*N^2 - 1/2*N^2*ep + 3/8*N^2*ep^2 + 1/8*N^2*ep^3 )
 
-       + den[sp[p2 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3 - p4]^4*s^(-1) * (  - 4*V*ep - 6*V*ep^2 + 2*V*ep^3 )
+       + den[sp[p2 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3 - p4]^4*s^(-1) * ( 1/16*ep + 3/32*ep^2 - 1/32*ep^3 - 1/16*N^2*ep - 3/32*N^2*ep^2 + 1/32*N^2*ep^3 )
 
-       + den[sp[p2 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p4]^2*sp[p1 - p3 - p4]^2*s^(-1) * ( 8*V*ep + 12*V*ep^2 - 4*V*ep^3 )
+       + den[sp[p2 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p4]^2*sp[p1 - p3 - p4]^2*s^(-1) * (  - 1/8*ep - 3/16*ep^2 + 1/16*ep^3 + 1/8*N^2*ep + 3/16*N^2*ep^2 - 1/16*N^2*ep^3 )
 
-       + den[sp[p2 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p4]^4*s^(-1) * (  - 4*V*ep - 6*V*ep^2 + 2*V*ep^3 )
+       + den[sp[p2 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p4]^4*s^(-1) * ( 1/16*ep + 3/32*ep^2 - 1/32*ep^3 - 1/16*N^2*ep - 3/32*N^2*ep^2 + 1/32*N^2*ep^3 )
 
-       + den[sp[p2 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p4]^3*sp[p2 - p3]*s^(-1) * (  - 2*V*ep + 2*V*ep^2 )
+       + den[sp[p2 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p4]^3*sp[p2 - p3]*s^(-1) * ( 1/32*ep - 1/32*ep^2 - 1/32*N^2*ep + 1/32*N^2*ep^2 )
 
-       + den[sp[p2 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p4]^2*sp[p2 - p3]*sp[p1 - p3 - p4]*s^(-1) * ( 2*V*ep - 2*V*ep^2 )
+       + den[sp[p2 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p4]^2*sp[p2 - p3]*sp[p1 - p3 - p4]*s^(-1) * (  - 1/32*ep + 1/32*ep^2 + 1/32*N^2*ep - 1/32*N^2*ep^2 )
 
-       + den[sp[p2 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p4]^2*sp[p2 - p3]^2*s^(-1) * ( 8*V*ep + 12*V*ep^2 - 4*V*ep^3 )
+       + den[sp[p2 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p4]^2*sp[p2 - p3]^2*s^(-1) * (  - 1/8*ep - 3/16*ep^2 + 1/16*ep^3 + 1/8*N^2*ep + 3/16*N^2*ep^2 - 1/16*N^2*ep^3 )
 
-       + den[sp[p2 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p4]*sp[p2 - p3]*sp[p1 - p3 - p4]^2*s^(-1) * ( 2*V*ep - 2*V*ep^2 )
+       + den[sp[p2 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p4]*sp[p2 - p3]*sp[p1 - p3 - p4]^2*s^(-1) * (  - 1/32*ep + 1/32*ep^2 + 1/32*N^2*ep - 1/32*N^2*ep^2 )
 
-       + den[sp[p2 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p4]*sp[p2 - p3]^3*s^(-1) * ( 2*V*ep - 2*V*ep^2 )
+       + den[sp[p2 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p4]*sp[p2 - p3]^3*s^(-1) * (  - 1/32*ep + 1/32*ep^2 + 1/32*N^2*ep - 1/32*N^2*ep^2 )
 
-       + den[sp[p2 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p2 - p3]*sp[p1 - p3 - p4]^3*s^(-1) * (  - 2*V*ep + 2*V*ep^2 )
+       + den[sp[p2 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p2 - p3]*sp[p1 - p3 - p4]^3*s^(-1) * ( 1/32*ep - 1/32*ep^2 - 1/32*N^2*ep + 1/32*N^2*ep^2 )
 
-       + den[sp[p2 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p2 - p3]^2*sp[p1 - p3 - p4]^2*s^(-1) * ( 8*V*ep + 12*V*ep^2 - 4*V*ep^3 )
+       + den[sp[p2 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p2 - p3]^2*sp[p1 - p3 - p4]^2*s^(-1) * (  - 1/8*ep - 3/16*ep^2 + 1/16*ep^3 + 1/8*N^2*ep + 3/16*N^2*ep^2 - 1/16*N^2*ep^3 )
 
-       + den[sp[p2 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p2 - p3]^3*sp[p1 - p3 - p4]*s^(-1) * ( 2*V*ep - 2*V*ep^2 )
+       + den[sp[p2 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p2 - p3]^3*sp[p1 - p3 - p4]*s^(-1) * (  - 1/32*ep + 1/32*ep^2 + 1/32*N^2*ep - 1/32*N^2*ep^2 )
 
-       + den[sp[p2 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p2 - p3]^4*s^(-1) * (  - 4*V*ep - 6*V*ep^2 + 2*V*ep^3 )
+       + den[sp[p2 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p2 - p3]^4*s^(-1) * ( 1/16*ep + 3/32*ep^2 - 1/32*ep^3 - 1/16*N^2*ep - 3/32*N^2*ep^2 + 1/32*N^2*ep^3 )
 
-       + den[sp[p2 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]^3*s^(-1) * ( 8*V*ep - 8*V*ep^2 )
+       + den[sp[p2 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]^3*s^(-1) * (  - 1/8*ep + 1/8*ep^2 + 1/8*N^2*ep - 1/8*N^2*ep^2 )
 
-       + den[sp[p2 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]^2*sp[p1 - p3 - p4]*s^(-1) * (  - 40*V*ep + 16*V*ep^2 - 8*V*ep^3 )
+       + den[sp[p2 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]^2*sp[p1 - p3 - p4]*s^(-1) * ( 5/8*ep - 1/4*ep^2 + 1/8*ep^3 - 5/8*N^2*ep + 1/4*N^2*ep^2 - 1/8*N^2*ep^3 )
 
-       + den[sp[p2 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]^2*sp[p1 - p4]*s^(-1) * ( 12*V*ep - 12*V*ep^2 )
+       + den[sp[p2 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]^2*sp[p1 - p4]*s^(-1) * ( 1/16*ep - 1/16*ep^2 - 1/16*N^2*ep + 1/16*N^2*ep^2 )
 
-       + den[sp[p2 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]^2*sp[p2 - p3]*s^(-1) * ( 8*V*ep - 8*V*ep^2 )
+       + den[sp[p2 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]^2*sp[p2 - p3]*s^(-1) * (  - 1/8*ep + 1/8*ep^2 + 1/8*N^2*ep - 1/8*N^2*ep^2 )
 
-       + den[sp[p2 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]^2*sp[p2 - p3 - p4]*s^(-1) * ( 20*V*ep^2 - 4*V*ep^3 )
+       + den[sp[p2 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]^2*sp[p2 - p3 - p4]*s^(-1) * (  - 5/16*ep^2 + 1/16*ep^3 + 5/16*N^2*ep^2 - 1/16*N^2*ep^3 )
 
-       + den[sp[p2 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]*sp[p1 - p3 - p4]^2*s^(-1) * (  - 8*V*ep + 8*V*ep^2 )
+       + den[sp[p2 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]*sp[p1 - p3 - p4]^2*s^(-1) * ( 1/8*ep - 1/8*ep^2 - 1/8*N^2*ep + 1/8*N^2*ep^2 )
 
-       + den[sp[p2 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]*sp[p1 - p3 - p4]*sp[p2 - p3 - p4]*s^(-1) * (  - 12*V*ep + 12*V*ep^2 )
+       + den[sp[p2 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]*sp[p1 - p3 - p4]*sp[p2 - p3 - p4]*s^(-1) * ( 3/16*ep - 3/16*ep^2 - 3/16*N^2*ep + 3/16*N^2*ep^2 )
 
-       + den[sp[p2 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]*sp[p1 - p4]*sp[p1 - p3 - p4]*s^(-1) * (  - 6*V*ep + 6*V*ep^2 )
+       + den[sp[p2 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]*sp[p1 - p4]*sp[p1 - p3 - p4]*s^(-1) * ( 3/32*ep - 3/32*ep^2 - 3/32*N^2*ep + 3/32*N^2*ep^2 )
 
-       + den[sp[p2 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]*sp[p1 - p4]^2*s^(-1) * (  - 8*V*ep + 8*V*ep^2 )
+       + den[sp[p2 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]*sp[p1 - p4]^2*s^(-1) * ( 1/8*ep - 1/8*ep^2 - 1/8*N^2*ep + 1/8*N^2*ep^2 )
 
-       + den[sp[p2 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]*sp[p1 - p4]*sp[p2 - p3]*s^(-1) * ( 32*V*ep - 32*V*ep^2 )
+       + den[sp[p2 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]*sp[p1 - p4]*sp[p2 - p3]*s^(-1) * (  - 1/2*ep + 1/2*ep^2 + 1/2*N^2*ep - 1/2*N^2*ep^2 )
 
-       + den[sp[p2 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]*sp[p1 - p4]*sp[p2 - p3 - p4]*s^(-1) * (  - 18*V*ep + 18*V*ep^2 )
+       + den[sp[p2 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]*sp[p1 - p4]*sp[p2 - p3 - p4]*s^(-1) * ( 9/32*ep - 9/32*ep^2 - 9/32*N^2*ep + 9/32*N^2*ep^2 )
 
-       + den[sp[p2 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]*sp[p2 - p3]*sp[p1 - p3 - p4]*s^(-1) * (  - 176*V*ep - 16*V*ep^3 )
+       + den[sp[p2 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]*sp[p2 - p3]*sp[p1 - p3 - p4]*s^(-1) * ( 11/4*ep + 1/4*ep^3 - 11/4*N^2*ep - 1/4*N^2*ep^3 )
 
-       + den[sp[p2 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]*sp[p2 - p3]^2*s^(-1) * ( 8*V*ep - 8*V*ep^2 )
+       + den[sp[p2 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]*sp[p2 - p3]^2*s^(-1) * (  - 1/8*ep + 1/8*ep^2 + 1/8*N^2*ep - 1/8*N^2*ep^2 )
 
-       + den[sp[p2 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]*sp[p2 - p3]*sp[p2 - p3 - p4]*s^(-1) * (  - 48*V*ep + 24*V*ep^2 - 8*V*ep^3 )
+       + den[sp[p2 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]*sp[p2 - p3]*sp[p2 - p3 - p4]*s^(-1) * ( 3/4*ep - 3/8*ep^2 + 1/8*ep^3 - 3/4*N^2*ep + 3/8*N^2*ep^2 - 1/8*N^2*ep^3 )
 
-       + den[sp[p2 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]*sp[p2 - p3 - p4]^2*s^(-1) * (  - 8*V*ep + 8*V*ep^2 )
+       + den[sp[p2 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]*sp[p2 - p3 - p4]^2*s^(-1) * ( 1/8*ep - 1/8*ep^2 - 1/8*N^2*ep + 1/8*N^2*ep^2 )
 
-       + den[sp[p2 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3 - p4]^3*s^(-1) * ( 8*V + 16*V*ep^2 + 8*V*ep^3 )
+       + den[sp[p2 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3 - p4]^3*s^(-1) * (  - 1/2 + 3/8*ep - 1/4*ep^2 - 1/8*ep^3 + 1/2*N^2 - 3/8*N^2*ep + 1/4*N^2*ep^2 + 1/8*N^2*ep^3 )
 
-       + den[sp[p2 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3 - p4]^2*sp[p2 - p3 - p4]*s^(-1) * ( 32*V*ep + 36*V*ep^2 + 12*V*ep^3 )
+       + den[sp[p2 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3 - p4]^2*sp[p2 - p3 - p4]*s^(-1) * (  - 1/2*ep - 9/16*ep^2 - 3/16*ep^3 + 1/2*N^2*ep + 9/16*N^2*ep^2 + 3/16*N^2*ep^3 )
 
-       + den[sp[p2 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3 - p4]*sp[p2 - p3 - p4]^2*s^(-1) * ( 8*V + 16*V*ep + 8*V*ep^3 )
+       + den[sp[p2 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3 - p4]*sp[p2 - p3 - p4]^2*s^(-1) * (  - 1/2 + 1/8*ep - 1/8*ep^3 + 1/2*N^2 - 1/8*N^2*ep + 1/8*N^2*ep^3 )
 
-       + den[sp[p2 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*sp[p1 - p4]*sp[p1 - p3 - p4]^2*s^(-1) * ( 16*V*ep - 16*V*ep^2 )
+       + den[sp[p2 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*sp[p1 - p4]*sp[p1 - p3 - p4]^2*s^(-1) * (  - 1/4*ep + 1/4*ep^2 + 1/4*N^2*ep - 1/4*N^2*ep^2 )
 
-       + den[sp[p2 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*sp[p1 - p4]^2*sp[p1 - p3 - p4]*s^(-1) * (  - 64*V*ep + 40*V*ep^2 - 8*V*ep^3 )
+       + den[sp[p2 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*sp[p1 - p4]^2*sp[p1 - p3 - p4]*s^(-1) * ( ep - 5/8*ep^2 + 1/8*ep^3 - N^2*ep + 5/8*N^2*ep^2 - 1/8*N^2*ep^3 )
 
-       + den[sp[p2 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*sp[p1 - p4]^3*s^(-1) * ( 8*V*ep - 8*V*ep^2 )
+       + den[sp[p2 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*sp[p1 - p4]^3*s^(-1) * (  - 1/8*ep + 1/8*ep^2 + 1/8*N^2*ep - 1/8*N^2*ep^2 )
 
-       + den[sp[p2 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*sp[p1 - p4]^2*sp[p2 - p3]*s^(-1) * (  - 8*V*ep + 8*V*ep^2 )
+       + den[sp[p2 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*sp[p1 - p4]^2*sp[p2 - p3]*s^(-1) * ( 1/8*ep - 1/8*ep^2 - 1/8*N^2*ep + 1/8*N^2*ep^2 )
 
-       + den[sp[p2 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*sp[p1 - p4]^2*sp[p2 - p3 - p4]*s^(-1) * ( 8*V*ep + 12*V*ep^2 - 4*V*ep^3 )
+       + den[sp[p2 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*sp[p1 - p4]^2*sp[p2 - p3 - p4]*s^(-1) * (  - 1/8*ep - 3/16*ep^2 + 1/16*ep^3 + 1/8*N^2*ep + 3/16*N^2*ep^2 - 1/16*N^2*ep^3 )
 
-       + den[sp[p2 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*sp[p1 - p4]*sp[p2 - p3]*sp[p1 - p3 - p4]*s^(-1) * (  - 6*V*ep + 6*V*ep^2 )
+       + den[sp[p2 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*sp[p1 - p4]*sp[p2 - p3]*sp[p1 - p3 - p4]*s^(-1) * ( 3/32*ep - 3/32*ep^2 - 3/32*N^2*ep + 3/32*N^2*ep^2 )
 
-       + den[sp[p2 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*sp[p1 - p4]*sp[p2 - p3]^2*s^(-1) * ( 20*V*ep - 20*V*ep^2 )
+       + den[sp[p2 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*sp[p1 - p4]*sp[p2 - p3]^2*s^(-1) * (  - 9/16*ep + 9/16*ep^2 + 9/16*N^2*ep - 9/16*N^2*ep^2 )
 
-       + den[sp[p2 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*sp[p1 - p4]*sp[p2 - p3]*sp[p2 - p3 - p4]*s^(-1) * (  - 18*V*ep + 18*V*ep^2 )
+       + den[sp[p2 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*sp[p1 - p4]*sp[p2 - p3]*sp[p2 - p3 - p4]*s^(-1) * ( 9/32*ep - 9/32*ep^2 - 9/32*N^2*ep + 9/32*N^2*ep^2 )
 
-       + den[sp[p2 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*sp[p1 - p4]*sp[p2 - p3 - p4]^2*s^(-1) * (  - 16*V*ep + 16*V*ep^2 )
+       + den[sp[p2 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*sp[p1 - p4]*sp[p2 - p3 - p4]^2*s^(-1) * ( 1/4*ep - 1/4*ep^2 - 1/4*N^2*ep + 1/4*N^2*ep^2 )
 
-       + den[sp[p2 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*sp[p2 - p3]*sp[p1 - p3 - p4]^2*s^(-1) * (  - 8*V*ep + 8*V*ep^2 )
+       + den[sp[p2 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*sp[p2 - p3]*sp[p1 - p3 - p4]^2*s^(-1) * ( 1/8*ep - 1/8*ep^2 - 1/8*N^2*ep + 1/8*N^2*ep^2 )
 
-       + den[sp[p2 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*sp[p2 - p3]*sp[p1 - p3 - p4]*sp[p2 - p3 - p4]*s^(-1) * (  - 12*V*ep + 12*V*ep^2 )
+       + den[sp[p2 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*sp[p2 - p3]*sp[p1 - p3 - p4]*sp[p2 - p3 - p4]*s^(-1) * ( 3/16*ep - 3/16*ep^2 - 3/16*N^2*ep + 3/16*N^2*ep^2 )
 
-       + den[sp[p2 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*sp[p2 - p3]^2*sp[p1 - p3 - p4]*s^(-1) * (  - 40*V*ep + 16*V*ep^2 - 8*V*ep^3 )
+       + den[sp[p2 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*sp[p2 - p3]^2*sp[p1 - p3 - p4]*s^(-1) * ( 5/8*ep - 1/4*ep^2 + 1/8*ep^3 - 5/8*N^2*ep + 1/4*N^2*ep^2 - 1/8*N^2*ep^3 )
 
-       + den[sp[p2 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*sp[p2 - p3]^3*s^(-1) * ( 8*V*ep - 8*V*ep^2 )
+       + den[sp[p2 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*sp[p2 - p3]^3*s^(-1) * (  - 1/8*ep + 1/8*ep^2 + 1/8*N^2*ep - 1/8*N^2*ep^2 )
 
-       + den[sp[p2 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*sp[p2 - p3]^2*sp[p2 - p3 - p4]*s^(-1) * ( 20*V*ep^2 - 4*V*ep^3 )
+       + den[sp[p2 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*sp[p2 - p3]^2*sp[p2 - p3 - p4]*s^(-1) * (  - 5/16*ep^2 + 1/16*ep^3 + 5/16*N^2*ep^2 - 1/16*N^2*ep^3 )
 
-       + den[sp[p2 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*sp[p2 - p3]*sp[p2 - p3 - p4]^2*s^(-1) * (  - 8*V*ep + 8*V*ep^2 )
+       + den[sp[p2 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*sp[p2 - p3]*sp[p2 - p3 - p4]^2*s^(-1) * ( 1/8*ep - 1/8*ep^2 - 1/8*N^2*ep + 1/8*N^2*ep^2 )
 
-       + den[sp[p2 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*sp[p2 - p3 - p4]^3*s^(-1) * ( 4*V*ep - 14*V*ep^2 + 2*V*ep^3 )
+       + den[sp[p2 - p4]]*den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*sp[p2 - p3 - p4]^3*s^(-1) * (  - 1/16*ep + 7/32*ep^2 - 1/32*ep^3 + 1/16*N^2*ep - 7/32*N^2*ep^2 + 1/32*N^2*ep^3 )
 
-       + den[sp[p2 - p4]]*den[sp[p3 + p4]]*den[sp[p1 - p3 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]^2*sp[p2 - p3] * (  - 8*N^(-2)*V + 16*N^(-2)*V*ep - 8*N^(-2)*V*ep^2 )
+       + den[sp[p2 - p4]]*den[sp[p3 + p4]]*den[sp[p1 - p3 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]^2*sp[p2 - p3] * (  - 1/2 + 1/2*N^(-2) - N^(-2)*ep + 1/2*N^(-2)*ep^2 + ep - 1/2*ep^2 )
 
-       + den[sp[p2 - p4]]*den[sp[p3 + p4]]*den[sp[p1 - p3 - p4]]*den[sp[p2 - p3 - p4]]*sp[p2 - p3]^3 * (  - 8*N^(-2)*V + 16*N^(-2)*V*ep - 8*N^(-2)*V*ep^2 )
+       + den[sp[p2 - p4]]*den[sp[p3 + p4]]*den[sp[p1 - p3 - p4]]*den[sp[p2 - p3 - p4]]*sp[p2 - p3]^3 * (  - 1/2 + 1/2*N^(-2) - N^(-2)*ep + 1/2*N^(-2)*ep^2 + ep - 1/2*ep^2 )
 
-       + den[sp[p2 - p4]]*den[sp[p3 + p4]]*den[sp[p1 - p3 - p4]]*sp[p1 - p3]*sp[p2 - p3 - p4] * (  - 4*N^(-2)*V*ep - 12*N^(-2)*V*ep^2 )
+       + den[sp[p2 - p4]]*den[sp[p3 + p4]]*den[sp[p1 - p3 - p4]]*sp[p1 - p3]*sp[p2 - p3 - p4] * ( 1/2*N^(-2)*ep + 3/2*N^(-2)*ep^2 - 1/2*ep - 3/2*ep^2 )
 
-       + den[sp[p2 - p4]]*den[sp[p3 + p4]]*sp[p1 - p3] * ( 10*N^(-2)*V*ep + 16*N^(-2)*V*ep^2 + 6*N^(-2)*V*ep^3 )
+       + den[sp[p2 - p4]]*den[sp[p3 + p4]]*sp[p1 - p3] * (  - 7/8*N^(-2)*ep - 7/4*N^(-2)*ep^2 - 3/8*N^(-2)*ep^3 + 7/8*ep + 7/4*ep^2 + 3/8*ep^3 )
 
-       + den[sp[p2 - p4]]*den[sp[p3 + p4]]*sp[p1 - p3 - p4] * (  - 8*N^(-2)*V*ep + 6*N^(-2)*V*ep^2 - 6*N^(-2)*V*ep^3 )
+       + den[sp[p2 - p4]]*den[sp[p3 + p4]]*sp[p1 - p3 - p4] * ( 1/2*N^(-2)*ep - 3/8*N^(-2)*ep^2 + 3/8*N^(-2)*ep^3 - 1/2*ep + 3/8*ep^2 - 3/8*ep^3 )
 
-       + den[sp[p2 - p4]]*den[sp[p3 + p4]]*sp[p1 - p4] * ( 16*N^(-2)*V*ep + 8*N^(-2)*V*ep^2 + 8*N^(-2)*V*ep^3 )
+       + den[sp[p2 - p4]]*den[sp[p3 + p4]]*sp[p1 - p4] * (  - N^(-2)*ep - 1/2*N^(-2)*ep^2 - 1/2*N^(-2)*ep^3 + ep + 1/2*ep^2 + 1/2*ep^3 )
 
-       + den[sp[p2 - p4]]*den[sp[p3 + p4]]*sp[p2 - p3] * ( 54*N^(-2)*V*ep - 10*N^(-2)*V*ep^2 + 12*N^(-2)*V*ep^3 )
+       + den[sp[p2 - p4]]*den[sp[p3 + p4]]*sp[p2 - p3] * (  - 27/8*N^(-2)*ep + 5/8*N^(-2)*ep^2 - 3/4*N^(-2)*ep^3 + 27/8*ep - 5/8*ep^2 + 3/4*ep^3 )
 
-       + den[sp[p2 - p4]]*den[sp[p3 + p4]]*sp[p2 - p3 - p4] * (  - 8*N^(-2)*V*ep + 6*N^(-2)*V*ep^2 - 6*N^(-2)*V*ep^3 )
+       + den[sp[p2 - p4]]*den[sp[p3 + p4]]*sp[p2 - p3 - p4] * ( 1/2*N^(-2)*ep - 3/8*N^(-2)*ep^2 + 3/8*N^(-2)*ep^3 - 1/2*ep + 3/8*ep^2 - 3/8*ep^3 )
 
-       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p1 - p3]^3*s^(-1) * ( 4*V*ep - 14*V*ep^2 + 2*V*ep^3 )
+       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p1 - p3]^3*s^(-1) * (  - 1/16*ep + 7/32*ep^2 - 1/32*ep^3 + 1/16*N^2*ep - 7/32*N^2*ep^2 + 1/32*N^2*ep^3 )
 
-       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p1 - p3]^2*sp[p1 - p4]*s^(-1) * (  - 8*V*ep + 8*V*ep^2 )
+       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p1 - p3]^2*sp[p1 - p4]*s^(-1) * ( 1/8*ep - 1/8*ep^2 - 1/8*N^2*ep + 1/8*N^2*ep^2 )
 
-       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p1 - p3]^2*sp[p2 - p3]*s^(-1) * ( 8*V + 16*V*ep + 8*V*ep^3 )
+       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p1 - p3]^2*sp[p2 - p3]*s^(-1) * (  - 1/2 + 1/8*ep - 1/8*ep^3 + 1/2*N^2 - 1/8*N^2*ep + 1/8*N^2*ep^3 )
 
-       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p1 - p3]^2*sp[p2 - p3 - p4]*s^(-1) * (  - 16*V*ep + 16*V*ep^2 )
+       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p1 - p3]^2*sp[p2 - p3 - p4]*s^(-1) * ( 1/4*ep - 1/4*ep^2 - 1/4*N^2*ep + 1/4*N^2*ep^2 )
 
-       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p1 - p3]^2*sp[p2 - p4]*s^(-1) * (  - 8*V*ep + 8*V*ep^2 )
+       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p1 - p3]^2*sp[p2 - p4]*s^(-1) * ( 1/8*ep - 1/8*ep^2 - 1/8*N^2*ep + 1/8*N^2*ep^2 )
 
-       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p1 - p3]*sp[p1 - p4]^2*s^(-1) * ( 20*V*ep^2 - 4*V*ep^3 )
+       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p1 - p3]*sp[p1 - p4]^2*s^(-1) * (  - 5/16*ep^2 + 1/16*ep^3 + 5/16*N^2*ep^2 - 1/16*N^2*ep^3 )
 
-       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p1 - p3]*sp[p1 - p4]*sp[p2 - p3]*s^(-1) * (  - 12*V*ep + 12*V*ep^2 )
+       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p1 - p3]*sp[p1 - p4]*sp[p2 - p3]*s^(-1) * ( 3/16*ep - 3/16*ep^2 - 3/16*N^2*ep + 3/16*N^2*ep^2 )
 
-       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p1 - p3]*sp[p1 - p4]*sp[p2 - p3 - p4]*s^(-1) * (  - 18*V*ep + 18*V*ep^2 )
+       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p1 - p3]*sp[p1 - p4]*sp[p2 - p3 - p4]*s^(-1) * ( 9/32*ep - 9/32*ep^2 - 9/32*N^2*ep + 9/32*N^2*ep^2 )
 
-       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p1 - p3]*sp[p1 - p4]*sp[p2 - p4]*s^(-1) * (  - 48*V*ep + 24*V*ep^2 - 8*V*ep^3 )
+       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p1 - p3]*sp[p1 - p4]*sp[p2 - p4]*s^(-1) * ( 3/4*ep - 3/8*ep^2 + 1/8*ep^3 - 3/4*N^2*ep + 3/8*N^2*ep^2 - 1/8*N^2*ep^3 )
 
-       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p1 - p3]*sp[p2 - p3]^2*s^(-1) * ( 32*V*ep + 36*V*ep^2 + 12*V*ep^3 )
+       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p1 - p3]*sp[p2 - p3]^2*s^(-1) * (  - 1/2*ep - 9/16*ep^2 - 3/16*ep^3 + 1/2*N^2*ep + 9/16*N^2*ep^2 + 3/16*N^2*ep^3 )
 
-       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p1 - p3]*sp[p2 - p3]*sp[p2 - p4]*s^(-1) * (  - 12*V*ep + 12*V*ep^2 )
+       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p1 - p3]*sp[p2 - p3]*sp[p2 - p4]*s^(-1) * ( 3/16*ep - 3/16*ep^2 - 3/16*N^2*ep + 3/16*N^2*ep^2 )
 
-       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p1 - p3]*sp[p2 - p3 - p4]^2*s^(-1) * ( 8*V*ep + 12*V*ep^2 - 4*V*ep^3 )
+       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p1 - p3]*sp[p2 - p3 - p4]^2*s^(-1) * (  - 1/8*ep - 3/16*ep^2 + 1/16*ep^3 + 1/8*N^2*ep + 3/16*N^2*ep^2 - 1/16*N^2*ep^3 )
 
-       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p1 - p3]*sp[p2 - p4]*sp[p2 - p3 - p4]*s^(-1) * (  - 18*V*ep + 18*V*ep^2 )
+       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p1 - p3]*sp[p2 - p4]*sp[p2 - p3 - p4]*s^(-1) * ( 9/32*ep - 9/32*ep^2 - 9/32*N^2*ep + 9/32*N^2*ep^2 )
 
-       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p1 - p3]*sp[p2 - p4]^2*s^(-1) * ( 20*V*ep^2 - 4*V*ep^3 )
+       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p1 - p3]*sp[p2 - p4]^2*s^(-1) * (  - 5/16*ep^2 + 1/16*ep^3 + 5/16*N^2*ep^2 - 1/16*N^2*ep^3 )
 
-       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p1 - p4]^3*s^(-1) * ( 8*V*ep - 8*V*ep^2 )
+       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p1 - p4]^3*s^(-1) * (  - 1/8*ep + 1/8*ep^2 + 1/8*N^2*ep - 1/8*N^2*ep^2 )
 
-       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p1 - p4]^2*sp[p2 - p3]*s^(-1) * (  - 40*V*ep + 16*V*ep^2 - 8*V*ep^3 )
+       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p1 - p4]^2*sp[p2 - p3]*s^(-1) * ( 5/8*ep - 1/4*ep^2 + 1/8*ep^3 - 5/8*N^2*ep + 1/4*N^2*ep^2 - 1/8*N^2*ep^3 )
 
-       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p1 - p4]^2*sp[p2 - p3 - p4]*s^(-1) * ( 12*V*ep - 12*V*ep^2 )
+       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p1 - p4]^2*sp[p2 - p3 - p4]*s^(-1) * ( 1/16*ep - 1/16*ep^2 - 1/16*N^2*ep + 1/16*N^2*ep^2 )
 
-       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p1 - p4]^2*sp[p2 - p4]*s^(-1) * ( 8*V*ep - 8*V*ep^2 )
+       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p1 - p4]^2*sp[p2 - p4]*s^(-1) * (  - 1/8*ep + 1/8*ep^2 + 1/8*N^2*ep - 1/8*N^2*ep^2 )
 
-       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p1 - p4]*sp[p2 - p3]^2*s^(-1) * (  - 8*V*ep + 8*V*ep^2 )
+       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p1 - p4]*sp[p2 - p3]^2*s^(-1) * ( 1/8*ep - 1/8*ep^2 - 1/8*N^2*ep + 1/8*N^2*ep^2 )
 
-       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p1 - p4]*sp[p2 - p3]*sp[p2 - p3 - p4]*s^(-1) * (  - 6*V*ep + 6*V*ep^2 )
+       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p1 - p4]*sp[p2 - p3]*sp[p2 - p3 - p4]*s^(-1) * ( 3/32*ep - 3/32*ep^2 - 3/32*N^2*ep + 3/32*N^2*ep^2 )
 
-       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p1 - p4]*sp[p2 - p3]*sp[p2 - p4]*s^(-1) * (  - 176*V*ep - 16*V*ep^3 )
+       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p1 - p4]*sp[p2 - p3]*sp[p2 - p4]*s^(-1) * ( 11/4*ep + 1/4*ep^3 - 11/4*N^2*ep - 1/4*N^2*ep^3 )
 
-       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p1 - p4]*sp[p2 - p3 - p4]^2*s^(-1) * (  - 8*V*ep + 8*V*ep^2 )
+       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p1 - p4]*sp[p2 - p3 - p4]^2*s^(-1) * ( 1/8*ep - 1/8*ep^2 - 1/8*N^2*ep + 1/8*N^2*ep^2 )
 
-       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p1 - p4]*sp[p2 - p4]*sp[p2 - p3 - p4]*s^(-1) * ( 32*V*ep - 32*V*ep^2 )
+       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p1 - p4]*sp[p2 - p4]*sp[p2 - p3 - p4]*s^(-1) * (  - 1/2*ep + 1/2*ep^2 + 1/2*N^2*ep - 1/2*N^2*ep^2 )
 
-       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p1 - p4]*sp[p2 - p4]^2*s^(-1) * ( 8*V*ep - 8*V*ep^2 )
+       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p1 - p4]*sp[p2 - p4]^2*s^(-1) * (  - 1/8*ep + 1/8*ep^2 + 1/8*N^2*ep - 1/8*N^2*ep^2 )
 
-       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p2 - p3]^3*s^(-1) * ( 8*V + 16*V*ep^2 + 8*V*ep^3 )
+       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p2 - p3]^3*s^(-1) * (  - 1/2 + 3/8*ep - 1/4*ep^2 - 1/8*ep^3 + 1/2*N^2 - 3/8*N^2*ep + 1/4*N^2*ep^2 + 1/8*N^2*ep^3 )
 
-       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p2 - p3]^2*sp[p2 - p3 - p4]*s^(-1) * ( 16*V*ep - 16*V*ep^2 )
+       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p2 - p3]^2*sp[p2 - p3 - p4]*s^(-1) * (  - 1/4*ep + 1/4*ep^2 + 1/4*N^2*ep - 1/4*N^2*ep^2 )
 
-       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p2 - p3]^2*sp[p2 - p4]*s^(-1) * (  - 8*V*ep + 8*V*ep^2 )
+       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p2 - p3]^2*sp[p2 - p4]*s^(-1) * ( 1/8*ep - 1/8*ep^2 - 1/8*N^2*ep + 1/8*N^2*ep^2 )
 
-       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p2 - p3]*sp[p2 - p3 - p4]^2*s^(-1) * (  - 64*V*ep + 40*V*ep^2 - 8*V*ep^3 )
+       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p2 - p3]*sp[p2 - p3 - p4]^2*s^(-1) * ( ep - 5/8*ep^2 + 1/8*ep^3 - N^2*ep + 5/8*N^2*ep^2 - 1/8*N^2*ep^3 )
 
-       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p2 - p3]*sp[p2 - p4]*sp[p2 - p3 - p4]*s^(-1) * (  - 6*V*ep + 6*V*ep^2 )
+       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p2 - p3]*sp[p2 - p4]*sp[p2 - p3 - p4]*s^(-1) * ( 3/32*ep - 3/32*ep^2 - 3/32*N^2*ep + 3/32*N^2*ep^2 )
 
-       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p2 - p3]*sp[p2 - p4]^2*s^(-1) * (  - 40*V*ep + 16*V*ep^2 - 8*V*ep^3 )
+       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p2 - p3]*sp[p2 - p4]^2*s^(-1) * ( 5/8*ep - 1/4*ep^2 + 1/8*ep^3 - 5/8*N^2*ep + 1/4*N^2*ep^2 - 1/8*N^2*ep^3 )
 
-       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p2 - p3 - p4]^3*s^(-1) * ( 8*V*ep - 8*V*ep^2 )
+       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p2 - p3 - p4]^3*s^(-1) * (  - 1/8*ep + 1/8*ep^2 + 1/8*N^2*ep - 1/8*N^2*ep^2 )
 
-       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p2 - p4]*sp[p2 - p3 - p4]^2*s^(-1) * (  - 8*V*ep + 8*V*ep^2 )
+       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p2 - p4]*sp[p2 - p3 - p4]^2*s^(-1) * ( 1/8*ep - 1/8*ep^2 - 1/8*N^2*ep + 1/8*N^2*ep^2 )
 
-       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p2 - p4]^2*sp[p2 - p3 - p4]*s^(-1) * ( 20*V*ep - 20*V*ep^2 )
+       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p2 - p4]^2*sp[p2 - p3 - p4]*s^(-1) * (  - 9/16*ep + 9/16*ep^2 + 9/16*N^2*ep - 9/16*N^2*ep^2 )
 
-       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p2 - p4]^3*s^(-1) * ( 8*V*ep - 8*V*ep^2 )
+       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p1 - p3 - p4]]*sp[p2 - p4]^3*s^(-1) * (  - 1/8*ep + 1/8*ep^2 + 1/8*N^2*ep - 1/8*N^2*ep^2 )
 
-       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]^3*s^(-1) * ( 8*V + 16*V*ep^2 + 8*V*ep^3 )
+       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]^3*s^(-1) * (  - 1/2 + 3/8*ep - 1/4*ep^2 - 1/8*ep^3 + 1/2*N^2 - 3/8*N^2*ep + 1/4*N^2*ep^2 + 1/8*N^2*ep^3 )
 
-       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]^2*sp[p1 - p3 - p4]*s^(-1) * ( 16*V*ep - 16*V*ep^2 )
+       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]^2*sp[p1 - p3 - p4]*s^(-1) * (  - 1/4*ep + 1/4*ep^2 + 1/4*N^2*ep - 1/4*N^2*ep^2 )
 
-       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]^2*sp[p1 - p4]*s^(-1) * (  - 8*V*ep + 8*V*ep^2 )
+       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]^2*sp[p1 - p4]*s^(-1) * ( 1/8*ep - 1/8*ep^2 - 1/8*N^2*ep + 1/8*N^2*ep^2 )
 
-       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]^2*sp[p2 - p3]*s^(-1) * ( 32*V*ep + 36*V*ep^2 + 12*V*ep^3 )
+       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]^2*sp[p2 - p3]*s^(-1) * (  - 1/2*ep - 9/16*ep^2 - 3/16*ep^3 + 1/2*N^2*ep + 9/16*N^2*ep^2 + 3/16*N^2*ep^3 )
 
-       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]^2*sp[p2 - p4]*s^(-1) * (  - 8*V*ep + 8*V*ep^2 )
+       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]^2*sp[p2 - p4]*s^(-1) * ( 1/8*ep - 1/8*ep^2 - 1/8*N^2*ep + 1/8*N^2*ep^2 )
 
-       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]*sp[p1 - p3 - p4]^2*s^(-1) * (  - 64*V*ep + 40*V*ep^2 - 8*V*ep^3 )
+       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]*sp[p1 - p3 - p4]^2*s^(-1) * ( ep - 5/8*ep^2 + 1/8*ep^3 - N^2*ep + 5/8*N^2*ep^2 - 1/8*N^2*ep^3 )
 
-       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]*sp[p1 - p4]*sp[p1 - p3 - p4]*s^(-1) * (  - 6*V*ep + 6*V*ep^2 )
+       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]*sp[p1 - p4]*sp[p1 - p3 - p4]*s^(-1) * ( 3/32*ep - 3/32*ep^2 - 3/32*N^2*ep + 3/32*N^2*ep^2 )
 
-       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]*sp[p1 - p4]^2*s^(-1) * (  - 40*V*ep + 16*V*ep^2 - 8*V*ep^3 )
+       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]*sp[p1 - p4]^2*s^(-1) * ( 5/8*ep - 1/4*ep^2 + 1/8*ep^3 - 5/8*N^2*ep + 1/4*N^2*ep^2 - 1/8*N^2*ep^3 )
 
-       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]*sp[p1 - p4]*sp[p2 - p3]*s^(-1) * (  - 12*V*ep + 12*V*ep^2 )
+       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]*sp[p1 - p4]*sp[p2 - p3]*s^(-1) * ( 3/16*ep - 3/16*ep^2 - 3/16*N^2*ep + 3/16*N^2*ep^2 )
 
-       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]*sp[p1 - p4]*sp[p2 - p4]*s^(-1) * (  - 176*V*ep - 16*V*ep^3 )
+       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]*sp[p1 - p4]*sp[p2 - p4]*s^(-1) * ( 11/4*ep + 1/4*ep^3 - 11/4*N^2*ep - 1/4*N^2*ep^3 )
 
-       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]*sp[p2 - p3]^2*s^(-1) * ( 8*V + 16*V*ep + 8*V*ep^3 )
+       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]*sp[p2 - p3]^2*s^(-1) * (  - 1/2 + 1/8*ep - 1/8*ep^3 + 1/2*N^2 - 1/8*N^2*ep + 1/8*N^2*ep^3 )
 
-       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]*sp[p2 - p3]*sp[p2 - p4]*s^(-1) * (  - 12*V*ep + 12*V*ep^2 )
+       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]*sp[p2 - p3]*sp[p2 - p4]*s^(-1) * ( 3/16*ep - 3/16*ep^2 - 3/16*N^2*ep + 3/16*N^2*ep^2 )
 
-       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]*sp[p2 - p4]*sp[p1 - p3 - p4]*s^(-1) * (  - 6*V*ep + 6*V*ep^2 )
+       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]*sp[p2 - p4]*sp[p1 - p3 - p4]*s^(-1) * ( 3/32*ep - 3/32*ep^2 - 3/32*N^2*ep + 3/32*N^2*ep^2 )
 
-       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]*sp[p2 - p4]^2*s^(-1) * (  - 40*V*ep + 16*V*ep^2 - 8*V*ep^3 )
+       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]*sp[p2 - p4]^2*s^(-1) * ( 5/8*ep - 1/4*ep^2 + 1/8*ep^3 - 5/8*N^2*ep + 1/4*N^2*ep^2 - 1/8*N^2*ep^3 )
 
-       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3 - p4]^3*s^(-1) * ( 8*V*ep - 8*V*ep^2 )
+       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3 - p4]^3*s^(-1) * (  - 1/8*ep + 1/8*ep^2 + 1/8*N^2*ep - 1/8*N^2*ep^2 )
 
-       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p1 - p4]*sp[p1 - p3 - p4]^2*s^(-1) * (  - 8*V*ep + 8*V*ep^2 )
+       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p1 - p4]*sp[p1 - p3 - p4]^2*s^(-1) * ( 1/8*ep - 1/8*ep^2 - 1/8*N^2*ep + 1/8*N^2*ep^2 )
 
-       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p1 - p4]^2*sp[p1 - p3 - p4]*s^(-1) * ( 20*V*ep - 20*V*ep^2 )
+       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p1 - p4]^2*sp[p1 - p3 - p4]*s^(-1) * (  - 9/16*ep + 9/16*ep^2 + 9/16*N^2*ep - 9/16*N^2*ep^2 )
 
-       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p1 - p4]^3*s^(-1) * ( 8*V*ep - 8*V*ep^2 )
+       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p1 - p4]^3*s^(-1) * (  - 1/8*ep + 1/8*ep^2 + 1/8*N^2*ep - 1/8*N^2*ep^2 )
 
-       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p1 - p4]^2*sp[p2 - p3]*s^(-1) * ( 20*V*ep^2 - 4*V*ep^3 )
+       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p1 - p4]^2*sp[p2 - p3]*s^(-1) * (  - 5/16*ep^2 + 1/16*ep^3 + 5/16*N^2*ep^2 - 1/16*N^2*ep^3 )
 
-       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p1 - p4]^2*sp[p2 - p4]*s^(-1) * ( 8*V*ep - 8*V*ep^2 )
+       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p1 - p4]^2*sp[p2 - p4]*s^(-1) * (  - 1/8*ep + 1/8*ep^2 + 1/8*N^2*ep - 1/8*N^2*ep^2 )
 
-       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p1 - p4]*sp[p2 - p3]*sp[p1 - p3 - p4]*s^(-1) * (  - 18*V*ep + 18*V*ep^2 )
+       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p1 - p4]*sp[p2 - p3]*sp[p1 - p3 - p4]*s^(-1) * ( 9/32*ep - 9/32*ep^2 - 9/32*N^2*ep + 9/32*N^2*ep^2 )
 
-       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p1 - p4]*sp[p2 - p3]^2*s^(-1) * (  - 8*V*ep + 8*V*ep^2 )
+       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p1 - p4]*sp[p2 - p3]^2*s^(-1) * ( 1/8*ep - 1/8*ep^2 - 1/8*N^2*ep + 1/8*N^2*ep^2 )
 
-       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p1 - p4]*sp[p2 - p3]*sp[p2 - p4]*s^(-1) * (  - 48*V*ep + 24*V*ep^2 - 8*V*ep^3 )
+       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p1 - p4]*sp[p2 - p3]*sp[p2 - p4]*s^(-1) * ( 3/4*ep - 3/8*ep^2 + 1/8*ep^3 - 3/4*N^2*ep + 3/8*N^2*ep^2 - 1/8*N^2*ep^3 )
 
-       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p1 - p4]*sp[p2 - p4]*sp[p1 - p3 - p4]*s^(-1) * ( 32*V*ep - 32*V*ep^2 )
+       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p1 - p4]*sp[p2 - p4]*sp[p1 - p3 - p4]*s^(-1) * (  - 1/2*ep + 1/2*ep^2 + 1/2*N^2*ep - 1/2*N^2*ep^2 )
 
-       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p1 - p4]*sp[p2 - p4]^2*s^(-1) * ( 8*V*ep - 8*V*ep^2 )
+       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p1 - p4]*sp[p2 - p4]^2*s^(-1) * (  - 1/8*ep + 1/8*ep^2 + 1/8*N^2*ep - 1/8*N^2*ep^2 )
 
-       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p2 - p3]*sp[p1 - p3 - p4]^2*s^(-1) * ( 8*V*ep + 12*V*ep^2 - 4*V*ep^3 )
+       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p2 - p3]*sp[p1 - p3 - p4]^2*s^(-1) * (  - 1/8*ep - 3/16*ep^2 + 1/16*ep^3 + 1/8*N^2*ep + 3/16*N^2*ep^2 - 1/16*N^2*ep^3 )
 
-       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p2 - p3]^2*sp[p1 - p3 - p4]*s^(-1) * (  - 16*V*ep + 16*V*ep^2 )
+       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p2 - p3]^2*sp[p1 - p3 - p4]*s^(-1) * ( 1/4*ep - 1/4*ep^2 - 1/4*N^2*ep + 1/4*N^2*ep^2 )
 
-       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p2 - p3]^3*s^(-1) * ( 4*V*ep - 14*V*ep^2 + 2*V*ep^3 )
+       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p2 - p3]^3*s^(-1) * (  - 1/16*ep + 7/32*ep^2 - 1/32*ep^3 + 1/16*N^2*ep - 7/32*N^2*ep^2 + 1/32*N^2*ep^3 )
 
-       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p2 - p3]^2*sp[p2 - p4]*s^(-1) * (  - 8*V*ep + 8*V*ep^2 )
+       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p2 - p3]^2*sp[p2 - p4]*s^(-1) * ( 1/8*ep - 1/8*ep^2 - 1/8*N^2*ep + 1/8*N^2*ep^2 )
 
-       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p2 - p3]*sp[p2 - p4]*sp[p1 - p3 - p4]*s^(-1) * (  - 18*V*ep + 18*V*ep^2 )
+       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p2 - p3]*sp[p2 - p4]*sp[p1 - p3 - p4]*s^(-1) * ( 9/32*ep - 9/32*ep^2 - 9/32*N^2*ep + 9/32*N^2*ep^2 )
 
-       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p2 - p3]*sp[p2 - p4]^2*s^(-1) * ( 20*V*ep^2 - 4*V*ep^3 )
+       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p2 - p3]*sp[p2 - p4]^2*s^(-1) * (  - 5/16*ep^2 + 1/16*ep^3 + 5/16*N^2*ep^2 - 1/16*N^2*ep^3 )
 
-       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p2 - p4]*sp[p1 - p3 - p4]^2*s^(-1) * (  - 8*V*ep + 8*V*ep^2 )
+       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p2 - p4]*sp[p1 - p3 - p4]^2*s^(-1) * ( 1/8*ep - 1/8*ep^2 - 1/8*N^2*ep + 1/8*N^2*ep^2 )
 
-       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p2 - p4]^2*sp[p1 - p3 - p4]*s^(-1) * ( 12*V*ep - 12*V*ep^2 )
+       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p2 - p4]^2*sp[p1 - p3 - p4]*s^(-1) * ( 1/16*ep - 1/16*ep^2 - 1/16*N^2*ep + 1/16*N^2*ep^2 )
 
-       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p2 - p4]^3*s^(-1) * ( 8*V*ep - 8*V*ep^2 )
+       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*den[sp[p2 - p3 - p4]]*sp[p2 - p4]^3*s^(-1) * (  - 1/8*ep + 1/8*ep^2 + 1/8*N^2*ep - 1/8*N^2*ep^2 )
 
-       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*sp[p1 - p3]^2*s^(-1) * ( 32*V*ep - 32*V*ep^2 )
+       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*sp[p1 - p3]^2*s^(-1) * (  - 1/2*ep + 1/2*ep^2 + 1/2*N^2*ep - 1/2*N^2*ep^2 )
 
-       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*sp[p1 - p3]*sp[p1 - p3 - p4]*s^(-1) * (  - 280*V*ep + 124*V*ep^2 - 20*V*ep^3 )
+       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*sp[p1 - p3]*sp[p1 - p3 - p4]*s^(-1) * ( 35/8*ep - 31/16*ep^2 + 5/16*ep^3 - 35/8*N^2*ep + 31/16*N^2*ep^2 - 5/16*N^2*ep^3 )
 
-       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*sp[p1 - p3]*sp[p1 - p4]*s^(-1) * (  - 24*V*ep + 24*V*ep^2 )
+       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*sp[p1 - p3]*sp[p1 - p4]*s^(-1) * ( 3/8*ep - 3/8*ep^2 - 3/8*N^2*ep + 3/8*N^2*ep^2 )
 
-       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*sp[p1 - p3]*sp[p2 - p3]*s^(-1) * ( 48*V*ep - 48*V*ep^2 )
+       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*sp[p1 - p3]*sp[p2 - p3]*s^(-1) * (  - 3/4*ep + 3/4*ep^2 + 3/4*N^2*ep - 3/4*N^2*ep^2 )
 
-       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*sp[p1 - p3]*sp[p2 - p3 - p4]*s^(-1) * (  - 128*V*ep + 80*V*ep^2 - 16*V*ep^3 )
+       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*sp[p1 - p3]*sp[p2 - p3 - p4]*s^(-1) * ( 2*ep - 5/4*ep^2 + 1/4*ep^3 - 2*N^2*ep + 5/4*N^2*ep^2 - 1/4*N^2*ep^3 )
 
-       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*sp[p1 - p3]*sp[p2 - p4]*s^(-1) * (  - 24*V*ep + 24*V*ep^2 )
+       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*sp[p1 - p3]*sp[p2 - p4]*s^(-1) * ( 3/8*ep - 3/8*ep^2 - 3/8*N^2*ep + 3/8*N^2*ep^2 )
 
-       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*sp[p1 - p3 - p4]^2*s^(-1) * ( 32*V*ep - 32*V*ep^2 )
+       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*sp[p1 - p3 - p4]^2*s^(-1) * (  - 1/2*ep + 1/2*ep^2 + 1/2*N^2*ep - 1/2*N^2*ep^2 )
 
-       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*sp[p1 - p3 - p4]*sp[p2 - p3 - p4]*s^(-1) * ( 48*V*ep - 48*V*ep^2 )
+       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*sp[p1 - p3 - p4]*sp[p2 - p3 - p4]*s^(-1) * (  - 3/4*ep + 3/4*ep^2 + 3/4*N^2*ep - 3/4*N^2*ep^2 )
 
-       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*sp[p1 - p4]*sp[p1 - p3 - p4]*s^(-1) * (  - 24*V*ep + 24*V*ep^2 )
+       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*sp[p1 - p4]*sp[p1 - p3 - p4]*s^(-1) * ( 3/8*ep - 3/8*ep^2 - 3/8*N^2*ep + 3/8*N^2*ep^2 )
 
-       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*sp[p1 - p4]^2*s^(-1) * ( 128*V*ep - 128*V*ep^2 )
+       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*sp[p1 - p4]^2*s^(-1) * (  - 2*ep + 2*ep^2 + 2*N^2*ep - 2*N^2*ep^2 )
 
-       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*sp[p1 - p4]*sp[p2 - p3]*s^(-1) * (  - 24*V*ep + 24*V*ep^2 )
+       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*sp[p1 - p4]*sp[p2 - p3]*s^(-1) * ( 3/8*ep - 3/8*ep^2 - 3/8*N^2*ep + 3/8*N^2*ep^2 )
 
-       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*sp[p1 - p4]*sp[p2 - p3 - p4]*s^(-1) * (  - 24*V*ep + 24*V*ep^2 )
+       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*sp[p1 - p4]*sp[p2 - p3 - p4]*s^(-1) * ( 3/8*ep - 3/8*ep^2 - 3/8*N^2*ep + 3/8*N^2*ep^2 )
 
-       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*sp[p1 - p4]*sp[p2 - p4]*s^(-1) * ( 256*V*ep - 256*V*ep^2 )
+       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*sp[p1 - p4]*sp[p2 - p4]*s^(-1) * (  - 4*ep + 4*ep^2 + 4*N^2*ep - 4*N^2*ep^2 )
 
-       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*sp[p2 - p3]*sp[p1 - p3 - p4]*s^(-1) * (  - 128*V*ep + 80*V*ep^2 - 16*V*ep^3 )
+       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*sp[p2 - p3]*sp[p1 - p3 - p4]*s^(-1) * ( 2*ep - 5/4*ep^2 + 1/4*ep^3 - 2*N^2*ep + 5/4*N^2*ep^2 - 1/4*N^2*ep^3 )
 
-       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*sp[p2 - p3]^2*s^(-1) * ( 32*V*ep - 32*V*ep^2 )
+       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*sp[p2 - p3]^2*s^(-1) * (  - 1/2*ep + 1/2*ep^2 + 1/2*N^2*ep - 1/2*N^2*ep^2 )
 
-       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*sp[p2 - p3]*sp[p2 - p3 - p4]*s^(-1) * (  - 280*V*ep + 124*V*ep^2 - 20*V*ep^3 )
+       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*sp[p2 - p3]*sp[p2 - p3 - p4]*s^(-1) * ( 35/8*ep - 31/16*ep^2 + 5/16*ep^3 - 35/8*N^2*ep + 31/16*N^2*ep^2 - 5/16*N^2*ep^3 )
 
-       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*sp[p2 - p3]*sp[p2 - p4]*s^(-1) * (  - 24*V*ep + 24*V*ep^2 )
+       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*sp[p2 - p3]*sp[p2 - p4]*s^(-1) * ( 3/8*ep - 3/8*ep^2 - 3/8*N^2*ep + 3/8*N^2*ep^2 )
 
-       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*sp[p2 - p3 - p4]^2*s^(-1) * ( 32*V*ep - 32*V*ep^2 )
+       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*sp[p2 - p3 - p4]^2*s^(-1) * (  - 1/2*ep + 1/2*ep^2 + 1/2*N^2*ep - 1/2*N^2*ep^2 )
 
-       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*sp[p2 - p4]*sp[p1 - p3 - p4]*s^(-1) * (  - 24*V*ep + 24*V*ep^2 )
+       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*sp[p2 - p4]*sp[p1 - p3 - p4]*s^(-1) * ( 3/8*ep - 3/8*ep^2 - 3/8*N^2*ep + 3/8*N^2*ep^2 )
 
-       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*sp[p2 - p4]*sp[p2 - p3 - p4]*s^(-1) * (  - 24*V*ep + 24*V*ep^2 )
+       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*sp[p2 - p4]*sp[p2 - p3 - p4]*s^(-1) * ( 3/8*ep - 3/8*ep^2 - 3/8*N^2*ep + 3/8*N^2*ep^2 )
 
-       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*sp[p2 - p4]^2*s^(-1) * ( 128*V*ep - 128*V*ep^2 )
+       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p3]]*sp[p2 - p4]^2*s^(-1) * (  - 2*ep + 2*ep^2 + 2*N^2*ep - 2*N^2*ep^2 )
 
-       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p1 - p3]^3*s^(-1) * ( 8*V*ep - 8*V*ep^2 )
+       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p1 - p3]^3*s^(-1) * (  - 1/8*ep + 1/8*ep^2 + 1/8*N^2*ep - 1/8*N^2*ep^2 )
 
-       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p1 - p3]^2*sp[p1 - p4]*s^(-1) * ( 20*V*ep^2 - 4*V*ep^3 )
+       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p1 - p3]^2*sp[p1 - p4]*s^(-1) * (  - 5/16*ep^2 + 1/16*ep^3 + 5/16*N^2*ep^2 - 1/16*N^2*ep^3 )
 
-       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p1 - p3]^2*sp[p2 - p3]*s^(-1) * ( 8*V*ep - 8*V*ep^2 )
+       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p1 - p3]^2*sp[p2 - p3]*s^(-1) * (  - 1/8*ep + 1/8*ep^2 + 1/8*N^2*ep - 1/8*N^2*ep^2 )
 
-       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p1 - p3]^2*sp[p2 - p3 - p4]*s^(-1) * ( 12*V*ep - 12*V*ep^2 )
+       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p1 - p3]^2*sp[p2 - p3 - p4]*s^(-1) * ( 1/16*ep - 1/16*ep^2 - 1/16*N^2*ep + 1/16*N^2*ep^2 )
 
-       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p1 - p3]^2*sp[p2 - p4]*s^(-1) * (  - 40*V*ep + 16*V*ep^2 - 8*V*ep^3 )
+       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p1 - p3]^2*sp[p2 - p4]*s^(-1) * ( 5/8*ep - 1/4*ep^2 + 1/8*ep^3 - 5/8*N^2*ep + 1/4*N^2*ep^2 - 1/8*N^2*ep^3 )
 
-       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p1 - p3]*sp[p1 - p4]^2*s^(-1) * (  - 8*V*ep + 8*V*ep^2 )
+       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p1 - p3]*sp[p1 - p4]^2*s^(-1) * ( 1/8*ep - 1/8*ep^2 - 1/8*N^2*ep + 1/8*N^2*ep^2 )
 
-       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p1 - p3]*sp[p1 - p4]*sp[p2 - p3]*s^(-1) * (  - 48*V*ep + 24*V*ep^2 - 8*V*ep^3 )
+       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p1 - p3]*sp[p1 - p4]*sp[p2 - p3]*s^(-1) * ( 3/4*ep - 3/8*ep^2 + 1/8*ep^3 - 3/4*N^2*ep + 3/8*N^2*ep^2 - 1/8*N^2*ep^3 )
 
-       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p1 - p3]*sp[p1 - p4]*sp[p2 - p3 - p4]*s^(-1) * (  - 18*V*ep + 18*V*ep^2 )
+       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p1 - p3]*sp[p1 - p4]*sp[p2 - p3 - p4]*s^(-1) * ( 9/32*ep - 9/32*ep^2 - 9/32*N^2*ep + 9/32*N^2*ep^2 )
 
-       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p1 - p3]*sp[p1 - p4]*sp[p2 - p4]*s^(-1) * (  - 12*V*ep + 12*V*ep^2 )
+       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p1 - p3]*sp[p1 - p4]*sp[p2 - p4]*s^(-1) * ( 3/16*ep - 3/16*ep^2 - 3/16*N^2*ep + 3/16*N^2*ep^2 )
 
-       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p1 - p3]*sp[p2 - p3]^2*s^(-1) * ( 8*V*ep - 8*V*ep^2 )
+       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p1 - p3]*sp[p2 - p3]^2*s^(-1) * (  - 1/8*ep + 1/8*ep^2 + 1/8*N^2*ep - 1/8*N^2*ep^2 )
 
-       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p1 - p3]*sp[p2 - p3]*sp[p2 - p3 - p4]*s^(-1) * ( 32*V*ep - 32*V*ep^2 )
+       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p1 - p3]*sp[p2 - p3]*sp[p2 - p3 - p4]*s^(-1) * (  - 1/2*ep + 1/2*ep^2 + 1/2*N^2*ep - 1/2*N^2*ep^2 )
 
-       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p1 - p3]*sp[p2 - p3]*sp[p2 - p4]*s^(-1) * (  - 176*V*ep - 16*V*ep^3 )
+       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p1 - p3]*sp[p2 - p3]*sp[p2 - p4]*s^(-1) * ( 11/4*ep + 1/4*ep^3 - 11/4*N^2*ep - 1/4*N^2*ep^3 )
 
-       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p1 - p3]*sp[p2 - p3 - p4]^2*s^(-1) * (  - 8*V*ep + 8*V*ep^2 )
+       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p1 - p3]*sp[p2 - p3 - p4]^2*s^(-1) * ( 1/8*ep - 1/8*ep^2 - 1/8*N^2*ep + 1/8*N^2*ep^2 )
 
-       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p1 - p3]*sp[p2 - p4]*sp[p2 - p3 - p4]*s^(-1) * (  - 6*V*ep + 6*V*ep^2 )
+       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p1 - p3]*sp[p2 - p4]*sp[p2 - p3 - p4]*s^(-1) * ( 3/32*ep - 3/32*ep^2 - 3/32*N^2*ep + 3/32*N^2*ep^2 )
 
-       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p1 - p3]*sp[p2 - p4]^2*s^(-1) * (  - 8*V*ep + 8*V*ep^2 )
+       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p1 - p3]*sp[p2 - p4]^2*s^(-1) * ( 1/8*ep - 1/8*ep^2 - 1/8*N^2*ep + 1/8*N^2*ep^2 )
 
-       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p1 - p4]^3*s^(-1) * ( 4*V*ep - 14*V*ep^2 + 2*V*ep^3 )
+       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p1 - p4]^3*s^(-1) * (  - 1/16*ep + 7/32*ep^2 - 1/32*ep^3 + 1/16*N^2*ep - 7/32*N^2*ep^2 + 1/32*N^2*ep^3 )
 
-       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p1 - p4]^2*sp[p2 - p3]*s^(-1) * (  - 8*V*ep + 8*V*ep^2 )
+       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p1 - p4]^2*sp[p2 - p3]*s^(-1) * ( 1/8*ep - 1/8*ep^2 - 1/8*N^2*ep + 1/8*N^2*ep^2 )
 
-       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p1 - p4]^2*sp[p2 - p3 - p4]*s^(-1) * (  - 16*V*ep + 16*V*ep^2 )
+       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p1 - p4]^2*sp[p2 - p3 - p4]*s^(-1) * ( 1/4*ep - 1/4*ep^2 - 1/4*N^2*ep + 1/4*N^2*ep^2 )
 
-       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p1 - p4]^2*sp[p2 - p4]*s^(-1) * ( 8*V + 16*V*ep + 8*V*ep^3 )
+       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p1 - p4]^2*sp[p2 - p4]*s^(-1) * (  - 1/2 + 1/8*ep - 1/8*ep^3 + 1/2*N^2 - 1/8*N^2*ep + 1/8*N^2*ep^3 )
 
-       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p1 - p4]*sp[p2 - p3]^2*s^(-1) * ( 20*V*ep^2 - 4*V*ep^3 )
+       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p1 - p4]*sp[p2 - p3]^2*s^(-1) * (  - 5/16*ep^2 + 1/16*ep^3 + 5/16*N^2*ep^2 - 1/16*N^2*ep^3 )
 
-       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p1 - p4]*sp[p2 - p3]*sp[p2 - p3 - p4]*s^(-1) * (  - 18*V*ep + 18*V*ep^2 )
+       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p1 - p4]*sp[p2 - p3]*sp[p2 - p3 - p4]*s^(-1) * ( 9/32*ep - 9/32*ep^2 - 9/32*N^2*ep + 9/32*N^2*ep^2 )
 
-       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p1 - p4]*sp[p2 - p3]*sp[p2 - p4]*s^(-1) * (  - 12*V*ep + 12*V*ep^2 )
+       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p1 - p4]*sp[p2 - p3]*sp[p2 - p4]*s^(-1) * ( 3/16*ep - 3/16*ep^2 - 3/16*N^2*ep + 3/16*N^2*ep^2 )
 
-       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p1 - p4]*sp[p2 - p3 - p4]^2*s^(-1) * ( 8*V*ep + 12*V*ep^2 - 4*V*ep^3 )
+       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p1 - p4]*sp[p2 - p3 - p4]^2*s^(-1) * (  - 1/8*ep - 3/16*ep^2 + 1/16*ep^3 + 1/8*N^2*ep + 3/16*N^2*ep^2 - 1/16*N^2*ep^3 )
 
-       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p1 - p4]*sp[p2 - p4]^2*s^(-1) * ( 32*V*ep + 36*V*ep^2 + 12*V*ep^3 )
+       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p1 - p4]*sp[p2 - p4]^2*s^(-1) * (  - 1/2*ep - 9/16*ep^2 - 3/16*ep^3 + 1/2*N^2*ep + 9/16*N^2*ep^2 + 3/16*N^2*ep^3 )
 
-       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p2 - p3]^3*s^(-1) * ( 8*V*ep - 8*V*ep^2 )
+       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p2 - p3]^3*s^(-1) * (  - 1/8*ep + 1/8*ep^2 + 1/8*N^2*ep - 1/8*N^2*ep^2 )
 
-       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p2 - p3]^2*sp[p2 - p3 - p4]*s^(-1) * ( 20*V*ep - 20*V*ep^2 )
+       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p2 - p3]^2*sp[p2 - p3 - p4]*s^(-1) * (  - 9/16*ep + 9/16*ep^2 + 9/16*N^2*ep - 9/16*N^2*ep^2 )
 
-       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p2 - p3]^2*sp[p2 - p4]*s^(-1) * (  - 40*V*ep + 16*V*ep^2 - 8*V*ep^3 )
+       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p2 - p3]^2*sp[p2 - p4]*s^(-1) * ( 5/8*ep - 1/4*ep^2 + 1/8*ep^3 - 5/8*N^2*ep + 1/4*N^2*ep^2 - 1/8*N^2*ep^3 )
 
-       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p2 - p3]*sp[p2 - p3 - p4]^2*s^(-1) * (  - 8*V*ep + 8*V*ep^2 )
+       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p2 - p3]*sp[p2 - p3 - p4]^2*s^(-1) * ( 1/8*ep - 1/8*ep^2 - 1/8*N^2*ep + 1/8*N^2*ep^2 )
 
-       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p2 - p3]*sp[p2 - p4]*sp[p2 - p3 - p4]*s^(-1) * (  - 6*V*ep + 6*V*ep^2 )
+       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p2 - p3]*sp[p2 - p4]*sp[p2 - p3 - p4]*s^(-1) * ( 3/32*ep - 3/32*ep^2 - 3/32*N^2*ep + 3/32*N^2*ep^2 )
 
-       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p2 - p3]*sp[p2 - p4]^2*s^(-1) * (  - 8*V*ep + 8*V*ep^2 )
+       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p2 - p3]*sp[p2 - p4]^2*s^(-1) * ( 1/8*ep - 1/8*ep^2 - 1/8*N^2*ep + 1/8*N^2*ep^2 )
 
-       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p2 - p3 - p4]^3*s^(-1) * ( 8*V*ep - 8*V*ep^2 )
+       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p2 - p3 - p4]^3*s^(-1) * (  - 1/8*ep + 1/8*ep^2 + 1/8*N^2*ep - 1/8*N^2*ep^2 )
 
-       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p2 - p4]*sp[p2 - p3 - p4]^2*s^(-1) * (  - 64*V*ep + 40*V*ep^2 - 8*V*ep^3 )
+       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p2 - p4]*sp[p2 - p3 - p4]^2*s^(-1) * ( ep - 5/8*ep^2 + 1/8*ep^3 - N^2*ep + 5/8*N^2*ep^2 - 1/8*N^2*ep^3 )
 
-       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p2 - p4]^2*sp[p2 - p3 - p4]*s^(-1) * ( 16*V*ep - 16*V*ep^2 )
+       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p2 - p4]^2*sp[p2 - p3 - p4]*s^(-1) * (  - 1/4*ep + 1/4*ep^2 + 1/4*N^2*ep - 1/4*N^2*ep^2 )
 
-       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p2 - p4]^3*s^(-1) * ( 8*V + 16*V*ep^2 + 8*V*ep^3 )
+       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p1 - p3 - p4]]*sp[p2 - p4]^3*s^(-1) * (  - 1/2 + 3/8*ep - 1/4*ep^2 - 1/8*ep^3 + 1/2*N^2 - 3/8*N^2*ep + 1/4*N^2*ep^2 + 1/8*N^2*ep^3 )
 
-       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]^3*s^(-1) * ( 8*V*ep - 8*V*ep^2 )
+       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]^3*s^(-1) * (  - 1/8*ep + 1/8*ep^2 + 1/8*N^2*ep - 1/8*N^2*ep^2 )
 
-       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]^2*sp[p1 - p3 - p4]*s^(-1) * ( 20*V*ep - 20*V*ep^2 )
+       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]^2*sp[p1 - p3 - p4]*s^(-1) * (  - 9/16*ep + 9/16*ep^2 + 9/16*N^2*ep - 9/16*N^2*ep^2 )
 
-       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]^2*sp[p1 - p4]*s^(-1) * (  - 40*V*ep + 16*V*ep^2 - 8*V*ep^3 )
+       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]^2*sp[p1 - p4]*s^(-1) * ( 5/8*ep - 1/4*ep^2 + 1/8*ep^3 - 5/8*N^2*ep + 1/4*N^2*ep^2 - 1/8*N^2*ep^3 )
 
-       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]^2*sp[p2 - p3]*s^(-1) * ( 8*V*ep - 8*V*ep^2 )
+       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]^2*sp[p2 - p3]*s^(-1) * (  - 1/8*ep + 1/8*ep^2 + 1/8*N^2*ep - 1/8*N^2*ep^2 )
 
-       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]^2*sp[p2 - p4]*s^(-1) * ( 20*V*ep^2 - 4*V*ep^3 )
+       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]^2*sp[p2 - p4]*s^(-1) * (  - 5/16*ep^2 + 1/16*ep^3 + 5/16*N^2*ep^2 - 1/16*N^2*ep^3 )
 
-       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]*sp[p1 - p3 - p4]^2*s^(-1) * (  - 8*V*ep + 8*V*ep^2 )
+       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]*sp[p1 - p3 - p4]^2*s^(-1) * ( 1/8*ep - 1/8*ep^2 - 1/8*N^2*ep + 1/8*N^2*ep^2 )
 
-       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]*sp[p1 - p4]*sp[p1 - p3 - p4]*s^(-1) * (  - 6*V*ep + 6*V*ep^2 )
+       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]*sp[p1 - p4]*sp[p1 - p3 - p4]*s^(-1) * ( 3/32*ep - 3/32*ep^2 - 3/32*N^2*ep + 3/32*N^2*ep^2 )
 
-       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]*sp[p1 - p4]^2*s^(-1) * (  - 8*V*ep + 8*V*ep^2 )
+       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]*sp[p1 - p4]^2*s^(-1) * ( 1/8*ep - 1/8*ep^2 - 1/8*N^2*ep + 1/8*N^2*ep^2 )
 
-       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]*sp[p1 - p4]*sp[p2 - p3]*s^(-1) * (  - 176*V*ep - 16*V*ep^3 )
+       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]*sp[p1 - p4]*sp[p2 - p3]*s^(-1) * ( 11/4*ep + 1/4*ep^3 - 11/4*N^2*ep - 1/4*N^2*ep^3 )
 
-       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]*sp[p1 - p4]*sp[p2 - p4]*s^(-1) * (  - 12*V*ep + 12*V*ep^2 )
+       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]*sp[p1 - p4]*sp[p2 - p4]*s^(-1) * ( 3/16*ep - 3/16*ep^2 - 3/16*N^2*ep + 3/16*N^2*ep^2 )
 
-       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]*sp[p2 - p3]*sp[p1 - p3 - p4]*s^(-1) * ( 32*V*ep - 32*V*ep^2 )
+       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]*sp[p2 - p3]*sp[p1 - p3 - p4]*s^(-1) * (  - 1/2*ep + 1/2*ep^2 + 1/2*N^2*ep - 1/2*N^2*ep^2 )
 
-       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]*sp[p2 - p3]^2*s^(-1) * ( 8*V*ep - 8*V*ep^2 )
+       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]*sp[p2 - p3]^2*s^(-1) * (  - 1/8*ep + 1/8*ep^2 + 1/8*N^2*ep - 1/8*N^2*ep^2 )
 
-       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]*sp[p2 - p3]*sp[p2 - p4]*s^(-1) * (  - 48*V*ep + 24*V*ep^2 - 8*V*ep^3 )
+       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]*sp[p2 - p3]*sp[p2 - p4]*s^(-1) * ( 3/4*ep - 3/8*ep^2 + 1/8*ep^3 - 3/4*N^2*ep + 3/8*N^2*ep^2 - 1/8*N^2*ep^3 )
 
-       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]*sp[p2 - p4]*sp[p1 - p3 - p4]*s^(-1) * (  - 18*V*ep + 18*V*ep^2 )
+       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]*sp[p2 - p4]*sp[p1 - p3 - p4]*s^(-1) * ( 9/32*ep - 9/32*ep^2 - 9/32*N^2*ep + 9/32*N^2*ep^2 )
 
-       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]*sp[p2 - p4]^2*s^(-1) * (  - 8*V*ep + 8*V*ep^2 )
+       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]*sp[p2 - p4]^2*s^(-1) * ( 1/8*ep - 1/8*ep^2 - 1/8*N^2*ep + 1/8*N^2*ep^2 )
 
-       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3 - p4]^3*s^(-1) * ( 8*V*ep - 8*V*ep^2 )
+       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3 - p4]^3*s^(-1) * (  - 1/8*ep + 1/8*ep^2 + 1/8*N^2*ep - 1/8*N^2*ep^2 )
 
-       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p4]*sp[p1 - p3 - p4]^2*s^(-1) * (  - 64*V*ep + 40*V*ep^2 - 8*V*ep^3 )
+       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p4]*sp[p1 - p3 - p4]^2*s^(-1) * ( ep - 5/8*ep^2 + 1/8*ep^3 - N^2*ep + 5/8*N^2*ep^2 - 1/8*N^2*ep^3 )
 
-       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p4]^2*sp[p1 - p3 - p4]*s^(-1) * ( 16*V*ep - 16*V*ep^2 )
+       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p4]^2*sp[p1 - p3 - p4]*s^(-1) * (  - 1/4*ep + 1/4*ep^2 + 1/4*N^2*ep - 1/4*N^2*ep^2 )
 
-       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p4]^3*s^(-1) * ( 8*V + 16*V*ep^2 + 8*V*ep^3 )
+       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p4]^3*s^(-1) * (  - 1/2 + 3/8*ep - 1/4*ep^2 - 1/8*ep^3 + 1/2*N^2 - 3/8*N^2*ep + 1/4*N^2*ep^2 + 1/8*N^2*ep^3 )
 
-       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p4]^2*sp[p2 - p3]*s^(-1) * (  - 8*V*ep + 8*V*ep^2 )
+       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p4]^2*sp[p2 - p3]*s^(-1) * ( 1/8*ep - 1/8*ep^2 - 1/8*N^2*ep + 1/8*N^2*ep^2 )
 
-       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p4]^2*sp[p2 - p4]*s^(-1) * ( 32*V*ep + 36*V*ep^2 + 12*V*ep^3 )
+       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p4]^2*sp[p2 - p4]*s^(-1) * (  - 1/2*ep - 9/16*ep^2 - 3/16*ep^3 + 1/2*N^2*ep + 9/16*N^2*ep^2 + 3/16*N^2*ep^3 )
 
-       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p4]*sp[p2 - p3]*sp[p1 - p3 - p4]*s^(-1) * (  - 6*V*ep + 6*V*ep^2 )
+       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p4]*sp[p2 - p3]*sp[p1 - p3 - p4]*s^(-1) * ( 3/32*ep - 3/32*ep^2 - 3/32*N^2*ep + 3/32*N^2*ep^2 )
 
-       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p4]*sp[p2 - p3]^2*s^(-1) * (  - 40*V*ep + 16*V*ep^2 - 8*V*ep^3 )
+       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p4]*sp[p2 - p3]^2*s^(-1) * ( 5/8*ep - 1/4*ep^2 + 1/8*ep^3 - 5/8*N^2*ep + 1/4*N^2*ep^2 - 1/8*N^2*ep^3 )
 
-       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p4]*sp[p2 - p3]*sp[p2 - p4]*s^(-1) * (  - 12*V*ep + 12*V*ep^2 )
+       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p4]*sp[p2 - p3]*sp[p2 - p4]*s^(-1) * ( 3/16*ep - 3/16*ep^2 - 3/16*N^2*ep + 3/16*N^2*ep^2 )
 
-       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p4]*sp[p2 - p4]^2*s^(-1) * ( 8*V + 16*V*ep + 8*V*ep^3 )
+       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p4]*sp[p2 - p4]^2*s^(-1) * (  - 1/2 + 1/8*ep - 1/8*ep^3 + 1/2*N^2 - 1/8*N^2*ep + 1/8*N^2*ep^3 )
 
-       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p2 - p3]*sp[p1 - p3 - p4]^2*s^(-1) * (  - 8*V*ep + 8*V*ep^2 )
+       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p2 - p3]*sp[p1 - p3 - p4]^2*s^(-1) * ( 1/8*ep - 1/8*ep^2 - 1/8*N^2*ep + 1/8*N^2*ep^2 )
 
-       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p2 - p3]^2*sp[p1 - p3 - p4]*s^(-1) * ( 12*V*ep - 12*V*ep^2 )
+       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p2 - p3]^2*sp[p1 - p3 - p4]*s^(-1) * ( 1/16*ep - 1/16*ep^2 - 1/16*N^2*ep + 1/16*N^2*ep^2 )
 
-       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p2 - p3]^3*s^(-1) * ( 8*V*ep - 8*V*ep^2 )
+       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p2 - p3]^3*s^(-1) * (  - 1/8*ep + 1/8*ep^2 + 1/8*N^2*ep - 1/8*N^2*ep^2 )
 
-       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p2 - p3]^2*sp[p2 - p4]*s^(-1) * ( 20*V*ep^2 - 4*V*ep^3 )
+       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p2 - p3]^2*sp[p2 - p4]*s^(-1) * (  - 5/16*ep^2 + 1/16*ep^3 + 5/16*N^2*ep^2 - 1/16*N^2*ep^3 )
 
-       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p2 - p3]*sp[p2 - p4]*sp[p1 - p3 - p4]*s^(-1) * (  - 18*V*ep + 18*V*ep^2 )
+       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p2 - p3]*sp[p2 - p4]*sp[p1 - p3 - p4]*s^(-1) * ( 9/32*ep - 9/32*ep^2 - 9/32*N^2*ep + 9/32*N^2*ep^2 )
 
-       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p2 - p3]*sp[p2 - p4]^2*s^(-1) * (  - 8*V*ep + 8*V*ep^2 )
+       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p2 - p3]*sp[p2 - p4]^2*s^(-1) * ( 1/8*ep - 1/8*ep^2 - 1/8*N^2*ep + 1/8*N^2*ep^2 )
 
-       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p2 - p4]*sp[p1 - p3 - p4]^2*s^(-1) * ( 8*V*ep + 12*V*ep^2 - 4*V*ep^3 )
+       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p2 - p4]*sp[p1 - p3 - p4]^2*s^(-1) * (  - 1/8*ep - 3/16*ep^2 + 1/16*ep^3 + 1/8*N^2*ep + 3/16*N^2*ep^2 - 1/16*N^2*ep^3 )
 
-       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p2 - p4]^2*sp[p1 - p3 - p4]*s^(-1) * (  - 16*V*ep + 16*V*ep^2 )
+       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p2 - p4]^2*sp[p1 - p3 - p4]*s^(-1) * ( 1/4*ep - 1/4*ep^2 - 1/4*N^2*ep + 1/4*N^2*ep^2 )
 
-       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p2 - p4]^3*s^(-1) * ( 4*V*ep - 14*V*ep^2 + 2*V*ep^3 )
+       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*den[sp[p2 - p3 - p4]]*sp[p2 - p4]^3*s^(-1) * (  - 1/16*ep + 7/32*ep^2 - 1/32*ep^3 + 1/16*N^2*ep - 7/32*N^2*ep^2 + 1/32*N^2*ep^3 )
 
-       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]^2*s^(-1) * ( 128*V*ep - 128*V*ep^2 )
+       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]^2*s^(-1) * (  - 2*ep + 2*ep^2 + 2*N^2*ep - 2*N^2*ep^2 )
 
-       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]*sp[p1 - p3 - p4]*s^(-1) * (  - 24*V*ep + 24*V*ep^2 )
+       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]*sp[p1 - p3 - p4]*s^(-1) * ( 3/8*ep - 3/8*ep^2 - 3/8*N^2*ep + 3/8*N^2*ep^2 )
 
-       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]*sp[p1 - p4]*s^(-1) * (  - 24*V*ep + 24*V*ep^2 )
+       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]*sp[p1 - p4]*s^(-1) * ( 3/8*ep - 3/8*ep^2 - 3/8*N^2*ep + 3/8*N^2*ep^2 )
 
-       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]*sp[p2 - p3]*s^(-1) * ( 256*V*ep - 256*V*ep^2 )
+       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]*sp[p2 - p3]*s^(-1) * (  - 4*ep + 4*ep^2 + 4*N^2*ep - 4*N^2*ep^2 )
 
-       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]*sp[p2 - p3 - p4]*s^(-1) * (  - 24*V*ep + 24*V*ep^2 )
+       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]*sp[p2 - p3 - p4]*s^(-1) * ( 3/8*ep - 3/8*ep^2 - 3/8*N^2*ep + 3/8*N^2*ep^2 )
 
-       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]*sp[p2 - p4]*s^(-1) * (  - 24*V*ep + 24*V*ep^2 )
+       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3]*sp[p2 - p4]*s^(-1) * ( 3/8*ep - 3/8*ep^2 - 3/8*N^2*ep + 3/8*N^2*ep^2 )
 
-       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3 - p4]^2*s^(-1) * ( 32*V*ep - 32*V*ep^2 )
+       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3 - p4]^2*s^(-1) * (  - 1/2*ep + 1/2*ep^2 + 1/2*N^2*ep - 1/2*N^2*ep^2 )
 
-       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3 - p4]*sp[p2 - p3 - p4]*s^(-1) * ( 48*V*ep - 48*V*ep^2 )
+       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*sp[p1 - p3 - p4]*sp[p2 - p3 - p4]*s^(-1) * (  - 3/4*ep + 3/4*ep^2 + 3/4*N^2*ep - 3/4*N^2*ep^2 )
 
-       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*sp[p1 - p4]*sp[p1 - p3 - p4]*s^(-1) * (  - 280*V*ep + 124*V*ep^2 - 20*V*ep^3 )
+       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*sp[p1 - p4]*sp[p1 - p3 - p4]*s^(-1) * ( 35/8*ep - 31/16*ep^2 + 5/16*ep^3 - 35/8*N^2*ep + 31/16*N^2*ep^2 - 5/16*N^2*ep^3 )
 
-       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*sp[p1 - p4]^2*s^(-1) * ( 32*V*ep - 32*V*ep^2 )
+       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*sp[p1 - p4]^2*s^(-1) * (  - 1/2*ep + 1/2*ep^2 + 1/2*N^2*ep - 1/2*N^2*ep^2 )
 
-       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*sp[p1 - p4]*sp[p2 - p3]*s^(-1) * (  - 24*V*ep + 24*V*ep^2 )
+       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*sp[p1 - p4]*sp[p2 - p3]*s^(-1) * ( 3/8*ep - 3/8*ep^2 - 3/8*N^2*ep + 3/8*N^2*ep^2 )
 
-       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*sp[p1 - p4]*sp[p2 - p3 - p4]*s^(-1) * (  - 128*V*ep + 80*V*ep^2 - 16*V*ep^3 )
+       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*sp[p1 - p4]*sp[p2 - p3 - p4]*s^(-1) * ( 2*ep - 5/4*ep^2 + 1/4*ep^3 - 2*N^2*ep + 5/4*N^2*ep^2 - 1/4*N^2*ep^3 )
 
-       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*sp[p1 - p4]*sp[p2 - p4]*s^(-1) * ( 48*V*ep - 48*V*ep^2 )
+       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*sp[p1 - p4]*sp[p2 - p4]*s^(-1) * (  - 3/4*ep + 3/4*ep^2 + 3/4*N^2*ep - 3/4*N^2*ep^2 )
 
-       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*sp[p2 - p3]*sp[p1 - p3 - p4]*s^(-1) * (  - 24*V*ep + 24*V*ep^2 )
+       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*sp[p2 - p3]*sp[p1 - p3 - p4]*s^(-1) * ( 3/8*ep - 3/8*ep^2 - 3/8*N^2*ep + 3/8*N^2*ep^2 )
 
-       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*sp[p2 - p3]^2*s^(-1) * ( 128*V*ep - 128*V*ep^2 )
+       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*sp[p2 - p3]^2*s^(-1) * (  - 2*ep + 2*ep^2 + 2*N^2*ep - 2*N^2*ep^2 )
 
-       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*sp[p2 - p3]*sp[p2 - p3 - p4]*s^(-1) * (  - 24*V*ep + 24*V*ep^2 )
+       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*sp[p2 - p3]*sp[p2 - p3 - p4]*s^(-1) * ( 3/8*ep - 3/8*ep^2 - 3/8*N^2*ep + 3/8*N^2*ep^2 )
 
-       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*sp[p2 - p3]*sp[p2 - p4]*s^(-1) * (  - 24*V*ep + 24*V*ep^2 )
+       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*sp[p2 - p3]*sp[p2 - p4]*s^(-1) * ( 3/8*ep - 3/8*ep^2 - 3/8*N^2*ep + 3/8*N^2*ep^2 )
 
-       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*sp[p2 - p3 - p4]^2*s^(-1) * ( 32*V*ep - 32*V*ep^2 )
+       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*sp[p2 - p3 - p4]^2*s^(-1) * (  - 1/2*ep + 1/2*ep^2 + 1/2*N^2*ep - 1/2*N^2*ep^2 )
 
-       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*sp[p2 - p4]*sp[p1 - p3 - p4]*s^(-1) * (  - 128*V*ep + 80*V*ep^2 - 16*V*ep^3 )
+       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*sp[p2 - p4]*sp[p1 - p3 - p4]*s^(-1) * ( 2*ep - 5/4*ep^2 + 1/4*ep^3 - 2*N^2*ep + 5/4*N^2*ep^2 - 1/4*N^2*ep^3 )
 
-       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*sp[p2 - p4]*sp[p2 - p3 - p4]*s^(-1) * (  - 280*V*ep + 124*V*ep^2 - 20*V*ep^3 )
+       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*sp[p2 - p4]*sp[p2 - p3 - p4]*s^(-1) * ( 35/8*ep - 31/16*ep^2 + 5/16*ep^3 - 35/8*N^2*ep + 31/16*N^2*ep^2 - 5/16*N^2*ep^3 )
 
-       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*sp[p2 - p4]^2*s^(-1) * ( 32*V*ep - 32*V*ep^2 )
+       + den[sp[p3 + p4]]*den[sp[p1 + p2 - p4]]*sp[p2 - p4]^2*s^(-1) * (  - 1/2*ep + 1/2*ep^2 + 1/2*N^2*ep - 1/2*N^2*ep^2 )
 
-       + den[sp[p3 + p4]]*den[sp[p1 - p3 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]*sp[p2 - p4] * ( 8*N^(-2)*V*ep - 8*N^(-2)*V*ep^2 )
+       + den[sp[p3 + p4]]*den[sp[p1 - p3 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p3]*sp[p2 - p4] * (  - 2*N^(-2)*ep + 2*N^(-2)*ep^2 + 2*ep - 2*ep^2 )
 
-       + den[sp[p3 + p4]]*den[sp[p1 - p3 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p4]*sp[p2 - p3] * ( 8*N^(-2)*V*ep - 8*N^(-2)*V*ep^2 )
+       + den[sp[p3 + p4]]*den[sp[p1 - p3 - p4]]*den[sp[p2 - p3 - p4]]*sp[p1 - p4]*sp[p2 - p3] * (  - 2*N^(-2)*ep + 2*N^(-2)*ep^2 + 2*ep - 2*ep^2 )
 
-       + den[sp[p3 + p4]] * ( 32*N^(-2)*V*ep + 16*N^(-2)*V*ep^2 + 16*N^(-2)*V*ep^3 ))
+       + den[sp[p3 + p4]] * (  - 2*N^(-2)*ep - N^(-2)*ep^2 - N^(-2)*ep^3 + 2*ep + ep^2 + ep^3 ))

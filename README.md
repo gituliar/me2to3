@@ -1,4 +1,5 @@
-Created by Oleksandr Gituliar 2017-01-27
+Author: Oleksandr Gituliar <oleksandr@gituliar.net>
+Last modified: 2017-02-02
 
 This directory contains QCD squared matrix elements for 2 → 3 processes.
 It is assumed that
