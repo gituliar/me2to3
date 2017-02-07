@@ -6,5 +6,8 @@ $(process):
 	form -q -D $@ me2to3.frm
 	@mv me2to3.temp.m $@.m
 
+check:
+	./bin/compare.ms qg2qgg.m qg2qgg.dat
+
 clean:
 	rm *.m
